@@ -1,0 +1,83 @@
+site_name: 战术小队中文维基
+site_author: Squad-CN-Wiki
+copyright: "Copyright &copy; Squad-CN-Wiki"
+
+nav:
+  - "简介": "./index.md"
+  - "游戏模式": 
+    - "游戏模式简介": "./gamemode/index.md"
+    - "AAS | 攻守有序": "./gamemode/AAS.md"
+    - "Destruction | 摧毁": "./gamemode/Destruction.md"
+    - "Insurgency | 叛乱": "./gamemode/Insurgency.md"
+    - "Invasion | 侵攻": "./gamemode/Invasion.md"
+    - "RAAS | 随机攻守": "./gamemode/RAAS.md"
+    - "Seed | 暖服": "./gamemode/Seed.md"
+    - "Skirmish | 遭遇战": "./gamemode/Skirmish.md"
+    - "Tanks | 载具大战": "./gamemode/Tanks.md"
+    - "TA | 精准打击": "./gamemode/TA.md"
+    - "TC | 领土控制": "./gamemode/TC.md"
+    - "Training | 训练": "./gamemode/Training.md"
+  - "地图信息":
+    - "地图信息简介": "./maps/index.md"
+    - "Al Basrah | 巴士拉": "./maps/Al_Basrah.md"
+    - "Anvil | 铁砧": "./maps/Anvil.md"
+    - "Belaya Pass | 贝拉亚山口": "./maps/Belaya_Pass.md"
+    - "Black Coast | 黑色海岸": "./maps/Black_Coast.md"
+    - "Chora | 乔拉": "./maps/Chora.md"
+    - "Fallujah | 费卢杰": "./maps/Fallujah.md"
+    - "Fool's Road | 傻瓜之路": "./maps/Fools_Road.md"
+    - "Goose Bay | 鹅湾": "./maps/Goose_Bay.md"
+    - "Gorodok | 格鲁多克": "./maps/Gorodok.md"
+    - "Jensen's Range | 延森训练场": "./maps/Jensens_Range.md"
+    - "Kamdesh Highlands | 卡姆德什高地": "./maps/Kamdesh_Highlands.md"
+    - "Kohat Toi | 科哈特": "./maps/Kohat_Toi.md"
+    - "Kokan | 寇坎": "./maps/Kokan.md"
+    - "Lashkar Valley | 拉什卡谷": "./maps/Lashkar_Valley.md"
+    - "Logar Valley | 罗杰尔谷": "./maps/Logar_Valley.md"
+    - "Manic-5 | 马尼克大坝": "./maps/Manic-5.md"
+    - "Mestia | 梅斯提亚": "./maps/Mestia.md"
+    - "Mutaha | 穆塔哈": "./maps/Mutaha.md"
+    - "Narva | 纳尔瓦": "./maps/Narva.md"
+    - "Pacific Proving Grounds | 太平洋训练场": "./maps/Pacific_Proving_Grounds.md"
+    - "Skorpo | 斯科珀": "./maps/Skorpo.md"
+    - "Sumari Bala | 索马里": "./maps/Sumari_Bala.md"
+    - "Tallil Outskirts | 塔利尔郊区": "./maps/Tallil_Outskirts.md"
+    - "Yehorivka | 叶霍里符卡": "./maps/Yehorivka.md"
+  - "致谢": "./thanks/index.md"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - toc.integrate
+    - tabs: true
+  palette:
+    primary: cyan
+    accent: teal
+  static_templates:
+    - 404.html
+  language: 'zh'
+  font: 'Fira Sans'
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  plugins:
+    - search:
+        lang: en
