@@ -47,6 +47,7 @@ nav:
     - "Training | 训练": "./Gamemode/Training.md"
   - "地图手册":
     - "地图手册": "./Map/index.md"
+    - "暖服推荐": "./Map/Seeding.md"
     - "Al Basrah | 巴士拉": "./Map/Al_Basrah.md"
     - "Anvil | 铁砧": "./Map/Anvil.md"
     - "Belaya Pass | 贝拉亚山口": "./Map/Belaya_Pass.md"
