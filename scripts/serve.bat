@@ -1,0 +1,3 @@
+cd ../
+mkdocs serve
+pause

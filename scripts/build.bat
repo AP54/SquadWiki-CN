@@ -1,0 +1,3 @@
+cd ../
+mkdocs build
+pause

@@ -1,0 +1,169 @@
+site_name: SQUAD战术小队中文维基
+site_author: Squad-CN-Wiki
+copyright: "Copyright &copy; 2022 Squad-CN-Wiki Team"
+repo_url: https://github.com/AP54/SquadWiki-CN
+edit_uri: edit/main/docs/
+
+nav:
+  - "Getting Started": "./index.md" 
+  - "萌新入门":
+    - "萌新入门速成课": "./Beginner/index.md"
+    - "第一目 设置和UI": "./Beginner/Chapter_1.md"
+    - "第二目 特装和武器": "./Beginner/Chapter_2.md"
+    - "第三目 团队和社区": "./Beginner/Chapter_3.md"
+    - "第四目 战斗技巧": "./Beginner/Chapter_4.md"
+    - "第五目 载具识别": "./Beginner/Chapter_5.md"
+    - "第六目 索敌技巧": "./Beginner/Chapter_6.md"
+    - "第七目 规则和模式": "./Beginner/Chapter_7.md"
+    
+  - "进阶教学":
+    - "进阶教学专栏目录": "./Course/index.md"
+    - "队长指挥技术":
+      - "请求火力支援": "./Course/Request_Fire_Support.md"
+  # - "兵种配置": 
+  #   - "兵种配置概览": "./Kit/index.md"
+  # - "武器信息":
+  #   - "武器总览": "./Weapon/index.md"
+  #   - "AK-74M": "./Weapon/AK-74M.md"
+  #   - "GP-25": "./Weapon/GP-25.md"
+  #   - "RPK-74M": "./Weapon/RPK-74M.md"
+  #   - "SVDM": "./Weapon/SVDM.md"
+  # - "载具数据":
+  #   - "载具简介": "./Vehicle/index.md"
+  # - "阵营详情":
+  #   - "阵营简介": "./Faction/index.md"
+  - "模式规则": 
+    - "模式简介": "./Gamemode/index.md"
+    - "AAS | 攻守有序": "./Gamemode/AAS.md"
+    - "Destruction | 摧毁": "./Gamemode/Destruction.md"
+    - "Insurgency | 叛乱": "./Gamemode/Insurgency.md"
+    - "Invasion | 侵攻": "./Gamemode/Invasion.md"
+    - "RAAS | 随机攻守": "./Gamemode/RAAS.md"
+    - "Seed | 暖服": "./Gamemode/Seed.md"
+    - "Skirmish | 遭遇战": "./Gamemode/Skirmish.md"
+    - "Tanks | 载具大战": "./Gamemode/Tanks.md"
+    - "TA | 精准打击": "./Gamemode/TA.md"
+    - "TC | 领土控制": "./Gamemode/TC.md"
+    - "Training | 训练": "./Gamemode/Training.md"
+  - "地图手册":
+    - "地图手册": "./Map/index.md"
+    - "Al Basrah | 巴士拉": "./Map/Al_Basrah.md"
+    - "Anvil | 铁砧": "./Map/Anvil.md"
+    - "Belaya Pass | 贝拉亚山口": "./Map/Belaya_Pass.md"
+    - "Black Coast | 黑色海岸": "./Map/Black_Coast.md"
+    - "Chora | 乔拉": "./Map/Chora.md"
+    - "Fallujah | 费卢杰": "./Map/Fallujah.md"
+    - "Fool's Road | 傻瓜之路": "./Map/Fools_Road.md"
+    - "Goose Bay | 鹅湾": "./Map/Goose_Bay.md"
+    - "Gorodok | 格鲁多克": "./Map/Gorodok.md"
+    - "Jensen's Range | 延森训练场": "./Map/Jensens_Range.md"
+    - "Kamdesh Highlands | 卡姆德什高地": "./Map/Kamdesh_Highlands.md"
+    - "Kohat Toi | 科哈特": "./Map/Kohat_Toi.md"
+    - "Kokan | 寇坎": "./Map/Kokan.md"
+    - "Lashkar Valley | 拉什卡谷": "./Map/Lashkar_Valley.md"
+    - "Logar Valley | 罗杰尔谷": "./Map/Logar_Valley.md"
+    - "Manic-5 | 马尼克大坝": "./Map/Manic-5.md"
+    - "Mestia | 梅斯提亚": "./Map/Mestia.md"
+    - "Mutaha | 穆塔哈": "./Map/Mutaha.md"
+    - "Narva | 纳尔瓦": "./Map/Narva.md"
+    - "Pacific Proving Grounds | 太平洋训练场": "./Map/Pacific_Proving_Grounds.md"
+    - "Skorpo | 斯科珀": "./Map/Skorpo.md"
+    - "Sumari Bala | 索马里": "./Map/Sumari_Bala.md"
+    - "Tallil Outskirts | 塔利尔郊区": "./Map/Tallil_Outskirts.md"
+    - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
+  - "控制命令":
+    - "控制命令简介": "./Command/index.md"
+    - "公共命令": "./Command/Public.md"
+    - "管理命令": "./Command/Admin.md"
+    - "摄影命令": "./Command/Camera.md"
+    - "载具生成命令": "./Command/Vehicle.md"
+    - "部署物生成命令": "./Command/Deployable.md"
+  - "入驻组织":
+    - "入驻组织列表": "./Union/index.md"
+    - "[BY] 北域学院": "./Union/BY/index.md"
+    - "[CHPD] 修仙公会": "./Union/CHPD/index.md"
+    - "[DRN] 龙城战队": "./Union/DRN/index.md"
+    - "[MAG] MAG社团": "./Union/MAG/index.md"
+    - "[NMB] 北急熊战队": "./Union/NMB/index.md"
+    # - "[ORGC] 橘色猫猫虫": "./Union/ORGC/index.md"
+    # - "[PSP]": "./Union/PSP/index.md"
+    - "[77] 萌新兄弟连": "./Union/77/index.md"
+  # - "加盟创作":
+    # - "加盟创作者列表": "./Creator/index.md"
+  # - "SquadSDK":
+    # - "SquadSDK": "./SDK/index.md"
+  - "关于":
+    - "关于本项目": "./Intro/About.md"
+    - "投喂": "./Intro/Support.md"
+    - "致谢": "./Intro/Thanks.md"
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - tabs: true
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  static_templates:
+    - 404.html
+  language: 'zh'
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+    repo: fontawesome/brands/github
+  logo: logo/SQ_200_200.png
+  favicon: logo/SQ_200_200.png
+  plugins:
+    - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+    - search:
+        lang: jp
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - Scripts/JavaScripts/tablesort.js
+
+# extra_css:
+#   - Scripts/CSS/background.css
