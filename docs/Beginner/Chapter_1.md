@@ -2,17 +2,50 @@
 
 > 视频作者：橘猫大尉
 
-> 文章作者：桀氓AlbertWensley
+> 文章作者：桀氓AlbertWensley, 
 
 <iframe src="//player.bilibili.com/player.html?aid=894865952&bvid=BV1bP4y1u7Rc&cid=550957982&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 设置
 
+此处仅提供画面设置中各项设置内容的汉化，具体调节请参看视频。
+
+|设置项|翻译|
+|:-----------------:|:-------------------:|
+|窗口模式|窗口模式|
+|分辨率|分辨率|
+|RESOLUTION SCALE|分辨率比例|
+|垂直同步|垂直同步|
+|MAX FPS(MENU)|最大帧数（主菜单）|
+|MAX FPS(IN-GAME)|最大帧数（游戏内）|
+|视效质量|视效质量|
+|ANTIALIASING|抗锯齿|
+|AA QUALITY|抗锯齿质量|
+|AA SAMPLES|抗锯齿采样倍率|
+|SHADOW|阴影|
+|CONTACT SHADOWS|短距离阴影|
+|FAR SHADOWS|长距离阴影|
+|TEXTURES QUALITY|纹理质量|
+|ANISOTROPIC FILTERING|各项异性过滤|
+|TEXTURE POOL VRAM USAGE|纹理显存占用|
+|PARTICLE QUALITY|粒子质量|
+|AMBIENT OCCLUSION|环境光遮蔽|
+|AO QUALITY|环境光遮蔽质量|
+|SCREEN SPACE AO|荧幕空间环境光遮蔽|
+|POST PROCESSING|后处理|
+|POST PROCESSING|后处理品质|
+|LENS FLARES|镜头光晕|
+|动态模糊|动态模糊|
+|屏幕锐化|屏幕锐化|
+|BRIGHTNESS|亮度|
+|CONTRAST|对比度|
+|SATURATION|色彩饱和度|
+
 ## UI
 
 ### 主页面
 
-=== "服务器列表"
+=== "服务器浏览器"
 
     这个界面列出了所以可被搜索到的 Squad 认证服务器（俗称“正式服”），也是我们平常进入服务器的入口。
 
