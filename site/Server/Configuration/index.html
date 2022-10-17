@@ -1579,6 +1579,129 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adminscfg" class="md-nav__link">
+    Admins.cfg
+  </a>
+  
+    <nav class="md-nav" aria-label="Admins.cfg">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    管理员权限组
+  </a>
+  
+    <nav class="md-nav" aria-label="管理员权限组">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    格式
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    示例
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    解释
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    管理员
+  </a>
+  
+    <nav class="md-nav" aria-label="管理员">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    格式
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    示例
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    解释
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#banscfg" class="md-nav__link">
+    Bans.cfg
+  </a>
+  
+    <nav class="md-nav" aria-label="Bans.cfg">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    格式
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    示例
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    解释
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1596,6 +1719,234 @@
 
 
 <h1 id="_1">服务器配置</h1>
+<blockquote>
+<p>文章作者：桀氓AlbertWensley</p>
+</blockquote>
+<p>本文将详细介绍 Squad 服务器的安装流程。</p>
+<p>如果 Squad 服务端已经正确安装在了服务器上，那么配置文件应当位于以下位置：</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>.
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>└── SquadGame
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>    └── ServerConfig
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>        ├── Admins.cfg
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>        ├── Bans.cfg
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>        ├── CustomOptions.cfg
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>        ├── ExcludedFaction.cfg
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>        ├── ExcludedFactionSetups.cfg
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>        ├── ExcludedLayers.cfg
+<a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a>        ├── ExcludedLevels.cfg
+<a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a>        ├── LayerRotation.cfg
+<a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a>        ├── LevelRotation.cfg
+<a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a>        ├── License.cfg
+<a id="__codelineno-0-14" name="__codelineno-0-14" href="#__codelineno-0-14"></a>        ├── MOTD.cfg
+<a id="__codelineno-0-15" name="__codelineno-0-15" href="#__codelineno-0-15"></a>        ├── Rcon.cfg
+<a id="__codelineno-0-16" name="__codelineno-0-16" href="#__codelineno-0-16"></a>        ├── RemoteAdminListHosts.cfg
+<a id="__codelineno-0-17" name="__codelineno-0-17" href="#__codelineno-0-17"></a>        ├── RemoteBanListHosts.cfg
+<a id="__codelineno-0-18" name="__codelineno-0-18" href="#__codelineno-0-18"></a>        ├── Server.cfg
+<a id="__codelineno-0-19" name="__codelineno-0-19" href="#__codelineno-0-19"></a>        ├── ServerMessages.cfg
+<a id="__codelineno-0-20" name="__codelineno-0-20" href="#__codelineno-0-20"></a>        └── VoteConfig.cfg
+</code></pre></div>
+<h2 id="adminscfg">Admins.cfg</h2>
+<p>此文件用于配置服务器管理员，对其的修改会在下一场游戏开始后生效。</p>
+<div class="highlight"><table class="highlighttable"><tr><th colspan="2" class="filename"><span class="filename">默认配置</span></th></tr><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-1-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-1-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-1-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-1-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-1-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-1-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-1-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-1-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-1-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-1-10">10</a></span>
+<span class="normal"><a href="#__codelineno-1-11">11</a></span>
+<span class="normal"><a href="#__codelineno-1-12">12</a></span>
+<span class="normal"><a href="#__codelineno-1-13">13</a></span>
+<span class="normal"><a href="#__codelineno-1-14">14</a></span>
+<span class="normal"><a href="#__codelineno-1-15">15</a></span>
+<span class="normal"><a href="#__codelineno-1-16">16</a></span>
+<span class="normal"><a href="#__codelineno-1-17">17</a></span>
+<span class="normal"><a href="#__codelineno-1-18">18</a></span>
+<span class="normal"><a href="#__codelineno-1-19">19</a></span>
+<span class="normal"><a href="#__codelineno-1-20">20</a></span>
+<span class="normal"><a href="#__codelineno-1-21">21</a></span>
+<span class="normal"><a href="#__codelineno-1-22">22</a></span>
+<span class="normal"><a href="#__codelineno-1-23">23</a></span>
+<span class="normal"><a href="#__codelineno-1-24">24</a></span>
+<span class="normal"><a href="#__codelineno-1-25">25</a></span>
+<span class="normal"><a href="#__codelineno-1-26">26</a></span>
+<span class="normal"><a href="#__codelineno-1-27">27</a></span>
+<span class="normal"><a href="#__codelineno-1-28">28</a></span>
+<span class="normal"><a href="#__codelineno-1-29">29</a></span>
+<span class="normal"><a href="#__codelineno-1-30">30</a></span>
+<span class="normal"><a href="#__codelineno-1-31">31</a></span>
+<span class="normal"><a href="#__codelineno-1-32">32</a></span>
+<span class="normal"><a href="#__codelineno-1-33">33</a></span>
+<span class="normal"><a href="#__codelineno-1-34">34</a></span>
+<span class="normal"><a href="#__codelineno-1-35">35</a></span>
+<span class="normal"><a href="#__codelineno-1-36">36</a></span>
+<span class="normal"><a href="#__codelineno-1-37">37</a></span>
+<span class="normal"><a href="#__codelineno-1-38">38</a></span>
+<span class="normal"><a href="#__codelineno-1-39">39</a></span>
+<span class="normal"><a href="#__codelineno-1-40">40</a></span>
+<span class="normal"><a href="#__codelineno-1-41">41</a></span>
+<span class="normal"><a href="#__codelineno-1-42">42</a></span>
+<span class="normal"><a href="#__codelineno-1-43">43</a></span>
+<span class="normal"><a href="#__codelineno-1-44">44</a></span>
+<span class="normal"><a href="#__codelineno-1-45">45</a></span>
+<span class="normal"><a href="#__codelineno-1-46">46</a></span>
+<span class="normal"><a href="#__codelineno-1-47">47</a></span>
+<span class="normal"><a href="#__codelineno-1-48">48</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+<a id="__codelineno-1-2" name="__codelineno-1-2"></a><span class="na">//// Valid access levels are as follows                                                  </span><span class="w"></span>
+<a id="__codelineno-1-3" name="__codelineno-1-3"></a><span class="na">////        startvote - not used                                                         </span><span class="w"></span>
+<a id="__codelineno-1-4" name="__codelineno-1-4"></a><span class="na">////        changemap                                                                    </span><span class="w"></span>
+<a id="__codelineno-1-5" name="__codelineno-1-5"></a><span class="na">////        pause - Pause server gameplay                                                </span><span class="w"></span>
+<a id="__codelineno-1-6" name="__codelineno-1-6"></a><span class="na">////        cheat - Use server cheat commands                                            </span><span class="w"></span>
+<a id="__codelineno-1-7" name="__codelineno-1-7"></a><span class="na">////        private - Password protect server                                            </span><span class="w"></span>
+<a id="__codelineno-1-8" name="__codelineno-1-8"></a><span class="na">////        balance - Group Ignores server team balance                                      </span><span class="w"></span>
+<a id="__codelineno-1-9" name="__codelineno-1-9"></a><span class="na">////        chat - Admin chat and Server broadcast                                       </span><span class="w"></span>
+<a id="__codelineno-1-10" name="__codelineno-1-10"></a><span class="na">////        kick                                                                         </span><span class="w"></span>
+<a id="__codelineno-1-11" name="__codelineno-1-11"></a><span class="na">////        ban                                                                          </span><span class="w"></span>
+<a id="__codelineno-1-12" name="__codelineno-1-12"></a><span class="na">////        config - Change server config                                                </span><span class="w"></span>
+<a id="__codelineno-1-13" name="__codelineno-1-13"></a><span class="na">////        cameraman - Admin spectate mode                                              </span><span class="w"></span>
+<a id="__codelineno-1-14" name="__codelineno-1-14"></a><span class="na">////        immune - Cannot be kicked / banned                                       </span><span class="w"></span>
+<a id="__codelineno-1-15" name="__codelineno-1-15"></a><span class="na">////        manageserver - Shutdown server                                               </span><span class="w"></span>
+<a id="__codelineno-1-16" name="__codelineno-1-16"></a><span class="na">////        featuretest - Any features added for testing by dev team                     </span><span class="w"></span>
+<a id="__codelineno-1-17" name="__codelineno-1-17"></a><span class="na">////        reserve - Reserve slot                                                       </span><span class="w"></span>
+<a id="__codelineno-1-18" name="__codelineno-1-18"></a><span class="na">////        demos - Record Demos on the server side via admin commands                                       </span><span class="w"></span>
+<a id="__codelineno-1-19" name="__codelineno-1-19"></a><span class="na">////        clientdemos - Record Demos on the client side via commands or the replay UI.</span><span class="w"></span>
+<a id="__codelineno-1-20" name="__codelineno-1-20"></a><span class="na">////        debug - show admin stats command and other debugging info       </span><span class="w"></span>
+<a id="__codelineno-1-21" name="__codelineno-1-21"></a><span class="na">////        teamchange - No timer limits on team change          </span><span class="w"></span>
+<a id="__codelineno-1-22" name="__codelineno-1-22"></a><span class="na">////        forceteamchange - Can issue the ForceTeamChange command</span><span class="w"></span>
+<a id="__codelineno-1-23" name="__codelineno-1-23"></a><span class="na">////        canseeadminchat - This group can see the admin chat and teamkill/admin-join notifications</span><span class="w"></span>
+<a id="__codelineno-1-24" name="__codelineno-1-24"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+<a id="__codelineno-1-25" name="__codelineno-1-25"></a>
+<a id="__codelineno-1-26" name="__codelineno-1-26"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+<a id="__codelineno-1-27" name="__codelineno-1-27"></a><span class="na">//      The Format for adding groups is:</span><span class="w"></span>
+<a id="__codelineno-1-28" name="__codelineno-1-28"></a><span class="na">//  Group</span><span class="o">=</span><span class="s">&lt;Group Name&gt;:&lt;Permission 1&gt;,&lt;Permission 2&gt;,&lt;Permission 3&gt;</span><span class="w"></span>
+<a id="__codelineno-1-29" name="__codelineno-1-29"></a><span class="na">//</span><span class="w"></span>
+<a id="__codelineno-1-30" name="__codelineno-1-30"></a><span class="na">//      For example:</span><span class="w"></span>
+<a id="__codelineno-1-31" name="__codelineno-1-31"></a><span class="na">//  Group</span><span class="o">=</span><span class="s">MyGroup: pause, demos, changemap</span><span class="w"></span>
+<a id="__codelineno-1-32" name="__codelineno-1-32"></a><span class="na">//</span><span class="w"></span>
+<a id="__codelineno-1-33" name="__codelineno-1-33"></a><span class="na">//      The groups below are the defaults, add to or change them as needed:</span><span class="w"></span>
+<a id="__codelineno-1-34" name="__codelineno-1-34"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+<a id="__codelineno-1-35" name="__codelineno-1-35"></a>
+<a id="__codelineno-1-36" name="__codelineno-1-36"></a><span class="na">Group</span><span class="o">=</span><span class="s">Admin:kick,ban,changemap</span><span class="w"></span>
+<a id="__codelineno-1-37" name="__codelineno-1-37"></a><span class="na">Group</span><span class="o">=</span><span class="s">Moderator:kick,ban</span><span class="w"></span>
+<a id="__codelineno-1-38" name="__codelineno-1-38"></a>
+<a id="__codelineno-1-39" name="__codelineno-1-39"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+<a id="__codelineno-1-40" name="__codelineno-1-40"></a><span class="na">//      The format for adding admins is:</span><span class="w"></span>
+<a id="__codelineno-1-41" name="__codelineno-1-41"></a><span class="na">//  Admin</span><span class="o">=</span><span class="s">&lt;Steam ID #&gt;:&lt;Group Name&gt;</span><span class="w"></span>
+<a id="__codelineno-1-42" name="__codelineno-1-42"></a><span class="na">//</span><span class="w"></span>
+<a id="__codelineno-1-43" name="__codelineno-1-43"></a><span class="na">//      For example:</span><span class="w"></span>
+<a id="__codelineno-1-44" name="__codelineno-1-44"></a><span class="na">//  Admin</span><span class="o">=</span><span class="s">123456:Admin      // Adam the admin</span><span class="w"></span>
+<a id="__codelineno-1-45" name="__codelineno-1-45"></a><span class="na">//  Admin</span><span class="o">=</span><span class="s">654321:Moderator  // Molly the moderator</span><span class="w"></span>
+<a id="__codelineno-1-46" name="__codelineno-1-46"></a><span class="na">//</span><span class="w"></span>
+<a id="__codelineno-1-47" name="__codelineno-1-47"></a><span class="na">//  Add your own below:</span><span class="w"></span>
+<a id="__codelineno-1-48" name="__codelineno-1-48"></a><span class="na">/////////////////////////////////////////////////////////////////////////////////////////////</span><span class="w"></span>
+</code></pre></div></td></tr></table></div>
+<p><code>Admins.cfg</code> 共分为两个部分。</p>
+<p>首先是管理员权限组的声明，形如 <code>Group=Admin:kick,ban,changemap</code>；</p>
+<p>其次是管理员的声明，形如 <code>Admin=76561198123456789:Admin // 张三</code>。</p>
+<h3 id="_2">管理员权限组</h3>
+<h4 id="_3">格式</h4>
+<ul>
+<li>
+<p><code>Group=&lt;Group Name&gt;:&lt;Permission 1&gt;,&lt;Permission 2&gt;,&lt;Permission 3&gt;</code></p>
+</li>
+<li>
+<p><code>Group=&lt;权限组名&gt;:&lt;权限 1&gt;,&lt;权限 2&gt;,&lt;权限 3&gt;</code></p>
+</li>
+</ul>
+<h4 id="_4">示例</h4>
+<ul>
+<li>
+<p><code>Group=Admin:kick,ban,changemap,reserve,cameraman</code></p>
+</li>
+<li>
+<p><code>Group=VIP:reserve</code></p>
+</li>
+</ul>
+<h4 id="_5">解释</h4>
+<ul>
+<li>
+<p>组名仅支持英文与数字，不支持中文。</p>
+</li>
+<li>
+<p>权限组的权限由 <strong>:</strong> 后的权限标识决定，以逗号隔开，各权限标识的英文解释见默认配置中 1~24 行，中文解释见本维基<a href="/Command">控制命令简介</a>页面。</p>
+</li>
+</ul>
+<h3 id="_6">管理员</h3>
+<h4 id="_7">格式</h4>
+<ul>
+<li>
+<p><code>Admin=&lt;Steam ID #&gt;:&lt;Group Name&gt;</code></p>
+</li>
+<li>
+<p><code>Admin=&lt;SteamID64&gt;:&lt;权限组名&gt;</code></p>
+</li>
+</ul>
+<h4 id="_8">示例</h4>
+<ul>
+<li>
+<p><code>Admin=76561198123456789:Admin // 张三</code></p>
+</li>
+<li>
+<p><code>Admin=76561198987654321:VIP // 李四</code></p>
+</li>
+</ul>
+<h4 id="_9">解释</h4>
+<ul>
+<li>
+<p>管理员的声明必须放在管理员权限组的声明之后。</p>
+</li>
+<li>
+<p>Steam账户的 64ID 可以在 <a href="https://steamid.io/lookup">STEAMID I/O</a> 查询。</p>
+</li>
+<li>
+<p>管理员声明支持以 '//' 开头的行内注释（注释支持中文），即一行中 '//' 后面的部分不会被认为是配置的一部分，可用于标识管理员身份。</p>
+</li>
+</ul>
+<h2 id="banscfg">Bans.cfg</h2>
+<p>此文件用于记录封禁用户，对其的修改会在下一场游戏开始后生效。</p>
+<p>默认的 <code>Bans.cfg</code> 为空文件。</p>
+<h3 id="_10">格式</h3>
+<ul>
+<li>
+<p><code>&lt;banned player steamid&gt;:&lt;unix timestamp of ban expiration&gt;</code></p>
+</li>
+<li>
+<p><code>&lt;admin nickname&gt; [SteamID &lt;admin steamid&gt;] Banned:&lt;banned player steamid&gt;:&lt;unix timestamp of ban expiration&gt; //&lt;ban comment&gt;</code></p>
+</li>
+<li>
+<p><code>&lt;被封禁的 SteamID64&gt;:&lt;封禁截止 UNIX 时间戳&gt;</code></p>
+</li>
+<li>
+<p><code>&lt;管理员昵称&gt; [SteamID &lt;管理员 SteamID64&gt;] Banned:&lt;被封禁的 SteamID64&gt;:&lt;封禁截止 UNIX 时间戳&gt; //&lt;封禁注释&gt;</code></p>
+</li>
+</ul>
+<h3 id="_11">示例</h3>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="na">John [SteamID 76561198000000000] Banned:76561198000000001:0 //Permanent ban for cheating</span><span class="w"></span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="na">John [SteamID 76561198000000000] Banned:76561198000000002:1623366856 //Team killing</span><span class="w"></span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="na">76561198000000003:0 //Manually added ban</span><span class="w"></span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="na">76561198000000004:0</span><span class="w"></span>
+</code></pre></div>
+<h3 id="_12">解释</h3>
+<ul>
+<li>
+<p>“封禁截止 UNIX 时间戳” 一项填 “0” 即为永久封禁。</p>
+</li>
+<li>
+<p>每行仅允许存在一条封禁记录。</p>
+</li>
+<li>
+<p>手动添加封禁后，请务必保证文件的最后留有至少一行空行。</p>
+</li>
+<li>
+<p>封禁记录中仅有“被封禁的 SteamID64”和“封禁截止 UNIX 时间戳”是必要的。</p>
+</li>
+<li>
+<p>[UNIX 时间戳转换为北京时间]（https://c.runoob.com/front-end/852/）</p>
+</li>
+</ul>
 
               
             </article>

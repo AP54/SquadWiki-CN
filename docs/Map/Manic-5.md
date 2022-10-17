@@ -257,9 +257,8 @@
 
 ??? abstract "加军载具"
     - MSVS Transport Truck *1
-    - LUVW Logistics *3
-    - LUVW C6 *2
-    - LUVW M2 *2
+    - LUVW Logistics *2
+    - LUVW M2 *3
     - Coyote *2
     - Leopard 2A6M CAN *1
     - CH-146 *3
@@ -267,7 +266,9 @@
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport Truck *1
     - KamAZ 5350 Logistics Truck *3
-    - BTR-82A *4
+    - MT-LBM 6MA *1
+    - MT-LB VMK *1
+    - BMP-2 *3
     - T-72B3 *1
     - Mi-8 *1
 
