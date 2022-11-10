@@ -52,6 +52,7 @@
     - T-72B3 *1
     - Mi-8 *1
     - RHIB NSV *1
+    - MT-LB Logistics Vehicle
     - RHIB Logistics *1
 
 

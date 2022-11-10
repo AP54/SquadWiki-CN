@@ -100,6 +100,7 @@
     - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *1
+    - MT-LB Logistics Vehicle *1
 
 
 ### JensensRange Training v3
@@ -120,9 +121,8 @@
     - M939 Transport Truck *1
     - M939 Logistics Truck *1
     - AAVC-7A1 Logistics Vehicle *1
-    - MATV M2 *1
-    - MATV CROWS M2 *1
-    - MATV TOW *1
+    - M1151 M2 *1
+    - M1151 CROWS M2 *1
     - AAVP-7A1 *1
     - LAV-25 *1
     - M1A1 *1
@@ -245,3 +245,4 @@
     - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *1
+    - MT-LB Logistics Vehicle *1

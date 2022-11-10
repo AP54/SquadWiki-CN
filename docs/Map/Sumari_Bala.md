@@ -1,6 +1,6 @@
 # Sumari Bala | 索马里
 
-> 文章作者：桀氓AlbertWensley
+> 文章作者：桀氓AlbertWensley, TL
 
 ![Sumari_Bala](./img/map_mini/Sumari.jpg)
 
@@ -269,7 +269,7 @@
 
 双方阵营： 美军 VS 俄军
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
 ??? abstract "美军载具"
     - M939 Transport Truck *3
@@ -292,14 +292,14 @@
 
 双方阵营： 澳军 VS 叛军
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
 ??? abstract "澳军载具"
     - HX60 Transport Truck *3
     - HX60 Logistics Truck *4
 
 ??? abstract "叛军载具"
-    - Minsk 400 *1
+    - Minsk 400 *6
     - Transport Pickup Truck *3
     - Logistics Pickup Truck *4
 

@@ -476,17 +476,17 @@
 
 双方阵营： USMC VS 叛军
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
 ??? abstract "USMC载具"
     - M939 Logistics Truck *2
     - AAVC-7A1 Logistics Vehicle *1
-    - M1151 M2 Open Doors *1
+    - M1151 M2 Open Doors *20
 
 ??? abstract "叛军载具"
-    - Minsk 400 *1
+    - Minsk 400 *6
     - Logistics Pickup Truck *3
-    - Shitty Technical DShK *1
+    - Shitty Technical DShK *20
 
 
 ### Tallil Outskirts Seed v2
@@ -501,14 +501,14 @@
 
 双方阵营： 加军 VS 叛军
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
 ??? abstract "加军载具"
     - LUVW Logistics *3
     - LUVW Transport *3
 
 ??? abstract "叛军载具"
-    - Minsk 400 *1
+    - Minsk 400 *6
     - Transport Pickup Truck *3
     - Logistics Pickup Truck *3
 

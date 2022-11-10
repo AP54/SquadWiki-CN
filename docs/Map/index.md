@@ -1,8 +1,8 @@
 # 地图手册
 
-当前地图手册版本：V3.3
+当前地图手册版本：V3.4
 
-这里列出了所有现版本下的图层，包含 24 张地图，11 种游戏模式，共 348 个图层。
+这里列出了所有现版本下的图层，包含 26 张地图，11 种游戏模式。
 
 !!! success "以下的参考资料极大支持了地图信息的整理，在此一并表示感谢"
     - [Squad Offical Wiki](https://squad.fandom.com/wiki/Squad_Wiki)
@@ -36,6 +36,7 @@
     - [Fool's Road | 傻瓜之路](./Fools_Road)
     - [Goose Bay | 鹅湾](./Goose_Bay)
     - [Gorodok | 格鲁多克](./Gorodok)
+    - [Harju | 哈留](./Harju)
     - [Jensen's Range | 延森训练场](./Jensens_Range)
     - [Kamdesh Highlands | 卡姆德什高地](./Kamdesh_Highlands)
     - [Kohat Toi | 科哈特](./Kohat_Toi)

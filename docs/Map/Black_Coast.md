@@ -2,8 +2,9 @@
 
 > 文章作者：桀氓AlbertWensley, Astesia
 
-## AAS | 攻守有序
+![Black Coast](img/map_mini/Black_Coast.jpg)
 
+## AAS | 攻守有序
 
 ### Black Coast AAS v1
 
@@ -185,6 +186,45 @@
     - BRDM-2 *1
     - BTR-80 *1
 
+###  Black Coast Invasion v4
+
+切换代码： `AdminChangeLayer BlackCoast_Invasion_v4`
+
+预设代码： `AdminSetNextLayer BlackCoast_Invasion_v4`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 俄军 VS 民兵
+
+初始票数： 200  -  900
+
+??? abstract "俄军载具"
+    - MT-LB Logistics Vehicle *5
+    - KamAZ 5350 Logistics Truck *2
+    - KamAZ 5350 Transport Truck *1
+    - Tigr-M RWS Kord *1
+    - Tigr-M Kord *3
+    - BTR-80 *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+??? abstract "民兵载具"
+    - Ural-375D Logistics Truck *3
+    - Logistics Modern Pickup Truck *4
+    - Ural-375D Transport Truck *1
+    - Minsk 400 *5
+    - Modern Technical M2 HB *3
+    - BRDM-2 *2
+    - BMP-1 *2
+    - T-62 *1
+    - Modern Technical ZU-23-2 *1
+    - Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
+    - RHIB Logistics *1
+    - RHIB DShK *1
 
 ## RAAS | 随机攻守
 
