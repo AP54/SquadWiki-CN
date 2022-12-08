@@ -504,6 +504,38 @@
     - T-72S *1
     - Mi-17 *1
 
+### Mutaha RAAS v7
+
+切换代码： `AdminChangeLayer Mutaha_RAAS_v7`
+
+预设代码： `AdminSetNextLayer Mutaha_RAAS_v7`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： PLA VS 俄军
+
+初始票数： 300  -  300
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CSK-131 QJZ-89 *2
+    - ZSL-10 *1
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport Truck *3
+    - KamAZ 5350 Logistics Truck *1
+    - Tigr-M Kord *2
+    - BTR-82A *1
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
 
 ## Skirmish | 遭遇战
 

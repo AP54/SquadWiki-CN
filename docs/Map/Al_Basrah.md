@@ -373,6 +373,90 @@
     - T-62 *2
 
 
+### Al Basrah Invasion v7
+
+切换代码： `AdminChangeLayer AlBasrah_Invasion_v7`
+
+预设代码： `AdminSetNextLayer AlBasrah_Invasion_v7`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： 中东 VS 叛军
+
+初始票数： 200  -  900
+
+??? abstract "中东载具"
+    - Ural-4320 Logistics Truck *2
+    - Simir Logi *1
+    - Ural-4320 Transport Truck *1
+    - Simir Kord *2
+    - BRDM-2 S8 *2
+    - MT-LBM 6MA S8 *2
+    - BMP-1 *2
+    - T-72S *1
+    - Mi-17 *1
+
+??? abstract "叛军载具"
+    - Ural-375D Transport Truck *1
+    - Ural-375D Logistics Truck *2
+    - Logistics Pickup Truck *3
+    - Transport Pickup Truck *1
+    - BTR-80 *2
+    - Ural-375D ZU-23-2 *1
+    - Armored Technical SPG-9 *1
+    - Technical SPG-9 *2
+    - Technical UB-32 *2
+    - Technical M2 HB *2
+    - BMP-1 *3
+    - Minsk 400 *8
+    - T-62 *1
+
+
+### Al Basrah Invasion v8
+
+切换代码： `AdminChangeLayer AlBasrah_Invasion_v8`
+
+预设代码： `AdminSetNextLayer AlBasrah_Invasion_v8`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： PLA VS 叛军
+
+初始票数： 200  -  900
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - RHIB Logistics *1
+    - RHIB Transport *1
+    - RHIB QJZ-89 *2
+    - CSK-131 QJZ-89 *2
+    - CSK-131 QJZ-89 RWS *1
+    - ZSL-10 *1
+    - ZBL-08 *2
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
+
+??? abstract "叛军载具"
+    - Ural-375D Transport Truck *1
+    - Ural-375D Logistics Truck *2
+    - Logistics Pickup Truck *3
+    - Transport Pickup Truck *1
+    - BRDM-2 *2
+    - BTR-80 *2
+    - Ural-375D ZU-23-2 *1
+    - Armored Technical SPG-9 *2
+    - Armored Technical M2 HB *1
+    - BMP-1 *2
+    - Minsk 400 *8
+    - T-62 *1
+
+
 ## RAAS | 随机攻守
 
 

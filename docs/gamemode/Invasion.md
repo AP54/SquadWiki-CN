@@ -14,7 +14,7 @@
 
 !!! example "侵攻图层列表"
 
-    现版本下侵攻模式共有 65 张图层可用，单击可前往详情页。
+    现版本下侵攻模式共有 77 张图层可用，单击可前往详情页。
 
     - [Anvil Invasion v1](../../Map/anvil/#anvil-invasion-v1)
 
@@ -31,6 +31,10 @@
     - [Al Basrah Invasion v5](../../Map/al_basrah/#al-basrah-invasion-v5)
 
     - [Al Basrah Invasion v6](../../Map/al_basrah/#al-basrah-invasion-v6)
+
+    - [Al Basrah Invasion v7](../../Map/al_basrah/#al-basrah-invasion-v7)
+
+    - [Al Basrah Invasion v8](../../Map/al_basrah/#al-basrah-invasion-v8)
 
     - [Belaya Pass Invasion v1](../../Map/belaya_pass/#belaya-pass-invasion-v1)
 
@@ -58,6 +62,8 @@
 
     - [Fallujah Invasion v5](../../Map/fallujah/#fallujah-invasion-v5)
 
+    - [Fallujah Invasion v6](../../Map/fallujah/#fallujah-invasion-v6)
+
     - [Fool's Road Invasion v1](../../Map/fools_road/#fools-road-invasion-v1)
 
     - [Goose Bay Invasion v1](../../Map/goose_bay/#goose-bay-invasion-v1)
@@ -68,11 +74,23 @@
 
     - [Goose Bay Invasion v4](../../Map/goose_bay/#goose-bay-invasion-v4)
 
+    - [Goose Bay Invasion v5](../../Map/goose_bay/#goose-bay-invasion-v5)
+
     - [Gorodok Invasion v1](../../Map/gorodok/#gorodok-invasion-v1)
 
     - [Gorodok Invasion v2](../../Map/gorodok/#gorodok-invasion-v2)
 
     - [Gorodok Invasion v3](../../Map/gorodok/#gorodok-invasion-v3)
+
+    - [Harju Invasion v1](../../Map/harju/#harju-invasion-v1)
+
+    - [Harju Invasion v2](../../Map/harju/#harju-invasion-v2)
+
+    - [Harju Invasion v3](../../Map/harju/#harju-invasion-v3)
+
+    - [Harju Invasion v4](../../Map/harju/#harju-invasion-v4)
+
+    - [Harju Invasion v5](../../Map/harju/#harju-invasion-v5)
 
     - [Kamdesh Highlands Invasion v1](../../Map/kamdesh_highlands/#kamdesh-highlands-invasion-v1)
 
@@ -94,6 +112,8 @@
 
     - [Kohat Toi Invasion v3](../../Map/kohat_toi/#kohat-toi-invasion-v3)
 
+    - [Kohat Toi Invasion v4](../../Map/kohat_toi/#kohat-toi-invasion-v4)
+
     - [Kokan Invasion v1](../../Map/kokan/#kokan-invasion-v1)
 
     - [Lashkar Valley Invasion v1](../../Map/lashkar_valley/#lashkar-valley-invasion-v1)
@@ -101,6 +121,8 @@
     - [Lashkar Valley Invasion v2](../../Map/lashkar_valley/#lashkar-valley-invasion-v2)
 
     - [Lashkar Valley Invasion v3](../../Map/lashkar_valley/#lashkar-valley-invasion-v3)
+
+    - [Lashkar Valley Invasion v4](../../Map/lashkar_valley/#lashkar-valley-invasion-v4)
 
     - [Manic-5 Invasion v1](../../Map/manic-5/#manic-5-invasion-v1)
 
@@ -139,6 +161,8 @@
     - [Tallil Outskirts Invasion v3](../../Map/tallil_outskirts/#tallil-outskirts-invasion-v3)
 
     - [Tallil Outskirts Invasion v4](../../Map/tallil_outskirts/#tallil-outskirts-invasion-v4)
+
+    - [Tallil Outskirts Invasion v5](../../Map/tallil_outskirts/#tallil-outskirts-invasion-v5)
 
     - [Yehorivka Invasion v1](../../Map/yehorivka/#yehorivka-invasion-v1)
 

@@ -205,6 +205,42 @@
     - Mi-8 *1
 
 
+### Goose Bay Invasion v5
+
+切换代码： `AdminChangeLayer Goose_Bay_Invasion_v5`
+
+预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v5`
+
+光照情况： 日出
+
+旗点数量：5
+
+双方阵营： 加军 VS PLA
+
+初始票数： 900 - 200
+
+??? abstract "加军载具"
+    - MSVS Logistics Truck *2
+    - LUVW Logistics *1
+    - TAPV M2 *1
+    - LUVW C6 *1
+    - LUVW M2 *1
+    - Coyote *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+ ??? abstract "PLA载具"
+     - CTM-131 Logistics Truck *3
+     - CTM-131 Transport Truck QJY-88 *1
+     - CSK-131 QJZ-89 RWS *1
+     - CSK-131 QJZ-89 *1
+     - ZSL-10 *2
+     - ZBL-08 HJ73C *2
+     - ZBD-04A *1
+     - ZTZ-99A *1
+     - Z-8G *1
+
+     
 ## RAAS | 随机攻守
 
 
@@ -307,6 +343,43 @@
     - BTR-82A *2
     - T-72B3 *2
     - Mi-8 *2
+
+
+### Goose Bay RAAS v4
+
+切换代码： `AdminChangeLayer Goose_Bay_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Goose_Bay_RAAS_v4`
+
+光照情况：日出
+
+旗点数量： 7
+
+双方阵营： 加军 vs PLA
+
+初始票数： 350 - 350
+
+??? abstract "加军载具"
+    - MSVS Logistics Truck *2
+    - MSVS Transport Truck *1
+    - TAPV M2 *1
+    - TAPV C6 *1
+    - LUVW M2 *1
+    - LUVW C6 *2
+    - LAV 6 *2
+    - Coyote *1
+    - Leopard 2A6M CAN *2
+    - CH-146 *2
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *2
+    - CTM-131 Transport Truck QJY-88 *2
+    - CSK-131 QJY-88 *2
+    - CSK-131 QJZ-89 *1
+    - ZSL-10 *2
+    - ZBL-08 *3
+    - ZTZ-99A *2
+    - Z-8G *2
 
 
 ## Skirmish | 遭遇战

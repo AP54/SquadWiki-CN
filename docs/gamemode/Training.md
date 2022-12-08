@@ -20,8 +20,8 @@
 
     - [Jensen's Training Range CAF-INS](../../Map/jensens_range/#jensensrange-training-v4)
 
-    - [Jensen's Training Range AUS-RUS](../../Map/jensens_range/#jensensrange-training-v5)
+    - [Jensen's Training Range AUS-PLA](../../Map/jensens_range/#jensensrange-training-v5)
 
     - [Pacific Proving Grounds USMC-RUS](../../Map/Pacific_Proving_Grounds/#pacific-proving-grounds-training-v1)
 
-    - [Pacific Proving Grounds USMC-MEA](../../Map/Pacific_Proving_Grounds/#pacific-proving-grounds-training-v2)
+    - [Pacific Proving Grounds USMC-PLA](../../Map/Pacific_Proving_Grounds/#pacific-proving-grounds-training-v2)

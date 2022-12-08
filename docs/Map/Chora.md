@@ -152,6 +152,33 @@
     - BTR-82A *2
 
 
+### Chora AAS v6
+
+切换代码： `AdminChangeLayer Chora_AAS_v6`
+
+预设代码： `AdminSetNextLayer Chora_AAS_v6`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 美军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - M-ATV M240 *3
+    - M-ATV M2 *2
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJY-88 *1
+    - CSK-131 QJZ-89 *2
+    - CSK-131 QJY-88 *3
+
+
 ## Insurgency | 叛乱
 
 
@@ -370,6 +397,34 @@
     - Simir Kord *1
     - BRDM-2 *1
     - MT-LBM 6MA *1
+
+
+### Chora RAAS v5
+
+切换代码： `AdminChangeLayer Chora_RAAS_v5`
+
+预设代码： `AdminSetNextLayer Chora_RAAS_v5`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 美军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - M-ATV M240 *3
+    - M-ATV CROWS M2 *1
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CTM-131 Transport QJY-88 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJY-88 *1
 
 
 ## Skirmish | 遭遇战

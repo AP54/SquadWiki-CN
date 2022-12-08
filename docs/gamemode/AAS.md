@@ -13,7 +13,7 @@
 
 !!! example "攻守有序图层列表"
 
-    现版本下攻守有序模式共有 63 张图层可用，单击可前往详情页。
+    现版本下攻守有序模式共有 67 张图层可用，单击可前往详情页。
 
     - [Anvil AAS v1](../../Map/anvil/#anvil-aas-v1)
 
@@ -45,6 +45,8 @@
 
     - [Chora AAS v5](../../Map/chora/#chora-aas-v5)
 
+    - [Chora AAS v6](../../Map/chora/#chora-aas-v6)
+
     - [Fallujah AAS v1](../../Map/fallujah/#fallujah-aas-v1)
 
     - [Fallujah AAS v2](../../Map/fallujah/#fallujah-aas-v2)
@@ -64,6 +66,12 @@
     - [Gorodok AAS v3](../../Map/gorodok/#gorodok-aas-v3)
 
     - [Gorodok AAS v4](../../Map/gorodok/#gorodok-aas-v4)
+
+    - [Harju AAS v1](../../Map/harju/#harju-aas-v1)
+
+    - [Harju AAS v2](../../Map/harju/#harju-aas-v2)
+
+    - [Harju AAS v3](../../Map/harju/#harju-aas-v3)
 
     - [Kamdesh Highlands AAS v1](../../Map/kamdesh_highlands/#kamdesh-highlands-aas-v1)
 

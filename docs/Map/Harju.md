@@ -261,6 +261,43 @@
     - T-72B3 *1
 
 
+### Harju Invasion v5
+
+切换代码： `AdminChangeLayer Harju_Invasion_v5`
+
+预设代码： `AdminSetNextLayer Harju_Invasion_v5`
+
+光照情况： 下雨
+
+旗点数量： 6
+
+双方阵营： 英军 VS PLA
+
+初始票数： 800  -  200
+
+??? abstract "英军载具"
+    - HX60 Logistics Truck *4
+    - HX60 Transport Truck *1
+    - LPPV RWS *1
+    - LPPV *3
+    - FV107 *2
+    - FV510 *2
+
+??? abstract "PLA载具"
+    - RHIB Logistics Truck *1
+    - CTM-131 Logistics Truck *2
+    - CTM-131 Transport Truck QJZ-89 *1
+    - RHIB QJY-88 *1
+    - RHIB QJZ-89 *1
+    - CSK-131 RWS *1
+    - CSK-131 QJZ-89 *1
+    - ZSL-10 *2
+    - ZBL-08 HJ-73C *2
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
+
+    
 ## RAAS | 随机攻守
 
 
@@ -298,6 +335,7 @@
     - BTR-80 *1
     - Mi-8 *2
 
+
 ### Harju RAAS v2
 
 切换代码： `AdminChangeLayer Harju_RAAS_v2`
@@ -334,6 +372,7 @@
     - MT-LBM 6MA *1
     - BTR-80 *3
     - Mi-8 *1
+
 
 ### Harju RAAS v3
 
@@ -379,6 +418,7 @@
     - T-72B3 *1
     - Mi-8 *2
 
+
 ### Harju RAAS v4
 
 切换代码： `AdminChangeLayer Harju_RAAS_v4`
@@ -422,6 +462,7 @@
     - T-72B3 *1
     - Mi-8 *2
 
+
 ### Harju RAAS v5
 
 切换代码： `AdminChangeLayer Harju_RAAS_v5`
@@ -456,6 +497,45 @@
     - BTR-80 *2
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
+
+
+### Harju RAAS v6
+
+切换代码： `AdminChangeLayer Harju_RAAS_v6`
+
+预设代码： `AdminSetNextLayer Harju_RAAS_v6`
+
+光照情况： 正午
+
+旗点数量： 8
+
+双方阵营： 美军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Logistics Truck *2
+    - RHIB Logistics Truck *1
+    - M939 Transport Truck *1
+    - RHIB M240
+    - RHIB M2 *3
+    - M-ATV CROWS M2 *2
+    - M2A3 *2
+    - M1A2 *2
+    - UH-60M *2
+
+
+    ??? abstract "PLA载具"
+        - RHIB Logistics Truck *2
+        - CTM-131 Logistics Truck *2
+        - CTM-131 Transport Truck QJY-88 *1
+        - RHIB QJY-88 *1
+        - RHIB QJZ-89 *1
+        - CSK-131 QJZ-89 RWS *1
+        - CSK-131 QJY-88 *3
+        - ZBD-04A *2
+        - ZTZ-99A *2
+        - Z-8G *2
 
 
 ## Seed | 暖服
@@ -510,6 +590,7 @@
     - KamAZ 5350 Logistics Truck *2
     - KamAZ 5350 Transport Truck *2
     - MT-LB Logistics Vehicle *1
+
 
 ### Harju Skirmish v2
 

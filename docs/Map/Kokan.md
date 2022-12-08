@@ -18,22 +18,24 @@
 
 旗点数量： 7
 
-双方阵营： 俄军 VS 中东
+双方阵营： 美军 VS PLA
 
 初始票数： 250  -  250
 
-??? abstract "俄军载具"
-    - Tigr-M RWS Kord *1
-    - KamAZ 5350 Logistics Truck *3
-    - Tigr-M Kord *3
-    - KamAZ 5350 Transport Truck *1
+??? abstract "美军载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - RHIB M240 *1
+    - M-ATV M240 *3
+    - M-ATV CROWS M2 *1
 
-??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
-    - Simir Logi *1
-    - Simir Kord *3
-    - Simir MG3 *1
-    - BRDM-2 *1
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CTM-131 Transport QJY-88 *1
+    - RHIB QJY-88 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJY-88 *1
 
 
 ### Kokan AAS v2

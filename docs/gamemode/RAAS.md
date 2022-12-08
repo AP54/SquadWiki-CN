@@ -10,7 +10,7 @@
 
 !!! example "随机攻守图层列表"
 
-    现版本下随机攻守模式共有 112 张图层可用，单击可前往详情页。
+    现版本下随机攻守模式共有 127 张图层可用，单击可前往详情页。
 
     - [Anvil RAAS v1](../../Map/anvil/#anvil-raas-v1)
 
@@ -48,6 +48,8 @@
 
     - [Chora RAAS v4](../../Map/chora/#chora-raas-v4)
 
+    - [Chora RAAS v5](../../Map/chora/#chora-raas-v5)
+
     - [Fallujah RAAS v1](../../Map/fallujah/#fallujah-raas-v1)
 
     - [Fallujah RAAS v2](../../Map/fallujah/#fallujah-raas-v2)
@@ -59,6 +61,8 @@
     - [Fallujah RAAS v5](../../Map/fallujah/#fallujah-raas-v5)
 
     - [Fallujah RAAS v6](../../Map/fallujah/#fallujah-raas-v6)
+
+    - [Fallujah RAAS v7](../../Map/fallujah/#fallujah-raas-v7)
 
     - [Fool's Road RAAS v1](../../Map/fools_road/#fools-road-raas-v1)
 
@@ -75,6 +79,8 @@
     - [Goose Bay RAAS v2](../../Map/goose_bay/#goose-bay-raas-v2)
 
     - [Goose Bay RAAS v3](../../Map/goose_bay/#goose-bay-raas-v3)
+
+    - [Goose Bay RAAS v4](../../Map/goose_bay/#goose-bay-raas-v4)
 
     - [Gorodok RAAS v1](../../Map/gorodok/#gorodok-raas-v1)
 
@@ -97,6 +103,20 @@
     - [Gorodok RAAS v10](../../Map/gorodok/#gorodok-raas-v10)
 
     - [Gorodok RAAS v11](../../Map/gorodok/#gorodok-raas-v11)
+
+    - [Gorodok RAAS v12](../../Map/gorodok/#gorodok-raas-v12)
+
+    - [Harju RAAS v1](../../Map/harju/#harju-raas-v1)
+
+    - [Harju RAAS v2](../../Map/harju/#harju-raas-v2)
+
+    - [Harju RAAS v3](../../Map/harju/#harju-raas-v3)
+
+    - [Harju RAAS v4](../../Map/harju/#harju-raas-v4)
+
+    - [Harju RAAS v5](../../Map/harju/#harju-raas-v5)
+
+    - [Harju RAAS v6](../../Map/harju/#harju-raas-v6)
 
     - [Kamdesh Highlands RAAS v1](../../Map/kamdesh_highlands/#kamdesh-highlands-raas-v1)
 
@@ -129,6 +149,8 @@
     - [Kohat Toi RAAS v8](../../Map/kohat_toi/#kohat-toi-raas-v8)
 
     - [Kohat Toi RAAS v9](../../Map/kohat_toi/#kohat-toi-raas-v9)
+
+    - [Kohat Toi RAAS v10](../../Map/kohat_toi/#kohat-toi-raas-v10)
 
     - [Kokan RAAS v1](../../Map/kokan/#kokan-raas-v1)
 
@@ -176,6 +198,8 @@
 
     - [Mutaha RAAS v6](../../Map/mutaha/#mutaha-raas-v6)
 
+    - [Mutaha RAAS v7](../../Map/mutaha/#mutaha-raas-v7)
+
     - [Narva RAAS v1](../../Map/narva/#narva-raas-v1)
 
     - [Narva RAAS v2](../../Map/narva/#narva-raas-v2)
@@ -183,6 +207,10 @@
     - [Narva RAAS v3](../../Map/narva/#narva-raas-v3)
 
     - [Narva RAAS v4](../../Map/narva/#narva-raas-v4)
+
+    - [Narva RAAS v5](../../Map/narva/#narva-raas-v5)
+
+    - [Narva RAAS v6](../../Map/narva/#narva-raas-v6)
 
     - [Skorpo RAAS_v1](../../Map/skorpo/#skorpo-raas_v1)
 
@@ -211,6 +239,8 @@
     - [Tallil Outskirts RAAS v6](../../Map/tallil_outskirts/#tallil-outskirts-raas-v6)
 
     - [Tallil Outskirts RAAS v7](../../Map/tallil_outskirts/#tallil-outskirts-raas-v7)
+
+    - [Tallil Outskirts RAAS v8](../../Map/tallil_outskirts/#tallil-outskirts-raas-v8)
 
     - [Yehorivka RAAS v1](../../Map/yehorivka/#yehorivka-raas-v1)
 

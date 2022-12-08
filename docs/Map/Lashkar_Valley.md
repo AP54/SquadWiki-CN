@@ -284,6 +284,38 @@
     - BMP-1 *1
 
 
+### Lashkar Valley Invasion v4
+
+切换代码： `AdminChangeLayer LashkarValley_Invasion_v4`
+
+预设代码： `AdminSetNextLayer LashkarValley_Invasion_v4`
+
+光照情况： 上午
+
+旗点数量： 5
+
+双方阵营： 美军 VS PLA
+
+初始票数： 200  -  900
+
+??? abstract "美军载具"
+    - M939 Transport Truck *3
+    - M939 Logistics Truck *1
+    - M-ATV M240 *3
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M240 *1
+    - M1126 CROWS M2 *1
+    - UH-60M *2
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *4
+    - CTM-131 Transport QJY-88 *2
+    - CSK-131 QJY-88 *1
+    - CSK-131 QJZ-89 *2
+    - CSK-131 HJ-8 *2
+    - Z-8G *1
+
+
 ## RAAS | 随机攻守
 
 

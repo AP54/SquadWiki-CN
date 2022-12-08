@@ -18,27 +18,27 @@
 
 旗点数量： 7
 
-双方阵营： 美军 VS 中东
+双方阵营： 美军 VS PLA
 
 初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M-ATV M2 HB *2
     - M939 Logistics Truck *3
-    - M2A3 *1
-    - M1126 CROWS M2 HB *1
     - M939 Transport Truck *1
+    - M-ATV M240 *3
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *1
     - UH-60M *2
 
-??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
-    - BMP-2 *1
-    - MT-LBM 6MA *1
-    - Simir Kord *1
-    - Ural-4320 Transport Truck *1
-    - BMP-1 *1
-    - Mi-17 *2
-    - Simir MG3 *1
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CTM-131 Transport QJZ-88 *1
+    - CSK-131 QJZ-89 RWS *2
+    - CSK-131 QJY-88 *3
+    - ZSL-10 *2
+    - Z-8G *2
 
 
 ### Kohat Toi AAS v2
@@ -251,6 +251,39 @@
     - Ural-375D ZU-23-2 *1
     - BMP-1 *1
     - T-62 *1
+
+
+### Kohat Toi Invasion v4
+
+切换代码： `AdminChangeLayer Kohat_Invasion_v4`
+
+预设代码： `AdminSetNextLayer Kohat_Invasion_v4`
+
+光照情况： 正午
+
+旗点数量： 4
+
+双方阵营： USMC VS PLA
+
+初始票数： 800  -  200
+
+??? abstract "USMC载具"
+    - M939 Logistics Truck *4
+    - M939 Transport Truck *1
+    - M-ATV TOW *2
+    - M1151 M2 Open Doors *1
+    - M1151 M2 *2
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJY-88 *2
+    - CSK-131 QJZ-89 *2
+    - ZBL-08 *2
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
 
 
 ## RAAS | 随机攻守
@@ -553,6 +586,37 @@
     - BRDM-2 *1
     - BMP-1 *1
     - Ural-375D ZU-23-2 *2
+
+
+### Kohat Toi RAAS v10
+
+切换代码： `AdminChangeLayer Kohat_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Kohat_RAAS_v10`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 澳军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "澳军载具"
+    - HX60 Logistics Truck *3
+    - HX60 Transport Truck *1
+    - PMV Mag58 *2
+    - PMV RWS M2 *1
+    - ASLAV *2
+    - MRH-90 *2
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJY-88 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJZ-89 *2
+    - ZBL-08 *2
+    - Z-8G *2
 
 
 ## Skirmish | 遭遇战

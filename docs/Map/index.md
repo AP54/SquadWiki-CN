@@ -1,13 +1,12 @@
 # 地图手册
 
-当前地图手册版本：V3.4
+当前地图手册版本：V4.0
 
 这里列出了所有现版本下的图层，包含 26 张地图，11 种游戏模式。
 
 !!! success "以下的参考资料极大支持了地图信息的整理，在此一并表示感谢"
     - [Squad Offical Wiki](https://squad.fandom.com/wiki/Squad_Wiki)
     - [Squad Wiki Pipeline: Map Data](https://github.com/Squad-Wiki-Editorial/squad-wiki-pipeline-map-data)
-    - Squad 3.0 版本地图大全 by zjh
 
 !!! info "包含的游戏模式"
     通过这里的链接可依**模式**查找图层。

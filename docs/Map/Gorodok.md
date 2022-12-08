@@ -698,6 +698,39 @@
     - UH-60M *1
 
 
+### Gorodok RAAS v12
+
+切换代码： `AdminChangeLayer Gorodok_RAAS_v12`
+
+预设代码： `AdminSetNextLayer Gorodok_RAAS_v12`
+
+光照情况： 阴雨
+
+旗点数量： 8
+
+双方阵营： 美军 VS PLA
+
+初始票数： 350 - 350
+
+??? abstract "美军载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+??? abstract "PLA军载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJZ-89 *2
+    - ZSL-10 *1
+    - ZBD-04A *2
+    - ZTZ-99A *1
+    - Z-8G *1
+
+    
 ## Skirmish | 遭遇战
 
 

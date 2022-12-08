@@ -697,6 +697,40 @@
     - Mi-8 *2
 
 
+### Yehorivka RAAS v13
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v13`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v13`
+光照情况：正午
+
+旗点数量：5
+
+双方阵营：美国陆军 vs PLA
+
+初始票数：350 - 350
+
+??? abstract "美国陆军载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *1
+    - M2A3 *1
+    - M1A2 *2
+    - UH-60M *2
+
+??? abstract "PLA载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJZ-89 *89
+    - ZBL-08 *1
+    - ZBD-04A *1
+    - ZTZ-99A *2
+    - Z-8G *2
+
+    
 ## Skirmish | 遭遇战
 
 

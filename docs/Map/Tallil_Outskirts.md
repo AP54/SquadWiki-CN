@@ -219,6 +219,35 @@
     - BMP-1 *1
     - T-62 *2
 
+### Tallil Outskirts Invasion v5
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v5`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v5`
+
+光照情况： 上午
+
+旗点数量： 5
+
+双方阵营： 中东 VS PLA
+
+初始票数： 200  -  800
+
+??? abstract "中东载具"
+    - Ural-4320 Transport Truck *3
+    - Ural-4320 Logistics Truck *1
+    - Simir Kord *3
+    - BMP-2 *1
+    - MT-LB VMK *1
+    - MT-LBM 6MA S8 *2
+    - Mi-17 *2
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJY-88 *1
+    - CSK-131 QJY-88 *4
+    - CSK-131 QJZ-89 *2
+    - CSK-131 HJ-8 *2
 
 ## RAAS | 随机攻守
 
@@ -460,6 +489,41 @@
     - T-72S *3
     - Mi-17 *1
 
+
+### Tallil Outskirts RAAS v8
+
+切换代码： `AdminChangeLayer Tallil_RAAS_v8`
+
+预设代码： `AdminSetNextLayer Tallil_RAAS_v8`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 英军 VS PLA
+
+初始票数： 350  -  350
+
+??? abstract "英军载具"
+    - HX60 Transport Truck *3
+    - HX60 Logistics Truck *1
+    - LPPV RWS *1
+    - FV107 *2
+    - FV510 UA *1
+    - FV520 CTAS40 *2
+    - FV4034 *2
+    - SA330 *1
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport QJZ-89 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 HJ-8 *1
+    - ZBL-08 HJ-73C *1
+    - ZBL-08 *1
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
 
 ## Seed | 暖服
 

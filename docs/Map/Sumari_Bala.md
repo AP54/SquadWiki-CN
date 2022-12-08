@@ -304,6 +304,29 @@
     - Logistics Pickup Truck *4
 
 
+### Sumari Bala Seed v3
+
+切换代码： `AdminChangeLayer Sumari_Seed_v3`
+
+预设代码： `AdminSetNextLayer Sumari_Seed_v3`
+
+光照情况： 正午&多云
+
+旗点数量： 5
+
+双方阵营： 美军 VS PLA
+
+初始票数： 100 - 100
+
+??? abstract "美军载具"
+    - M939 Logistics Truck *4
+    - M939 Transport Truck *3
+
+ ??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *6
+    - CTM-131 Transport Truck QJY-88 *1  
+
+    
 ## Skirmish | 遭遇战
 
 
@@ -313,25 +336,19 @@
 
 预设代码： `AdminSetNextLayer Sumari_Skirmish_v1`
 
-光照情况： 阴天
+光照情况： 黑夜
 
 旗点数量： 5
 
-双方阵营： 民兵 VS 叛军
+双方阵营： 美军 VS PLA
 
 初始票数： 150  -  150
 
-??? abstract "民兵载具"
-    - Transport Pickup Truck *2
-    - Ural-375D Transport Truck *1
-    - Ural-375D Logistics Truck *3
-    - Technical DShK *2
-
-??? abstract "叛军载具"
-    - Minsk 400 *1
-    - Transport Pickup Truck *2
-    - Logistics Pickup Truck *4
-    - Technical DShK *1
+??? abstract "美军载具"
+    - Transport Pickup Truck *4
+    
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *4
 
 
 ## TC | 领土控制

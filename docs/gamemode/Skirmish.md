@@ -17,7 +17,7 @@
 
 !!! example "遭遇战图层列表"
 
-    现版本下遭遇战模式共有 30 张图层可用，单击可前往详情页。
+    现版本下遭遇战模式共有 32 张图层可用，单击可前往详情页。
 
     - [Anvil Skirmish v1](../../Map/anvil/#anvil-skirmish-v1)
 
@@ -42,6 +42,10 @@
     - [Goose Bay Skirmish v1](../../Map/goose_bay/#goose-bay-skirmish-v1)
 
     - [Gorodok Skirmish v1](../../Map/gorodok/#gorodok-skirmish-v1)
+
+    - [Harju Skirmish v1](../../Map/harju/#harju-skirmish-v1)
+
+    - [Harju Skirmish v2](../../Map/harju/#harju-skirmish-v2)
 
     - [Kamdesh Highlands Skirmish v1](../../Map/kamdesh_highlands/#kamdesh-highlands-skirmish-v1)
 

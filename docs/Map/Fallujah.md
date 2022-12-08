@@ -301,6 +301,36 @@
     - T-62 *2
 
 
+### Fallujah Invasion v6
+
+切换代码： `AdminChangeLayer Fallujah_Invasion_v6`
+
+预设代码： `AdminSetNextLayer Fallujah_Invasion_v6`
+
+光照情况： 正午
+
+旗点数量： 4
+
+双方阵营： 中东 VS PLA
+
+初始票数： 250 - 800
+
+??? abstract "中东载具"
+    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Transport Truck *1
+    - Simir Kord *3
+    - MT-LBM 6MA *2
+    - MT-LB VMK *1
+    - BMP-2 *1
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport Truck QJY-88 *1
+    - CSK-131 QJZ-89 *2
+    - CSK-131 QJZ-88 *4
+    - CSK-131 HJ-8 *2
+
+
 ## RAAS | 随机攻守
 
 
@@ -514,6 +544,32 @@
     - T-62 *2
 
 
+### Fallujah RAAS v7
+
+切换代码： `AdminChangeLayer Fallujah_RAAS_v7`
+
+预设代码： `AdminSetNextLayer Fallujah_RAAS_v7`
+
+光照情况： 正午&沙暴
+
+旗点数量： 5
+
+双方阵营： USMC VS PLA
+
+初始票数： 300 -300
+
+??? abstract "USMC载具"
+    - M939 Logistics Truck *3
+    - M939 Transport Truck *1
+    - MATV M2 *2
+    - M1151 M2 *3
+
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport Truck QJY-88 *1
+    - CSK-131 QJZ-89 *5
+
+    
 ### Fallujah Seed v1
 
 切换代码： `AdminChangeLayer Fallujah_Seed_v1`

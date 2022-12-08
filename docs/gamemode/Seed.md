@@ -19,7 +19,7 @@
 
 !!! example "暖服图层列表"
 
-    现版本下暖服模式共有 8 张图层可用，单击可前往详情页。
+    现版本下暖服模式共有 10 张图层可用，单击可前往详情页。
 
     - [Al Basrah Seed v1](../../Map/al_basrah/#al-basrah-seed-v1)
 
@@ -27,11 +27,15 @@
     
     - [Fallujah Seed v1](../../Map/fallujah/#fallujah-seed-v1)
     
+    - [Harju Seed v1](../../Map/harju/#harju-seed-v1)
+
     - [Logar Valley Seed v1](../../Map/logar_valley/#logar-valley-seed-v1)
     
     - [Sumari Bala Seed v1](../../Map/sumari_bala/#sumari-bala-seed-v1)
     
     - [Sumari Bala Seed v2](../../Map/sumari_bala/#sumari-bala-seed-v2)
+
+    - [Sumari Bala Seed v3](../../Map/sumari_bala/#sumari-bala-seed-v3)
     
     - [Tallil Outskirts Seed v1](../../Map/tallil_outskirts/#tallil-outskirts-seed-v1)
     

@@ -486,6 +486,37 @@
     - RHIB PKP *4
 
 
+###  Narva RAAS v6
+
+切换代码： `AdminChangeLayer Narva_RAAS_v6`
+
+预设代码： `AdminSetNextLayer Narva_RAAS_v6`
+
+光照情况： 正午&多云
+
+旗点数量： 5
+
+双方阵营： 英军 VS PLA
+
+初始票数： 300 - 300
+
+??? abstract "英军载具"
+    - HX60 Logistics Truck *3
+    - HX60 Transport Truck *1
+    - LPPV RWS *1
+    - LPPV *1
+    - FV432 *1
+    - FV510 *2
+    - FV4034 *1
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *4
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJY-88 *1
+    - ZSL-10 *1
+    - ZBL-08 *2
+    - ZTZ-99A *1
+
+    
 ## Skirmish | 遭遇战
 
 
