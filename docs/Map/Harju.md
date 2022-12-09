@@ -525,17 +525,17 @@
     - UH-60M *2
 
 
-    ??? abstract "PLA载具"
-        - RHIB Logistics Truck *2
-        - CTM-131 Logistics Truck *2
-        - CTM-131 Transport Truck QJY-88 *1
-        - RHIB QJY-88 *1
-        - RHIB QJZ-89 *1
-        - CSK-131 QJZ-89 RWS *1
-        - CSK-131 QJY-88 *3
-        - ZBD-04A *2
-        - ZTZ-99A *2
-        - Z-8G *2
+??? abstract "PLA载具"
+    - RHIB Logistics Truck *2
+    - CTM-131 Logistics Truck *2
+    - CTM-131 Transport Truck QJY-88 *1
+    - RHIB QJY-88 *1
+    - RHIB QJZ-89 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJY-88 *3
+    - ZBD-04A *2
+    - ZTZ-99A *2
+    - Z-8G *2
 
 
 ## Seed | 暖服
