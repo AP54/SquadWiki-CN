@@ -702,15 +702,16 @@
 切换代码： `AdminChangeLayer Yehorivka_RAAS_v13`
 
 预设代码： `AdminSetNextLayer Yehorivka_RAAS_v13`
+
 光照情况：正午
 
 旗点数量：5
 
-双方阵营：美国陆军 vs PLA
+双方阵营：美军 vs PLA
 
 初始票数：350 - 350
 
-??? abstract "美国陆军载具"
+??? abstract "美军载具"
     - M939 Logistics Truck *3
     - M939 Transport Truck *1
     - M-ATV M2 *2

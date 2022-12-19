@@ -2,16 +2,16 @@
 
 > 文章作者：桀氓AlbertWensley
 
-![Goose_Bay](./img/map_mini/GooseBay.jpg)
+![GooseBay](./img/map_mini/GooseBay.jpg)
 
 
 ## AAS | 攻守有序
 
 ### Goose Bay AAS v1
 
-切换代码： `AdminChangeLayer Goose_Bay_AAS_v1`
+切换代码： `AdminChangeLayer GooseBay_AAS_v1`
 
-预设代码： `AdminSetNextLayer Goose_Bay_AAS_v1`
+预设代码： `AdminSetNextLayer GooseBay_AAS_v1`
 
 光照情况： 正午
 
@@ -41,9 +41,9 @@
 
 ### Goose Bay AAS v2
 
-切换代码： `AdminChangeLayer Goose_Bay_AAS_v2`
+切换代码： `AdminChangeLayer GooseBay_AAS_v2`
 
-预设代码： `AdminSetNextLayer Goose_Bay_AAS_v2`
+预设代码： `AdminSetNextLayer GooseBay_AAS_v2`
 
 光照情况： 正午
 
@@ -75,9 +75,9 @@
 
 ### Goose Bay Invasion v1
 
-切换代码： `AdminChangeLayer Goose_Bay_Invasion_v1`
+切换代码： `AdminChangeLayer GooseBay_Invasion_v1`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v1`
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v1`
 
 光照情况： 阴天
 
@@ -108,9 +108,9 @@
 
 ### Goose Bay Invasion v2
 
-切换代码： `AdminChangeLayer Goose_Bay_Invasion_v2`
+切换代码： `AdminChangeLayer GooseBay_Invasion_v2`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v2`
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v2`
 
 光照情况： 阴天
 
@@ -142,9 +142,9 @@
 
 ### Goose Bay Invasion v3
 
-切换代码： `AdminChangeLayer Goose_Bay_Invasion_v3`
+切换代码： `AdminChangeLayer GooseBay_Invasion_v3`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v3`
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v3`
 
 光照情况： 黄昏
 
@@ -173,9 +173,9 @@
 
 ### Goose Bay Invasion v4
 
-切换代码： `AdminChangeLayer Goose_Bay_Invasion_v4`
+切换代码： `AdminChangeLayer GooseBay_Invasion_v4`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v4`
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v4`
 
 光照情况： 阴天
 
@@ -207,9 +207,9 @@
 
 ### Goose Bay Invasion v5
 
-切换代码： `AdminChangeLayer Goose_Bay_Invasion_v5`
+切换代码： `AdminChangeLayer GooseBay_Invasion_v5`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Invasion_v5`
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v5`
 
 光照情况： 日出
 
@@ -229,16 +229,16 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
- ??? abstract "PLA载具"
-     - CTM-131 Logistics Truck *3
-     - CTM-131 Transport Truck QJY-88 *1
-     - CSK-131 QJZ-89 RWS *1
-     - CSK-131 QJZ-89 *1
-     - ZSL-10 *2
-     - ZBL-08 HJ73C *2
-     - ZBD-04A *1
-     - ZTZ-99A *1
-     - Z-8G *1
+??? abstract "PLA载具"
+    - CTM-131 Logistics Truck *3
+    - CTM-131 Transport Truck QJY-88 *1
+    - CSK-131 QJZ-89 RWS *1
+    - CSK-131 QJZ-89 *1
+    - ZSL-10 *2
+    - ZBL-08 HJ73C *2
+    - ZBD-04A *1
+    - ZTZ-99A *1
+    - Z-8G *1
 
      
 ## RAAS | 随机攻守
@@ -246,9 +246,9 @@
 
 ### Goose Bay RAAS v1
 
-切换代码： `AdminChangeLayer Goose_Bay_RAAS_v1`
+切换代码： `AdminChangeLayer GooseBay_RAAS_v1`
 
-预设代码： `AdminSetNextLayer Goose_Bay_RAAS_v1`
+预设代码： `AdminSetNextLayer GooseBay_RAAS_v1`
 
 光照情况： 阴天
 
@@ -280,9 +280,9 @@
 
 ### Goose Bay RAAS v2
 
-切换代码： `AdminChangeLayer Goose_Bay_RAAS_v2`
+切换代码： `AdminChangeLayer GooseBay_RAAS_v2`
 
-预设代码： `AdminSetNextLayer Goose_Bay_RAAS_v2`
+预设代码： `AdminSetNextLayer GooseBay_RAAS_v2`
 
 光照情况： 阴天
 
@@ -311,9 +311,9 @@
 
 ### Goose Bay RAAS v3
 
-切换代码： `AdminChangeLayer Goose_Bay_RAAS_v3`
+切换代码： `AdminChangeLayer GooseBay_RAAS_v3`
 
-预设代码： `AdminSetNextLayer Goose_Bay_RAAS_v3`
+预设代码： `AdminSetNextLayer GooseBay_RAAS_v3`
 
 光照情况： 阴天
 
@@ -347,9 +347,9 @@
 
 ### Goose Bay RAAS v4
 
-切换代码： `AdminChangeLayer Goose_Bay_RAAS_v4`
+切换代码： `AdminChangeLayer GooseBay_RAAS_v4`
 
-预设代码： `AdminSetNextLayer Goose_Bay_RAAS_v4`
+预设代码： `AdminSetNextLayer GooseBay_RAAS_v4`
 
 光照情况：日出
 
@@ -387,9 +387,9 @@
 
 ### Goose Bay Skirmish v1
 
-切换代码： `AdminChangeLayer Goose_Bay_Skirmish_v1`
+切换代码： `AdminChangeLayer GooseBay_Skirmish_v1`
 
-预设代码： `AdminSetNextLayer Goose_Bay_Skirmish_v1`
+预设代码： `AdminSetNextLayer GooseBay_Skirmish_v1`
 
 光照情况： 正午
 

@@ -720,7 +720,7 @@
     - M2A3 *2
     - M1A2 *1
     - UH-60M *1
-??? abstract "PLA军载具"
+??? abstract "PLA载具"
     - CTM-131 Logistics Truck *3
     - CTM-131 Transport QJZ-89 *1
     - CSK-131 QJZ-89 RWS *1

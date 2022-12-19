@@ -322,9 +322,9 @@
     - M939 Logistics Truck *4
     - M939 Transport Truck *3
 
- ??? abstract "PLA载具"
-    - CTM-131 Logistics Truck *6
-    - CTM-131 Transport Truck QJY-88 *1  
+??? abstract "PLA载具"
+- CTM-131 Logistics Truck *6
+- CTM-131 Transport Truck QJY-88 *1  
 
     
 ## Skirmish | 遭遇战
@@ -346,7 +346,7 @@
 
 ??? abstract "美军载具"
     - Transport Pickup Truck *4
-    
+
 ??? abstract "PLA载具"
     - CTM-131 Logistics Truck *4
 
