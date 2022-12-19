@@ -4,10 +4,6 @@
 
 ![Fallujah](./img/map_mini/Fallujah.jpg)
 
-
-## AAS | 攻守有序
-
-
 ### Fallujah AAS v1
 
 切换代码： `AdminChangeLayer Fallujah_AAS_v1`
@@ -23,19 +19,19 @@
 初始票数： 250  -  250
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Logi *2
-    - Ural-4320 Logistics Truck *2
+    - Ural-4320 Logistics *2
     - Simir MG3 *1
     - Simir Kord *2
     - MT-LB VMK *2
-    - MT-LBM 6MA *1
+    - MT-LBM 6MA S8 *1
     - T-72S *1
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *3
-    - Ural-375D Logistics Truck *1
+    - Ural-375D Logistics *1
     - Technical M2 HB *1
     - Technical DShK Shielded *1
     - Technical ZU-23-2 *1
@@ -59,8 +55,8 @@
 初始票数： 300  -  300
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *3
+    - M939 Transport *1
+    - M939 Logistics *3
     - MATV M2 *1
     - AAVP-7A1 *2
     - LAV-25 *1
@@ -69,16 +65,13 @@
 ??? abstract "中东载具"
     - T-72S *1
     - MT-LB VMK *1
-    - Ural-4320 Logistics Truck *3
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Logistics *3
+    - Ural-4320 Transport *1
     - Simir Kord *3
     - Simir MG3 *1
     - Simir Logi *2
-    - MT-LBM 6MA *1
+    - MT-LBM 6MA S8 *1
     - BMP-2 *1
-
-
-## Insurgency | 叛乱
 
 
 ### Fallujah Insurgency v1
@@ -96,11 +89,11 @@
 初始票数： 200  -  1000
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *4
-    - M-ATV M2 HB *2
+    - M939 Logistics *4
+    - M-ATV M2 *2
     - M2A3 *2
     - M1A2 *1
-    - M1126 CROWS M2 HB *1
+    - M1126 CROWS M2 *1
 
 ??? abstract "叛军载具"
     - Logistics Pickup Truck *4
@@ -113,9 +106,6 @@
     - Technical Mortar *1
     - T-62 *1
     - BMP-1 *1
-
-
-## Invasion | 侵攻
 
 
 ### Fallujah Invasion v1
@@ -133,9 +123,9 @@
 初始票数： 200  -  900
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 *2
     - M1151 CROWS M2 *1
     - AAVP-7A1 *2
@@ -170,13 +160,13 @@
 初始票数： 800  -  250
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
     - Simir MG3 *2
     - Simir Kord *1
     - MT-LB VMK *1
     - Simir Kornet *1
-    - MT-LBM 6MA *1
+    - MT-LBM 6MA S8 *1
     - BMP-1 *1
     - Simir Logi *1
     - T-62 *1
@@ -210,8 +200,8 @@
 初始票数： 200  -  900
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - AAVC-7A1 Logistics Vehicle *3
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *3
     - M1151 M2 *3
     - M1151 CROWS M2 *1
     - AAVP-7A1 *2
@@ -246,8 +236,8 @@
 初始票数： 200  -  800
 
 ??? abstract "澳军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - PMV Mag58 x3 *2
     - ASLAV *2
     - M1A1 *2
@@ -280,8 +270,8 @@
 初始票数： 200  -  900
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *3
+    - MSVS Transport *1
+    - MSVS Logistics *3
     - TAPV M2 *2
     - LAV III C6 RWS *1
     - LAV 6 *3
@@ -289,7 +279,7 @@
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
-    - Ural-375D Transport Truck *1
+    - Ural-375D Transport *1
     - Logistics Pickup Truck *4
     - Technical M2 HB *1
     - Armored Technical DShK *1
@@ -307,31 +297,28 @@
 
 预设代码： `AdminSetNextLayer Fallujah_Invasion_v6`
 
-光照情况： 正午
+光照情况： 正午&扬沙
 
 旗点数量： 4
 
 双方阵营： 中东 VS PLA
 
-初始票数： 250 - 800
+初始票数： 250  -  800
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
     - Simir Kord *3
-    - MT-LBM 6MA *2
     - MT-LB VMK *1
+    - MT-LBM 6MA S8 *2
     - BMP-2 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics Truck *3
-    - CTM-131 Transport Truck QJY-88 *1
+    - CTM-131 Transport QJY-88 *1
+    - CTM-131 Logistics *3
+    - CSK-131 QJY-88 *4
     - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-88 *4
     - CSK-131 HJ-8 *2
-
-
-## RAAS | 随机攻守
 
 
 ### Fallujah RAAS v1
@@ -349,20 +336,20 @@
 初始票数： 250  -  250
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 Open Doors *1
     - M1151 M2 *1
     - AAVP-7A1 *1
     - LAV-25 *2
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
     - Simir MG3 *1
     - Simir Kord *1
-    - BRDM-2 *1
+    - BRDM-2 S8 *1
     - BMP-1 *1
     - BMP-2 *1
 
@@ -382,22 +369,22 @@
 初始票数： 250  -  250
 
 ??? abstract "英军载具"
-    - HX60 Logistics Truck *3
+    - HX60 Logistics *3
     - LPPV *1
     - FV432 *1
     - FV510 UA *1
     - FV4034 *2
     - FV520 CTAS40 *1
-    - HX60 Transport Truck *1
+    - HX60 Transport *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir Kord *2
     - Simir Logi *1
     - Simir MG3 *1
     - BMP-2 *1
-    - BRDM-2 *2
-    - Ural-4320 Transport Truck *1
+    - BRDM-2 S8 *2
+    - Ural-4320 Transport *1
     - T-72S *2
 
 
@@ -416,9 +403,9 @@
 初始票数： 250  -  250
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 Open Doors *1
     - M1151 M2 *2
     - M1151 CROWS M2 *1
@@ -427,11 +414,11 @@
     - M1A1 *2
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
     - Simir MG3 *1
     - Simir Kord *2
-    - BRDM-2 *1
+    - BRDM-2 S8 *1
     - BMP-1 *1
     - BMP-2 *2
     - T-72S *2
@@ -452,19 +439,19 @@
 初始票数： 250  -  250
 
 ??? abstract "澳军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - PMV Mag58 *1
     - PMV Mag58 x3 *1
     - ASLAV *2
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
     - Simir Logi *1
     - Simir MG3 *1
     - Simir Kord *1
-    - BRDM-2 *1
+    - BRDM-2 S8 *1
     - BMP-1 *1
     - BMP-2 *1
 
@@ -484,8 +471,8 @@
 初始票数： 300  -  300
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *3
+    - MSVS Transport *1
+    - MSVS Logistics *3
     - LUVW C6 *1
     - LUVW M2 *1
     - TAPV M2 *1
@@ -495,13 +482,13 @@
     - Leopard 2A6M CAN *2
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Logi *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir MG3 *1
     - Simir Kord *1
-    - MT-LBM 6MA *1
-    - BRDM-2 *1
+    - MT-LBM 6MA S8 *1
+    - BRDM-2 S8 *1
     - BMP-1 *1
     - BMP-2 *1
     - T-72S *2
@@ -522,9 +509,9 @@
 初始票数： 300  -  340
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 Open Doors *2
     - M1151 M2 *3
     - AAVP-7A1 *2
@@ -533,8 +520,8 @@
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
-    - Ural-375D Transport Truck *1
-    - Ural-375D Logistics Truck *2
+    - Ural-375D Transport *1
+    - Ural-375D Logistics *2
     - Logistics Pickup Truck *2
     - Technical DShK Shielded *1
     - Shitty Technical DShK *2
@@ -556,22 +543,20 @@
 
 双方阵营： USMC VS PLA
 
-初始票数： 300 -300
+初始票数： 300  -  300
 
 ??? abstract "USMC载具"
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
-    - MATV M2 *2
+    - M939 Transport *1
+    - M939 Logistics *3
     - M1151 M2 *3
+    - MATV M2 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics Truck *3
-    - CTM-131 Transport Truck QJY-88 *1
+    - CTM-131 Transport QJY-88 *1
+    - CTM-131 Logistics *3
     - CSK-131 QJZ-89 *5
 
 
-## Seed | 暖服
-    
 ### Fallujah Seed v1
 
 切换代码： `AdminChangeLayer Fallujah_Seed_v1`
@@ -591,9 +576,6 @@
 ??? abstract "中东载具"
 
 
-## Skirmish | 遭遇战
-
-
 ### Fallujah Skirmish v1
 
 切换代码： `AdminChangeLayer Fallujah_Skirmish_v1`
@@ -609,14 +591,14 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *3
-    - M939 Logistics Truck *3
+    - M939 Transport *3
+    - M939 Logistics *3
     - M-ATV M240 *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *2
+    - Ural-4320 Transport *2
     - Simir Logi *2
-    - Ural-4320 Logistics Truck *2
+    - Ural-4320 Logistics *2
     - Simir MG3 *1
 
 
@@ -635,8 +617,8 @@
 初始票数： 200  -  200
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *3
-    - M939 Logistics Truck *3
+    - M939 Transport *3
+    - M939 Logistics *3
     - M-ATV M240 *1
 
 ??? abstract "叛军载具"
@@ -644,9 +626,6 @@
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *4
     - Technical DShK *1
-
-
-## TC | 领土控制
 
 
 ### Fallujah TC v1
@@ -664,19 +643,19 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *1
+    - M939 Logistics *3
+    - M-ATV M2 *1
     - M-ATV M240 *1
-    - M939 Transport Truck *1
+    - M939 Transport *1
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
+    - M1126 CROWS M2 *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - BMP-2 *1
-    - BRDM-2 *1
+    - BRDM-2 S8 *1
     - Simir Kornet *1
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Kord *1
     - Simir MG3 *1
     - Simir Logi *1
@@ -697,19 +676,20 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *1
+    - M939 Logistics *3
+    - M-ATV M2 *1
     - M-ATV M240 *1
-    - M939 Transport Truck *1
+    - M939 Transport *1
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
+    - M1126 CROWS M2 *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - BMP-2 *1
-    - BRDM-2 *1
+    - BRDM-2 S8 *1
     - Simir Kornet *1
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Kord *1
     - Simir MG3 *1
     - Simir Logi *1
+

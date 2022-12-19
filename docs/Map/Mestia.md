@@ -4,8 +4,6 @@
 
 ![Mestia](./img/map_mini/Mestia.jpg)
 
-## AAS | 攻守有序
-
 ### Mestia AAS v1
 
 切换代码： `AdminChangeLayer Mestia_AAS_v1`
@@ -23,13 +21,13 @@
 ??? abstract "俄军载具"
     - Tigr-M Kord *1
     - BTR-80 *2
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
 
 ??? abstract "民兵载具"
-    - Logistics Pickup Truck *3
+    - Logistics Modern Pickup Truck *3
     - Transport Pickup Truck *1
-    - Ural-375D Transport Truck *1
+    - Ural-375D Transport *1
     - Minsk 400 *3
     - Technical DShK *1
     - BMP-1 ZU-23-2 *1
@@ -52,18 +50,17 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *2
-    - M-ATV CROWS M2 HB *1
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
     - Tigr-M RWS Kord *1
 
-## Invasion | 侵攻
 
 ### Mestia Invasion v1
 
@@ -82,14 +79,14 @@
 ??? abstract "俄军载具"
     - BTR-82A *1
     - BTR-80 *2
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Transport *1
 
 ??? abstract "民兵载具"
     - Technical SPG-9 *1
-    - Ural-375D Logistics Truck *2
-    - Logistics Pickup Truck *2
+    - Ural-375D Logistics *2
+    - Logistics Modern Pickup Truck *2
     - Transport Pickup Truck *1
     - Technical DShK *1
     - BRDM-2 *1
@@ -112,20 +109,19 @@
 初始票数： 200  -  800
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *3
-    - M939 Transport Truck *1
+    - M939 Logistics *3
+    - M-ATV M2 *3
+    - M939 Transport *1
 
 ??? abstract "民兵载具"
     - Transport Pickup Truck *2
-    - Logistics Pickup Truck *3
-    - Ural-375D Logistics Truck *1
+    - Logistics Modern Pickup Truck *3
+    - Ural-375D Logistics *1
     - Technical DShK *1
     - Technical DShK Shielded *1
     - Technical UB-32 *2
     - BRDM-2 *1
 
-## RAAS | 随机攻守
 
 ### Mestia RAAS v1
 
@@ -142,17 +138,17 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M-ATV M2 HB *3
-    - M1126 CROWS M2 HB *1
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M-ATV M2 *3
+    - M1126 CROWS M2 *1
+    - M939 Logistics *3
+    - M939 Transport *1
 
 ??? abstract "民兵载具"
     - BRDM-2 *1
     - BMP-1 ZU-23-2 *1
-    - Logistics Pickup Truck *2
+    - Logistics Modern Pickup Truck *2
     - Technical DShK *2
-    - Ural-375D Logistics Truck *2
+    - Ural-375D Logistics *2
     - Transport Pickup Truck *1
     - Minsk 400 *2
 
@@ -172,16 +168,15 @@
 初始票数： 300  -  300
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *3
+    - MSVS Transport *1
+    - MSVS Logistics *3
     - LUVW M2 *4
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *4
 
-## Skirmish | 遭遇战
 
 ### Mestia Skirmish v1
 
@@ -198,17 +193,16 @@
 初始票数： 150  -  150
 
 ??? abstract "英军载具"
-    - HX60 Transport Truck *3
-    - HX60 Logistics Truck *3
+    - HX60 Transport *3
+    - HX60 Logistics *3
     - LPPV *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *2
+    - Ural-4320 Transport *2
     - Simir Logi *2
-    - Ural-4320 Logistics Truck *2
+    - Ural-4320 Logistics *2
     - Simir MG3 *1
 
-## TC | 领土控制
 
 ### Mestia TC v1
 
@@ -225,13 +219,14 @@
 初始票数： 400  -  400
 
 ??? abstract "美军载具"
-    - M-ATV M2 HB *1
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
-    - M1126 CROWS M2 HB *1
+    - M-ATV M2 *1
+    - M939 Logistics *3
+    - M939 Transport *1
+    - M1126 CROWS M2 *1
 
 ??? abstract "俄军载具"
     - Tigr-M Kord *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Logistics *3
     - BTR-82A *1
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Transport *1
+

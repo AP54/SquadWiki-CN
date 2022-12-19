@@ -4,10 +4,6 @@
 
 ![Sumari_Bala](./img/map_mini/Sumari.jpg)
 
-
-## AAS | 攻守有序
-
-
 ### Sumari Bala AAS v1
 
 切换代码： `AdminChangeLayer Sumari_AAS_v1`
@@ -23,13 +19,13 @@
 初始票数： 250  -  250
 
 ??? abstract "英军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - LPPV *2
 
 ??? abstract "中东载具"
     - Simir Logi *2
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir Kord *2
     - Simir MG3 *1
 
@@ -49,15 +45,15 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *2
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
     - M-ATV CROWS M240 *1
-    - M-ATV CROWS M2 HB *1
+    - M-ATV CROWS M2 *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
     - Tigr-M RWS Kord *1
 
@@ -77,14 +73,14 @@
 初始票数： 250  -  250
 
 ??? abstract "澳军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - PMV Mag58 x3 *3
     - PMV RWS M2 *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
     - Tigr-M RWS Kord *1
 
@@ -104,13 +100,13 @@
 初始票数： 250  -  250
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *1
+    - MSVS Transport *1
+    - MSVS Logistics *1
     - LUVW Logistics *2
     - LUVW M2 *3
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
 
@@ -130,17 +126,14 @@
 初始票数： 250  -  250
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
+    - M939 Transport *1
+    - M939 Logistics *2
     - M1151 M2 Open Doors *3
 
 ??? abstract "中东载具"
-    - Ural-4320 Transport Truck *1
+    - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
-
-
-## Insurgency | 叛乱
 
 
 ### Sumari Bala Insurgency v1
@@ -158,8 +151,8 @@
 初始票数： 200  -  1000
 
 ??? abstract "美军载具"
-    - M-ATV M2 HB *2
-    - M939 Logistics Truck *3
+    - M-ATV M2 *2
+    - M939 Logistics *3
     - M-ATV CROWS M240 *1
 
 ??? abstract "叛军载具"
@@ -169,9 +162,6 @@
     - Technical DShK Shielded *1
     - Armored Technical DShK *1
     - Armored Technical SPG-9 *2
-
-
-## Invasion | 侵攻
 
 
 ### Sumari Bala Invasion v1
@@ -189,9 +179,9 @@
 初始票数： 200  -  900
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *3
-    - M-ATV M2 HB *2
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
     - M-ATV CROWS M240 *1
 
 ??? abstract "叛军载具"
@@ -200,9 +190,6 @@
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
     - Armored Technical DShK *1
-
-
-## RAAS | 随机攻守
 
 
 ### Sumari Bala RAAS v1
@@ -220,14 +207,14 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M939 Logistics *3
+    - M939 Transport *1
     - M-ATV M240 *1
 
 ??? abstract "中东载具"
     - Simir MG3 *1
     - Simir Kord *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir Logi *2
 
 
@@ -246,15 +233,12 @@
 初始票数： 250  -  250
 
 ??? abstract "英军载具"
-    - HX60 Logistics Truck *3
-    - HX60 Transport Truck *1
+    - HX60 Logistics *3
+    - HX60 Transport *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir Logi *2
-
-
-## Seed | 暖服
 
 
 ### Sumari Bala Seed v1
@@ -269,42 +253,18 @@
 
 双方阵营： 美军 VS 俄军
 
-初始票数： 100  -  100
+初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *3
-    - M939 Logistics Truck *4
+    - M939 Transport *3
+    - M939 Logistics *4
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *3
-    - KamAZ 5350 Logistics Truck *4
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *4
 
 
-### Sumari Bala Seed v2
-
-切换代码： `AdminChangeLayer Sumari_Seed_v2`
-
-预设代码： `AdminSetNextLayer Sumari_Seed_v2`
-
-光照情况： 正午&多云
-
-旗点数量： 5
-
-双方阵营： 澳军 VS 叛军
-
-初始票数： 100  -  100
-
-??? abstract "澳军载具"
-    - HX60 Transport Truck *3
-    - HX60 Logistics Truck *4
-
-??? abstract "叛军载具"
-    - Minsk 400 *6
-    - Transport Pickup Truck *3
-    - Logistics Pickup Truck *4
-
-
-### Sumari Bala Seed v3
+### Sumari Bala Seed v1
 
 切换代码： `AdminChangeLayer Sumari_Seed_v3`
 
@@ -316,18 +276,15 @@
 
 双方阵营： 美军 VS PLA
 
-初始票数： 100 - 100
+初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *4
-    - M939 Transport Truck *3
+    - M939 Transport *3
+    - M939 Logistics *4
 
 ??? abstract "PLA载具"
-- CTM-131 Logistics Truck *6
-- CTM-131 Transport Truck QJY-88 *1  
-
-    
-## Skirmish | 遭遇战
+    - CTM-131 Transport QJY-88 *1
+    - CTM-131 Logistics *6
 
 
 ### Sumari Bala Skirmish v1
@@ -336,7 +293,7 @@
 
 预设代码： `AdminSetNextLayer Sumari_Skirmish_v1`
 
-光照情况： 黑夜
+光照情况： 阴天
 
 旗点数量： 5
 
@@ -345,13 +302,11 @@
 初始票数： 150  -  150
 
 ??? abstract "美军载具"
-    - Transport Pickup Truck *4
+    - M939 Transport *1
+    - M939 Logistics *3
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics Truck *4
-
-
-## TC | 领土控制
+    - CTM-131 Logistics *4
 
 
 ### Sumari Bala TC v1
@@ -369,13 +324,13 @@
 初始票数： 400  -  400
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M939 Logistics *3
+    - M939 Transport *1
     - M-ATV M240 *1
 
 ??? abstract "中东载具"
     - Simir MG3 *1
     - Simir Kord *1
-    - Ural-4320 Logistics Truck *3
+    - Ural-4320 Logistics *3
     - Simir Logi *2
 

@@ -4,17 +4,13 @@
 
 ![Harju](./img/map_mini/Harju.jpg)
 
-
-## AAS | 攻守有序
-
-
 ### Harju AAS v1
 
 切换代码： `AdminChangeLayer Harju_AAS_v1`
 
 预设代码： `AdminSetNextLayer Harju_AAS_v1`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 7
 
@@ -23,20 +19,20 @@
 初始票数： 250  -  250
 
 ??? abstract "USMC载具"
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 *3
     - M1151 CROWS M2 *1
     - LAV-25 *2
     - UH-1Y *1
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - KamAZ 5350 Logistics Truck *2
-    - KamAZ 5350 Transport Truck *1
-    - Tigr-M RWS Kord *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
     - Tigr-M Kord *3
+    - Tigr-M RWS Kord *1
     - BTR-82A *2
     - Mi-8 *1
 
@@ -47,7 +43,7 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v2`
 
-光照情况： 中午
+光照情况： None
 
 旗点数量： 5
 
@@ -56,18 +52,18 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
-    - M-ATV M2 HB *2
-    - M-ATV CROWS M2 HB *2
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *2
     - M2A3 *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *3
-    - Tigr-M RWS Kord *2
-    - KamAZ 5350 Transport Truck *1
-    - BMP-2 *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
+    - Tigr-M RWS Kord *2
+    - BMP-2 *1
 
 
 ### Harju AAS v3
@@ -76,36 +72,33 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v3`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 5
 
 双方阵营： 英军 VS 民兵
 
-初始票数： 300  -  300
+初始票数： 350  -  350
 
 ??? abstract "英军载具"
-    - HX60 Logistics Truck *3
-    - HX60 Transport Truck *1
-    - LPPV RWS *1
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - LPPV *3
+    - LPPV RWS *1
     - FV107 *1
     - FV510 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Logistics Truck *2
+    - Ural-375D Transport *1
+    - Ural-375D Logistics *2
     - Logistics Modern Pickup Truck *2
-    - Ural-375D Transport Truck *1
     - Modern Technical M2 HB *2
+    - Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
     - BRDM-2 *1
     - MT-LBM 6MB *1
-    - BMP-1 *1
     - MT-LB ZU-23-2 *1
-    - Modern Technical UB-32 *1
-    - Modern Technical SPG-9 *1
-
-
-## Invasion | 侵攻
+    - BMP-1 *1
 
 
 ### Harju Invasion v1
@@ -114,34 +107,33 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v1`
 
-光照情况： 中午
+光照情况： None
 
-旗点数量： 4
+旗点数量： 8
 
 双方阵营： USMC VS 俄军
 
 初始票数： 200  -  800
 
 ??? abstract "USMC载具"
-    - M939 Logistics Truck *2
-    - AAVC-7A1 Logistics Vehicle *2
-    - RHIB Logistics *2
-    - RHIB M240 *2
-    - RHIB M2 *2
-    - M1151 M2 *2
-    - LAV-25 *3
+    - M939 Logistics *1
+    - AAVC-7A1 Logistics *2
+    - M1151 M2 *1
     - AAVP-7A1 *3
+    - LAV-25 *3
     - UH-1Y *2
+    - RHIB M240 *1
+    - RHIB M2 *1
+    - RHIB Logistics *1
 
 ??? abstract "俄军载具"
-    - BTR-82A *3
+    - KamAZ 5350 Transport *2
+    - KamAZ 5350 Logistics *4
     - Tigr-M Kord *1
-    - BMP-2 *1
-    - Tigr-M RWS Kord *1
     - BRDM-2 *1
     - BTR-80 *1
-    - KamAZ 5350 Transport Truck *2
-    - KamAZ 5350 Logistics Truck *4
+    - BTR-82A *3
+    - BMP-2 *1
     - Mi-8 *2
 
 
@@ -151,7 +143,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v2`
 
-光照情况： 阴天
+光照情况： None
 
 旗点数量： 6
 
@@ -160,31 +152,31 @@
 初始票数： 200  -  900
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *3
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *2
-    - BTR-82A *2
-    - BMP-2 *1
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *3
+    - KamAZ 5350 Logistics *2
     - BRDM-2 *2
     - Tigr-M Kord *2
+    - BTR-82A *2
+    - BMP-2 *1
     - T-72B3 *2
     - Mi-8 *2
 
 ??? abstract "民兵载具"
-    - Ural-375D Logistics Truck *3
-    - Ural-375D Transport Truck *1
-    - Modern Technical SPG-9 *2
-    - Logistics Modern Pickup Truck *3
-    - Minsk 400 *5
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Logistics Modern Pickup Truck *1
+    - Ural-375D Logistics *1
+    - Modern Technical M2 HB *1
     - Technical DShK *1
-    - Modern Technical M2 HB
+    - Ural-375D ZU-23-2 *2
+    - MT-LB ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *2
     - BRDM-2 *1
     - BTR-80 *1
     - BMP-1 *1
     - T-62 *1
-    - Ural-375D ZU-23-2 *2
-    - MT-LB ZU-23-2 *1
-    - Modern Technical UB-32 *1
 
 
 ### Harju Invasion v3
@@ -193,36 +185,38 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v3`
 
-光照情况： 下午
+光照情况： None
 
 旗点数量： 5
 
-双方阵营：英军 VS 民兵
+双方阵营： 英军 VS 民兵
 
 初始票数： 200  -  900
 
 ??? abstract "英军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - FV107 *2
-    - FV432 RWS *2
     - FV432 *2
+    - FV432 RWS *2
     - FV4034 *1
     - SA330 *1
-    
+    - RHIB Logistics *1
+    - RHIB Transport *1
+    - RHIB M2 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport Truck *1
-    - Ural-375D Logistics Truck *3
-    - BRDM-2 *1
-    - Minsk 400 *5
-    - Ural-375D ZU-23-2 *2
-    - Logistics Modern Pickup Truck *3
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Logistics Modern Pickup Truck *1
+    - Ural-375D Logistics *1
     - Modern Technical M2 HB *1
     - Technical DShK *1
-    - Technical SPG-9 *2
-    - Technical UB-32 *1
+    - Ural-375D ZU-23-2 *2
     - MT-LB ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *2
+    - BRDM-2 *1
     - BMP-1 *1
     - T-62 *1
 
@@ -233,7 +227,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v4`
 
-光照情况： 下午
+光照情况： None
 
 旗点数量： 5
 
@@ -242,20 +236,24 @@
 初始票数： 200  -  900
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *1
-    - TAPV M2 *1
+    - MSVS Transport *1
+    - MSVS Logistics *1
+    - LUVW Logistics *2
     - LUVW M2 *2
+    - TAPV M2 *1
     - M113A3 TLAV *1
     - Coyote *1
     - LAV 6 *2
     - Leopard 2A6M CAN *1
     - CH-146 *1
+    - RHIB Logistics *1
+    - RHIB Transport *1
+    - RHIB M2 *1
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - KamAZ 5350 Logistics Truck *2
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *2
     - Tigr-M Kord *3
     - BTR-82A *3
     - T-72B3 *1
@@ -267,7 +265,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v5`
 
-光照情况： 下雨
+光照情况： None
 
 旗点数量： 6
 
@@ -276,29 +274,26 @@
 初始票数： 800  -  200
 
 ??? abstract "英军载具"
-    - HX60 Logistics Truck *4
-    - HX60 Transport Truck *1
-    - LPPV RWS *1
+    - HX60 Transport *1
+    - HX60 Logistics *4
     - LPPV *3
+    - LPPV RWS *1
     - FV107 *2
     - FV510 *2
 
 ??? abstract "PLA载具"
-    - RHIB Logistics Truck *1
-    - CTM-131 Logistics Truck *2
-    - CTM-131 Transport Truck QJZ-89 *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
-    - CSK-131 RWS *1
+    - CTM-131 Transport QJZ-89 *1
+    - CTM-131 Logistics *2
+    - CSK-131 QJZ-89 RWS *1
     - CSK-131 QJZ-89 *1
     - ZSL-10 *2
     - ZBL-08 HJ-73C *2
     - ZBD-04A *1
     - ZTZ-99A *1
     - Z-8G *1
-
-    
-## RAAS | 随机攻守
+    - RHIB QJY-88 *1
+    - RHIB QJZ-89 *1
+    - RHIB Logistics *1
 
 
 ### Harju RAAS v1
@@ -307,7 +302,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v1`
 
-光照情况： 下午
+光照情况： None
 
 旗点数量： 5
 
@@ -316,23 +311,23 @@
 初始票数： 300  -  300
 
 ??? abstract "USMC载具"
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *3
-    - AAVC-7A1 Logistics Vehicle *1
-    - MATV M2 *1
+    - M939 Transport *1
+    - M939 Logistics *3
+    - AAVC-7A1 Logistics *1
     - M1151 M2 *1
-    - LAV-25 *1
+    - MATV M2 *1
     - AAVP-7A1 *1
+    - LAV-25 *1
     - UH-1Y *2
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - KamAZ 5350 Logistics Truck *3
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - MT-LB Logistics *1
     - Tigr-M Kord *1
     - Tigr-M RWS Kord *1
-    - BTR-82A *2
     - BTR-80 *1
+    - BTR-82A *2
     - Mi-8 *2
 
 
@@ -342,7 +337,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v2`
 
-光照情况： 阴天
+光照情况： None
 
 旗点数量： 6
 
@@ -351,23 +346,22 @@
 初始票数： 350  -  350
 
 ??? abstract "英军载具"
-    - HX60 Transport Truck *1
-    - HX60 Logistics Truck *3
-    - LPPV RWS *2
+    - HX60 Transport *1
+    - HX60 Logistics *3
     - LPPV *1
-    - FV107 *3
-    - FV432 RWS *1
+    - LPPV RWS *2
     - FV432 *1
+    - FV432 RWS *1
+    - FV107 *3
     - SA330 *1
-    
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - KamAZ 5350 Logistics Truck *2
-    - KamAZ 5350 Transport Truck *1
-    - BRDM-2 *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
     - Tigr-M Kord *1
     - Tigr-M RWS Kord *1
+    - BRDM-2 *1
     - MT-LB VMK *1
     - MT-LBM 6MA *1
     - BTR-80 *3
@@ -380,7 +374,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v3`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 6
 
@@ -389,34 +383,33 @@
 初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - RHIB Logistics *1
-    - RHIB M240 *1
-    - RHIB M2 *1
-    - M939 Transport Truck *1
-    - M939 Logistics Truck *2
-    - M-ATV M2 HB *2
-    - M-ATV M240 *1
+    - M939 Transport *1
+    - M939 Logistics *2
     - M-ATV CROWS M240 *1
-    - M-ATV CROWS M2 HB *1
-    - M1126 CROWS M2 HB *2
+    - M-ATV M240 *1
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
     - M2A3 *1
     - M1A2 *1
     - UH-60M *2
-    
+    - RHIB Logistics *1
+    - RHIB M240 *1
+    - RHIB M2 *1
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - RHIB Logistics *1
-    - RHIB NSV *1
-    - RHIB PKP *1
-    - KamAZ 5350 Logistics Truck *1
-    - KamAZ 5350 Transport Truck *1
-    - BRDM-2 *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *1
     - Tigr-M Kord *3
+    - BRDM-2 *1
     - BTR-82A *2
     - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *2
+    - RHIB Logistics *1
+    - RHIB PKP *1
+    - RHIB NSV *1
 
 
 ### Harju RAAS v4
@@ -425,7 +418,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v4`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 6
 
@@ -435,32 +428,32 @@
 
 ??? abstract "加军载具"
     - RHIB Logistics *1
-    - RHIB M2 *1
     - RHIB Transport *1
-    - MSVS Transport Truck *1
-    - MSVS Logistics Truck *1
-    - TAPV M2 *1
+    - RHIB M2 *1
+    - MSVS Transport *1
+    - MSVS Logistics *1
+    - LUVW Logistics *1
     - LUVW M2 *2
+    - TAPV M2 *1
     - M113A3 TLAV *1
-    - LAV 6 *2
     - Coyote *1
+    - LAV 6 *2
     - Leopard 2A6M CAN *1
     - CH-146 *2
-    
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *1
-    - RHIB Logistics *1
-    - RHIB NSV *1
-    - RHIB PKP *1
-    - KamAZ 5350 Logistics Truck *1
-    - KamAZ 5350 Transport Truck *1
-    - BRDM-2 *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *1
     - Tigr-M Kord *3
+    - BRDM-2 *1
     - BTR-82A *2
     - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *2
+    - RHIB Logistics *1
+    - RHIB PKP *1
+    - RHIB NSV *1
 
 
 ### Harju RAAS v5
@@ -469,34 +462,33 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v5`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 6
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 300  -  300
+初始票数： 300  -  320
 
 ??? abstract "俄军载具"
-    - MT-LB Logistics Vehicle *2
-    - KamAZ 5350 Logistics Truck *1
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *2
     - Tigr-M Kord *4
     - MT-LB VMK *1
     - Mi-8 *1
-    
 
 ??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Ural-375D Logistics *1
     - Logistics Modern Pickup Truck *4
-    - Ural-375D Logistics Truck *1
-    - Ural-375D Transport Truck *1
-    - Minsk 400 *3
     - Modern Technical M2 HB *2
-    - Modern Technical UB-32 *1
     - Modern Technical SPG-9 *1
-    - BTR-80 *2
+    - Modern Technical UB-32 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
+    - BTR-80 *2
 
 
 ### Harju RAAS v6
@@ -505,40 +497,38 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v6`
 
-光照情况： 正午
+光照情况： None
 
-旗点数量： 8
+旗点数量： 6
 
 双方阵营： 美军 VS PLA
 
 初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *2
-    - RHIB Logistics Truck *1
-    - M939 Transport Truck *1
-    - RHIB M240
-    - RHIB M2 *3
+    - M939 Transport *1
+    - M939 Logistics *2
+    - RHIB Logistics *1
+    - RHIB M240 *1
+    - RHIB M2 *1
+    - M-ATV M2 *3
     - M-ATV CROWS M2 *2
     - M2A3 *2
     - M1A2 *2
     - UH-60M *2
 
-
 ??? abstract "PLA载具"
-    - RHIB Logistics Truck *2
-    - CTM-131 Logistics Truck *2
-    - CTM-131 Transport Truck QJY-88 *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - CTM-131 Transport QJY-88 *1
+    - CTM-131 Logistics *2
+    - RHIB Logistics *1
+    - CSK-131 QJZ-89 *3
     - CSK-131 QJZ-89 RWS *1
-    - CSK-131 QJY-88 *3
     - ZBD-04A *2
     - ZTZ-99A *2
     - Z-8G *2
+    - RHIB QJY-88 *1
+    - RHIB QJZ-89 *1
 
-
-## Seed | 暖服
 
 ### Harju Seed v1
 
@@ -546,7 +536,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Seed_v1`
 
-光照情况： 清晨
+光照情况： None
 
 旗点数量： 5
 
@@ -555,16 +545,13 @@
 初始票数： 100  -  100
 
 ??? abstract "USMC载具"
-    - M939 Logistics Truck *3
+    - M939 Logistics *3
     - M1151 M2 *2
 
-
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
 
-
-## Skirmish | 遭遇战
 
 ### Harju Skirmish v1
 
@@ -572,7 +559,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v1`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 5
 
@@ -581,15 +568,14 @@
 初始票数： 150  -  150
 
 ??? abstract "USMC载具"
-    - M939 Logistics Truck *2
-    - M939 Transport Truck *2
-    - AAVC-7A1 Logistics Vehicle *1
-
+    - M939 Transport *2
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *2
-    - KamAZ 5350 Transport Truck *2
-    - MT-LB Logistics Vehicle *1
+    - KamAZ 5350 Transport *2
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
 
 
 ### Harju Skirmish v2
@@ -598,7 +584,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v2`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 5
 
@@ -607,13 +593,80 @@
 初始票数： 150  -  150
 
 ??? abstract "加军载具"
-    - MSVS Logistics Truck *3
-    - MSVS Transport Truck *1
+    - MSVS Transport *1
+    - MSVS Logistics *3
     - M113A3 TLAV *1
 
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
+    - MT-LBM 6MA *1
+
+
+### Harju TC v1
+
+切换代码： `AdminChangeLayer Harju_TC_v1`
+
+预设代码： `AdminSetNextLayer Harju_TC_v1`
+
+光照情况： None
+
+旗点数量： 21
+
+双方阵营： USMC VS 俄军
+
+初始票数： 400  -  400
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 *3
+    - M1151 CROWS M2 *1
+    - LAV-25 *2
+    - UH-1Y *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *2
-    - KamAZ 5350 Transport Truck *1
-    - MT-LB Logistics Vehicle *1
-    - MT-LBM 6MA *1
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
+    - Tigr-M Kord *3
+    - Tigr-M RWS Kord *1
+    - BTR-82A *2
+    - Mi-8 *1
+
+
+### Harju TC v2
+
+切换代码： `AdminChangeLayer Harju_TC_v2`
+
+预设代码： `AdminSetNextLayer Harju_TC_v2`
+
+光照情况： None
+
+旗点数量： 37
+
+双方阵营： USMC VS 俄军
+
+初始票数： 400  -  400
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 *3
+    - M1151 CROWS M2 *1
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
+    - Tigr-M Kord *3
+    - Tigr-M RWS Kord *1
+    - BTR-82A *2
+    - Mi-8 *1
+
+

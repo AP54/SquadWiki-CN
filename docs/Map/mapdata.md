@@ -1,4 +1,10 @@
-# Al Basrah | 巴士拉
+# SQUAD 战术小队地图手册 | V4.0
+
+本手册由战术小队中文维基项目组制作。
+
+站点地址：https://www.squadwiki.cn
+
+## Al Basrah | 巴士拉
 
 > 文章作者：桀氓AlbertWensley, Astesia
 
@@ -650,7 +656,7 @@
     - Mi-17 *1
 
 
-# Belaya Pass | 贝拉亚山口
+## Belaya Pass | 贝拉亚山口
 
 > 文章作者：桀氓AlbertWensley
 
@@ -1085,7 +1091,7 @@
     - Mi-8 *1
 
 
-# Chora | 乔拉
+## Chora | 乔拉
 
 > 文章作者：桀氓AlbertWensley
 
@@ -1555,7 +1561,7 @@
     - Ural-4320 Transport *1
 
 
-# Fallujah | 费卢杰
+## Fallujah | 费卢杰
 
 > 文章作者：桀氓AlbertWensley
 
@@ -2251,7 +2257,7 @@
     - Simir Logi *1
 
 
-# Fool's Road | 傻瓜之路
+## Fool's Road | 傻瓜之路
 
 > 文章作者：桀氓AlbertWensley
 
@@ -2603,7 +2609,7 @@
     - Transport Pickup Truck *1
 
 
-# Goose Bay | 鹅湾
+## Goose Bay | 鹅湾
 
 > 文章作者：桀氓AlbertWensley
 
@@ -3004,7 +3010,7 @@
     - Tigr-M Kord *1
 
 
-# Gorodok | 格鲁多克
+## Gorodok | 格鲁多克
 
 > 文章作者：桀氓AlbertWensley, TL
 
@@ -3810,7 +3816,7 @@
     - Mi-8 *1
 
 
-# Jensen's Range | 延森训练场
+## Jensen's Range | 延森训练场
 
 > 文章作者：桀氓AlbertWensley
 
@@ -4057,7 +4063,7 @@
     - Mi-17 *1
 
 
-# Kamdesh Highlands | 卡姆德什高地
+## Kamdesh Highlands | 卡姆德什高地
 
 > 文章作者：桀氓AlbertWensley
 
@@ -4790,7 +4796,7 @@
     - BRDM-2 *2
 
 
-# Kohat Toi | 科哈特
+## Kohat Toi | 科哈特
 
 > 文章作者：桀氓AlbertWensley, TL
 
@@ -5456,7 +5462,7 @@
     - Mi-17 *2
 
 
-# Kokan | 寇坎
+## Kokan | 寇坎
 
 > 文章作者：桀氓AlbertWensley
 
@@ -5779,7 +5785,7 @@
     - Simir MG3 *1
 
 
-# Lashkar Valley | 拉什卡谷
+## Lashkar Valley | 拉什卡谷
 
 > 文章作者：桀氓AlbertWensley
 
@@ -6449,7 +6455,7 @@
     - T-62 *2
 
 
-# Logar Valley | 罗杰尔谷
+## Logar Valley | 罗杰尔谷
 
 > 文章作者：桀氓AlbertWensley
 
@@ -6695,7 +6701,7 @@
     - Simir Logi *1
 
 
-# Manic-5 | 马尼克大坝
+## Manic-5 | 马尼克大坝
 
 > 文章作者：桀氓AlbertWensley
 
@@ -7011,7 +7017,7 @@
     - Mi-8 *1
 
 
-# Mestia | 梅斯提亚
+## Mestia | 梅斯提亚
 
 > 文章作者：桀氓AlbertWensley
 
@@ -7244,7 +7250,7 @@
     - KamAZ 5350 Transport *1
 
 
-# Mutaha | 穆塔哈
+## Mutaha | 穆塔哈
 
 > 文章作者：桀氓AlbertWensley, TL
 
@@ -7862,7 +7868,7 @@
     - Mi-17 *1
 
 
-# Narva | 纳尔瓦
+## Narva | 纳尔瓦
 
 > 文章作者：桀氓AlbertWensley, Astesia, TL
 
@@ -8478,7 +8484,7 @@
     - BTR-80 *1
 
 
-# Skorpo | 斯科珀
+## Skorpo | 斯科珀
 
 > 文章作者：桀氓AlbertWensley, Astesia, TL
 
@@ -8925,7 +8931,7 @@
     - Tigr-M Kord *1
 
 
-# Sumari Bala | 索马里
+## Sumari Bala | 索马里
 
 > 文章作者：桀氓AlbertWensley, TL
 
@@ -9262,7 +9268,7 @@
     - Simir Logi *2
 
 
-# Tallil Outskirts | 塔利尔郊区
+## Tallil Outskirts | 塔利尔郊区
 
 > 文章作者：桀氓AlbertWensley
 
@@ -10028,7 +10034,7 @@
 
 
 
-# Yehorivka | 叶霍里符卡
+## Yehorivka | 叶霍里符卡
 
 > 文章作者：桀氓AlbertWensley, TL
 
@@ -10945,7 +10951,7 @@
     - Mi-8 *1
 
 
-# Black Coast | 黑色海岸
+## Black Coast | 黑色海岸
 
 > 文章作者：桀氓AlbertWensley, Astesia
 
@@ -11361,7 +11367,7 @@
     - KamAZ 5350 Logistics *3
 
 
-# Harju | 哈留
+## Harju | 哈留
 
 > 文章作者：桀氓AlbertWensley, TL
 

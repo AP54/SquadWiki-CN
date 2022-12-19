@@ -4,10 +4,6 @@
 
 ![Skorpo](./img/map_mini/Skorpo.jpg)
 
-
-## AAS | 攻守有序
-
-
 ### Skorpo AAS v1
 
 切换代码： `AdminChangeLayer Skorpo_AAS_v1`
@@ -23,23 +19,20 @@
 初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M1126 CROWS M2 HB *1
+    - M1126 CROWS M2 *1
     - M2A3 *1
-    - M-ATV M2 HB *1
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M-ATV M2 *1
+    - M939 Logistics *3
+    - M939 Transport *1
     - UH-60M *2
 
 ??? abstract "俄军载具"
     - BTR-82A *1
     - BMP-2 *1
     - Tigr-M Kord *1
-    - KamAZ 5350 Logistics Truck *3
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Transport *1
     - Mi-8 *2
-
-
-## Invasion | 侵攻
 
 
 ### Skorpo Invasion v1
@@ -57,16 +50,16 @@
 初始票数： 200  -  900
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *1
-    - M-ATV M2 HB *2
-    - M1126 CROWS M2 HB *2
+    - M939 Logistics *1
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
     - M1A2 *2
     - UH-60M *3
 
 ??? abstract "民兵载具"
     - Minsk 400 *2
-    - Logistics Pickup Truck *1
-    - Ural-375D Logistics Truck *1
+    - Logistics Modern Pickup Truck *1
+    - Ural-375D Logistics *1
     - Technical DShK Shielded *3
     - Technical UB-32 *2
     - BRDM-2 *1
@@ -89,84 +82,85 @@
 初始票数： 200  -  800
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *4
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Logistics *4
+    - KamAZ 5350 Transport *1
     - BTR-82A *1
     - BRDM-2 *1
 
 ??? abstract "民兵载具"
-    - Logistics Pickup Truck *4
+    - Logistics Modern Pickup Truck *4
     - Transport Pickup Truck *1
     - Technical DShK *1
 
-###  Skorpo Invasion v3
+
+### Skorpo Invasion v3
 
 切换代码： `AdminChangeLayer Skorpo_Invasion_v3`
 
 预设代码： `AdminSetNextLayer Skorpo_Invasion_v3`
 
-光照情况： 大雾
+光照情况： 黄昏
 
-旗点数量： 5
+旗点数量： 4
 
 双方阵营： USMC VS 俄军
 
 初始票数： 200  -  900
 
 ??? abstract "USMC载具"
-    - AAVC-7A1 Logistics Vehicle *3
     - RHIB Logistics *2
-    - RHIB M240 *2
-    - RHIB M2 *3
-    - LAV-25 *2
-    - AAVP-7A1 *3
-    - UH-1Y *1
+    - RHIB M2 *1
+    - RHIB M240 *1
+    - AAVC-7A1 Logistics *1
+    - AAVP-7A1 *1
+    - LAV-25 *1
+    - UH-1Y *2
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *4
-    - KamAZ 5350 Transport Truck *2
-    - BRDM-2 *1
-    - BTR-82A *1
-    - BTR-80 *2
-    - Mi-8 *2
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *4
     - Tigr-M Kord *3
+    - BRDM-2 *1
+    - BTR-80 *2
+    - BTR-82A *1
+    - Mi-8 *2
 
-###  Skorpo Invasion v4
+
+### Skorpo Invasion v4
 
 切换代码： `AdminChangeLayer Skorpo_Invasion_v4`
 
 预设代码： `AdminSetNextLayer Skorpo_Invasion_v4`
 
-光照情况： 黄昏
+光照情况： 大雾
 
 旗点数量： 5
 
-双方阵营： USMC vs 俄军
+双方阵营： 俄军 VS 民兵
 
-初始票数： 200 - 900
-
-??? abstract "USMC载具"
-    - AAVC-7A1 Logistics Vehicle *3
-    - RHIB Logistics *2
-    - RHIB M240 *2
-    - RHIB M2 *3
-    - LAV-25 *2
-    - AAVP-7A1 *3
-    - UH-1Y *2
+初始票数： 200  -  900
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics Truck *4
-    - KamAZ 5350 Transport Truck *2
+    - MT-LB Logistics *1
     - BRDM-2 *1
-    - Rigr-M Kord *3
+    - BTR-80 *1
     - BTR-82A *1
-    - BTR-80 *2
     - Mi-8 *2
 
-## RAAS | 随机攻守
+??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup Truck *1
+    - Modern Technical M2 HB *1
+    - Modern Technical ZU-23-2 *1
+    - Ural-375D ZU-23-2 *2
+    - Modern Technical SPG-9 *1
+    - BRDM-2 *1
+    - BTR-80 *1
 
 
-### Skorpo RAAS_v1
+### Skorpo RAAS v1
 
 切换代码： `AdminChangeLayer Skorpo_RAAS_v1`
 
@@ -181,11 +175,11 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
+    - M939 Logistics *3
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
-    - M939 Transport Truck *1
-    - M-ATV M2 HB *1
+    - M1126 CROWS M2 *1
+    - M939 Transport *1
+    - M-ATV M2 *1
     - M1A2 *1
     - UH-60M *2
 
@@ -193,8 +187,8 @@
     - BTR-82A *1
     - BMP-2 *1
     - T-72B3 *1
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
     - Mi-8 *2
 
@@ -214,19 +208,19 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
+    - M939 Logistics *3
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
-    - M-ATV M2 HB *2
-    - M939 Transport Truck *1
+    - M1126 CROWS M2 *1
+    - M-ATV M2 *2
+    - M939 Transport *1
     - M1A2 *1
     - UH-60M *2
 
 ??? abstract "俄军载具"
     - BMP-2 *1
     - T-72B3 *1
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
     - BTR-82A *1
     - BRDM-2 *1
@@ -248,19 +242,19 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *4
+    - M939 Logistics *4
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
-    - M-ATV M2 HB *2
+    - M1126 CROWS M2 *1
+    - M-ATV M2 *2
     - M1A2 *1
     - M-ATV TOW *1
 
 ??? abstract "民兵载具"
     - Technical UB-32 *2
-    - Ural-375D Logistics Truck *3
+    - Ural-375D Logistics *3
     - T-62 *2
     - Transport Pickup Truck *3
-    - Logistics Pickup Truck *2
+    - Logistics Modern Pickup Truck *2
     - MT-LBM 6MB *1
     - BTR-80 *1
 
@@ -280,11 +274,11 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics Truck *3
+    - M939 Logistics *3
     - M2A3 *1
-    - M1126 CROWS M2 HB *1
-    - M-ATV M2 HB *2
-    - M939 Transport Truck *1
+    - M1126 CROWS M2 *1
+    - M-ATV M2 *2
+    - M939 Transport *1
     - M1126 CROWS M240 *1
     - M1A2 *1
     - UH-60M *2
@@ -292,8 +286,8 @@
 ??? abstract "俄军载具"
     - BTR-82A *1
     - T-72B3 *1
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - BTR-80 *1
     - Tigr-M RWS Kord *1
     - Tigr-M Kord *1
@@ -316,7 +310,7 @@
 初始票数： 300  -  320
 
 ??? abstract "加军载具"
-    - MSVS Transport Truck *1
+    - MSVS Transport *1
     - LUVW Logistics *2
     - LUVW M2 *3
     - Coyote *2
@@ -324,16 +318,13 @@
     - CH-146 *3
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *1
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - MT-LB VMK *1
     - MT-LBM 6MA *1
     - BMP-2 *3
     - T-72B3 *1
     - Mi-8 *1
-
-
-## Skirmish | 遭遇战
 
 
 ### Skorpo Skirmish v1
@@ -351,17 +342,14 @@
 初始票数： 150  -  150
 
 ??? abstract "美军载具"
-    - M939 Transport Truck *3
-    - M939 Logistics Truck *3
+    - M939 Transport *3
+    - M939 Logistics *3
     - M-ATV M240 *1
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport Truck *3
-    - KamAZ 5350 Logistics Truck *3
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
-
-
-## TC | 领土控制
 
 
 ### Skorpo TC v1
@@ -379,17 +367,17 @@
 初始票数： 400  -  400
 
 ??? abstract "美军载具"
-    - M1126 CROWS M2 HB *1
-    - M-ATV M2 HB *2
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M1126 CROWS M2 *1
+    - M-ATV M2 *2
+    - M939 Logistics *3
+    - M939 Transport *1
     - UH-60M *1
 
 ??? abstract "俄军载具"
     - BTR-82A *1
     - Tigr-M Kord *2
-    - KamAZ 5350 Logistics Truck *3
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Transport *1
     - Mi-8 *1
 
 
@@ -408,18 +396,18 @@
 初始票数： 400  -  400
 
 ??? abstract "美军载具"
-    - M1126 CROWS M2 HB *2
-    - M-ATV M2 HB *2
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M1126 CROWS M2 *2
+    - M-ATV M2 *2
+    - M939 Logistics *3
+    - M939 Transport *1
     - UH-60M *2
 
 ??? abstract "俄军载具"
     - Mi-8 *2
     - BTR-82A *2
     - BRDM-2 *1
-    - KamAZ 5350 Logistics Truck *3
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Transport *1
     - Tigr-M Kord *1
 
 
@@ -438,10 +426,10 @@
 初始票数： 500  -  500
 
 ??? abstract "美军载具"
-    - M1126 CROWS M2 HB *2
-    - M-ATV M2 HB *2
-    - M939 Logistics Truck *3
-    - M939 Transport Truck *1
+    - M1126 CROWS M2 *2
+    - M-ATV M2 *2
+    - M939 Logistics *3
+    - M939 Transport *1
     - M2A3 *1
     - M1A2 *1
     - UH-60M *2
@@ -450,8 +438,9 @@
     - BTR-82A *2
     - BMP-2 *1
     - Tigr-M RWS Kord *1
-    - KamAZ 5350 Logistics Truck *3
-    - KamAZ 5350 Transport Truck *1
+    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Transport *1
     - T-72B3 *1
     - Mi-8 *2
     - Tigr-M Kord *1
+
