@@ -24,16 +24,16 @@
 
     - [Gorodok Insurgency v1](../../Map/gorodok/#gorodok-insurgency-v1)
 
-    - [Kamdesh Highlands Insurgency v1](../../Map/kamdesh_highlands/#kamdesh-highlands-insurgency-v1)
+    - [Kamdesh Insurgency v1](../../Map/kamdesh/#kamdesh-insurgency-v1)
 
-    - [Kamdesh Highlands Insurgency v2](../../Map/kamdesh_highlands/#kamdesh-highlands-insurgency-v2)
+    - [Kamdesh Insurgency v2](../../Map/kamdesh/#kamdesh-insurgency-v2)
 
     - [Kohat Toi Insurgency v1](../../Map/kohat_toi/#kohat-toi-insurgency-v1)
 
     - [Kokan Insurgency v1](../../Map/kokan/#kokan-insurgency-v1)
 
-    - [Lashkar Valley Insurgency v1](../../Map/lashkar_valley/#lashkar-valley-insurgency-v1)
+    - [Lashkar Insurgency v1](../../Map/lashkar/#lashkar-insurgency-v1)
 
-    - [Logar Valley Insurgency v1](../../Map/logar_valley/#logar-valley-insurgency-v1)
+    - [Logar Insurgency v1](../../Map/logar/#logar-insurgency-v1)
 
     - [Sumari Bala Insurgency v1](../../Map/sumari_bala/#sumari-bala-insurgency-v1)

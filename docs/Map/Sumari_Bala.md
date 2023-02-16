@@ -264,7 +264,31 @@
     - KamAZ 5350 Logistics *4
 
 
-### Sumari Bala Seed v1
+### Sumari Bala Seed v2
+
+切换代码： `AdminChangeLayer Sumari_Seed_v2`
+
+预设代码： `AdminSetNextLayer Sumari_Seed_v2`
+
+光照情况： 正午&多云
+
+旗点数量： 5
+
+双方阵营： 澳军 VS 叛军
+
+初始票数： 300  -  300
+
+??? abstract "澳军载具"
+    - HX60 Transport *3
+    - HX60 Logistics *4
+
+??? abstract "叛军载具"
+    - Minsk 400 *1
+    - Transport Pickup Truck *3
+    - Logistics Pickup Truck *4
+
+
+### Sumari Bala Seed v3
 
 切换代码： `AdminChangeLayer Sumari_Seed_v3`
 

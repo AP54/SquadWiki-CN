@@ -100,6 +100,39 @@
     - T-72B3 *1
 
 
+### Manic-5 Invasion v2
+
+切换代码： `AdminChangeLayer Manic_Invasion_v2`
+
+预设代码： `AdminSetNextLayer Manic_Invasion_v2`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： 加军 VS 美军
+
+初始票数： 900  -  200
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - LUVW Logistics *4
+    - LUVW C6 *2
+    - LUVW M2 *2
+    - Coyote *2
+    - LUV-A1 Transport *1
+    - LUV-A1 Logistics *1
+
+??? abstract "美军载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *2
+    - M2A3 *3
+    - M1A2 *1
+    - UH-60M *1
+
+
 ### Manic-5 RAAS v1
 
 切换代码： `AdminChangeLayer Manic_RAAS_v1`

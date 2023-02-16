@@ -133,6 +133,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.tracking
+    - content.code.copy
     - tabs: true
   palette:
     scheme: slate

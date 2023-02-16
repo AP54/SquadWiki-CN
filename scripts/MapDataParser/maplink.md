@@ -1,5 +1,9 @@
 ## AAS
 
+- [Anvil AAS v1](../../Map/anvil/#anvil-aas-v1)
+
+- [Anvil AAS v2](../../Map/anvil/#anvil-aas-v2)
+
 - [Al Basrah AAS v1](../../Map/al_basrah/#al-basrah-aas-v1)
 
 - [Al Basrah AAS v2](../../Map/al_basrah/#al-basrah-aas-v2)
@@ -130,7 +134,7 @@
 
 - [Harju AAS v3](../../Map/harju/#harju-aas-v3)
 
-AAS:65
+AAS:67
 
 ## Destruction
 
@@ -171,6 +175,10 @@ Destruction:4
 Insurgency:11
 
 ## Invasion
+
+- [Anvil Invasion v1](../../Map/anvil/#anvil-invasion-v1)
+
+- [Anvil Invasion v2](../../Map/anvil/#anvil-invasion-v2)
 
 - [Al Basrah Invasion v1](../../Map/al_basrah/#al-basrah-invasion-v1)
 
@@ -330,9 +338,17 @@ Insurgency:11
 
 - [Harju Invasion v5](../../Map/harju/#harju-invasion-v5)
 
-Invasion:79
+Invasion:81
 
 ## RAAS
+
+- [Anvil RAAS v1](../../Map/anvil/#anvil-raas-v1)
+
+- [Anvil RAAS v2](../../Map/anvil/#anvil-raas-v2)
+
+- [Anvil RAAS v3](../../Map/anvil/#anvil-raas-v3)
+
+- [Anvil RAAS v4](../../Map/anvil/#anvil-raas-v4)
 
 - [Al Basrah RAAS v1](../../Map/al_basrah/#al-basrah-raas-v1)
 
@@ -582,7 +598,7 @@ Invasion:79
 
 - [Harju RAAS v6](../../Map/harju/#harju-raas-v6)
 
-RAAS:124
+RAAS:128
 
 ## Seed
 
@@ -596,7 +612,7 @@ RAAS:124
 
 - [Sumari Bala Seed v2](../../Map/sumari_bala/#sumari-bala-seed-v2)
 
-- [Sumari Bala Seed v1](../../Map/sumari_bala/#sumari-bala-seed-v1)
+- [Sumari Bala Seed v3](../../Map/sumari_bala/#sumari-bala-seed-v3)
 
 - [Tallil Outskirts Seed v1](../../Map/tallil_outskirts/#tallil-outskirts-seed-v1)
 
@@ -609,6 +625,8 @@ RAAS:124
 Seed:10
 
 ## Skirmish
+
+- [Anvil Skirmish v1](../../Map/anvil/#anvil-skirmish-v1)
 
 - [Al Basrah Skirmish v1](../../Map/al_basrah/#al-basrah-skirmish-v1)
 
@@ -672,7 +690,7 @@ Seed:10
 
 - [Harju Skirmish v2](../../Map/harju/#harju-skirmish-v2)
 
-Skirmish:31
+Skirmish:32
 
 ## TA
 
@@ -695,6 +713,8 @@ TA:4
 Tanks:2
 
 ## TC
+
+- [Anvil TC v1](../../Map/anvil/#anvil-tc-v1)
 
 - [Al Basrah TC v1](../../Map/al_basrah/#al-basrah-tc-v1)
 
@@ -770,7 +790,7 @@ Tanks:2
 
 - [Harju TC v2](../../Map/harju/#harju-tc-v2)
 
-TC:37
+TC:38
 
 ## Training
 

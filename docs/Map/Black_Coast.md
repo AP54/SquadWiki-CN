@@ -10,7 +10,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_AAS_v1`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 5
 
@@ -41,7 +41,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_AAS_v2`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -77,7 +77,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Invasion_v1`
 
-光照情况： None
+光照情况： 大雾
 
 旗点数量： 4
 
@@ -113,7 +113,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Invasion_v2`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 5
 
@@ -153,7 +153,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Invasion_v3`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 5
 
@@ -188,7 +188,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Invasion_v4`
 
-光照情况： None
+光照情况： 大雾
 
 旗点数量： 6
 
@@ -229,7 +229,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_RAAS_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 7
 
@@ -264,7 +264,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_RAAS_v2`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -302,7 +302,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_RAAS_v3`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -337,7 +337,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_RAAS_v4`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 7
 
@@ -374,7 +374,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Seed_v1`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 4
 
@@ -397,7 +397,7 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Skirmish_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 

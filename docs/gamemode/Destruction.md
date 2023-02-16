@@ -23,7 +23,8 @@
     - [Fool's Road Destruction v1](../../Map/fools_road/#fools-road-destruction-v1)
 
     - [Gorodok Destruction v1](../../Map/gorodok/#gorodok-destruction-v1)
-
-    - [Narva_Destruction v1](../../Map/narva/#narva_destruction-v1)
-
+    
+    - [Narva Destruction v1](../../Map/narva/#narva-destruction-v1)
+    
     - [Yehorivka Destruction v1](../../Map/yehorivka/#yehorivka-destruction-v1)
+

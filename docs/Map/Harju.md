@@ -10,7 +10,7 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 7
 
@@ -43,7 +43,7 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v2`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -72,7 +72,7 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v3`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -107,7 +107,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 8
 
@@ -143,7 +143,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v2`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 6
 
@@ -185,7 +185,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v3`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -227,7 +227,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v4`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -265,7 +265,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v5`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 6
 
@@ -302,7 +302,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -337,7 +337,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v2`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 6
 
@@ -374,7 +374,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v3`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -418,7 +418,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v4`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -462,7 +462,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v5`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -497,7 +497,7 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v6`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 6
 
@@ -536,7 +536,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Seed_v1`
 
-光照情况： None
+光照情况： 黎明
 
 旗点数量： 5
 
@@ -559,7 +559,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -584,7 +584,7 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v2`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 5
 
@@ -610,7 +610,7 @@
 
 预设代码： `AdminSetNextLayer Harju_TC_v1`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 21
 

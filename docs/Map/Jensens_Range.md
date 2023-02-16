@@ -4,7 +4,7 @@
 
 ![Jensens_Range](./img/map_mini/Jensens_Range.jpg)
 
-### Jensen's Training Range
+### Jensen's Training Range Training v1
 
 切换代码： `AdminChangeLayer JensensRange_AUS-PLA`
 
@@ -47,7 +47,7 @@
     - Z-8G *1
 
 
-### Jensen's Training Range
+### Jensen's Training Range Training v2
 
 切换代码： `AdminChangeLayer JensensRange_CAF-INS`
 
@@ -107,7 +107,7 @@
     - T-62 *1
 
 
-### Jensen's Training Range
+### Jensen's Training Range Training v3
 
 切换代码： `AdminChangeLayer JensensRange_GB-MIL`
 
@@ -157,7 +157,7 @@
     - T-62 *1
 
 
-### Jensen's Training Range
+### Jensen's Training Range Training v4
 
 切换代码： `AdminChangeLayer JensensRange_USA-RUS`
 
@@ -201,7 +201,7 @@
     - Mi-8 *1
 
 
-### Jensen's Training Range
+### Jensen's Training Range Training v5
 
 切换代码： `AdminChangeLayer JensensRange_USMC-MEA`
 

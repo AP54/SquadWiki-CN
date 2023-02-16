@@ -278,9 +278,9 @@
 
 ### Kohat Toi RAAS v1
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v1`
+切换代码： `AdminChangeLayer Kohat_RAAS_v01`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v1`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v01`
 
 光照情况： 正午
 
@@ -340,9 +340,9 @@
 
 ### Kohat Toi RAAS v2
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v2`
+切换代码： `AdminChangeLayer Kohat_RAAS_v02`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v2`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v02`
 
 光照情况： 正午
 
@@ -373,9 +373,9 @@
 
 ### Kohat Toi RAAS v3
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v3`
+切换代码： `AdminChangeLayer Kohat_RAAS_v03`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v3`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v03`
 
 光照情况： 正午
 
@@ -409,9 +409,9 @@
 
 ### Kohat Toi RAAS v4
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v4`
+切换代码： `AdminChangeLayer Kohat_RAAS_v04`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v4`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v04`
 
 光照情况： 早晨
 
@@ -442,9 +442,9 @@
 
 ### Kohat Toi RAAS v5
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v5`
+切换代码： `AdminChangeLayer Kohat_RAAS_v05`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v5`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v05`
 
 光照情况： 正午
 
@@ -473,9 +473,9 @@
 
 ### Kohat Toi RAAS v6
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v6`
+切换代码： `AdminChangeLayer Kohat_RAAS_v06`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v6`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v06`
 
 光照情况： 正午
 
@@ -505,9 +505,9 @@
 
 ### Kohat Toi RAAS v7
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v7`
+切换代码： `AdminChangeLayer Kohat_RAAS_v07`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v7`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v07`
 
 光照情况： 正午
 
@@ -541,9 +541,9 @@
 
 ### Kohat Toi RAAS v8
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v8`
+切换代码： `AdminChangeLayer Kohat_RAAS_v08`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v8`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v08`
 
 光照情况： 正午
 
@@ -572,9 +572,9 @@
 
 ### Kohat Toi RAAS v9
 
-切换代码： `AdminChangeLayer Kohat_RAAS_v9`
+切换代码： `AdminChangeLayer Kohat_RAAS_v09`
 
-预设代码： `AdminSetNextLayer Kohat_RAAS_v9`
+预设代码： `AdminSetNextLayer Kohat_RAAS_v09`
 
 光照情况： 正午
 

@@ -1,4 +1,4 @@
-## Minsk Motorbike 
+## Minsk Motorbike variants 
 
 - Minsk Motorbike Red 
 
@@ -16,7 +16,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`
 
-## LUV-A1 
+## LUV-A1 variants 
 
 - LUV-A1 Transport Woodland 
 
@@ -34,33 +34,41 @@
 
     `AdminCreateVehicle /Game/Vehicles/M-Gator/BP_M-Gator_Transport_ARID.BP_M-Gator_Transport_ARID_C`
 
-## M939 
+## M939 variants 
 
-- M939 Transport Desert 
+- M939 Transport Desert US 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_Desert.BP_US_Util_Desert_C`
 
-- M939 Transport Woodland 
+- M939 Transport Woodland US 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_Woodland.BP_US_Util_Woodland_C`
 
-- M939 Logistics Desert 
+- M939 Logistics Desert US 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/B_US_Util_Desert_Logi.BP_US_Util_Desert_Logi_C`
 
-- M939 Logistics Woodland 
+- M939 Logistics Woodland US 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_Woodland_Logi.BP_US_Util_Woodland_Logi_C`
+
+- M939 Transport Desert USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/USMC_Util_Truck/BP_USMC_Util_Desert.BP_USMC_Util_Desert_C`
 
 - M939 Transport Woodland USMC 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_USMC_Woodland.BP_US_Util_USMC_Woodland_C`
 
+- M939 Logistics Desert USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/USMC_Util_Truck/BP_USMC_Util_Desert_Logi.BP_USMC_Util_Desert_Logi_C`
+
 - M939 Logistics Woodland USMC 
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_USMC_Woodland_Logi.BP_US_Util_USMC_Woodland_Logi_C`
 
-## MSVS Truck 
+## MSVS Truck variants 
 
 - MSVS Truck Transport Desert 
 
@@ -78,7 +86,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/CAF_Utility_Truck/BP_CAF_Util_Woodland_Logi.BP_CAF_Util_Woodland_Logi_C`
 
-## MAN HX60 
+## MAN HX60 variants 
 
 - UK MAN HX60 Transport Desert 
 
@@ -104,13 +112,13 @@
 
     `AdminCreateVehicle/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck_Logi.BP_Aussie_Util_Truck_Logi_C`
 
-## Ural 375D TRUCK / Ural 375D Technical 
+## Ural 375D TRUCK / Ural 375D Technical variants 
 
 - URAL 375D Transport Russian Desert 
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_Desert.BP_Ural_375_Desert_C`
 
-- URAL 375D Transport Russian Green 
+- URAL 375D Transport Russian Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_Green.BP_Ural_375_Green_C`
 
@@ -126,6 +134,10 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_ZU23_MIL.BP_Ural_375_ZU23_MIL_C`
 
+- URAL 375D Transport Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_INS.BP_Ural_375_INS_C`
+
 - URAL 375D Logistics Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_Logi_INS.BP_Ural_375_Logi_INS_C`
@@ -134,13 +146,13 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_ZU23.BP_Ural_375_ZU23_C`
 
-## Ural 4320 
+## Ural 4320 variants 
 
 - URAL 4320 Transport Russian Desert 
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320_Desert.BP_Ural_4320_Desert_C Broken Link - Update Me!`
 
-- URAL 4320 Transport Russian Green 
+- URAL 4320 Transport Russian Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320.BP_Ural_4320_C`
 
@@ -148,7 +160,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320_logi_Desert.BP_Ural_4320_logi_Desert_C`
 
-- URAL 4320 Logistics Russian Green 
+- URAL 4320 Logistics Russian Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320_logi.BP_Ural_4320_logi_C`
 
@@ -160,123 +172,161 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320_logi_MEA.BP_Ural_4320_logi_MEA_C`
 
-## Kamaz 5350 
+## Kamaz 5350 variants 
 
 - Kamaz 5350 Transport Desert 
 
     `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350_Desert.BP_Kamaz_5350_Desert_C`
 
-- Kamaz 5350 Logisitics Desert 
-
-    `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350_Logi_Desert.BP_Kamaz_5350_Logi_Desert_C`
-
 - Kamaz 5350 Transport Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350.BP_Kamaz_5350_C`
+
+- Kamaz 5350 Logisitics Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350_Logi_Desert.BP_Kamaz_5350_Logi_Desert_C`
 
 - Kamaz 5350 Logistics Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350_Logi.BP_Kamaz_5350_Logi_C`
 
-## Technical Pickup Truck 
+## CTM-131 variants 
 
-- Technical Transport Insurgents 
+- CTM-131 Transport Armed 7.62 Desert 
+
+    `AdminCreateVehicle CTM131_Truck/BP_CTM131_Desert.BP_CTM131_Desert_C`
+
+- CTM-131 Transport Armed 7.62 Woodland 
+
+    `AdminCreateVehicle CTM131_Truck/BP_CTM131.BP_CTM131_C`
+
+- CTM-131 Transport Armed 12.7 Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_QJZ89_Desert.BP_CTM131_QJZ89_Desert_C`
+
+- CTM-131 Transport Armed 12.7 Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_QJZ89.BP_CTM131_QJZ89_C`
+
+- CTM-131 Logistic Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic_Desert.BP_CTM131_Logistic_Desert_C`
+
+- CTM-131 Logistic Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic.BP_CTM131_Logistic_C`
+
+## Technical Pickup Truck variants 
+
+- OLD Technical Transport Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Transport_INS.BP_Technical_Transport_INS_C`
 
-- Technical DShK Insurgents 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_INS.BP_Technical_Dshk_INS_C`
-
-- Technical DShK Shielded Insurgents 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_Shielded_INS.BP_Technical_Dshk_Shielded_INS_C`
-
-- Technical DShK Shielded Armoured Insurgents 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_INS_Armoured.BP_Technical_Dshk_INS_Armoured_C`
-
-- Technical Logi Insurgents 
+- OLD Technical Logi Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Logi_INS.BP_Technical_Logi_INS_C`
 
-- Technical SPG9 Insurgents 
+- OLD Technical DShK Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_INS.BP_Technical_Dshk_INS_C`
+
+- OLD Technical DShK Shielded Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_Shielded_INS.BP_Technical_Dshk_Shielded_INS_C`
+
+- OLD Technical DShK Shielded Armoured Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_INS_Armoured.BP_Technical_Dshk_INS_Armoured_C`
+
+- OLD Technical SPG9 Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_SPG9_INS.BP_Technical_SPG9_INS_C`
 
-- Technical SPG9 Armoured Insurgents 
+- OLD Technical SPG9 Armoured Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_SPG9_INS_Armoured.BP_Technical_SPG9_INS_Armoured_C`
 
-- Technical UB32 Insurgents 
+- OLD Technical UB32 Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_UB32_INS.BP_Technical_UB32_INS_C`
 
-- Technical Transport Militia 
+- OLD Technical Transport Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Transport_MIL.BP_Technical_Transport_MIL_C`
 
-- Technical DShK Militia 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_MIL.BP_Technical_Dshk_MIL_C`
-
-- Technical DShK Shielded Militia 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_Shielded_MIL.BP_Technical_Dshk_Shielded_MIL_C`
-
-- Technical Logi Militia 
+- OLD Technical Logi Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Logi_MIL.BP_Technical_Logi_MIL_C`
 
-- Technical SPG9 Militia 
+- OLD Technical DShK Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_MIL.BP_Technical_Dshk_MIL_C`
+
+- OLD Technical DShK Shielded Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_Dshk_Shielded_MIL.BP_Technical_Dshk_Shielded_MIL_C`
+
+- OLD Technical SPG9 Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_SPG9_MIL.BP_Technical_SPG9_MIL_C`
 
-- Technical UB32 Militia 
+- OLD Technical UB32 Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical/BP_Technical_UB32_MIL.BP_Technical_UB32_MIL_C`
 
-- Technical Dshk M1151 Black (HUMVEE) 
-
-    `AdminCreateVehicle /Game/Vehicles/M1151/BP_M1151_Technical.BP_M1151_Technical_C`
-
-- BMP-1 Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_BMP1.BP_Technical2Seater_White_BMP1_C`
-
-- M2 Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_M2.BP_Technical2Seater_White_M2_C`
-
-- Dshk Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_Dshk.BP_Technical2Seater_White_Dshk_C`
-
-- Mortar Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_Mortar.BP_Technical2Seater_White_Mortar_C`
-
-- AA Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_ZU23.BP_Technical2Seater_White_ZU23_C`
-
-- Rocket Technical 
-
-    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_UB32.BP_Technical2Seater_White_UB32_C`
-
-- Technical Transport 
+- NEW Technical Transport Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Technical4Seater_Transport.BP_Technical4Seater_Transport_C`
 
-- Technical Logistics 
+- NEW Technical Logistics Insurgents 
 
     `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Technical4Seater_Logi.BP_Technical4Seater_Logi_C`
 
-- Technical Logistics Militia 
+- NEW M2 Technical Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_M2.BP_Technical2Seater_White_M2_C`
+
+- NEW Technical Dshk Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_Dshk.BP_Technical2Seater_White_Dshk_C`
+
+- NEW Technical Mortal Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_Mortar.BP_Technical2Seater_White_Mortar_C`
+
+- NEW Technical AA Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_ZU23.BP_Technical2Seater_White_ZU23_C`
+
+- NEW Technical Rocket Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_UB32.BP_Technical2Seater_White_UB32_C`
+
+- NEW Technical BMP-1 Turret Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_BMP1.BP_Technical2Seater_White_BMP1_C`
+
+- NEW Technical Logistics Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Technical4Seater_Logi_Camo.BP_Technical4Seater_Logi_Camo_C`
 
-## Simir Jeep 
+- NEW Technical M2 Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_M2.BP_Technical2Seater_Camo_M2_C`
+
+- NEW Technical SPG9 Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_SPG9.BP_Technical2Seater_Camo_SPG9_C`
+
+- NEW Technical ZU23 Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_ZU23.BP_Technical2Seater_Camo_ZU23_C`
+
+- NEW Technical Rocket UB32 Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_UB32.BP_Technical2Seater_Camo_UB32_C`
+
+## Simir Jeep variants 
 
 - Simir Jeep Logi 
 
@@ -294,7 +344,7 @@
 
     `AdminCreateVehicle /game/vehicles/Safir/BP_Safir_Kornet.BP_Safir_Kornet_C`
 
-## LUVW G-WAGON 
+## G-Wagon variants 
 
 - LUVW Transport Desert 
 
@@ -328,7 +378,11 @@
 
     `AdminCreateVehicle /Game/Vehicles/LUVW/BP_LUVW_M2.BP_LUVW_M2_C`
 
-## HMMWV (Humvee) 
+## HMMWV M1151 variants 
+
+- HMMWV M1151 Black Dshk Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/M1151/BP_M1151_Technical.BP_M1151_Technical_C`
 
 - HMMWV M1151 M2A1 Desert no door USMC 
 
@@ -354,27 +408,23 @@
 
     `AdminCreateVehicle /Game/Vehicles/M1151/BP_M1151_CROWS_Woodland.BP_M1151_CROWS_Woodland_C`
 
-## M-ATV 
-
-- M-ATV Desert US 
-
-    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV.BP_MATV_C`
+## M-ATV variants 
 
 - M-ATV M240 Desert US 
 
     `AdminCreateVehicle /game/vehicles/MATV/BP_MATV_M240.BP_MATV_M240_C`
 
+- M-ATV M240 Woodland US 
+
+    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_M240_Woodland.BP_MATV_M240_Woodland_C`
+
+- M-ATV Desert US 
+
+    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV.BP_MATV_C`
+
 - M-ATV Woodland US 
 
     `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_Woodland.BP_MATV_Woodland_C`
-
-- M-ATV CROWS Desert US 
-
-    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_CROWS.BP_MATV_CROWS_C`
-
-- M-ATV CROWS Woodland US 
-
-    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_CROWS_Woodland.BP_MATV_CROWS_Woodland_C`
 
 - M-ATV M240 CROWS Desert US 
 
@@ -383,6 +433,14 @@
 - M-ATV M240 CROWS Woodland US 
 
     `AdminCreateVehicle /game/vehicles/MATV/BP_MATV_CROWS_M240_Woodland.BP_MATV_CROWS_M240_Woodland_C`
+
+- M-ATV CROWS Desert US 
+
+    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_CROWS.BP_MATV_CROWS_C`
+
+- M-ATV CROWS Woodland US 
+
+    `AdminCreateVehicle /Game/Vehicles/MATV/BP_MATV_CROWS_Woodland.BP_MATV_CROWS_Woodland_C`
 
 - M-ATV TOW Desert US 
 
@@ -416,7 +474,7 @@
 
     `AdminCreateVehicle /game/vehicles/MATV/BP_MATV_USMC_TOW_Woodland.BP_MATV_USMC_TOW_Woodland_C`
 
-## TAPV 
+## TAPV variants 
 
 - TAPV M2A1 CROWS Woodland 
 
@@ -434,7 +492,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/TAPV/BP_TAPV_C6_Desert.BP_TAPV_C6_Desert_C`
 
-## LPPV (Foxground) 
+## LPPV (Foxground) variants 
 
 - LPPV L7A2 x2 Desert 
 
@@ -452,7 +510,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LPPV/BP_LPPV_M2RWS_Woodland.BP_LPPV_M2RWS_Woodland_C`
 
-## PMV (Bushmaster) 
+## Bushmaster PMV variants 
 
 - PMV MAG-58 
 
@@ -466,33 +524,25 @@
 
     `AdminCreateVehicle /Game/Vehicles/PMV/BP_PMV_RWS.BP_PMV_RWS_C`
 
-## Tigr-M Kord 
-
-- Tigr-M Kord Woodland 
-
-    `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr.BP_Tigr_C`
+## Tigr-M Kord variants 
 
 - Tigr-M Kord Desert 
 
     `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr_Desert.BP_Tigr_Desert_C`
 
-- Tigr-M Kord RWS Woodland 
+- Tigr-M Kord Woodland 
 
-    `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr_RWS.BP_Tigr_RWS_C`
+    `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr.BP_Tigr_C`
 
 - Tigr-M Kord RWS Desert 
 
     `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr_RWS_Desert.BP_Tigr_RWS_Desert_C`
 
-## BRDM-2 
+- Tigr-M Kord RWS Woodland 
 
-- BRDM-2 Militia 
+    `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr_RWS.BP_Tigr_RWS_C`
 
-    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2.BP_BRDM-2_C`
-
-- BRDM-2 Insurgents 
-
-    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2_Insurgents.BP_BRDM-2_Insurgents_C`
+## BRDM-2 variants 
 
 - BRDM-2 Russian Desert 
 
@@ -502,6 +552,30 @@
 
     `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2_RUS.BP_BRDM-2_RUS_C`
 
+- BRDM-2 Militia 
+
+    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2.BP_BRDM-2_C`
+
+- BRDM-2 Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2_Insurgents.BP_BRDM-2_Insurgents_C`
+
+- BRDM-2 S-5 MEA 
+
+    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_MEA.BP_BRDM-2_MEA_C`
+
+- BRDM-2 Spandrel Russian Desert 
+
+    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_RUS_Desert.BP_BRDM-2_Spandrel_RUS_Desert_C`
+
+- BRDM-2 Spandrel Russian Woodland 
+
+    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_RUS.BP_BRDM-2_Spandrel_RUS_C`
+
+- BRDM-2 Spandrel MEA 
+
+    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2_MEA_Spandrel.BP_BRDM-2_MEA_Spandrel_C`
+
 - BRDM-2 Spandrel Militia 
 
     `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel.BP_BRDM-2_Spandrel_C`
@@ -510,23 +584,41 @@
 
     `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_INS.BP_BRDM-2_Spandrel_INS_C`
 
-- BRDM-2 Spandrel Russian Woodland 
+## CSK-131 variants 
 
-    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_RUS.BP_BRDM-2_Spandrel_RUS_C`
+- CSK-131 Desert 
 
-- BRDM-2 Spandrel Russian Desert 
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_QJY88_Desert.BP_CSK131_QJY88_Desert_C`
 
-    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_RUS_Desert.BP_BRDM-2_Spandrel_RUS_Desert_C`
+- CSK-131 Woodland 
 
-- BRDM-2 S-5 MEA 
+    `AdminCreateVehicle CSK131/BP_CSK131_QJZ89.BP_CSK131_QJZ89_C`
 
-    `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_MEA.BP_BRDM-2_MEA_C`
+- CSK-131 w/ HMG Desert 
 
-- BRDM-2 Spandrel MEA 
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_QJZ89_Desert.BP_CSK131_QJZ89_Desert_C`
 
-    `AdminCreateVehicle /Game/Vehicles/BRDM-2/BP_BRDM-2_MEA_Spandrel.BP_BRDM-2_MEA_Spandrel_C`
+- CSK-131 w/ HMG Woodland 
 
-## BTR-80 
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_QJY88.BP_CSK131_QJY88_C`
+
+- CSK-131 RWS Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_RWS_Desert.BP_CSK131_RWS_Desert_C`
+
+- CSK-131 RWS Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_RWS.BP_CSK131_RWS_C`
+
+- CSK-131 w/ HJ-8 Anti-Tank Missile Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_HJ8ATGM_Desert.BP_CSK131_HJ8ATGM_Desert_C`
+
+- CSK-131 w/ HJ-8 Anti-Tank Missile Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_HJ-8ATGM.BP_CSK131_HJ-8ATGM_C`
+
+## BTR-80 variants 
 
 - BTR-80 Russian Desert 
 
@@ -536,11 +628,15 @@
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/BP_BTR80_RUS.BP_BTR80_RUS_C`
 
+- BTR-80 Insurgents 
+
+    `AdminCreateVehicle /Game/Vehicles/BTR80/BP_BTR80_INS.BP_BTR80_INS_C`
+
 - BTR-80 Militia 
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/BP_BTR80_Militia.BP_BTR80_Militia_C`
 
-## BTR-82A 
+## BTR-82A variants 
 
 - BTR-82A Desert 
 
@@ -550,7 +646,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/82A/BP_BTR82A_RUS.BP_BTR82A_RUS_C`
 
-## LAV-25A2 
+## LAV-25 variants 
 
 - LAV-25A2 Desert 
 
@@ -560,7 +656,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV25/BP_LAV25_Woodland.BP_LAV25_Woodland_C`
 
-## LAV-II (Coyote RV) 
+## Coyote RV variants 
 
 - Coyote RV Armored glass kit Desert 
 
@@ -570,13 +666,13 @@
 
     `AdminCreateVehicle /Game/Vehicles/Coyote/BP_LAV2_Coyote_Woodland.BP_LAV2_Coyote_Woodland_C`
 
-## ASLAV-25 
+## ASLAV variants 
 
-- ASLAV-25 
+- ASLAV 
 
     `AdminCreateVehicle /Game/vehicles/ASLAV/BP_ASLAV.BP_ASLAV_C`
 
-## LAV 6.0 
+## LAV 6.0 variants 
 
 - LAV 6.0 Desert 
 
@@ -586,25 +682,33 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV6/BP_LAV6_Woodland.BP_LAV6_Woodland_C`
 
-## LAV III 
-
-- LAV III RWS C6 Woodland 
-
-    `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6.BP_LAV_RWS_C6_C`
+## LAV III variants 
 
 - LAV III RWS C6 Desert 
 
     `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6_Desert.BP_LAV_RWS_C6_Desert_C`
 
-- LAV III RWS M2 Woodland 
+- LAV III RWS C6 Woodland 
 
-    `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_M2.BP_LAV_RWS_M2_C`
+    `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6.BP_LAV_RWS_C6_C`
 
 - LAV III RWS M2 Desert 
 
     `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_M2_Desert.BP_LAV_RWS_M2_Desert_C`
 
-## M113A3 
+- LAV III RWS M2 Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_M2.BP_LAV_RWS_M2_C`
+
+## M113A3 variants 
+
+- M113A3 C6 Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_C6_Desert.BP_M113A3_C6_Desert_C`
+
+- M113A3 C6 Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_C6.BP_M113A3_C6_C`
 
 - M113A1 M2 Desert 
 
@@ -622,15 +726,15 @@
 
     `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_TLAV.BP_M113A3_TLAV_C`
 
-- M113A3 C6 Desert 
+## M1126 variants 
 
-    `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_C6_Desert.BP_M113A3_C6_Desert_C`
+- M1126 M240 Desert 
 
-- M113A3 C6 Woodland 
+    `AdminCreateVehicle /Game/Vehicles/M1126/BP_M1126_M240.BP_M1126_M240_C`
 
-    `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_C6.BP_M113A3_C6_C`
+- M1126 M240 Woodland 
 
-## M1126 
+    `AdminCreateVehicle /Game/vehicles/M1126/BP_M1126_M240_Woodland.BP_M1126_M240_Woodland_C`
 
 - M1126 CROWS Desert 
 
@@ -640,13 +744,31 @@
 
     `AdminCreateVehicle /Game/Vehicles/M1126/BP_M1126_Woodland.BP_M1126_Woodland_C`
 
-- M1126 M240 Desert 
+## ZBL-08/ZSL-10 variants 
 
-    `AdminCreateVehicle /Game/Vehicles/M1126/BP_M1126_M240.BP_M1126_M240_C`
+- ZBL-08 Woodland 
 
-- M1126 M240 Woodland 
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZBL08.BP_ZBL08_C`
 
-    `AdminCreateVehicle /Game/vehicles/M1126/BP_M1126_M240_Woodland.BP_M1126_M240_Woodland_C`
+- ZBL-08 w/ HJ-73C Red Arrow Guided Missile Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZBL08_HJ73C.BP_ZBL08_HJ73C_C`
+
+- ZSL-10 (Open top HMG) Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89.BP_ZSL10_QJZ-89_C`
+
+- ZBL-08 Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZBL08_Desert.BP_ZBL08_Desert_C`
+
+- ZBL-08 w/ HJ-73C Red Arrow Guided Missile Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZBL08_HJ73C_Desert.BP_ZBL08_HJ73C_Desert_C`
+
+- ZSL-10 (Open top HMG) Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89_Desert.BP_ZSL10_QJZ-89_Desert_C`
 
 ## AAVP7A1 
 
@@ -694,7 +816,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV107/BP_FV107_Woodland.BP_FV107_Woodland_C`
 
-## MT-LB / MT-LBM / MT-LB Field Modifications 
+## MT-LB / MT-LBM Variants / MT-LB Field Modifications 
 
 - MT-LB Russian Desert 
 
@@ -820,6 +942,16 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
 
+## ZBD-04A 
+
+- ZBD-04A Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A.BP_ZBD04A_C`
+
+- ZBD-04A Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C`
+
 ## FV4034 
 
 - FV4034 Desert 
@@ -829,6 +961,8 @@
 - FV4034 Woodland 
 
     `AdminCreateVehicle /Game/vehicles/FV4034/BP_FV4034_woodland.BP_FV4034_woodland_C`
+
+## Leopard 2A6M / Leopard 2A6M CAN 
 
 - Leopard 2A6M Desert 
 
@@ -898,6 +1032,24 @@
 
     `AdminCreateVehicle /Game/vehicles/T72AV/BP_T72AV_MEA.BP_T72AV_MEA_C`
 
+## ZTZ-99A 
+
+- ZTZ-99 Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99.BP_ZTZ99_C`
+
+- ZTZ-99 (cage) Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_wCage.BP_ZTZ99_wCage_C`
+
+- ZTZ-99 Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert.BP_ZTZ99_Desert_C`
+
+- ZTZ-99 (cage) Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C`
+
 ## Mi-8 / Mi-17 
 
 - MI-8 Russian 
@@ -940,5 +1092,48 @@
 
 - UH-1Y 
 
-    `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_`
+    `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C`
 
+- CAS UH-1Y 
+
+    `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y_CAS.BP_UH1Y_CAS_C`
+
+## Z-8G 
+
+- Z-8G 
+
+    `AdminCreateVehicle /Game/Vehicles/Z8G/BP_Z8G.BP_Z8G_C`
+
+## RHIB 
+
+- RHIB MG3 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_MEA_MG3.BP_RHIB_MEA_MG3_C`
+
+- RHIB PKP 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_RUS_PKP.BP_RHIB_RUS_PKP_C`
+
+- RHIB M240 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_US_M240.BP_RHIB_US_M240_C`
+
+- RHIB M2 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_US_M2.BP_RHIB_US_M2_C`
+
+- RHIB QJY-88 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_QJY88.BP_RHIB_QJY88_C`
+
+- RHIB QJZ-89 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_QJZ89.BP_RHIB_QJZ89_C`
+
+- RHIB Transport 
+
+    `AdminCreateVehicle /Game/Vehicles/RHIB/BP_RHIB_Transport.BP_RHIB_Transport_C`
+
+- RHIB Logistics 
+
+    `AdminCreateVehiccle /Game/Vehicles/RHIB/BP_RHIB_Logistics.BP_RHIB_Logistics_C`

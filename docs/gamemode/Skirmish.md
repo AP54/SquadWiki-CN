@@ -22,64 +22,63 @@
     - [Anvil Skirmish v1](../../Map/anvil/#anvil-skirmish-v1)
 
     - [Al Basrah Skirmish v1](../../Map/al_basrah/#al-basrah-skirmish-v1)
-
+    
     - [Al Basrah Skirmish v2](../../Map/al_basrah/#al-basrah-skirmish-v2)
-
-    - [Black Coast Skirmish v1](../../Map/black_coast/#black-coast-skirmish-v1)
-
-    - [Belaya Pass Skirmish v1](../../Map/belaya_pass/#belaya-pass-skirmish-v1)
-
+    
+    - [Belaya Skirmish v1](../../Map/belaya/#belaya-skirmish-v1)
+    
     - [Chora Skirmish v1](../../Map/chora/#chora-skirmish-v1)
-
+    
     - [Fallujah Skirmish v1](../../Map/fallujah/#fallujah-skirmish-v1)
-
+    
     - [Fallujah Skirmish v2](../../Map/fallujah/#fallujah-skirmish-v2)
-
+    
     - [Fool's Road Skirmish v1](../../Map/fools_road/#fools-road-skirmish-v1)
-
+    
     - [Fool's Road Skirmish v2](../../Map/fools_road/#fools-road-skirmish-v2)
-
+    
     - [Goose Bay Skirmish v1](../../Map/goose_bay/#goose-bay-skirmish-v1)
-
+    
     - [Gorodok Skirmish v1](../../Map/gorodok/#gorodok-skirmish-v1)
-
-    - [Harju Skirmish v1](../../Map/harju/#harju-skirmish-v1)
-
-    - [Harju Skirmish v2](../../Map/harju/#harju-skirmish-v2)
-
-    - [Kamdesh Highlands Skirmish v1](../../Map/kamdesh_highlands/#kamdesh-highlands-skirmish-v1)
-
+    
+    - [Kamdesh Skirmish v1](../../Map/kamdesh/#kamdesh-skirmish-v1)
+    
     - [Kohat Toi Skirmish v1](../../Map/kohat_toi/#kohat-toi-skirmish-v1)
-
+    
     - [Kokan Skirmish v1](../../Map/kokan/#kokan-skirmish-v1)
-
-    - [Lashkar Valley Skirmish v1](../../Map/lashkar_valley/#lashkar-valley-skirmish-v1)
-
-    - [Logar Valley Skirmish v1](../../Map/logar_valley/#logar-valley-skirmish-v1)
-
+    
+    - [Lashkar Skirmish v1](../../Map/lashkar/#lashkar-skirmish-v1)
+    
+    - [Logar Skirmish v1](../../Map/logar/#logar-skirmish-v1)
+    
     - [Manic-5 Skirmish v1](../../Map/manic-5/#manic-5-skirmish-v1)
-
+    
     - [Manic-5 Skirmish v2](../../Map/manic-5/#manic-5-skirmish-v2)
-
+    
     - [Mestia Skirmish v1](../../Map/mestia/#mestia-skirmish-v1)
-
+    
     - [Mutaha Skirmish v1](../../Map/mutaha/#mutaha-skirmish-v1)
-
+    
     - [Narva Skirmish v1](../../Map/narva/#narva-skirmish-v1)
-
+    
     - [Skorpo Skirmish v1](../../Map/skorpo/#skorpo-skirmish-v1)
-
+    
     - [Sumari Bala Skirmish v1](../../Map/sumari_bala/#sumari-bala-skirmish-v1)
-
-    - [Tallil Outskirts Skirmish v1](../../Map/tallil_outskirts/#tallil-outskirts-skirmish-v1)
-
-    - [Tallil Outskirts Skirmish v2](../../Map/tallil_outskirts/#tallil-outskirts-skirmish-v2)
-
-    - [Tallil Outskirts Skirmish v3](../../Map/tallil_outskirts/#tallil-outskirts-skirmish-v3)
-
+    
+    - [Tallil Outskirts Skirmish v1](../../Map/tallil_outskirts/    #tallil-outskirts-skirmish-v1)
+    
+    - [Tallil Outskirts Skirmish v2](../../Map/tallil_outskirts/    #tallil-outskirts-skirmish-v2)
+    
+    - [Tallil Outskirts Skirmish v3](../../Map/tallil_outskirts/    #tallil-outskirts-skirmish-v3)
+    
     - [Yehorivka Skirmish v1](../../Map/yehorivka/#yehorivka-skirmish-v1)
-
+    
     - [Yehorivka Skirmish v2](../../Map/yehorivka/#yehorivka-skirmish-v2)
-
+    
     - [Yehorivka Skirmish v3](../../Map/yehorivka/#yehorivka-skirmish-v3)
     
+    - [Black Coast Skirmish v1](../../Map/black_coast/#black-coast-skirmish-v1)
+    
+    - [Harju Skirmish v1](../../Map/harju/#harju-skirmish-v1)
+    
+    - [Harju Skirmish v2](../../Map/harju/#harju-skirmish-v2)
