@@ -80,6 +80,7 @@ nav:
     - "摄影命令": "./Command/Camera.md"
     - "载具生成命令": "./Command/Vehicle.md"
     - "部署物生成命令": "./Command/Deployable.md"
+  # - "SPLC": "./Contest/SPLC/index.md"
   - "入驻组织":
     - "入驻组织列表": "./Union/index.md"
     - "[BY] 北域学院": "./Union/BY/index.md"
