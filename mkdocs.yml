@@ -15,7 +15,9 @@ nav:
     - "第五目 载具识别": "./Beginner/Chapter_5.md"
     - "第六目 索敌技巧": "./Beginner/Chapter_6.md"
     - "第七目 规则和模式": "./Beginner/Chapter_7.md"
-    
+  - "SPLC": 
+    - "战术小队中国顶级联赛": "./Contest/index.md"
+    - "联赛赛程": "./Contest/SPLC/schedule.md"
   - "进阶教学":
     - "进阶教学专栏目录": "./Course/index.md"
     - "队长指挥技术":
@@ -80,10 +82,9 @@ nav:
     - "摄影命令": "./Command/Camera.md"
     - "载具生成命令": "./Command/Vehicle.md"
     - "部署物生成命令": "./Command/Deployable.md"
-  - "SPLC": "./Contest/SPLC/index.md"
   - "入驻组织":
     - "入驻组织列表": "./Union/index.md"
-    - "[BY] 北域学院": "./Union/BY/index.md"
+    - "[BY] 北域": "./Union/BY/index.md"
     - "[CHPD] 修仙公会": "./Union/CHPD/index.md"
     - "[CRN] 坎特洛特": "./Union/CRN/index.md"
     - "[DRN] 龙城战队": "./Union/DRN/index.md"
