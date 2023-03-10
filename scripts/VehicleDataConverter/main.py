@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 sourcefile = open("Source.txt", "r", encoding="utf-8", errors="ignore")
 outputfile = open("finished.md", "w", encoding="utf-8")
 
