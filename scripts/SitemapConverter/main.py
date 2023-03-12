@@ -23,8 +23,8 @@ for root, dirs, files in os.walk("./docs", topdown=False):
         pagelinkmatch = re.match('.+.md$', os.path.join(root, name).replace(
             './docs', 'https://www.squadwiki.cn').replace('\\', '/'))
         if pagelinkmatch != None:
-            apagelink = '<url>\n  <loc>%s</loc>\n  <lastmod></lastmod>\n  <priority>0.99</priority>\n  <changefreq>daily</changefreq>\n</url>\n' % (
-                pagelinkmatch.group(0))
+            apagelink = '<url>\n  <loc>%s</loc>\n  <lastmod>%s</lastmod>\n  <priority>0.99</priority>\n  <changefreq>daily</changefreq>\n</url>\n' % (
+                pagelinkmatch.group(0), sitemap_timestamp)
             sitemap_output += apagelink.replace('index.md',
                                                 '').replace('.md', '')
 
