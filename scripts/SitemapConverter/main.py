@@ -34,4 +34,3 @@ sitemap_file = open('./site/sitemap.xml', mode='w',
                     encoding="utf-8", errors="ignore")
 sitemap_file.write(sitemap_output)
 sitemap_file.close()
-print(sitemap_output)
