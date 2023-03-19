@@ -2,3 +2,8 @@
   for = "/*"
   [headers.values]
     X-Frame-Options = "SAMEORIGIN"
+
+[[redirects]]
+  from = "/map/manic-5"
+  to = "/map/manicouagan"
+  status = 301
