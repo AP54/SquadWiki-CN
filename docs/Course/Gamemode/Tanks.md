@@ -14,6 +14,6 @@
 
     现版本下载具大战模式共有 2 张图层可用，单击可前往详情页。
 
-    - [Tallil Outskirts Tanks v1](../../Map/tallil_outskirts/#tallil-outskirts-tanks-v1)
+    - [Tallil Outskirts Tanks v1](/Map/tallil_outskirts/#tallil-outskirts-tanks-v1)
 
-    - [Tallil Outskirts Tanks v2](../../Map/tallil_outskirts/#tallil-outskirts-tanks-v2)
+    - [Tallil Outskirts Tanks v2](/Map/tallil_outskirts/#tallil-outskirts-tanks-v2)

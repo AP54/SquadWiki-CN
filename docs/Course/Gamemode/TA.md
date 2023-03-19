@@ -12,10 +12,10 @@
 
     现版本下精准打击模式共有 4 张图层可用，单击可前往详情页。
 
-    - [Al Basrah TA v1](../../Map/al_basrah/#al-basrah-ta-v1)
+    - [Al Basrah TA v1](/Map/al_basrah/#al-basrah-ta-v1)
     
-    - [Narva TA v1](../../Map/narva/#narva-ta-v1)
+    - [Narva TA v1](/Map/narva/#narva-ta-v1)
     
-    - [Tallil Outskirts TA v1](../../Map/tallil_outskirts/#tallil-outskirts-ta-v1)
+    - [Tallil Outskirts TA v1](/Map/tallil_outskirts/#tallil-outskirts-ta-v1)
     
-    - [Yehorivka TA v1](../../Map/yehorivka/#yehorivka-ta-v1)
+    - [Yehorivka TA v1](/Map/yehorivka/#yehorivka-ta-v1)

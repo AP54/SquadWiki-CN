@@ -1,40 +1,39 @@
 site_name: SQUAD战术小队中文维基
 site_author: Squad-CN-Wiki
-copyright: "Copyright &copy; 2022 Squad-CN-Wiki Team"
+copyright: "Copyright &copy; 2022-2023 SquadWiki-CN Team"
 repo_url: https://github.com/AP54/SquadWiki-CN
 edit_uri: edit/main/docs/
 
 nav:
   - "Getting Started": "./index.md" 
-  - "萌新入门":
-    - "萌新入门速成课": "./Beginner/index.md"
-    - "第一目 设置和UI": "./Beginner/Chapter_1.md"
-    - "第二目 特装和武器": "./Beginner/Chapter_2.md"
-    - "第三目 团队和社区": "./Beginner/Chapter_3.md"
-    - "第四目 战斗技巧": "./Beginner/Chapter_4.md"
-    - "第五目 载具识别": "./Beginner/Chapter_5.md"
-    - "第六目 索敌技巧": "./Beginner/Chapter_6.md"
-    - "第七目 规则和模式": "./Beginner/Chapter_7.md"
+  - "游戏教程":
+    - "教程简介": "./Course/index.md"
+    - "萌新入门":
+      - "第一目 设置和UI": "./Course/Beginner/Chapter_1.md"
+      - "第二目 特装和武器": "./Course/Beginner/Chapter_2.md"
+      - "第三目 团队和社区": "./Course/Beginner/Chapter_3.md"
+      - "第四目 战斗技巧": "./Course/Beginner/Chapter_4.md"
+      - "第五目 载具识别": "./Course/Beginner/Chapter_5.md"
+      - "第六目 索敌技巧": "./Course/Beginner/Chapter_6.md"
+      - "第七目 规则和模式": "./Course/Beginner/Chapter_7.md"
+    - "队长指挥技术":
+      - "请求火力支援": "./Course/SquadLeader/Request_Fire_Support.md"
+    - "模式规则":
+      - "模式简介": "./Course/Gamemode/index.md"
+      - "AAS | 攻守有序": "./Course/Gamemode/AAS.md"
+      - "Destruction | 摧毁": "./Course/Gamemode/Destruction.md"
+      - "Insurgency | 叛乱": "./Course/Gamemode/Insurgency.md"
+      - "Invasion | 侵攻": "./Course/Gamemode/Invasion.md"
+      - "RAAS | 随机攻守": "./Course/Gamemode/RAAS.md"
+      - "Seed | 暖服": "./Course/Gamemode/Seed.md"
+      - "Skirmish | 遭遇战": "./Course/Gamemode/Skirmish.md"
+      - "Tanks | 载具大战": "./Course/Gamemode/Tanks.md"
+      - "TA | 精准打击": "./Course/Gamemode/TA.md"
+      - "TC | 领土控制": "./Course/Gamemode/TC.md"
+      - "Training | 训练": "./Course/Gamemode/Training.md"
   - "SPLC": 
     - "战术小队中国顶级联赛": "./Contest/index.md"
     - "联赛赛程": "./Contest/SPLC/schedule.md"
-  - "进阶教学":
-    - "进阶教学专栏目录": "./Course/index.md"
-    - "队长指挥技术":
-      - "请求火力支援": "./Course/Request_Fire_Support.md"
-  - "模式规则": 
-    - "模式简介": "./Gamemode/index.md"
-    - "AAS | 攻守有序": "./Gamemode/AAS.md"
-    - "Destruction | 摧毁": "./Gamemode/Destruction.md"
-    - "Insurgency | 叛乱": "./Gamemode/Insurgency.md"
-    - "Invasion | 侵攻": "./Gamemode/Invasion.md"
-    - "RAAS | 随机攻守": "./Gamemode/RAAS.md"
-    - "Seed | 暖服": "./Gamemode/Seed.md"
-    - "Skirmish | 遭遇战": "./Gamemode/Skirmish.md"
-    - "Tanks | 载具大战": "./Gamemode/Tanks.md"
-    - "TA | 精准打击": "./Gamemode/TA.md"
-    - "TC | 领土控制": "./Gamemode/TC.md"
-    - "Training | 训练": "./Gamemode/Training.md"
   - "地图手册":
     - "地图手册": "./Map/index.md"
     - "暖服推荐": "./Map/Seeding.md"
