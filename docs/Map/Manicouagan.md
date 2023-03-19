@@ -608,3 +608,110 @@
     - BM-21 Grad *1
     - T-62
 
+
+### Manicouagan_Seed_v1
+
+切换代码： `AdminChangeLayer Manicouagan_Seed_v1`
+
+预设代码： `AdminSetNextLayer Manicouagan_Seed_v1`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 加军 VS 民兵
+
+初始票数： 100  -  100
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - LUVW Transport *3
+    - LUVW Logistics *3
+    - MSVS Logistics *2
+
+??? abstract "民兵载具"
+    - Minsk 400 *2
+    - Transport Modern Pickup *1
+    - Armored Transport Modern Pickup *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *2
+
+
+### Manicouagan_Skirmish_v1
+
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v1`
+
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v1`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 加军 VS 俄军
+
+初始票数： 150  -  150
+
+??? abstract "加军载具"
+    - LUVW Transport *2
+    - LUV-A1 Transport *2
+    - MSVS Transport *1
+    - LUVW Logistics *1
+    - MSVS Logistics *2
+    - LUVW C6 *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+
+
+### Manicouagan_Skirmish_v2
+
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v2`
+
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v2`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USMC VS 俄军
+
+初始票数： 150  -  150
+
+??? abstract "USMC载具"
+    - M939 Logistics *3
+    - M1151 M2 *2
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *2
+
+
+### Manicouagan_Skirmish_v3
+
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v3`
+
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v3`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 美军 VS 俄军
+
+初始票数： 150  -  150
+
+??? abstract "美军载具"
+    - M939 Transport *3
+    - M939 Logistics *3
+    - M-ATV M240 *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord
