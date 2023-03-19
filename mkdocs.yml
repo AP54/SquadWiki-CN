@@ -22,18 +22,6 @@ nav:
     - "进阶教学专栏目录": "./Course/index.md"
     - "队长指挥技术":
       - "请求火力支援": "./Course/Request_Fire_Support.md"
-  # - "兵种配置": 
-  #   - "兵种配置概览": "./Kit/index.md"
-  # - "武器信息":
-  #   - "武器总览": "./Weapon/index.md"
-  #   - "AK-74M": "./Weapon/AK-74M.md"
-  #   - "GP-25": "./Weapon/GP-25.md"
-  #   - "RPK-74M": "./Weapon/RPK-74M.md"
-  #   - "SVDM": "./Weapon/SVDM.md"
-  # - "载具数据":
-  #   - "载具简介": "./Vehicle/index.md"
-  # - "阵营详情":
-  #   - "阵营简介": "./Faction/index.md"
   - "模式规则": 
     - "模式简介": "./Gamemode/index.md"
     - "AAS | 攻守有序": "./Gamemode/AAS.md"
@@ -66,7 +54,7 @@ nav:
     - "Kokan | 寇坎": "./Map/Kokan.md"
     - "Lashkar Valley | 拉什卡谷": "./Map/Lashkar_Valley.md"
     - "Logar Valley | 罗杰尔谷": "./Map/Logar_Valley.md"
-    - "Manic-5 | 马尼克大坝": "./Map/Manic-5.md"
+    - "Manicouagan | 曼尼古根": "./Map/Manicouagan.md"
     - "Mestia | 梅斯提亚": "./Map/Mestia.md"
     - "Mutaha | 穆塔哈": "./Map/Mutaha.md"
     - "Narva | 纳尔瓦": "./Map/Narva.md"
@@ -75,6 +63,8 @@ nav:
     - "Sumari Bala | 索马里": "./Map/Sumari_Bala.md"
     - "Tallil Outskirts | 塔利尔郊区": "./Map/Tallil_Outskirts.md"
     - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
+  - "更新信息":
+    - "战术小队版本V4.3更新日志": "./Update/v4.3/release_notes/index.md"
   - "控制命令":
     - "控制命令简介": "./Command/index.md"
     - "公共命令": "./Command/Public.md"
