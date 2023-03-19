@@ -5,7 +5,11 @@ repo_url: https://github.com/AP54/SquadWiki-CN
 edit_uri: edit/main/docs/
 
 nav:
-  - "Getting Started": "./index.md" 
+  - "HOME":
+    - "Getting Started": "./index.md" 
+    - "关于本项目": "./Intro/About.md"
+    - "投喂": "./Intro/Support.md"
+    - "致谢": "./Intro/Thanks.md"
   - "游戏教程":
     - "教程简介": "./Course/index.md"
     - "萌新入门":
@@ -64,13 +68,17 @@ nav:
     - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
   - "更新信息":
     - "战术小队版本V4.3更新日志": "./Update/v4.3/release_notes/index.md"
-  - "控制命令":
-    - "控制命令简介": "./Command/index.md"
-    - "公共命令": "./Command/Public.md"
-    - "管理命令": "./Command/Admin.md"
-    - "摄影命令": "./Command/Camera.md"
-    - "载具生成命令": "./Command/Vehicle.md"
-    - "部署物生成命令": "./Command/Deployable.md"
+  - "运维管理":
+    - "运维管理简介": "./Server/index.md"
+    - "服务端管理":
+      - "服务端安装": "./Server/Installation.md"
+    - "控制命令":
+      - "控制命令简介": "./Server/Command/index.md"
+      - "公共命令": "./Server/Command/Public.md"
+      - "管理命令": "./Server/Command/Admin.md"
+      - "摄影命令": "./Server/Command/Camera.md"
+      - "载具生成命令": "./Server/Command/Vehicle.md"
+      - "部署物生成命令": "./Server/Command/Deployable.md"
   - "入驻组织":
     - "入驻组织列表": "./Union/index.md"
     - "[BY] 北域": "./Union/BY/index.md"
@@ -80,11 +88,7 @@ nav:
     - "[MAG] MAG社团": "./Union/MAG/index.md"
     - "[NMB] 北急熊战队": "./Union/NMB/index.md"
     - "[77] 萌新兄弟连": "./Union/77/index.md"
-    - "=小鹿= 小鹿社团": "./Union/XL/index.md"
-  - "关于":
-    - "关于本项目": "./Intro/About.md"
-    - "投喂": "./Intro/Support.md"
-    - "致谢": "./Intro/Thanks.md"
+    - "=小鹿= 小鹿社团": "./Union/XL/index.md"    
 
 markdown_extensions:
   - attr_list

@@ -1,4 +1,4 @@
-# Manicouagan | 马尼克大坝
+# Manicouagan | 曼尼古根
 
 > 文章作者：TL
 

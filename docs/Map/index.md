@@ -11,19 +11,19 @@
 !!! info "包含的游戏模式"
     通过这里的链接可依**模式**查找图层。
 
-    - [Skirmish | 遭遇战](../Gamemode/Skirmish)
-    - [RAAS | 随机攻守](../Gamemode/RAAS)
-    - [Invasion | 侵攻](../Gamemode/Invasion)
-    - [AAS | 攻守有序](../Gamemode/AAS)
-    - [Destruction | 摧毁](../Gamemode/Destruction)
-    - [Insurgency | 叛乱](../Gamemode/Insurgency)
-    - [TC | 领土控制](../Gamemode/TC)
-    - [Seed | 暖服](../Gamemode/Seed)
-    - [TA | 精准打击](../Gamemode/TA)
-    - [Training | 训练](../Gamemode/Training)
-    - [Tanks | 载具大战](../Gamemode/Tanks)
+    - [Skirmish | 遭遇战](/Course/Gamemode/Skirmish)
+    - [RAAS | 随机攻守](/Course/Gamemode/RAAS)
+    - [Invasion | 侵攻](/Course/Gamemode/Invasion)
+    - [AAS | 攻守有序](/Course/Gamemode/AAS)
+    - [Destruction | 摧毁](/Course/Gamemode/Destruction)
+    - [Insurgency | 叛乱](/Course/Gamemode/Insurgency)
+    - [TC | 领土控制](/Course/Gamemode/TC)
+    - [Seed | 暖服](/Course/Gamemode/Seed)
+    - [TA | 精准打击](/Course/Gamemode/TA)
+    - [Training | 训练](/Course/Gamemode/Training)
+    - [Tanks | 载具大战](/Course/Gamemode/Tanks)
     
-    详细信息请前往[“游戏模式”页面](../gamemode/)查看。
+    详细信息请前往[“游戏模式”页面](/Course/Gamemode)查看。
 
 !!! info "包含的地图"
     - [Al Basrah | 巴士拉](./Al_Basrah)
@@ -42,7 +42,7 @@
     - [Kokan | 寇坎](./Kokan)
     - [Lashkar Valley | 拉什卡谷](./Lashkar_Valley)
     - [Logar Valley | 罗杰尔谷](./Logar_Valley)
-    - [Manicouagan | 马尼克大坝](./Manicouagan)
+    - [Manicouagan | 曼尼古根](./Manicouagan)
     - [Mestia | 梅斯提亚](./Mestia)
     - [Mutaha | 穆塔哈](./Mutaha)
     - [Narva | 纳尔瓦](./Narva)

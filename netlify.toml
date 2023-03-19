@@ -12,3 +12,33 @@
   from = "/GameMode/index.md"
   to = "/gamemode"
   status = 301
+
+[[redirects]]
+  from = "/command"
+  to = "/server/command"
+  status = 301
+
+[[redirects]]
+  from = "/command/public"
+  to = "/server/command/public"
+  status = 301
+
+[[redirects]]
+  from = "/command/admin"
+  to = "/server/command/admin"
+  status = 301
+
+[[redirects]]
+  from = "/command/camera"
+  to = "/server/command/camera"
+  status = 301
+
+[[redirects]]
+  from = "/command/vehicle"
+  to = "/server/command/vehicle"
+  status = 301
+
+[[redirects]]
+  from = "/command/deployable"
+  to = "/server/command/deployable"
+  status = 301
