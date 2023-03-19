@@ -153,6 +153,14 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_ZU23.BP_Ural_375_ZU23_C`
 
+- Armored Ural 375 Transport
+    
+    `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Armored_Ural_375_MIL.BP_Armored_Ural_375_MIL_C`
+
+- Armored Ural 375 Logi
+    
+    `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Armored_Ural_375_Logi_MIL.BP_Armored_Ural_375_Logi_MIL_C`
+
 ## Ural 4320 variants 
 
 - URAL 4320 Transport Russian Desert 
@@ -332,6 +340,52 @@
 - NEW Technical Rocket UB32 Militia 
 
     `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_UB32.BP_Technical2Seater_Camo_UB32_C`
+
+- Armored Technical Transport
+    
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Armored_Technical4Seater_Transport_Camo.BP_Armored_Technical4Seater_Transport_Camo_C`
+
+- Armored Technical Logi
+  
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Armored_Technical4Seater_Logi_Camo.BP_Armored_Technical4Seater_Logi_Camo_C`
+
+- Armored Technical M2
+    
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Armored_Technical2Seater_Camo_M2.BP_Armored_Technical2Seater_Camo_M2_C`
+
+- Armored Technical SPG-9
+    
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Armored_Technical2Seater_Camo_SPG9.BP_Armored_Technical2Seater_Camo_SPG9_C`
+
+- Armored Technical DSHK
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Armored_Technical2Seater_Camo_DSHK.BP_Armored_Technical2Seater_Camo_DSHK_C`
+
+- Technical Transport Camo
+    
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Technical4Seater_Transport_Camo.BP_Technical4Seater_Transport_Camo_C`
+
+- Technical Logi Camo
+    
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/Technical4Seater/BP_Technical4Seater_Logi_Camo.BP_Technical4Seater_Logi_Camo_C `
+
+- Technical M2 Camo
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_M2.BP_Technical2Seater_Camo_M2_C`
+
+- Technical SPG-9 Camo
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_SPG9.BP_Technical2Seater_Camo_SPG9_C`
+
+- Technical DSHK Camo
+
+    `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_DSHK.BP_Technical2Seater_Camo_DSHK_C`
+
+## MLRS
+
+- BM-21 “Grad”
+
+    `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_MIL.BP_BM21Grad_MIL_C`
 
 ## Simir Jeep variants 
 
