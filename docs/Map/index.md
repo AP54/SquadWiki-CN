@@ -42,7 +42,7 @@
     - [Kokan | 寇坎](./Kokan)
     - [Lashkar Valley | 拉什卡谷](./Lashkar_Valley)
     - [Logar Valley | 罗杰尔谷](./Logar_Valley)
-    - [Manic-5 | 马尼克大坝](./Manic-5)
+    - [Manic-5 | 马尼克大坝](./Manicouagan)
     - [Mestia | 梅斯提亚](./Mestia)
     - [Mutaha | 穆塔哈](./Mutaha)
     - [Narva | 纳尔瓦](./Narva)
