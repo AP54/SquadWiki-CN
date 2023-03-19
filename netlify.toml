@@ -7,3 +7,8 @@
   from = "/map/manic-5"
   to = "/map/manicouagan"
   status = 301
+
+[[redirects]]
+  from = "*/*.md"
+  to = "./"
+  status = 301
