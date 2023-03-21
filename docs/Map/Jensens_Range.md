@@ -1,10 +1,11 @@
 # Jensen's Range | 延森训练场
 
-> 文章作者：桀氓AlbertWensley
+> 文章作者：桀氓AlbertWensley, TL
 
 ![Jensens_Range](./img/map_mini/Jensens_Range.jpg)
 
-### Jensen's Training Range Training v1
+
+### Jensen's Training Range
 
 切换代码： `AdminChangeLayer JensensRange_AUS-PLA`
 
@@ -30,24 +31,82 @@
     - UH-60M *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics *1
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CSK-131 QJY-88 *1
-    - CSK-131 QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *1
-    - CSK-131 HJ-8 *1
-    - ZBL-08 *1
-    - ZBL-08 HJ-73C *1
-    - ZBD-04A *1
-    - ZTZ-99A *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - CTM131 Logistics *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJY88 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - CSK131 HJ8 *1
+    - ZBL08 *1
+    - ZBL08 HJ73C *1
+    - ZBD04A *1
+    - ZTZ99A *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
     - Z-8G *1
 
 
-### Jensen's Training Range Training v2
+### Jensen's Training Range
+
+切换代码： `AdminChangeLayer JensensRange_BAF-IMF`
+
+预设代码： `AdminSetNextLayer JensensRange_BAF-IMF`
+
+光照情况： 正午
+
+旗点数量： 3
+
+双方阵营： 英军 VS 民兵
+
+初始票数： 99999  -  99999
+
+??? abstract "英军载具"
+    - HX60 Transport *1
+    - HX60 Logistics *1
+    - LPPV *1
+    - LPPV RWS *1
+    - FV107 *1
+    - FV432 *1
+    - FV432 RWS *1
+    - FV510 *1
+    - FV510 UA *1
+    - FV520 CTAS40 *1
+    - FV4034 *1
+    - SA330 *1
+
+??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Transport Modern Pickup *1
+    - Armored Transport Modern Pickup *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
+    - Ural-375D ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - MT-LB VMK *1
+    - BTR-80 *1
+    - MT-LB ZU-23-2 *1
+    - BMP-1 ZU-23-2 *1
+    - BM-21 Grad *1
+    - MT-LBM 6MB *1
+    - BMP-1 *1
+    - T-62 *1
+
+
+### Jensen's Training Range
 
 切换代码： `AdminChangeLayer JensensRange_CAF-INS`
 
@@ -101,63 +160,12 @@
     - MT-LB PKT *1
     - MT-LB ZU-23-2 *1
     - BRDM-2 *1
-    - BRDM-2 Spandrel *1
     - BMP-1 ZU-23-2 *1
     - BMP-1 *1
     - T-62 *1
 
 
-### Jensen's Training Range Training v3
-
-切换代码： `AdminChangeLayer JensensRange_GB-MIL`
-
-预设代码： `AdminSetNextLayer JensensRange_GB-MIL`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： 英军 VS 民兵
-
-初始票数： 99999  -  99999
-
-??? abstract "英军载具"
-    - HX60 Transport *1
-    - HX60 Logistics *1
-    - LPPV *1
-    - LPPV RWS *1
-    - FV107 *1
-    - FV432 *1
-    - FV432 RWS *1
-    - FV510 *1
-    - FV510 UA *1
-    - FV520 CTAS40 *1
-    - FV4034 *1
-    - SA330 *1
-
-??? abstract "民兵载具"
-    - Minsk 400 *1
-    - Transport Pickup Truck *1
-    - Ural-375D Transport *1
-    - Logistics Pickup Truck *1
-    - Ural-375D Logistics *1
-    - Ural-375D ZU-23-2 *1
-    - BRDM-2 *1
-    - BRDM-2 Spandrel *1
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - Technical SPG-9 *1
-    - Technical UB-32 *1
-    - MT-LB VMK *1
-    - MT-LBM 6MB *1
-    - MT-LB ZU-23-2 *1
-    - BTR-80 *1
-    - BMP-1 *1
-    - BMP-1 ZU-23-2 *1
-    - T-62 *1
-
-
-### Jensen's Training Range Training v4
+### Jensen's Training Range
 
 切换代码： `AdminChangeLayer JensensRange_USA-RUS`
 
@@ -201,7 +209,7 @@
     - Mi-8 *1
 
 
-### Jensen's Training Range Training v5
+### Jensen's Training Range
 
 切换代码： `AdminChangeLayer JensensRange_USMC-MEA`
 
@@ -231,11 +239,11 @@
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *1
     - Simir Logi *1
-    - BRDM-2 S8 *1
-    - BRDM-2 Spandrel *1
     - Simir MG3 *1
     - Simir Kord *1
     - Simir Kornet *1
+    - BRDM-2 S8 *1
+    - BRDM-2 Spandrel *1
     - MT-LB VMK *1
     - MT-LBM 6MA S8 *1
     - BMP-1 *1

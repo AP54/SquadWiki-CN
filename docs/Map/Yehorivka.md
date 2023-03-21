@@ -709,14 +709,57 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZBL-08 *1
-    - ZBD-04A *1
-    - ZTZ-99A *2
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *1
+    - ZBD04A *1
+    - ZTZ99A *2
     - Z-8G *2
+
+
+### Yehorivka RAAS v14
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v14`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v14`
+
+光照情况： 正午&多云
+
+旗点数量： 7
+
+双方阵营： PLA VS 民兵
+
+初始票数： 350  -  350
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZSL10 *1
+    - ZBL08 *1
+    - ZBD04A *1
+    - ZTZ99A *2
+    - Z-8G *2
+
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Modern Technical UB-32 *1
+    - Modern Technical ZU-23-2 *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical SPG-9 *1
+    - MT-LB ZU-23-2 *1
+    - MT-LBM 6MB *1
+    - BMP-1 *1
+    - BM-21 Grad *1
+    - T-62 *2
+
 
 
 ### Yehorivka Skirmish v1

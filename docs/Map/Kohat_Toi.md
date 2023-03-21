@@ -4,6 +4,7 @@
 
 ![Kohat_Toi](./img/map_mini/Kohat.jpg)
 
+
 ### Kohat Toi AAS v1
 
 切换代码： `AdminChangeLayer Kohat_AAS_v1`
@@ -28,12 +29,12 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *3
-    - CSK-131 QJZ-89 RWS *2
-    - ZSL-10 *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *3
+    - CSK131 QJC88 RWS *2
+    - ZSL10 *2
     - Z-8G *2
 
 
@@ -267,13 +268,13 @@
     - UH-1Y *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *2
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - ZBL-08 *2
-    - ZBD-04A *1
+    - CTM131 Transport QJY88 *2
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZBL08 *2
+    - ZBD04A *1
     - Z-8G *1
-    - ZTZ-99A *1
+    - ZTZ99A *1
 
 
 ### Kohat Toi RAAS v1
@@ -305,37 +306,6 @@
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - Mi-8 *2
-
-
-### Kohat Toi RAAS v10
-
-切换代码： `AdminChangeLayer Kohat_RAAS_v10`
-
-预设代码： `AdminSetNextLayer Kohat_RAAS_v10`
-
-光照情况： 正午
-
-旗点数量： 6
-
-双方阵营： 澳军 VS PLA
-
-初始票数： 300  -  300
-
-??? abstract "澳军载具"
-    - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 *2
-    - PMV RWS M2 *1
-    - ASLAV *2
-    - MRH-90 *2
-
-??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZBL-08 *2
-    - Z-8G *2
 
 
 ### Kohat Toi RAAS v2
@@ -604,6 +574,37 @@
     - BRDM-2 *1
     - BMP-1 *1
     - Ural-375D ZU-23-2 *2
+
+
+### Kohat Toi RAAS v10
+
+切换代码： `AdminChangeLayer Kohat_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Kohat_RAAS_v10`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 澳军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "澳军载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - PMV Mag58 *2
+    - PMV RWS M2 *1
+    - ASLAV *2
+    - MRH-90 *2
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *2
+    - Z-8G *2
 
 
 ### Kohat Toi Skirmish v1

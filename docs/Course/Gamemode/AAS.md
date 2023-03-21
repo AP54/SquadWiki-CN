@@ -13,7 +13,7 @@
 
 !!! example "攻守有序图层列表"
 
-    现版本下攻守有序模式共有 67 张图层可用，单击可前往详情页。
+    现版本下攻守有序模式共有 68 张图层可用，单击可前往详情页。
     
     - [Anvil AAS v1](/Map/anvil/#anvil-aas-v1)
 
@@ -91,9 +91,11 @@
 
     - [Logar AAS v3](/Map/logar/#logar-aas-v3)
 
-    - [Manicouagan AAS v1](/Map/Manicouagan/#Manicouagan-aas-v1)
+    - [Manicouagan AAS v1](/Map/manicouagan/#manicouagan-aas-v1)
 
-    - [Manicouagan AAS v2](/Map/Manicouagan/#Manicouagan-aas-v2)
+    - [Manicouagan AAS v2](/Map/manicouagan/#manicouagan-aas-v2)
+
+    - [Manicouagan AAS v3](/Map/manicouagan/#manicouagan-aas-v3)
 
     - [Mestia AAS v1](/Map/mestia/#mestia-aas-v1)
 
@@ -127,9 +129,9 @@
 
     - [Sumari Bala AAS v5](/Map/sumari_bala/#sumari-bala-aas-v5)
 
-    - [Tallil Outskirts AAS_v1](/Map/tallil_outskirts/ #tallil-outskirts-aas_v1)
+    - [Tallil Outskirts AAS_v1](/Map/tallil_outskirts/#tallil-outskirts-aas_v1)
 
-    - [Tallil Outskirts AAS v2](/Map/tallil_outskirts/ #tallil-outskirts-aas-v2)
+    - [Tallil Outskirts AAS v2](/Map/tallil_outskirts/#tallil-outskirts-aas-v2)
 
     - [Yehorivka AAS v1](/Map/yehorivka/#yehorivka-aas-v1)
 

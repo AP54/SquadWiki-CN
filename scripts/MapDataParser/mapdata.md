@@ -555,17 +555,17 @@
     - MRH-90 *1
 
 ??? abstract "叛军载具"
-    - Ural-375D ZU-23-2 *1
+    - Minsk 400 *2
+    - Logistics Pickup Truck *1
     - Technical M2 HB *1
-    - T-62 *1
     - Armored Technical DShK *1
-    - Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
     - Armored Technical SPG-9 *2
-    - Minsk 400 *8
+    - Technical SPG-9 *1
+    - BMP-1 *1
+    - T-62 *1
     - Transport Pickup Truck *1
     - BRDM-2 *1
-    - Logistics Pickup Truck *4
-    - BMP-1 *1
 
 
 ### Al Basrah Invasion v4
@@ -729,17 +729,17 @@
 初始票数： 200  -  900
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *1
-    - ZBL-08 *2
-    - ZBD-04A *1
-    - ZTZ-99A *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - ZBL08 *2
+    - ZBD04A *1
+    - ZTZ99A *1
     - Z-8G *1
     - RHIB Transport *1
-    - RHIB QJZ-89 *2
+    - RHIB QJZ89 *2
     - RHIB Logistics *1
 
 ??? abstract "叛军载具"
@@ -773,24 +773,27 @@
 初始票数： 300  -  300
 
 ??? abstract "民兵载具"
-    - Logistics Modern Pickup Truck *2
-    - Transport Pickup Truck *1
-    - Ural-375D Logistics *2
-    - Technical DShK *3
-    - Technical SPG-9 *1
+    - Minsk 400 *1
+    - Transport Modern Pickup *1
+    - Logistics Modern Pickup *3
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
     - Ural-375D ZU-23-2 *1
-    - Minsk 400 *2
+    - Armored Modern Technical SPG-9 *1
     - T-62 *1
 
 ??? abstract "叛军载具"
-    - Minsk 400 *4
-    - Logistics Pickup Truck *4
-    - Armored Technical DShK *2
-    - Technical M2 HB *1
-    - Armored Technical SPG-9 *1
-    - Ural-375D ZU-23-2 *1
-    - BMP-1 ZU-23-2 *1
+    - Minsk 400 *1
     - Transport Pickup Truck *1
+    - Logistics Pickup Truck *3
+    - Ural-375D Logistics *2
+    - Technical M2 HB *1
+    - Technical DShK Shielded *1
+    - Armored Technical DShK *2
+    - Ural-375D ZU-23-2 *1
+    - Armored Technical SPG-9 *1
     - T-62 *1
 
 
@@ -858,16 +861,20 @@
 初始票数： 150  -  150
 
 ??? abstract "民兵载具"
-    - Transport Pickup Truck *2
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Technical DShK *2
+    - Armored Transport Modern Pickup *1
+    - Transport Modern Pickup *1
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
-    - Logistics Pickup Truck *4
-    - Technical DShK *1
+    - Logistics Pickup Truck *3
+    - Ural-375D Logistics *1
+    - Technical DShK *2
 
 
 ### Al Basrah TA v1
@@ -949,13 +956,13 @@
 
 ??? abstract "中东载具"
     - Ural-4320 Logistics *3
-    - Simir Kord *1
+    - Simir Logi *1
     - Simir MG3 *1
+    - Simir Kord *1
     - MT-LBM 6MA S8 *1
     - Simir Kornet *1
     - BMP-1 *1
     - BMP-2 *1
-    - Simir Logi *1
     - Mi-17 *1
 
 
@@ -971,25 +978,28 @@
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 300  -  300
+初始票数： 350  -  350
 
 ??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
     - MT-LBM 6MA *1
-    - KamAZ 5350 Logistics *3
-    - BMP-2 *1
     - BTR-82A *1
-    - KamAZ 5350 Transport *1
+    - BMP-2 *1
 
 ??? abstract "民兵载具"
-    - BMP-1 *1
-    - Technical DShK Shielded *2
-    - Ural-375D Logistics *3
-    - Transport Pickup Truck *1
-    - MT-LB ZU-23-2 *1
-    - Technical SPG-9 *1
+    - Transport Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical SPG-9 *1
     - BRDM-2 *1
-    - Logistics Pickup Truck *1
+    - MT-LB ZU-23-2 *1
+    - BM-21 Grad *1
+    - BMP-1 *1
 
 
 ### Belaya AAS v2
@@ -1069,23 +1079,28 @@
 初始票数： 200  -  800
 
 ??? abstract "俄军载具"
-    - BTR-80 *1
-    - Tigr-M Kord *1
-    - KamAZ 5350 Logistics *3
-    - BMP-2 *1
-    - BTR-82A *2
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+    - BTR-80 *1
+    - BTR-82A *2
+    - BMP-2 *1
     - Mi-8 *1
 
 ??? abstract "民兵载具"
+    - Armored Transport Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical M2 HB *1
     - MT-LB ZU-23-2 *1
-    - Technical DShK *1
-    - Ural-375D Logistics *4
-    - Technical DShK Shielded *1
-    - Technical SPG-9 *2
-    - BRDM-2 *2
-    - Logistics Pickup Truck *1
-    - Transport Pickup Truck *1
+    - Modern Technical UB-32 *1
+    - BRDM-2 *1
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
+    - BM-21 Grad *1
 
 
 ### Belaya Invasion v2
@@ -1201,7 +1216,7 @@
 
 双方阵营： USMC VS 民兵
 
-初始票数： 300  -  320
+初始票数： 350  -  350
 
 ??? abstract "USMC载具"
     - M939 Transport *1
@@ -1213,15 +1228,19 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *1
-    - Modern Technical SPG-9 *1
-    - Modern Technical UB-32 *1
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical M2 HB *1
     - Modern Technical ZU-23-2 *1
-    - BRDM-2 *1
+    - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *1
+    - MT-LB ZU-23-2 *1
     - BMP-1 *1
+    - BM-21 Grad *1
 
 
 ### Belaya RAAS v3
@@ -1236,27 +1255,30 @@
 
 双方阵营： 英军 VS 民兵
 
-初始票数： 300  -  300
+初始票数： 350  -  350
 
 ??? abstract "英军载具"
-    - FV510 UA *1
+    - HX60 Transport *1
     - HX60 Logistics *3
-    - FV432 RWS *1
     - LPPV *1
     - FV432 *1
-    - HX60 Transport *1
+    - FV432 RWS *1
+    - FV510 UA *1
     - FV4034 *1
     - SA330 *1
 
 ??? abstract "民兵载具"
-    - Transport Pickup Truck *1
-    - Ural-375D Logistics *3
+    - Minsk 400 *1
+    - Transport Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical SPG-9 *2
     - BMP-1 *1
-    - Technical DShK Shielded *1
-    - Technical DShK *1
-    - Technical SPG-9 *2
-    - Minsk 400 *3
-    - Logistics Pickup Truck *1
+    - BM-21 Grad *1
     - T-62 *1
 
 
@@ -1308,7 +1330,7 @@
 
 双方阵营： 加军 VS 民兵
 
-初始票数： 300  -  320
+初始票数： 300  -  300
 
 ??? abstract "加军载具"
     - MSVS Transport *1
@@ -1319,15 +1341,20 @@
     - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *3
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *2
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *1
+    - Modern Technical M2 HB *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *2
-    - BMP-1 *2
-    - MT-LBM 6MB *2
     - MT-LB ZU-23-2 *1
+    - BM-21 Grad *1
+    - MT-LBM 6MB *2
+    - BMP-1 *1
 
 
 ### Belaya Skirmish v1
@@ -1340,19 +1367,24 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 俄军
+双方阵营： 加军 VS 民兵
 
 初始票数： 150  -  150
 
-??? abstract "英军载具"
-    - HX60 Transport *3
-    - HX60 Logistics *3
-    - LPPV *1
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - MSVS Logistics *1
+    - LUVW Logistics *1
+    - LUVW C6 *1
 
-??? abstract "俄军载具"
-    - KamAZ 5350 Transport *3
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
+??? abstract "民兵载具"
+    - Armored Transport Modern Pickup *1
+    - Transport Modern Pickup *1
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
 
 
 ### Belaya TC v1
@@ -1553,10 +1585,10 @@
     - M-ATV M2 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *3
-    - CSK-131 QJZ-89 *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *3
+    - CSK131 QJZ89 *2
 
 
 ### Chora Insurgency v1
@@ -1791,11 +1823,11 @@
     - M-ATV CROWS M2 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJC88 RWS *1
 
 
 ### Chora Skirmish v1
@@ -1845,11 +1877,11 @@
     - M939 Transport *1
 
 ??? abstract "中东载具"
-    - BMP-1 *1
-    - Simir Kord *1
+    - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
-    - Ural-4320 Transport *1
+    - Simir Kord *1
+    - BMP-1 *1
 
 
 ### Fallujah AAS v1
@@ -1944,16 +1976,16 @@
     - M1126 CROWS M2 *1
 
 ??? abstract "叛军载具"
+    - Minsk 400 *1
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
-    - Minsk 400 *4
     - Armored Technical DShK *1
-    - Technical SPG-9 *1
-    - Armored Technical SPG-9 *1
     - Technical M2 HB *1
+    - Technical SPG-9 *1
     - Technical Mortar *1
-    - T-62 *1
+    - Armored Technical SPG-9 *1
     - BMP-1 *1
+    - T-62 *1
 
 
 ### Fallujah Invasion v1
@@ -2091,16 +2123,16 @@
     - M1A1 *2
 
 ??? abstract "叛军载具"
+    - Minsk 400 *2
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
-    - Minsk 400 *9
     - Shitty Technical DShK *1
-    - Technical SPG-9 *1
-    - Armored Technical SPG-9 *1
     - Technical M2 HB *1
-    - Technical ZU-23-2 *1
-    - T-62 *1
     - Technical UB-32 *1
+    - Technical ZU-23-2 *1
+    - Armored Technical SPG-9 *1
+    - Technical SPG-9 *1
+    - T-62 *1
 
 
 ### Fallujah Invasion v5
@@ -2162,11 +2194,11 @@
     - BMP-2 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *4
-    - CSK-131 QJZ-89 *2
-    - CSK-131 HJ-8 *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *4
+    - CSK131 QJZ89 *2
+    - CSK131 HJ8 *2
 
 
 ### Fallujah RAAS v1
@@ -2400,9 +2432,9 @@
     - MATV M2 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *5
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *5
 
 
 ### Fallujah Seed v1
@@ -2472,8 +2504,9 @@
 ??? abstract "叛军载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
-    - Logistics Pickup Truck *4
-    - Technical DShK *1
+    - Logistics Pickup Truck *3
+    - Ural-375D Logistics *1
+    - Technical DShK *2
 
 
 ### Fallujah TC v1
@@ -2613,22 +2646,23 @@
 初始票数： 200  -  1000
 
 ??? abstract "俄军载具"
-    - BTR-80 *1
+    - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
+    - BTR-80 *1
     - BTR-82A *2
     - T-72B3 *1
-    - KamAZ 5350 Transport *1
 
 ??? abstract "民兵载具"
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - BRDM-2 Spandrel *1
+    - Armored Transport Modern Pickup *1
+    - Logistics Modern Pickup *2
+    - Armored Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *2
     - BRDM-2 *1
-    - Logistics Modern Pickup Truck *3
-    - Technical SPG-9 *2
     - MT-LB ZU-23-2 *1
-    - Technical UB-32 *1
-    - Transport Pickup Truck *1
+    - MT-LBM 6MB *1
 
 
 ### Fool's Road Invasion v1
@@ -2646,21 +2680,23 @@
 初始票数： 200  -  700
 
 ??? abstract "英军载具"
+    - HX60 Transport *1
     - HX60 Logistics *3
-    - FV510 *1
     - LPPV *1
     - LPPV RWS *1
-    - HX60 Transport *1
     - FV107 *1
+    - FV510 *1
 
 ??? abstract "民兵载具"
-    - Technical DShK *1
+    - Armored Transport Modern Pickup *1
+    - Minsk 400 *1
+    - Armored Logistics Modern Pickup *2
+    - Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
     - BRDM-2 *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *3
-    - Technical SPG-9 *1
-    - Transport Pickup Truck *1
-    - Minsk 400 *4
+    - Modern Technical SPG-9 *1
     - BMP-1 *1
 
 
@@ -2729,7 +2765,7 @@
 
 预设代码： `AdminSetNextLayer FoolsRoad_RAAS_v3`
 
-光照情况： 下午&晴天
+光照情况： 阴天
 
 旗点数量： 6
 
@@ -2738,22 +2774,21 @@
 初始票数： 250  -  250
 
 ??? abstract "英军载具"
-    - HX60 Logistics *3
-    - LPPV *1
-    - FV510 UA *1
     - HX60 Transport *1
+    - HX60 Logistics *1
     - FV432 *1
     - FV432 RWS *1
+    - FV510 *1
 
 ??? abstract "民兵载具"
-    - Logistics Modern Pickup Truck *2
-    - Ural-375D Logistics *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical SPG-9 *1
     - MT-LBM 6MB *1
-    - BMP-1 *1
-    - Transport Pickup Truck *1
-    - MT-LB ZU-23-2 *1
-    - Technical DShK *1
-    - Technical SPG-9 *1
 
 
 ### Fool's Road RAAS v4
@@ -2872,20 +2907,15 @@
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - MT-LB Logistics *1
     - BTR-80 *1
-    - BTR-82A *1
-    - Tigr-M Kord *1
 
 ??? abstract "民兵载具"
-    - Technical DShK *1
-    - BMP-1 ZU-23-2 *1
-    - BRDM-2 *1
-    - Ural-375D Logistics *3
-    - Technical SPG-9 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
     - MT-LB VMK *1
-    - Minsk 400 *2
-    - Transport Pickup Truck *1
+    - BMP-1 *1
 
 
 ### Goose Bay AAS v1
@@ -3004,18 +3034,20 @@
     - TAPV C6 *1
     - TAPV M2 *1
     - Coyote *1
-    - LAV 6 *2
+    - LAV 6 *3
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
     - Ural-375D Logistics *1
-    - Modern Technical SPG-9 *1
-    - BMP-1 *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical SPG-9 *1
+    - BMP-1 *2
     - T-62 *1
-    - Logistics Modern Pickup Truck *1
-    - Modern Technical M2 HB *1
+    - BM-21 Grad *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Modern Technical M2 HB *1
 
 
 ### Goose Bay Invasion v3
@@ -3109,14 +3141,14 @@
     - CH-146 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *2
-    - ZBL-08 HJ-73C *2
-    - ZBD-04A *1
-    - ZTZ-99A *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *2
+    - ZBL08 HJ73C *2
+    - ZBD04A *1
+    - ZTZ99A *1
     - Z-8G *1
 
 
@@ -3248,13 +3280,13 @@
     - CH-146 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *2
-    - CSK-131 QJY-88 *2
-    - CSK-131 QJZ-89 *1
-    - ZSL-10 *2
-    - ZBL-08 *3
-    - ZTZ-99A *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *2
+    - CSK131 QJY88 *2
+    - CSK131 QJZ89 *1
+    - ZSL10 *2
+    - ZBL08 *3
+    - ZTZ99A *2
     - Z-8G *2
 
 
@@ -3458,24 +3490,22 @@
 初始票数： 200  -  1000
 
 ??? abstract "俄军载具"
-    - BMP-2 *1
-    - BTR-80 *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-80 *1
+    - BMP-2 *1
     - Mi-8 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Logistics *4
-    - Ural-375D Transport *1
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - Technical SPG-9 *1
-    - BMP-1 *1
-    - BRDM-2 *1
-    - MT-LBM 6MB *1
-    - BRDM-2 Spandrel *1
-    - Technical UB-32 *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *2
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
+    - Tigr-M Kord *1
+    - BMP-1 *2
+    - BM-21 Grad *1
 
 
 ### Gorodok Invasion v1
@@ -3526,26 +3556,27 @@
 初始票数： 200  -  900
 
 ??? abstract "俄军载具"
-    - BTR-80 *1
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
-    - BTR-82A *1
+    - Tigr-M Kord *2
+    - BTR-82A *2
     - BMP-2 *2
-    - Tigr-M Kord *1
-    - Mi-8 *2
+    - T-72B3 *1
+    - Mi-8 *1
 
 ??? abstract "民兵载具"
-    - BMP-1 ZU-23-2 *1
-    - Ural-375D Logistics *3
-    - Ural-375D Transport *1
-    - Technical SPG-9 *1
-    - BRDM-2 *1
-    - Technical DShK Shielded *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - MT-LBM 6MB *1
+    - MT-LB ZU-23-2 *1
     - T-62 *1
-    - Logistics Modern Pickup Truck *2
-    - Technical UB-32 *2
-    - BMP-1 *1
-    - Minsk 400 *1
+    - BM-21 Grad *1
 
 
 ### Gorodok Invasion v3
@@ -3554,7 +3585,7 @@
 
 预设代码： `AdminSetNextLayer Gorodok_Invasion_v3`
 
-光照情况： 黄昏
+光照情况： 阴天
 
 旗点数量： 5
 
@@ -3572,16 +3603,18 @@
     - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *2
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
     - Modern Technical SPG-9 *1
-    - Modern Technical UB-32 *2
-    - Modern Technical ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - Ural-375D ZU-23-2 *1
+    - BMP-1 *1
     - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Gorodok RAAS v1
@@ -3623,32 +3656,39 @@
 
 预设代码： `AdminSetNextLayer Gorodok_RAAS_v02`
 
-光照情况： 黄昏
+光照情况： 阴天
 
 旗点数量： 6
 
-双方阵营： 英军 VS 俄军
+双方阵营： 英军 VS 民兵
 
 初始票数： 300  -  300
 
 ??? abstract "英军载具"
-    - HX60 Logistics *3
     - HX60 Transport *1
-    - FV432 *1
+    - HX60 Logistics *2
+    - FV432 *2
     - FV432 RWS *1
-    - FV520 CTAS40 *1
-    - FV107 *1
+    - FV107 *2
+    - FV510 *1
     - FV4034 *1
-    - SA330 *2
+    - SA330 *1
 
-??? abstract "俄军载具"
-    - KamAZ 5350 Logistics *3
-    - KamAZ 5350 Transport *1
-    - BTR-82A *3
-    - BRDM-2 *1
-    - BMP-2 *1
-    - T-72B3 *1
-    - Mi-8 *2
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - Armored Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BM-21 Grad *1
+    - BMP-1 *2
+    - T-62 *1
 
 
 ### Gorodok RAAS v3
@@ -3826,31 +3866,33 @@
 
 旗点数量： 7
 
-双方阵营： 澳军 VS 民兵
+双方阵营： USMC VS 民兵
 
-初始票数： 300  -  340
+初始票数： 300  -  300
 
-??? abstract "澳军载具"
-    - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 x3 *3
-    - PMV Mag58 *1
-    - ASLAV *2
-    - MRH-90 *1
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *2
+    - M1151 M2 *2
+    - M1151 M2 Open Doors *2
+    - LAV-25 *1
+    - AAVP-7A1 *2
+    - M1A1 *1
+    - UH-1Y *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *2
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *1
+    - Armored Transport Modern Pickup *2
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
     - Modern Technical SPG-9 *1
-    - Modern Technical UB-32 *1
-    - MT-LBM 6MB *1
     - BRDM-2 *1
+    - BTR-80 *1
     - Ural-375D ZU-23-2 *1
-    - Modern Technical ZU-23-2 *1
-    - MT-LB ZU-23-2 *1
     - BMP-1 *1
+    - BM-21 Grad *1
     - T-62 *1
 
 
@@ -3902,26 +3944,33 @@
 
 双方阵营： 加军 VS 民兵
 
-初始票数： 300  -  340
+初始票数： 300  -  300
 
 ??? abstract "加军载具"
     - LUVW Transport *2
-    - LUVW Logistics *3
-    - LUVW C6 *2
+    - LUVW Logistics *2
+    - MSVS Logistics *1
     - LUVW M2 *3
+    - LAV 6 *2
     - Leopard 2A6M CAN *1
-    - CH-146 *3
+    - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *2
-    - Modern Technical UB-32 *1
-    - Modern Technical ZU-23-2 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *2
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - Tigr-M Kord *1
+    - Armored Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *3
+    - BMP-1 *2
     - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Gorodok RAAS v11
@@ -3984,13 +4033,13 @@
     - UH-60M *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *1
-    - ZBD-04A *2
-    - ZTZ-99A *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - ZBD04A *2
+    - ZTZ99A *1
     - Z-8G *1
 
 
@@ -4109,21 +4158,79 @@
     - UH-60M *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics *1
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CSK-131 QJY-88 *1
-    - CSK-131 QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *1
-    - CSK-131 HJ-8 *1
-    - ZBL-08 *1
-    - ZBL-08 HJ-73C *1
-    - ZBD-04A *1
-    - ZTZ-99A *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - CTM131 Logistics *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJY88 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - CSK131 HJ8 *1
+    - ZBL08 *1
+    - ZBL08 HJ73C *1
+    - ZBD04A *1
+    - ZTZ99A *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
     - Z-8G *1
+
+
+### Jensen's Training Range
+
+切换代码： `AdminChangeLayer JensensRange_BAF-IMF`
+
+预设代码： `AdminSetNextLayer JensensRange_BAF-IMF`
+
+光照情况： 正午
+
+旗点数量： 3
+
+双方阵营： 英军 VS 民兵
+
+初始票数： 99999  -  99999
+
+??? abstract "英军载具"
+    - HX60 Transport *1
+    - HX60 Logistics *1
+    - LPPV *1
+    - LPPV RWS *1
+    - FV107 *1
+    - FV432 *1
+    - FV432 RWS *1
+    - FV510 *1
+    - FV510 UA *1
+    - FV520 CTAS40 *1
+    - FV4034 *1
+    - SA330 *1
+
+??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Transport Modern Pickup *1
+    - Armored Transport Modern Pickup *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
+    - Ural-375D ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - MT-LB VMK *1
+    - BTR-80 *1
+    - MT-LB ZU-23-2 *1
+    - BMP-1 ZU-23-2 *1
+    - BM-21 Grad *1
+    - MT-LBM 6MB *1
+    - BMP-1 *1
+    - T-62 *1
 
 
 ### Jensen's Training Range
@@ -4180,59 +4287,8 @@
     - MT-LB PKT *1
     - MT-LB ZU-23-2 *1
     - BRDM-2 *1
-    - BRDM-2 Spandrel *1
     - BMP-1 ZU-23-2 *1
     - BMP-1 *1
-    - T-62 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_GB-MIL`
-
-预设代码： `AdminSetNextLayer JensensRange_GB-MIL`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： 英军 VS 民兵
-
-初始票数： 99999  -  99999
-
-??? abstract "英军载具"
-    - HX60 Transport *1
-    - HX60 Logistics *1
-    - LPPV *1
-    - LPPV RWS *1
-    - FV107 *1
-    - FV432 *1
-    - FV432 RWS *1
-    - FV510 *1
-    - FV510 UA *1
-    - FV520 CTAS40 *1
-    - FV4034 *1
-    - SA330 *1
-
-??? abstract "民兵载具"
-    - Minsk 400 *1
-    - Transport Pickup Truck *1
-    - Ural-375D Transport *1
-    - Logistics Pickup Truck *1
-    - Ural-375D Logistics *1
-    - Ural-375D ZU-23-2 *1
-    - BRDM-2 *1
-    - BRDM-2 Spandrel *1
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - Technical SPG-9 *1
-    - Technical UB-32 *1
-    - MT-LB VMK *1
-    - MT-LBM 6MB *1
-    - MT-LB ZU-23-2 *1
-    - BTR-80 *1
-    - BMP-1 *1
-    - BMP-1 ZU-23-2 *1
     - T-62 *1
 
 
@@ -4310,11 +4366,11 @@
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *1
     - Simir Logi *1
-    - BRDM-2 S8 *1
-    - BRDM-2 Spandrel *1
     - Simir MG3 *1
     - Simir Kord *1
     - Simir Kornet *1
+    - BRDM-2 S8 *1
+    - BRDM-2 Spandrel *1
     - MT-LB VMK *1
     - MT-LBM 6MA S8 *1
     - BMP-1 *1
@@ -4419,8 +4475,8 @@
     - Armored Technical DShK *1
     - Transport Pickup Truck *1
     - Technical SPG-9 *1
-    - BMP-1 *1
     - Armored Technical SPG-9 *1
+    - BMP-1 *1
 
 
 ### Kamdesh Invasion v1
@@ -4480,9 +4536,9 @@
     - SA330 *2
 
 ??? abstract "叛军载具"
-    - Minsk 400 *6
-    - Logistics Pickup Truck *6
+    - Minsk 400 *1
     - Transport Pickup Truck *4
+    - Logistics Pickup Truck *6
     - Technical DShK Shielded *1
     - BRDM-2 *1
     - MT-LB ZU-23-2 *1
@@ -4514,15 +4570,15 @@
     - UH-60M *2
 
 ??? abstract "叛军载具"
-    - Minsk 400 *9
-    - Logistics Pickup Truck *5
+    - Minsk 400 *2
     - Transport Pickup Truck *1
-    - BMP-1 *1
-    - Armored Technical SPG-9 *1
-    - Ural-375D ZU-23-2 *1
+    - Logistics Pickup Truck *5
     - Armored Technical DShK *1
+    - Ural-375D ZU-23-2 *1
+    - Armored Technical SPG-9 *1
     - Technical SPG-9 *1
     - BRDM-2 *1
+    - BMP-1 *1
 
 
 ### Kamdesh Invasion v4
@@ -4665,8 +4721,8 @@
     - Technical DShK Shielded *1
     - Armored Technical DShK *1
     - Technical SPG-9 *1
-    - BMP-1 *2
     - T-62 *1
+    - BMP-1 *2
 
 
 ### Kamdesh RAAS v1
@@ -4684,23 +4740,25 @@
 初始票数： 300  -  300
 
 ??? abstract "民兵载具"
-    - Logistics Pickup Truck *2
-    - Ural-375D Logistics *2
-    - Technical DShK Shielded *2
-    - BMP-1 *1
-    - Technical SPG-9 *1
-    - BMP-1 ZU-23-2 *1
-    - Technical UB-32 *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
+    - MT-LBM 6MB *1
+    - T-62 *1
 
 ??? abstract "叛军载具"
-    - Logistics Pickup Truck *2
+    - Ural-375D Transport *1
     - Ural-375D Logistics *2
+    - Logistics Pickup Truck *2
     - Armored Technical DShK *1
-    - BMP-1 *1
-    - Technical DShK Shielded *1
     - Armored Technical SPG-9 *1
-    - BRDM-2 *1
-    - Technical UB-32 *2
+    - Technical UB-32 *1
+    - BMP-1 *2
+    - T-62 *1
 
 
 ### Kamdesh RAAS v2
@@ -4968,22 +5026,21 @@
 初始票数： 400  -  400
 
 ??? abstract "民兵载具"
-    - Logistics Pickup Truck *4
-    - Transport Pickup Truck *1
-    - Technical DShK Shielded *2
-    - BMP-1 *1
-    - Ural-375D Logistics *1
-    - Minsk 400 *4
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - MT-LB VMK *1
 
 ??? abstract "叛军载具"
-    - Logistics Pickup Truck *3
-    - Transport Pickup Truck *1
-    - BMP-1 *1
-    - Technical DShK *2
-    - Ural-375D Logistics *1
-    - BMP-1 ZU-23-2 *1
-    - Armored Technical SPG-9 *1
-    - Minsk 400 *4
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Logistics Pickup Truck *1
+    - Armored Technical DShK *1
+    - Shitty Technical DShK *1
+    - BTR-80 *1
 
 
 ### Kamdesh TC v3
@@ -5075,12 +5132,12 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *3
-    - CSK-131 QJZ-89 RWS *2
-    - ZSL-10 *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *3
+    - CSK131 QJC88 RWS *2
+    - ZSL10 *2
     - Z-8G *2
 
 
@@ -5314,13 +5371,13 @@
     - UH-1Y *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *2
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - ZBL-08 *2
-    - ZBD-04A *1
+    - CTM131 Transport QJY88 *2
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZBL08 *2
+    - ZBD04A *1
     - Z-8G *1
-    - ZTZ-99A *1
+    - ZTZ99A *1
 
 
 ### Kohat Toi RAAS v1
@@ -5352,37 +5409,6 @@
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - Mi-8 *2
-
-
-### Kohat Toi RAAS v10
-
-切换代码： `AdminChangeLayer Kohat_RAAS_v10`
-
-预设代码： `AdminSetNextLayer Kohat_RAAS_v10`
-
-光照情况： 正午
-
-旗点数量： 6
-
-双方阵营： 澳军 VS PLA
-
-初始票数： 300  -  300
-
-??? abstract "澳军载具"
-    - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 *2
-    - PMV RWS M2 *1
-    - ASLAV *2
-    - MRH-90 *2
-
-??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZBL-08 *2
-    - Z-8G *2
 
 
 ### Kohat Toi RAAS v2
@@ -5653,6 +5679,37 @@
     - Ural-375D ZU-23-2 *2
 
 
+### Kohat Toi RAAS v10
+
+切换代码： `AdminChangeLayer Kohat_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Kohat_RAAS_v10`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： 澳军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "澳军载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - PMV Mag58 *2
+    - PMV RWS M2 *1
+    - ASLAV *2
+    - MRH-90 *2
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *2
+    - Z-8G *2
+
+
 ### Kohat Toi Skirmish v1
 
 切换代码： `AdminChangeLayer Kohat_Skirmish_v1`
@@ -5733,12 +5790,12 @@
     - RHIB M240 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
-    - RHIB QJY-88 *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - RHIB QJY88 *1
 
 
 ### Kokan AAS v2
@@ -5989,16 +6046,20 @@
 初始票数： 150  -  150
 
 ??? abstract "民兵载具"
-    - Transport Pickup Truck *2
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Technical DShK *2
+    - Armored Transport Modern Pickup *1
+    - Transport Modern Pickup *1
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
-    - Logistics Pickup Truck *4
-    - Technical DShK *1
+    - Logistics Pickup Truck *3
+    - Ural-375D Logistics *1
+    - Technical DShK *2
 
 
 ### Kokan TC v1
@@ -6213,9 +6274,9 @@
     - UH-60M *2
 
 ??? abstract "叛军载具"
-    - Ural-375D Logistics *1
     - Minsk 400 *1
     - Logistics Pickup Truck *2
+    - Ural-375D Logistics *1
     - Ural-375D ZU-23-2 *1
     - Technical UB-32 *2
     - Technical DShK Shielded *1
@@ -6322,11 +6383,11 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *2
-    - CTM-131 Logistics *4
-    - CSK-131 QJY-88 *1
-    - CSK-131 QJZ-89 *2
-    - CSK-131 HJ-8 *2
+    - CTM131 Transport QJY88 *2
+    - CTM131 Logistics *4
+    - CSK131 QJY88 *1
+    - CSK131 QJZ89 *2
+    - CSK131 HJ8 *2
     - Z-8G *1
 
 
@@ -6526,8 +6587,9 @@
 ??? abstract "叛军载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
-    - Logistics Pickup Truck *4
-    - Technical DShK *1
+    - Logistics Pickup Truck *3
+    - Ural-375D Logistics *1
+    - Technical DShK *2
 
 
 ### Lashkar TC v1
@@ -6579,17 +6641,18 @@
 
 ??? abstract "美军载具"
     - M939 Transport *1
-    - M939 Logistics *1
+    - M939 Logistics *3
     - M2A3 *1
-    - M1A2 *1
+    - M1A2 *2
 
 ??? abstract "中东载具"
     - Ural-4320 Transport *1
-    - Simir Logi *1
-    - Ural-4320 Logistics *1
+    - Simir Logi *2
+    - Ural-4320 Logistics *3
     - BMP-1 *1
     - BMP-2 *1
     - T-62 *1
+    - T-72S *1
 
 
 ### Lashkar TC v3
@@ -6713,11 +6776,11 @@
     - M-ATV CROWS M2 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *1
-    - CTM-131 Transport QJZ-89 *1
-    - CSK-131 QJZ-89 RWS *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJC88 RWS *1
 
 
 ### Logar AAS v2
@@ -6932,11 +6995,11 @@
     - Simir Logi *1
 
 
-### Manic-5 AAS v1
+### Manicouagan AAS v1
 
-切换代码： `AdminChangeLayer Manic_AAS_v1`
+切换代码： `AdminChangeLayer Manicouagan_AAS_v1`
 
-预设代码： `AdminSetNextLayer Manic_AAS_v1`
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v1`
 
 光照情况： 正午
 
@@ -6948,57 +7011,94 @@
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *2
-    - M113A3 TLAV *2
-    - LAV 6 *1
-    - Leopard 2A6M CAN *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW C6 *2
+    - LUVW M2 *1
+    - M113A3 TLAV *1
     - CH-146 *1
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Logistics *2
+    - MT-LB Logistics *1
     - Tigr-M Kord *2
-    - MT-LBM 6MA *2
-    - BTR-82A *1
-    - T-72B3 *1
+    - BTR-80 *1
     - Mi-8 *1
 
 
-### Manic-5 AAS v2
+### Manicouagan AAS v2
 
-切换代码： `AdminChangeLayer Manic_AAS_v2`
+切换代码： `AdminChangeLayer Manicouagan_AAS_v2`
 
-预设代码： `AdminSetNextLayer Manic_AAS_v2`
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v2`
 
 光照情况： 正午
 
 旗点数量： 7
 
-双方阵营： 加军 VS 俄军
+双方阵营： USMC VS 俄军
 
 初始票数： 300  -  300
 
-??? abstract "加军载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *3
-    - TAPV M2 *2
-    - CH-146 *3
+??? abstract "USMC载具"
+    - M939 Transport *2
+    - M939 Logistics *2
+    - M1151 M2 *2
+    - M1151 M2 Open Doors *1
+    - M1151 CROWS M2 *1
+    - AAVP-7A1 *1
+    - LAV-25 *1
+    - UH-1Y *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *2
+    - KamAZ 5350 Logistics *2
+    - Tigr-M Kord *3
+    - Tigr-M RWS Kord *1
+    - BTR-82A *2
+    - Mi-8 *1
+
+
+### Manicouagan AAS v3
+
+切换代码： `AdminChangeLayer Manicouagan_AAS_v3`
+
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v3`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 美军 VS 俄军
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
+    - M2A3 *1
+    - M1A2 *1
+    - UH-60M *1
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *1
     - Tigr-M Kord *3
-    - Tigr-M RWS Kord *2
-    - Mi-8 *3
+    - BRDM-2 *1
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
 
 
-### Manic-5 Invasion v1
+### Manicouagan Invasion v1
 
-切换代码： `AdminChangeLayer Manic_Invasion_v1`
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v1`
 
-预设代码： `AdminSetNextLayer Manic_Invasion_v1`
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v1`
 
 光照情况： 正午
 
@@ -7006,66 +7106,251 @@
 
 双方阵营： 加军 VS 俄军
 
-初始票数： 200  -  900
+初始票数： 800  -  200
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
+    - LUVW Logistics *3
+    - LUVW M2 *3
+    - TAPV M2 *1
+    - M113A3 TLAV *1
+    - Coyote *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+    - LUV-A1 Logistics *1
+    - RHIB Logistics *1
+    - RHIB Transport *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *2
+    - KamAZ 5350 Logistics *1
+    - BRDM-2 *2
+    - BTR-82A *2
+    - BMP-2 *2
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan Invasion v2
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v2`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v2`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： 加军 VS 俄军
+
+初始票数： 200  -  800
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
     - TAPV M2 *2
     - M113A3 TLAV *1
-    - Coyote *1
     - LAV 6 *3
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *4
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *2
-    - MT-LBM 6MA *1
-    - MT-LB VMK *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *2
+    - Tigr-M Kord *4
+    - Tigr-M RWS Kord *1
+    - BMP-2 *1
     - T-72B3 *1
+    - Mi-8 *1
 
 
-### Manic-5 Invasion v2
+### Manicouagan Invasion v3
 
-切换代码： `AdminChangeLayer Manic_Invasion_v2`
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v3`
 
-预设代码： `AdminSetNextLayer Manic_Invasion_v2`
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v3`
 
-光照情况： 正午
+光照情况： 暴雨
 
 旗点数量： 5
 
-双方阵营： 加军 VS 美军
+双方阵营： 美军 VS 俄军
 
-初始票数： 900  -  200
-
-??? abstract "加军载具"
-    - MSVS Transport *1
-    - LUVW Logistics *4
-    - LUVW C6 *2
-    - LUVW M2 *2
-    - Coyote *2
-    - LUV-A1 Transport *1
-    - LUV-A1 Logistics *1
+初始票数： 200  -  800
 
 ??? abstract "美军载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
-    - M-ATV CROWS M2 *2
+    - M-ATV CROWS M2 *1
     - M2A3 *3
     - M1A2 *1
     - UH-60M *1
 
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *2
+    - Tigr-M Kord *4
+    - BRDM-2 *1
+    - BTR-82A *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
 
-### Manic-5 RAAS v1
 
-切换代码： `AdminChangeLayer Manic_RAAS_v1`
+### Manicouagan Invasion v4
 
-预设代码： `AdminSetNextLayer Manic_RAAS_v1`
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v4`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v4`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： USMC VS 俄军
+
+初始票数： 200  -  800
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *2
+    - M1151 M2 *2
+    - M1151 CROWS M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *2
+    - Tigr-M Kord *3
+    - BRDM-2 *1
+    - BTR-82A *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan Invasion v5
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v5`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v5`
+
+光照情况： 暴雨
+
+旗点数量： 5
+
+双方阵营： USMC VS 俄军
+
+初始票数： 200  -  800
+
+??? abstract "USMC载具"
+    - AAVC-7A1 Logistics *3
+    - AAVP-7A1 *3
+    - LAV-25 *4
+    - UH-1Y *1
+    - RHIB Logistics *1
+    - RHIB M2 *2
+    - RHIB Transport *1
+
+??? abstract "俄军载具"
+    - MT-LB Logistics *4
+    - BRDM-2 *2
+    - BTR-82A *2
+    - BMP-2 *1
+    - Mi-8 *1
+    - RHIB PKP *1
+    - RHIB NSV *1
+    - RHIB Logistics *1
+
+
+### Manicouagan Invasion v6
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v6`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v6`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： 加军 VS PLA
+
+初始票数： 200  -  800
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW M2 *1
+    - TAPV M2 *1
+    - LAV 6 *3
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *2
+    - ZBL08 HJ73C *2
+    - ZTZ99A *1
+    - Z-8G *1
+
+
+### Manicouagan Invasion v7
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v7`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v7`
+
+光照情况： 暴雨
+
+旗点数量： 5
+
+双方阵营： 加军 VS 民兵
+
+初始票数： 200  -  900
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW M2 *2
+    - TAPV M2 *2
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Armored Logistics Modern Pickup *2
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical M2 HB *3
+    - Armored Modern Technical SPG-9 *3
+    - Ural-375D ZU-23-2 *2
+    - Modern Technical UB-32 *1
+    - BM-21 Grad *1
+    - T-62 *1
+
+
+### Manicouagan RAAS v1
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v1`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v1`
 
 光照情况： 正午
 
@@ -7073,12 +7358,12 @@
 
 双方阵营： 加军 VS 俄军
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *1
+    - MSVS Logistics *2
+    - LUVW M2 *2
     - TAPV M2 *1
     - M113A3 TLAV *1
     - Coyote *1
@@ -7088,8 +7373,9 @@
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *1
+    - Tigr-M Kord *2
     - Tigr-M RWS Kord *1
     - MT-LBM 6MA *1
     - BTR-82A *3
@@ -7097,110 +7383,267 @@
     - Mi-8 *2
 
 
-### Manic-5 RAAS v2
+### Manicouagan RAAS v2
 
-切换代码： `AdminChangeLayer Manic_RAAS_v2`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v2`
 
-预设代码： `AdminSetNextLayer Manic_RAAS_v2`
-
-光照情况： 正午
-
-旗点数量： 5
-
-双方阵营： 加军 VS 民兵
-
-初始票数： 350  -  370
-
-??? abstract "加军载具"
-    - MSVS Transport *1
-    - LUVW Logistics *4
-    - LUVW C6 *4
-    - LUVW M2 *2
-    - M113A3 TLAV *2
-    - CH-146 *1
-
-??? abstract "民兵载具"
-    - Ural-375D Transport *2
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *4
-    - Modern Technical M2 HB *4
-    - Modern Technical SPG-9 *2
-    - Modern Technical ZU-23-2 *2
-    - Modern Technical UB-32 *1
-    - Ural-375D ZU-23-2 *1
-
-
-### Manic-5 RAAS v3
-
-切换代码： `AdminChangeLayer Manic_RAAS_v3`
-
-预设代码： `AdminSetNextLayer Manic_RAAS_v3`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v2`
 
 光照情况： 正午
 
 旗点数量： 7
 
-双方阵营： 加军 VS 俄军
+双方阵营： USMC VS 俄军
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
-??? abstract "加军载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - M113A3 TLAV *2
-    - Leopard 2A6M CAN *3
-    - CH-146 *1
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 M2 *2
+    - M1151 M2 Open Doors *1
+    - M1151 CROWS M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - MT-LB VMK *2
-    - T-72B3 *3
-    - Mi-8 *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *3
+    - BRDM-2 *1
+    - BTR-82A *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *2
 
 
-### Manic-5 RAAS v4
+### Manicouagan RAAS v3
 
-切换代码： `AdminChangeLayer Manic_RAAS_v4`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v3`
 
-预设代码： `AdminSetNextLayer Manic_RAAS_v4`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v3`
+
+光照情况： 暴雨
+
+旗点数量： 7
+
+双方阵营： 美军 VS 俄军
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M2A3 *2
+    - M1A2 *2
+    - UH-60M *2
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - MT-LB Logistics *1
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *2
+    - BRDM-2 *1
+    - BMP-2 *2
+    - T-72B3 *2
+    - Mi-8 *2
+
+
+### Manicouagan RAAS v4
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v4`
 
 光照情况： 正午
 
-旗点数量： 6
+旗点数量： 7
 
-双方阵营： 加军 VS 俄军
+双方阵营： 加军 VS PLA
 
 初始票数： 300  -  300
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - LUVW Logistics *3
+    - MSVS Logistics *3
+    - LUVW M2 *2
+    - TAPV M2 *1
+    - Coyote *1
+    - LAV 6 *3
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *2
+    - ZBD04A *1
+    - ZTZ99A *1
+    - Z-8G *1
+
+
+### Manicouagan RAAS v5
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v5`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v5`
+
+光照情况： 暴雨
+
+旗点数量： 7
+
+双方阵营： USMC VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 CROWS M2 *1
+    - M1151 M2 *1
+    - AAVP-7A1 *1
+    - LAV-25 *3
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *2
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - ZBL08 *3
+    - ZTZ99A *1
+    - Z-8G *2
+
+
+### Manicouagan RAAS v6
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v6`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v6`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 美军 VS PLA
+
+初始票数： 300  -  300
+
+??? abstract "美军载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M2A3 *2
+    - M1A2 *2
+    - UH-60M *2
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *2
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZBD04A *2
+    - ZTZ99A *2
+    - Z-8G *2
+
+
+### Manicouagan RAAS v7
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v7`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v7`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： 加军 VS 民兵
+
+初始票数： 300  -  300
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
     - LUVW C6 *2
     - LUVW M2 *2
-    - Coyote *2
+    - TAPV M2 *1
+    - LAV 6 *2
     - Leopard 2A6M CAN *1
-    - CH-146 *3
+    - CH-146 *1
 
-??? abstract "俄军载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *4
-    - T-72B3 *1
-    - Mi-8 *1
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - Armored Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BMP-1 *2
+    - BM-21 Grad *1
+    - T-62 *1
 
 
-### Manic-5 Skirmish v1
+### Manicouagan Seed v1
 
-切换代码： `AdminChangeLayer Manic_Skirmish_v1`
+切换代码： `AdminChangeLayer Manicouagan_Seed_v1`
 
-预设代码： `AdminSetNextLayer Manic_Skirmish_v1`
+预设代码： `AdminSetNextLayer Manicouagan_Seed_v1`
 
-光照情况： 阴天
+光照情况： 正午
 
 旗点数量： 5
 
 双方阵营： 加军 VS 民兵
+
+初始票数： 100  -  100
+
+??? abstract "加军载具"
+    - MSVS Transport *1
+    - LUVW Transport *3
+    - LUVW Logistics *3
+    - MSVS Logistics *2
+
+??? abstract "民兵载具"
+    - Minsk 400 *1
+    - Transport Modern Pickup *1
+    - Armored Transport Modern Pickup *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *2
+
+
+### Manicouagan Skirmish v1
+
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v1`
+
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v1`
+
+光照情况： 暴雨
+
+旗点数量： 5
+
+双方阵营： 加军 VS 俄军
 
 初始票数： 150  -  150
 
@@ -7212,67 +7655,58 @@
     - MSVS Logistics *2
     - LUVW C6 *1
 
-??? abstract "民兵载具"
-    - Transport Pickup Truck *2
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Technical DShK *2
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
 
 
-### Manic-5 Skirmish v2
+### Manicouagan Skirmish v2
 
-切换代码： `AdminChangeLayer Manic_Skirmish_v2`
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v2`
 
-预设代码： `AdminSetNextLayer Manic_Skirmish_v2`
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v2`
 
 光照情况： 正午
 
 旗点数量： 5
 
-双方阵营： 加军 VS 美军
+双方阵营： USMC VS 俄军
 
 初始票数： 150  -  150
 
-??? abstract "加军载具"
-    - MSVS Transport *3
-    - MSVS Logistics *3
-    - LUVW M2 *1
+??? abstract "USMC载具"
+    - M939 Logistics *3
+    - M1151 M2 *2
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *2
+
+
+### Manicouagan Skirmish v3
+
+切换代码： `AdminChangeLayer Manicouagan_Skirmish_v3`
+
+预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v3`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： 美军 VS 俄军
+
+初始票数： 150  -  150
 
 ??? abstract "美军载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-
-### Manic-5 TC v1
-
-切换代码： `AdminChangeLayer Manic_TC_v1`
-
-预设代码： `AdminSetNextLayer Manic_TC_v1`
-
-光照情况： 黄昏
-
-旗点数量： 55
-
-双方阵营： 加军 VS 俄军
-
-初始票数： 450  -  450
-
-??? abstract "加军载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *2
-    - M113A3 TLAV *1
-    - Coyote *1
-    - CH-146 *1
-
 ??? abstract "俄军载具"
-    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BRDM-2 *1
-    - BTR-82A *1
-    - Mi-8 *1
+    - Tigr-M Kord *1
 
 
 ### Mestia AAS v1
@@ -7290,20 +7724,18 @@
 初始票数： 250  -  250
 
 ??? abstract "俄军载具"
-    - Tigr-M Kord *1
-    - BTR-80 *2
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *1
+    - BTR-80 *1
 
 ??? abstract "民兵载具"
-    - Logistics Modern Pickup Truck *3
-    - Transport Pickup Truck *1
-    - Ural-375D Transport *1
-    - Minsk 400 *3
-    - Technical DShK *1
-    - BMP-1 ZU-23-2 *1
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
     - BRDM-2 *1
-    - Ural-375D ZU-23-2 *1
 
 
 ### Mestia AAS v2
@@ -7345,24 +7777,21 @@
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 200  -  800
+初始票数： 200  -  900
 
 ??? abstract "俄军载具"
-    - BTR-82A *1
-    - BTR-80 *2
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-80 *1
 
 ??? abstract "民兵载具"
-    - Technical SPG-9 *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *2
-    - Transport Pickup Truck *1
-    - Technical DShK *1
-    - BRDM-2 *1
-    - Technical UB-32 *2
-    - MT-LB ZU-23-2 *1
+    - Armored Ural-375D Transport *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
 
 
 ### Mestia Invasion v2
@@ -7377,21 +7806,24 @@
 
 双方阵营： 美军 VS 民兵
 
-初始票数： 200  -  800
+初始票数： 200  -  900
 
 ??? abstract "美军载具"
-    - M939 Logistics *3
-    - M-ATV M2 *3
     - M939 Transport *1
+    - M939 Logistics *1
+    - M-ATV M2 *1
 
 ??? abstract "民兵载具"
-    - Transport Pickup Truck *2
-    - Logistics Modern Pickup Truck *3
-    - Ural-375D Logistics *1
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - Technical UB-32 *2
-    - BRDM-2 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
 
 
 ### Mestia RAAS v1
@@ -7409,19 +7841,22 @@
 初始票数： 250  -  250
 
 ??? abstract "美军载具"
-    - M-ATV M2 *3
-    - M1126 CROWS M2 *1
-    - M939 Logistics *3
     - M939 Transport *1
+    - M939 Logistics *1
+    - M-ATV M240 *1
+    - M-ATV M2 *1
 
 ??? abstract "民兵载具"
-    - BRDM-2 *1
-    - BMP-1 ZU-23-2 *1
-    - Logistics Modern Pickup Truck *2
-    - Technical DShK *2
-    - Ural-375D Logistics *2
-    - Transport Pickup Truck *1
-    - Minsk 400 *2
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
 
 
 ### Mestia RAAS v2
@@ -7775,12 +8210,12 @@
     - Ural-375D Logistics *1
     - Technical M2 HB *2
     - Technical ZU-23-2 *2
+    - Ural-375D ZU-23-2 *1
     - Armored Technical SPG-9 *2
     - BRDM-2 *1
     - BTR-80 *1
     - BMP-1 *2
     - T-62 *1
-    - Ural-375D ZU-23-2 *1
 
 
 ### Mutaha RAAS v1
@@ -7808,14 +8243,14 @@
     - M-ATV M240 *1
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
+    - Simir MG3 *1
     - MT-LBM 6MA S8 *1
     - BMP-1 *1
     - BMP-2 *1
     - T-72S *1
     - Mi-17 *1
-    - Simir MG3 *1
 
 
 ### Mutaha RAAS v2
@@ -8008,12 +8443,12 @@
 初始票数： 300  -  300
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - ZSL-10 *1
-    - ZBD-04A *1
-    - ZTZ-99A *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZSL10 *1
+    - ZBD04A *1
+    - ZTZ99A *1
     - Z-8G *1
 
 ??? abstract "俄军载具"
@@ -8024,6 +8459,32 @@
     - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *1
+
+
+### Mutaha Seed v1
+
+切换代码： `AdminChangeLayer Mutaha_Seed_v1`
+
+预设代码： `AdminSetNextLayer Mutaha_Seed_v1`
+
+光照情况： 黎明
+
+旗点数量： 3
+
+双方阵营： USMC VS 俄军
+
+初始票数： 100  -  100
+
+??? abstract "USMC载具"
+    - M939 Transport *3
+    - M939 Logistics *3
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *2
 
 
 ### Mutaha Skirmish v1
@@ -8370,22 +8831,24 @@
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
+    - MSVS Logistics *1
+    - LUVW Logistics *2
     - M113A3 M2 *2
     - M113A3 TLAV *2
-    - Coyote *1
-    - Leopard 2A6M CAN *3
+    - Leopard 2A6M CAN *2
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *3
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
-    - MT-LB ZU-23-2 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *2
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical M2 HB *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical SPG-9 *1
     - MT-LB VMK *1
-    - MT-LBM 6MB *1
-    - BMP-1 *1
+    - BMP-1 *2
     - T-62 *2
 
 
@@ -8499,24 +8962,30 @@
 
 双方阵营： 加军 VS 民兵
 
-初始票数： 300  -  320
+初始票数： 300  -  300
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - LUVW Logistics *3
+    - LUVW Logistics *2
+    - MSVS Logistics *1
     - LUVW C6 *2
     - LUVW M2 *2
+    - LAV III C6 RWS *1
     - M113A3 TLAV *1
-    - Coyote *2
     - Leopard 2A6M CAN *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *3
-    - MT-LB VMK *1
-    - MT-LB ZU-23-2 *1
-    - MT-LBM 6MB *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical M2 HB *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical SPG-9 *1
+    - Tigr-M Kord *1
+    - BTR-80 *1
     - BMP-1 *1
     - T-62 *1
 
@@ -8607,12 +9076,13 @@
     - FV4034 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics *4
-    - CSK-131 QJY-88 *1
-    - CSK-131 QJZ-89 RWS *1
-    - ZSL-10 *1
-    - ZBL-08 *2
-    - ZTZ-99A *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - ZBL08 *2
+    - ZTZ99A *1
 
 
 ### Narva Skirmish v1
@@ -8724,6 +9194,109 @@
     - BTR-80 *1
 
 
+### Pacific Proving Grounds v2
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_USMC-PLA`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_USMC-PLA`
+
+光照情况： 暴雨
+
+旗点数量： 2
+
+双方阵营： USMC VS PLA
+
+初始票数： 99999  -  99999
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - M939 Logistics *1
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 Open Doors *1
+    - M1151 M2 *1
+    - M1151 CROWS M2 *1
+    - MATV M2 *1
+    - MATV CROWS M2 *1
+    - MATV TOW *1
+    - AAVP-7A1 *1
+    - LAV-25 *1
+    - M1A1 *1
+    - UH-1Y *1
+    - RHIB Transport *1
+    - RHIB Logistics *1
+    - RHIB M240 *1
+    - RHIB M2 *1
+
+??? abstract "PLA载具"
+    - CTM131 Logistics *1
+    - CTM131 Transport QJY88 *1
+    - CTM131 Transport QJZ89 *1
+    - CSK131 QJY88 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSL10 *1
+    - CSK131 HJ8 *1
+    - ZBL08 *1
+    - ZBL08 HJ73C *1
+    - ZBD04A *1
+    - ZTZ99A *1
+    - RHIB Transport *1
+    - RHIB Logistics *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
+    - Z-8G *1
+
+
+### Pacific Proving Grounds v1
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_USMC-RUS`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_USMC-RUS`
+
+光照情况： 黎明
+
+旗点数量： 2
+
+双方阵营： USMC VS 俄军
+
+初始票数： 99999  -  99999
+
+??? abstract "USMC载具"
+    - M939 Transport *1
+    - M939 Logistics *1
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 Open Doors *1
+    - M1151 M2 *1
+    - M1151 CROWS M2 *1
+    - MATV M2 *1
+    - MATV CROWS M2 *1
+    - MATV TOW *1
+    - AAVP-7A1 *1
+    - LAV-25 *1
+    - M1A1 *1
+    - UH-1Y *1
+    - RHIB Transport *1
+    - RHIB Logistics *1
+    - RHIB M240 *1
+    - RHIB M2 *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *1
+    - Tigr-M RWS Kord *1
+    - BRDM-2 *1
+    - MT-LB VMK *1
+    - MT-LBM 6MA *1
+    - BTR-80 *1
+    - BTR-82A *1
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+    - RHIB NSV *1
+    - RHIB Logistics *1
+
+
 ### Skorpo AAS v1
 
 切换代码： `AdminChangeLayer Skorpo_AAS_v1`
@@ -8770,21 +9343,29 @@
 初始票数： 200  -  900
 
 ??? abstract "美军载具"
+    - M939 Transport *1
     - M939 Logistics *1
-    - M-ATV M2 *2
-    - M1126 CROWS M2 *2
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
     - M1A2 *2
     - UH-60M *3
 
 ??? abstract "民兵载具"
-    - Minsk 400 *2
-    - Logistics Modern Pickup Truck *1
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *1
-    - Technical DShK Shielded *3
-    - Technical UB-32 *2
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
     - BRDM-2 *1
-    - BMP-1 ZU-23-2 *2
-    - Technical SPG-9 *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK Shielded *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - BM-21 Grad *1
 
 
 ### Skorpo Invasion v2
@@ -8799,18 +9380,19 @@
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 200  -  800
+初始票数： 200  -  900
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics *4
+    - KamAZ 5350 Logistics *1
     - KamAZ 5350 Transport *1
-    - BTR-82A *1
     - BRDM-2 *1
+    - BTR-80 *1
 
 ??? abstract "民兵载具"
-    - Logistics Modern Pickup Truck *4
-    - Transport Pickup Truck *1
-    - Technical DShK *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Transport Modern Pickup *1
+    - Armored Modern Technical DShK *1
 
 
 ### Skorpo Invasion v3
@@ -8869,15 +9451,16 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *1
-    - Modern Technical M2 HB *1
-    - Modern Technical ZU-23-2 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - MT-LB ZU-23-2 *1
     - Ural-375D ZU-23-2 *2
-    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - BTR-80 *1
+    - BM-21 Grad *1
 
 
 ### Skorpo RAAS v1
@@ -8959,24 +9542,36 @@
 
 双方阵营： 美军 VS 民兵
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M939 Logistics *4
-    - M2A3 *1
-    - M1126 CROWS M2 *1
+    - RHIB M240 *1
+    - RHIB M2 *1
+    - RHIB Logistics *1
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *2
     - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M2A3 *1
     - M1A2 *1
-    - M-ATV TOW *1
 
 ??? abstract "民兵载具"
-    - Technical UB-32 *2
-    - Ural-375D Logistics *3
-    - T-62 *2
-    - Transport Pickup Truck *3
-    - Logistics Modern Pickup Truck *2
-    - MT-LBM 6MB *1
-    - BTR-80 *1
+    - RHIB PKM *1
+    - RHIB DShK *1
+    - RHIB Logistics *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical DShK Shielded *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
+    - BRDM-2 *1
+    - BMP-1 *2
+    - T-62 *1
 
 
 ### Skorpo RAAS v4
@@ -9039,7 +9634,7 @@
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - MT-LB Logistics *3
     - MT-LB VMK *1
     - MT-LBM 6MA *1
     - BMP-2 *3
@@ -9468,8 +10063,8 @@
     - M939 Logistics *4
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *6
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *6
 
 
 ### Sumari Bala Skirmish v1
@@ -9491,7 +10086,7 @@
     - M939 Logistics *3
 
 ??? abstract "PLA载具"
-    - CTM-131 Logistics *4
+    - CTM131 Logistics *4
 
 
 ### Sumari Bala TC v1
@@ -9578,16 +10173,16 @@
     - UH-60M *2
 
 ??? abstract "中东载具"
-    - Ural-4320 Logistics *2
-    - BMP-1 *1
-    - MT-LBM 6MA S8 *1
-    - T-72S *2
-    - BMP-2 *1
-    - Simir Kord *2
     - Ural-4320 Transport *1
-    - Simir Kornet *1
-    - Mi-17 *2
     - Simir Logi *2
+    - Ural-4320 Logistics *2
+    - Simir Kord *2
+    - MT-LBM 6MA S8 *1
+    - Simir Kornet *1
+    - BMP-1 *1
+    - BMP-2 *1
+    - T-72S *2
+    - Mi-17 *2
 
 
 ### Tallil Outskirts Invasion v1
@@ -9648,15 +10243,15 @@
     - BMP-2 *1
 
 ??? abstract "叛军载具"
-    - Logistics Pickup Truck *3
     - Transport Pickup Truck *1
+    - Logistics Pickup Truck *3
     - Technical ZU-23-2 *1
     - Armored Technical DShK *1
     - Technical SPG-9 *1
     - Technical Mortar *1
-    - Minsk 400 *3
-    - BMP-1 *1
     - T-62 *1
+    - BMP-1 *1
+    - Minsk 400 *1
 
 
 ### Tallil Outskirts Invasion v3
@@ -9724,9 +10319,9 @@
     - Armored Technical DShK *1
     - Technical SPG-9 *1
     - Technical Mortar *1
-    - Minsk 400 *3
-    - BMP-1 *1
     - T-62 *2
+    - Minsk 400 *1
+    - BMP-1 *1
 
 
 ### Tallil Outskirts Invasion v5
@@ -9753,11 +10348,11 @@
     - Mi-17 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJY-88 *4
-    - CSK-131 QJZ-89 *2
-    - CSK-131 HJ-8 *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *4
+    - CSK131 QJZ89 *2
+    - CSK131 HJ8 *2
 
 
 ### Tallil Outskirts RAAS v1
@@ -10023,14 +10618,14 @@
     - SA330 *1
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 RWS *1
-    - CSK-131 HJ-8 *1
-    - ZBL-08 *1
-    - ZBL-08 HJ-73C *1
-    - ZBD-04A *1
-    - ZTZ-99A *2
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJC88 RWS *1
+    - CSK131 HJ8 *1
+    - ZBL08 *1
+    - ZBL08 HJ73C *1
+    - ZBD04A *1
+    - ZTZ99A *2
     - Z-8G *1
 
 
@@ -10149,24 +10744,30 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Logistics Modern Pickup Truck *3
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
     - Ural-375D ZU-23-2 *1
-    - Technical UB-32 *1
-    - Technical DShK Shielded *3
-    - MT-LB ZU-23-2 *1
-    - Technical SPG-9 *1
-    - BMP-1 ZU-23-2 *1
 
 ??? abstract "叛军载具"
     - Minsk 400 *1
-    - Logistics Pickup Truck *3
-    - Ural-375D ZU-23-2 *1
-    - Technical UB-32 *1
-    - Armored Technical SPG-9 *1
-    - Armored Technical DShK *2
+    - Ural-375D Transport *1
+    - Ural-375D Logistics *2
+    - Logistics Pickup Truck *1
+    - Technical DShK Shielded *1
     - Technical M2 HB *1
-    - Technical BMP-1 *1
-    - Technical ZU-23-2 *1
+    - Armored Technical DShK *1
+    - Shitty Technical DShK *1
+    - Technical SPG-9 *1
+    - Technical UB-32 *1
+    - MT-LB ZU-23-2 *1
 
 
 ### Tallil Outskirts Tanks v1
@@ -10285,7 +10886,7 @@
 
 预设代码： `AdminSetNextLayer Tutorial_Helicopter`
 
-光照情况： None
+光照情况： 正午
 
 旗点数量： 1
 
@@ -10350,24 +10951,24 @@
 初始票数： 300  -  300
 
 ??? abstract "英军载具"
+    - HX60 Transport *1
     - HX60 Logistics *3
-    - FV107 *1
-    - FV520 CTAS40 *1
     - LPPV *1
     - FV432 RWS *1
-    - HX60 Transport *1
+    - FV107 *1
+    - FV520 CTAS40 *1
     - FV4034 *1
     - SA330 *2
 
 ??? abstract "俄军载具"
-    - BTR-82A *2
+    - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
+    - Tigr-M RWS Kord *1
+    - BTR-82A *2
     - BMP-2 *1
-    - KamAZ 5350 Transport *1
     - T-72B3 *1
     - Mi-8 *2
-    - Tigr-M RWS Kord *1
 
 
 ### Yehorivka AAS v2
@@ -10385,8 +10986,8 @@
 初始票数： 350  -  350
 
 ??? abstract "美军载具"
-    - M939 Logistics *3
     - M939 Transport *1
+    - M939 Logistics *3
     - M-ATV M2 *2
     - M1126 CROWS M2 *2
     - M2A3 *1
@@ -10518,26 +11119,30 @@
 初始票数： 200  -  900
 
 ??? abstract "英军载具"
-    - FV432 *1
-    - LPPV RWS *1
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - FV432 *2
+    - FV432 RWS *1
     - FV107 *1
     - FV510 *1
-    - HX60 Logistics *3
+    - FV510 UA *2
     - FV4034 *1
-    - HX60 Transport *1
-    - SA330 *2
+    - SA330 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Logistics *4
-    - BMP-1 *1
-    - BRDM-2 *1
-    - MT-LB ZU-23-2 *1
-    - T-62 *1
-    - BMP-1 ZU-23-2 *1
-    - Ural-375D Transport *1
-    - BRDM-2 Spandrel *1
+    - Logistics Modern Pickup *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *3
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - Armored Modern Technical SPG-9 *1
     - MT-LB VMK *1
-    - Logistics Modern Pickup Truck *2
+    - MT-LB ZU-23-2 *1
+    - BMP-1 *2
+    - BM-21 Grad *1
+    - T-62 *1
 
 
 ### Yehorivka Invasion v2
@@ -10591,26 +11196,30 @@
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
+    - MSVS Logistics *2
+    - LUVW Logistics *1
     - TAPV M2 *1
     - TAPV C6 *1
-    - LAV III C6 RWS *1
-    - M113A3 TLAV *1
+    - M113A3 TLAV *2
     - Coyote *1
     - LAV 6 *2
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *3
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *2
-    - Modern Technical UB-32 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *3
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *2
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical SPG-9 *1
+    - BM-21 Grad *1
     - MT-LB ZU-23-2 *2
     - BRDM-2 *1
-    - BMP-1 *2
+    - MT-LBM 6MB *1
+    - BMP-1 *1
     - T-62 *1
 
 
@@ -10664,17 +11273,17 @@
 初始票数： 300  -  300
 
 ??? abstract "美军载具"
-    - M-ATV CROWS M2 *1
+    - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *1
-    - M939 Transport *1
+    - M-ATV CROWS M2 *1
     - UH-60M *2
 
 ??? abstract "俄军载具"
-    - KamAZ 5350 Logistics *3
-    - BRDM-2 *1
-    - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M RWS Kord *1
+    - BRDM-2 *1
     - Mi-8 *2
 
 
@@ -10889,28 +11498,35 @@
 
 双方阵营： 加军 VS 民兵
 
-初始票数： 350  -  390
+初始票数： 350  -  350
 
 ??? abstract "加军载具"
     - MSVS Transport *1
-    - MSVS Logistics *2
-    - LUVW Logistics *1
-    - LUVW C6 *2
-    - LUVW M2 *4
-    - Coyote *2
+    - MSVS Logistics *1
+    - LUVW Logistics *2
+    - LUVW C6 *3
+    - TAPV M2 *1
+    - LAV 6 *2
     - Leopard 2A6M CAN *1
-    - CH-146 *2
+    - CH-146 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *3
-    - Modern Technical UB-32 *2
-    - Modern Technical ZU-23-2 *2
-    - MT-LB VMK *2
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical SPG-9 *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - BTR-80 *1
+    - MT-LBM 6MB *1
+    - BMP-1 *1
     - MT-LB ZU-23-2 *2
-    - BMP-1 *2
-    - T-62 *2
+    - BM-21 Grad *1
+    - T-62 *1
 
 
 ### Yehorivka RAAS v10
@@ -11040,14 +11656,56 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *3
-    - CSK-131 QJZ-89 *2
-    - CSK-131 QJZ-89 RWS *1
-    - ZBL-08 *1
-    - ZBD-04A *1
-    - ZTZ-99A *2
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *1
+    - ZBD04A *1
+    - ZTZ99A *2
     - Z-8G *2
+
+
+### Yehorivka RAAS v14
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v14`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v14`
+
+光照情况： 正午&多云
+
+旗点数量： 7
+
+双方阵营： PLA VS 民兵
+
+初始票数： 350  -  350
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZSL10 *1
+    - ZBL08 *1
+    - ZBD04A *1
+    - ZTZ99A *2
+    - Z-8G *2
+
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Ural-375D Logistics *1
+    - Armored Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Modern Technical UB-32 *1
+    - Modern Technical ZU-23-2 *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical SPG-9 *1
+    - MT-LB ZU-23-2 *1
+    - MT-LBM 6MB *1
+    - BMP-1 *1
+    - BM-21 Grad *1
+    - T-62 *2
 
 
 ### Yehorivka Skirmish v1
@@ -11297,18 +11955,21 @@
     - LPPV *2
     - LPPV RWS *1
     - FV107 *1
-    - FV510 *1
+    - FV510 UA *1
     - SA330 *1
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *3
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *2
+    - Ural-375D Logistics *2
+    - Armored Ural-375D Logistics *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
     - Modern Technical ZU-23-2 *1
+    - Ural-375D ZU-23-2 *1
     - BRDM-2 *1
+    - Modern Technical SPG-9 *1
     - BTR-80 *1
     - BMP-1 *1
 
@@ -11364,9 +12025,9 @@
 初始票数： 200  -  900
 
 ??? abstract "USMC载具"
+    - RHIB Transport *1
     - RHIB Logistics *2
     - RHIB M2 *1
-    - RHIB Transport *1
     - M939 Logistics *3
     - M1151 M2 Open Doors *1
     - M1151 M2 *1
@@ -11377,16 +12038,19 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *1
+    - Armored Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Modern Technical SPG-9 *1
-    - Modern Technical UB-32 *1
     - Modern Technical ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - BTR-80 *1
     - BMP-1 *1
+    - BM-21 Grad *1
 
 
 ### Black Coast Invasion v3
@@ -11395,13 +12059,13 @@
 
 预设代码： `AdminSetNextLayer BlackCoast_Invasion_v3`
 
-光照情况： 阴天
+光照情况： 大雾
 
 旗点数量： 5
 
 双方阵营： 加军 VS 民兵
 
-初始票数： 200  -  800
+初始票数： 200  -  900
 
 ??? abstract "加军载具"
     - RHIB M2 *2
@@ -11413,15 +12077,18 @@
     - CH-146 *4
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
     - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *2
+    - Armored Ural-375D Logistics *1
     - Modern Technical M2 HB *2
     - Modern Technical ZU-23-2 *1
-    - Ural-375D ZU-23-2 *2
-    - Modern Technical SPG-9 *2
+    - Ural-375D ZU-23-2 *1
+    - Modern Technical UB-32 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - BTR-80 *1
+    - BM-21 Grad *1
 
 
 ### Black Coast Invasion v4
@@ -11453,13 +12120,16 @@
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *1
-    - Modern Technical SPG-9 *1
+    - Armored Ural-375D Logistics *1
+    - Logistics Modern Pickup *2
+    - Armored Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
     - Modern Technical UB-32 *1
     - Modern Technical ZU-23-2 *1
-    - BRDM-2 *2
-    - BMP-1 *2
+    - BRDM-2 *1
+    - Armored Modern Technical SPG-9 *1
+    - BMP-1 *1
+    - BM-21 Grad *1
     - T-62 *1
     - RHIB DShK *1
     - RHIB Logistics *1
@@ -11512,30 +12182,32 @@
 
 双方阵营： USMC VS 民兵
 
-初始票数： 300  -  340
+初始票数： 300  -  300
 
 ??? abstract "USMC载具"
     - M939 Transport *1
-    - AAVC-7A1 Logistics *1
-    - M939 Logistics *2
-    - M1151 M2 *2
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
+    - M1151 M2 *3
     - AAVP-7A1 *1
     - LAV-25 *2
     - M1A1 *1
     - UH-1Y *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *3
-    - Modern Technical M2 HB *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
     - Modern Technical SPG-9 *1
-    - Modern Technical UB-32 *1
-    - BRDM-2 *2
-    - MT-LBM 6MB *2
+    - BRDM-2 *1
+    - MT-LBM 6MB *1
     - MT-LB ZU-23-2 *1
+    - Ural-375D ZU-23-2 *1
     - BMP-1 *1
     - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Black Coast RAAS v3
@@ -11741,15 +12413,16 @@
     - FV510 *1
 
 ??? abstract "民兵载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Logistics Modern Pickup *2
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
     - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *1
     - BRDM-2 *1
-    - MT-LBM 6MB *1
     - MT-LB ZU-23-2 *1
+    - MT-LBM 6MB *1
     - BMP-1 *1
 
 
@@ -11816,19 +12489,20 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Logistics Modern Pickup Truck *1
+    - Armored Ural-375D Transport *1
+    - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Technical DShK *1
-    - Ural-375D ZU-23-2 *2
-    - MT-LB ZU-23-2 *1
+    - Armored Modern Technical DShK *1
+    - Ural-375D ZU-23-2 *1
     - Modern Technical UB-32 *1
-    - Modern Technical SPG-9 *2
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - BTR-80 *1
     - BMP-1 *1
     - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Harju Invasion v3
@@ -11859,16 +12533,17 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Logistics Modern Pickup Truck *1
-    - Ural-375D Logistics *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Technical DShK *1
+    - Armored Modern Technical DShK *1
     - Ural-375D ZU-23-2 *2
     - MT-LB ZU-23-2 *1
-    - Modern Technical UB-32 *1
-    - Modern Technical SPG-9 *2
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical SPG-9 *1
     - BRDM-2 *1
+    - BM-21 Grad *1
     - BMP-1 *1
     - T-62 *1
 
@@ -11934,17 +12609,17 @@
     - FV510 *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *2
-    - CSK-131 QJZ-89 RWS *1
-    - CSK-131 QJZ-89 *1
-    - ZSL-10 *2
-    - ZBL-08 HJ-73C *2
-    - ZBD-04A *1
-    - ZTZ-99A *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *2
+    - CSK131 QJC88 RWS *1
+    - CSK131 QJZ89 *1
+    - ZSL10 *2
+    - ZBL08 HJ73C *2
+    - ZBD04A *1
+    - ZTZ99A *1
     - Z-8G *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
     - RHIB Logistics *1
 
 
@@ -12120,7 +12795,7 @@
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 300  -  320
+初始票数： 300  -  300
 
 ??? abstract "俄军载具"
     - KamAZ 5350 Transport *1
@@ -12132,12 +12807,14 @@
 
 ??? abstract "民兵载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *4
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *2
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
     - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
     - BTR-80 *2
@@ -12170,16 +12847,16 @@
     - UH-60M *2
 
 ??? abstract "PLA载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *2
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *2
     - RHIB Logistics *1
-    - CSK-131 QJZ-89 *3
-    - CSK-131 QJZ-89 RWS *1
-    - ZBD-04A *2
-    - ZTZ-99A *2
+    - CSK131 QJZ89 *3
+    - CSK131 QJC88 RWS *1
+    - ZBD04A *2
+    - ZTZ99A *2
     - Z-8G *2
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
 
 
 ### Harju Seed v1
@@ -12295,7 +12972,7 @@
 
 预设代码： `AdminSetNextLayer Harju_TC_v2`
 
-光照情况： None
+光照情况： 阴天
 
 旗点数量： 37
 

@@ -527,6 +527,32 @@
     - T-72B3 *1
     - Mi-8 *1
 
+### Mutaha Seed v1
+
+切换代码： `AdminChangeLayer Mutaha_Seed_v1`
+
+预设代码： `AdminSetNextLayer Mutaha_Seed_v1`
+
+光照情况： 黎明
+
+旗点数量： 3
+
+双方阵营： USMC VS 俄军
+
+初始票数： 100  -  100
+
+??? abstract "USMC载具"
+    - M939 Transport *3
+    - M939 Logistics *3
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *2
+
+
 
 ### Mutaha Skirmish v1
 
