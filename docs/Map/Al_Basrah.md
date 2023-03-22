@@ -647,4 +647,3 @@
     - BMP-2 *1
     - Simir Logi *1
     - Mi-17 *1
-
