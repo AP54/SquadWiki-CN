@@ -2,6 +2,8 @@
 
 部署物可以通过部署命令在您的位置生成，由此生成的部署物不属于任何阵营。
 
+当前版本：[V4.3](/Update/v4.3/release_notes)
+
 !!! warning "Squad 仅允许在**自定义服务器**或**本地服务器**中生成部署物。"
 
 !!! warning "生成的部署物不服从重力。"
@@ -32,37 +34,33 @@
 
 - BP_Ammocrate 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_Ammocrate.BP_Ammocrate_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_Ammocrate.BP_Ammocrate_C`
 
 - BP_Ammocrate_GB 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_Ammocrate_GB.BP_Ammocrate_GB_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_Ammocrate_GB.BP_Ammocrate_GB_C`
 
 - BP_Ammocrate_MEA 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_Ammocrate_MEA.BP_Ammocrate_MEA_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_Ammocrate_MEA.BP_Ammocrate_MEA_C`
 
 - BP_InsurgentAmmocrate 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_InsurgentAmmocrate.BP_InsurgentAmmocrate_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_InsurgentAmmocrate.BP_InsurgentAmmocrate_C`
 
 - BP_MilitiaAmmocrate 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_MilitiaAmmocrate.BP_MilitiaAmmocrate_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_MilitiaAmmocrate.BP_MilitiaAmmocrate_C`
 
 - BP_rus_Ammocrate 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_rus_Ammocrate.BP_rus_Ammocrate_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_rus_Ammocrate.BP_rus_Ammocrate_C`
 
 - BP_rus_DE_Ammocrate 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_rus_DE_Ammocrate.BP_rus_DE_Ammocrate_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_rus_DE_Ammocrate.BP_rus_DE_Ammocrate_C`
 
 ## HABs 
-
-- GB_Hab 
-
-    `[NOT WORKING] - AdminCreateDeployable /Game/Gameplay/Deployables/HABs/GB/GB_Hab.GB_Hab_C`
 
 - INS_Hab 
 
@@ -372,6 +370,32 @@
 
     `AdminCreateDeployable /Game/Gameplay/Deployables/BP_smallbunker_MEA.BP_smallbunker_MEA_C`
 
+## Camo Net 
+
+- Camo Net Canopy MIL 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/CamoNettings/BP_CamoNetCanopy_MIL.BP_CamoNetCanopy_MIL_C`
+
+## HullDown 
+
+- HullDown Rock 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/HullDown/BP_HullDownBase.BP_HullDownBase_C`
+
+- HullDown Forest 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/HullDown/BP_HullDown_Forest.BP_HullDown_Forest_C`
+
+- HullDown Desert 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/HullDown/BP_HullDown_Desert.BP_HullDown_Desert_C`
+
+## Anti Tank Trap 
+
+- Hedge Hog Tank 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/HedgehogTank_Trap/BP_HedgehogTankTrap.BP_HedgehogTankTrap_C`
+
 ## Indirect Fire Shelter 
 
 - Indirect Mortar Shelter_Classic 
@@ -418,21 +442,21 @@
 
 - BGM71 TOW_USA 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_BGM71TOW_Tripod_USA.BP_BGM71TOW_Tripod_USA_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_BGM71TOW_Tripod_USA.BP_BGM71TOW_Tripod_USA_C`
 
 - Kornet_MEA 
 
-    `[NOT WORKING] AdminCreateDeployable /Game/Gameplay/Deployables/BP_Kornet_Tripod_MEA.BP_Kornet_Tripod_MEA_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_Kornet_Tripod_MEA.BP_Kornet_Tripod_MEA_C`
 
 - Kornet_Rus 
 
-    `[NOT WORKING] AdminCreateDeployable /Game/Gameplay/Deployables/BP_Kornet_Tripod_Rus.BP_Kornet_Tripod_Rus_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_Kornet_Tripod_Rus.BP_Kornet_Tripod_Rus_C`
 
 - HJ-8_PLA 
 
     `AdminCreateDeployable /Game/Vehicles/Emplaced_HJ-8ATGM/BP_HJ-8ATGM_Deployable.BP_HJ-8ATGM_Deployable_C`
 
-## Weapons 
+## Fixed Weapons
 
 - DShK 
 
@@ -456,19 +480,19 @@
 
 - BP_Kord_Tripod 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_Kord_Tripod.BP_Kord_Tripod_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_Kord_Tripod.BP_Kord_Tripod_C`
 
 - BP_M2_Tripod 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_M2_Tripod.BP_M2_Tripod_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_M2_Tripod.BP_M2_Tripod_C`
 
 - BP_M2_US_Bunker 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_M2_US_Bunker.BP_M2_US_Bunker_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_M2_US_Bunker.BP_M2_US_Bunker_C`
 
 - BP_SPG9_Tripod 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_SPG9_Tripod.BP_SPG9_Tripod_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_SPG9_Tripod.BP_SPG9_Tripod_C`
 
 - ZU-23 Anti Air 
 
@@ -478,24 +502,29 @@
 
     `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_ZU-23_Emplacement_Ins.BP_ZU-23_Emplacement_Ins_C`
 
+- M2_Tripod_Shielded 
+
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_M2_Tripod_Shielded.BP_M2_Tripod_Shielded_C`
+
 ## Mortars 
 
 - BP_2b14podnosmortar_Deployable 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_2b14podnosmortar_Deployable.BP_2b14podnosmortar_Deployable_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_2b14podnosmortar_Deployable.BP_2b14podnosmortar_Deployable_C`
 
 - BP_L16mortar_Deployable 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_L16mortar_Deployable.BP_L16mortar_Deployable_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_L16mortar_Deployable.BP_L16mortar_Deployable_C`
 
 - BP_m252mortar_Deployable 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_m252mortar_Deployable.BP_m252mortar_Deployable_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_m252mortar_Deployable.BP_m252mortar_Deployable_C`
 
 - BP_m1937mortar_Deployable 
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/BP_m1937mortar_Deployable.BP_m1937mortar_Deployable_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/Emplacements/BP_m1937mortar_Deployable.BP_m1937mortar_Deployable_C`
 
 - Hell Cannon 
 
-    `AdminCreateDeployable /Game/Vehicles/Emplaced_HellCannon/BP_Emplaced_HellCannon_Deployable.BP_Emplaced_HellCannon_Deployable_`
+    `AdminCreateDeployable /Game/Vehicles/Emplaced_HellCannon/BP_Emplaced_HellCannon_Deployable.BP_Emplaced_HellCannon_Deployable_C`
+
