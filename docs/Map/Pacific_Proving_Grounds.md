@@ -6,7 +6,7 @@
 ## Training | 训练
 
 
-### Pacific Proving Grounds v2
+### Pacific Proving Grounds v1
 
 切换代码： `AdminChangeLayer PacificProvingGrounds_USMC-PLA`
 
@@ -59,7 +59,7 @@
     - Z-8G *1
 
 
-### Pacific Proving Grounds v1
+### Pacific Proving Grounds v2
 
 切换代码： `AdminChangeLayer PacificProvingGrounds_USMC-RUS`
 
