@@ -129,6 +129,13 @@ button[data-md-color-accent]:hover, button[data-md-color-primary]:hover {
     opacity: .75;
 }
 </style>
+
+## 友情链接
+
+- [JoinSquad - Official Homepage](https://joinsquad.com/)
+- [在 Steam 上的 Squad](https://store.steampowered.com/app/393380)
+- [掌上 SQUAD](https://www.squadzs.cn/)
+
 !!! info "版权声明"
     本站点的所有文章内容，无特殊声明时，均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供，附加条款亦可能应用。“SQ”与“SQUAD”徽标相关权利为其权利人所有，不受上述协议约束。
 

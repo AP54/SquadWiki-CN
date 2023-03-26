@@ -124,6 +124,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - content.code.copy
+    - navigation.footer
     - tabs: true
   palette:
     scheme: slate
