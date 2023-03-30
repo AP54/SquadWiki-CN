@@ -1,6 +1,6 @@
 # 欢迎来到战术小队中文维基
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0731eb51-4daf-4794-86f1-f10af6cda9db/deploy-status)](https://app.netlify.com/sites/polite-stroopwafel-e18e0d/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0731eb51-4daf-4794-86f1-f10af6cda9db/deploy-status){width=30%}](https://app.netlify.com/sites/polite-stroopwafel-e18e0d/deploys)
 
 !!! warning "我们期待着您的加入！"
     本项目的编辑团队现在只有寥寥几人，无法满足快速扩充内容的需要。
