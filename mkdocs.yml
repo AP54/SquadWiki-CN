@@ -35,9 +35,6 @@ nav:
       - "TA | 精准打击": "./Course/Gamemode/TA.md"
       - "TC | 领土控制": "./Course/Gamemode/TC.md"
       - "Training | 训练": "./Course/Gamemode/Training.md"
-  - "SPLC": 
-    - "战术小队中国顶级联赛": "./Contest/index.md"
-    - "联赛赛程": "./Contest/SPLC/schedule.md"
   - "地图手册":
     - "地图手册": "./Map/index.md"
     - "暖服推荐": "./Map/Seeding.md"
@@ -68,6 +65,11 @@ nav:
     - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
   - "更新信息":
     - "战术小队版本V4.3更新日志": "./Update/v4.3/release_notes/index.md"
+  - "赛事介绍":
+    - "赛事总览": "./Contest/index.md"
+    - "SPLC | 战术小队中国顶级联赛": "./Contest/SPLC/index.md"
+    - "Squad Masters | 战术小队大师赛": "./Contest/Masters/index.md"
+    - "GSL | 全球战术小队联盟锦标赛": "./Contest/GSL/index.md"
   - "运维管理":
     - "运维管理简介": "./Server/index.md"
     - "服务端管理":
@@ -155,12 +157,21 @@ theme:
        touchNavigation: true
        loop: false
        effect: zoom
+       slide_effect: slide
        width: 100%
        height: auto
        zoomable: true
        draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
     - search:
         lang: jp
+
+plugins:
+   - glightbox
+       
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js

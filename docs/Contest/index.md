@@ -1,14 +1,15 @@
-# 战术小队中国顶级联赛 | SPLC Squad Premier League of China
+# 赛事介绍总览
 
+Squad 每年有许多由玩家社区、服务器、战队、官方等组织的赛事。
 
-由 EMAN 战队牵头组织的第一届 SQUAD 中国顶级联赛：“SPLC”赛事，将会在 3 月 3 日正式开赛！
+中文维基收集了一些赛事的简介并翻译了部分规则供各位参阅。
 
-总计有 19 支风格迥异的队伍会在比赛中进行较量和对抗！
+各项赛事的赛程提醒、直播预告正在制作中，预计四月投入使用。
 
-开赛后每周都会进行一轮比赛，每轮比赛都会有 10 场左右的对抗同时进行，预计到 4 月中旬完赛。
+更多赛事的介绍信息正在逐步收录，如果有相关需求请[联系我们](/Intro/About#_4)
 
+!!! tip "赛事介绍总览"
 
-
-<iframe src="//player.bilibili.com/player.html?aid=652668814&bvid=BV1AY4y1m752&cid=1030383803&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480" width="720"> </iframe>
-
-![Rules](./SPLC/rules.jpg){loading=lazy width=100%}
+    - [SPLC | 战术小队中国顶级联赛](./SPLC/)
+    - [Squad Masters | 战术小队大师赛](./Masters/)
+    - [GSL | 全球战术小队联盟锦标赛](./GSL/)

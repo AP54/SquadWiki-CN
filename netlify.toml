@@ -9,11 +9,6 @@
   status = 301
 
 [[redirects]]
-  from = "/GameMode/index.md"
-  to = "/gamemode"
-  status = 301
-
-[[redirects]]
   from = "/command"
   to = "/server/command"
   status = 301
