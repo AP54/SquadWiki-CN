@@ -34,6 +34,7 @@
 - [TL](https://steamcommunity.com/profiles/76561199251306583)
 
 - [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
+- [Crystal](https://steamcommunity.com/profiles/76561198324014856/)
 
 ## 入驻组织
 
