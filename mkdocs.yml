@@ -173,7 +173,9 @@ theme:
 
 plugins:
    - glightbox
-       
+   - git-revision-date-localized:
+      enable_creation_date: true
+      type: iso_date
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
