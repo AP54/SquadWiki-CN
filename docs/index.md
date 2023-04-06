@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0731eb51-4daf-4794-86f1-f10af6cda9db/deploy-status){width=30%}](https://app.netlify.com/sites/polite-stroopwafel-e18e0d/deploys)
 
-<iframe src="https://kookapp.cn/widget?id=4939320590138488&theme=dark" width="100%" height="250" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://kookapp.cn/widget?id=4939320590138488&theme=dark" width="100%" height="80" allowtransparency="true" frameborder="0"></iframe>
 
 战术小队（Squad）是由 Offworld Industries 开发，在 Steam 平台上发售，由 KickStarter 资助的一款**在线、基于团队、以军事为主题的第一人称射击游戏**。
 
@@ -16,31 +16,6 @@ Squad 让多达 100 名玩家的团队在对局中决定如何进行前哨建设
 
 如果您觉得本站对您有很大帮助，请考虑[投喂我们](./Intro/Support)。
 
-<script>
-const lightbox = GLightbox({
-    touchNavigation: true,
-    loop: true,
-    autoplayVideos: false
-});
-const myGallery = GLightbox({
-    elements: [
-        {
-            'href': '/Logo/BackGround.jpg',
-            'type': 'image',
-            'title': 'My Title',
-            'description': 'Example',
-        },
-        {
-            'href': '/Logo/Netlify.png',
-            'type': 'image',
-            'alt': 'image text alternatives'
-        }
-    ],
-    autoplayVideos: true,
-});
-myGallery.open();
-setInterval(myGallery.nextSlide(), 2000);
-</script>
 
 ## Material color palette 颜色主题
 
