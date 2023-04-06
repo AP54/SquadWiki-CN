@@ -35,6 +35,8 @@
 
 - [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
 
+- [Crystal](https://steamcommunity.com/profiles/76561198324014856/)
+
 ## 入驻组织
 
 入驻组织是本项目的坚实后盾，是我们前进道路上的伙伴，感谢他们的信任与支持！
