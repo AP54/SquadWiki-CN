@@ -611,6 +611,36 @@
     - T-62 *1
 
 
+### Manicouagan RAAS v8
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v8`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v8`
+
+光照情况： 
+
+旗点数量： 
+
+双方阵营： 英军 VS 民兵
+
+初始票数： 
+
+
+### Manicouagan RAAS v9
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v9`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v9`
+
+光照情况： 
+
+旗点数量： 
+
+双方阵营： 俄军 VS 民兵
+
+初始票数： 
+
+
 ### Manicouagan Seed v1
 
 切换代码： `AdminChangeLayer Manicouagan_Seed_v1`
