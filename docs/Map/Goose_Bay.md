@@ -398,3 +398,15 @@
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
 
+
+### Goose Bay Seed v1
+
+切换代码： `AdminChangeLayer GooseBay_Seed_v1`
+
+预设代码： `AdminSetNextLayer GooseBay_Seed_v1`
+
+光照情况： 
+
+旗点数量： 
+
+双方阵营： USMC VS PLA

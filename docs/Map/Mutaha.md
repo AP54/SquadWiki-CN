@@ -641,3 +641,17 @@
     - T-72S *1
     - Mi-17 *1
 
+
+### Mutaha TANKE v1
+
+切换代码： `AdminChangeLayer Mutaha_TANKE_v1`
+
+预设代码： `AdminSetNextLayer Mutaha_TANKE_v1`
+
+光照情况： 
+
+旗点数量： 
+
+双方阵营： 中东 VS PLA
+
+初始票数： 
