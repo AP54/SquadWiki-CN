@@ -2,7 +2,10 @@
 
 > 文章作者：桀氓AlbertWensley
 
-![Fallujah](./img/map_mini/Fallujah.jpg)
+<figure markdown>
+  ![Fallujah](./img/map_mini/Fallujah.jpg){loading=lazy}
+  <figcaption>费卢杰已成为伊拉克叛乱分子和民兵的重要据点。联军已警告平民撤离该地区，现在正准备收复该市。</figcaption>
+</figure>
 
 ### Fallujah AAS v1
 

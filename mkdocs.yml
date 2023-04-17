@@ -53,7 +53,7 @@ nav:
     - "Kohat Toi | 科哈特": "./Map/Kohat_Toi.md"
     - "Kokan | 寇坎": "./Map/Kokan.md"
     - "Lashkar Valley | 拉什卡谷": "./Map/Lashkar_Valley.md"
-    - "Logar Valley | 罗杰尔谷": "./Map/Logar_Valley.md"
+    - "Logar Valley | 卢格尔谷": "./Map/Logar_Valley.md"
     - "Manicouagan | 曼尼古根": "./Map/Manicouagan.md"
     - "Mestia | 梅斯提亚": "./Map/Mestia.md"
     - "Mutaha | 穆塔哈": "./Map/Mutaha.md"
@@ -62,7 +62,7 @@ nav:
     - "Skorpo | 斯科珀": "./Map/Skorpo.md"
     - "Sumari Bala | 索马里": "./Map/Sumari_Bala.md"
     - "Tallil Outskirts | 塔利尔郊区": "./Map/Tallil_Outskirts.md"
-    - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
+    - "Yehorivka | 叶霍里夫卡": "./Map/Yehorivka.md"
   - "更新信息":
     - "战术小队热修复 4.3.1 更新日志": "./Update/v4.3.1/release_notes/index.md"
     - "SQUAD HOTFIX 4.3.1 RELEASE NOTES": "./Update/v4.3.1/release_notes/en.md"

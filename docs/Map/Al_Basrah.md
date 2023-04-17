@@ -2,7 +2,10 @@
 
 > 文章作者：桀氓AlbertWensley, Astesia
 
-![Al_Basrah](./img/map_mini/Al_Basrah.jpg)
+<figure markdown>
+  ![Al_Basrah](./img/map_mini/Al_Basrah.jpg){loading=lazy}
+  <figcaption>巴士拉市位于伊拉克南部的阿拉伯河沿岸，是一个大型叛乱分子据点。联军已在该市郊区集结，准备采取重大行动将其夺回。</figcaption>
+</figure>
 
 ### Al Basrah AAS v1
 
