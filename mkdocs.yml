@@ -69,6 +69,7 @@ nav:
     - "战术小队 V4.3 更新日志": "./Update/v4.3/release_notes/index.md"
   - "赛事介绍":
     - "赛事总览": "./Contest/index.md"
+    - "SOI | 战术小队公开邀请赛" : "./Contest/SOI/index.md"
     - "SPLC | 战术小队中国顶级联赛": "./Contest/SPLC/index.md"
     - "Squad Masters | 战术小队大师赛": "./Contest/Masters/index.md"
     - "GSL | 全球战术小队联盟锦标赛": "./Contest/GSL/index.md"
@@ -117,6 +118,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 theme:
   name: material

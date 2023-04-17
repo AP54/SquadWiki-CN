@@ -6,3 +6,7 @@
 - 时间限制: 每局60分钟
 
 详细规则见[《全球战术小队联盟锦标赛规则集》](./Ruleset)（中文，由 Astesia 翻译整理）
+
+
+
+[Discord :fontawesome-brands-discord:](https://discord.gg/3JerFY93){.md-button .md-button--primary}
