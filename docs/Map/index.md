@@ -1,6 +1,6 @@
 # 地图手册
 
-当前地图手册版本：V4.3
+当前地图手册版本：V4.3.1
 
 这里列出了所有现版本下的图层，包含 26 张地图，11 种游戏模式，382 张图层。
 
@@ -11,6 +11,8 @@
 !!! info "包含的游戏模式"
     通过这里的链接可依**模式**查找图层。
 
+    [地图手册模式索引](./Mode/){ .md-button .md-button--primary }
+
     - [Skirmish | 遭遇战](/Course/Gamemode/Skirmish)
     - [RAAS | 随机攻守](/Course/Gamemode/RAAS)
     - [Invasion | 侵攻](/Course/Gamemode/Invasion)
@@ -19,11 +21,11 @@
     - [Insurgency | 叛乱](/Course/Gamemode/Insurgency)
     - [TC | 领土控制](/Course/Gamemode/TC)
     - [Seed | 暖服](/Course/Gamemode/Seed)
-    - [TA | 精准打击](/Course/Gamemode/TA)
+    - [TA | 装甲死斗](/Course/Gamemode/TA)
     - [Training | 训练](/Course/Gamemode/Training)
     - [Tanks | 载具大战](/Course/Gamemode/Tanks)
     
-    详细信息请前往[“游戏模式”页面](/Course/Gamemode)查看。
+    详细信息请前往[地图手册模式索引](./Mode/)查看。
 
 !!! info "包含的地图"
     - [Al Basrah | 巴士拉](./Al_Basrah)
