@@ -294,6 +294,7 @@
     - MT-LB ZU-23-2 *1
     - BMP-1 *1
     - T-62 *1
+    - BM-21 Grad
 
 
 ### Black Coast RAAS v3
