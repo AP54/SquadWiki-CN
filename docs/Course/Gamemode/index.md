@@ -32,7 +32,7 @@ Destruction、Insurgency、TC 罕见于国服。
 
 - [Seed | 暖服](./Seed)
 
-- [TA | 精准打击](./TA)
+- [TA | 装甲死斗](./TA)
 
 - [Training | 训练](./Training)
 

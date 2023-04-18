@@ -36,6 +36,6 @@ Squad 作为一款**拟真**的大战场 FPS 游戏，包括了许多的游戏�
         - [Seed | 暖服](./Gamemode/Seed.md)
         - [Skirmish | 遭遇战](./Gamemode/Skirmish.md)
         - [Tanks | 载具大战](./Gamemode/Tanks.md)
-        - [TA | 精准打击](./Gamemode/TA.md)
+        - [TA | 装甲死斗](./Gamemode/TA.md)
         - [TC | 领土控制](./Gamemode/TC.md)
         - [Training | 训练](./Gamemode/Training.md)

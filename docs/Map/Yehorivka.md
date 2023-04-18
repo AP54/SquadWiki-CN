@@ -1,8 +1,11 @@
-# Yehorivka | 叶霍里符卡
+# Yehorivka | 叶霍里夫卡
 
 > 文章作者：桀氓AlbertWensley, TL
 
-![Yehorivka](./img/map_mini/Yehorivka.jpg)
+<figure markdown>
+  ![Yehorivka](./img/map_mini/Yehorivka.jpg){loading=lazy}
+  <figcaption>叶霍里夫卡位于俄乌边境，拥有大片平原、座座树林和道路贯通的小型村镇。由于地形相对开阔，有效使用机械化步兵和装甲力量才是获取胜利的关键。</figcaption>
+</figure>
 
 ### Yehorivka AAS v1
 

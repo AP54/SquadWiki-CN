@@ -2,7 +2,10 @@
 
 > 文章作者：桀氓AlbertWensley
 
-![Lashkar_Valley](./img/map_mini/Lashkar.jpg)
+<figure markdown>
+  ![Lashkar_Valley](./img/map_mini/Lashkar.jpg){loading=lazy}
+  <figcaption>这一河谷坐落于阿富汗东部的崇山中，在历史上发生过无数战役，在将来也亦然。河流将该区域分成三块，突兀的山脊制造了无数的天然观察哨。</figcaption>
+</figure>
 
 ### Lashkar AAS v1
 

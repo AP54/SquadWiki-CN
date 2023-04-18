@@ -5,7 +5,6 @@
   <figcaption>Squad Masters</figcaption>
 </figure>
 
-
 ## 介绍
 
 战术小队大师赛是一个持续5周的多级别的单一淘汰赛。
@@ -18,3 +17,7 @@
 ![schedule](./schedule.png){width=100% loading=lazy}
 
 详细规则见[《战术小队大师赛规则集》](./Ruleset)（中文，由 Astesia 翻译整理）
+
+## 联系方式
+
+[Discord :fontawesome-brands-discord:](https://discord.gg/gXtzJcK9){.md-button .md-button--primary}

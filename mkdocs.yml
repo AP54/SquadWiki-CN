@@ -32,11 +32,12 @@ nav:
       - "Seed | 暖服": "./Course/Gamemode/Seed.md"
       - "Skirmish | 遭遇战": "./Course/Gamemode/Skirmish.md"
       - "Tanks | 载具大战": "./Course/Gamemode/Tanks.md"
-      - "TA | 精准打击": "./Course/Gamemode/TA.md"
+      - "TA | 装甲死斗": "./Course/Gamemode/TA.md"
       - "TC | 领土控制": "./Course/Gamemode/TC.md"
       - "Training | 训练": "./Course/Gamemode/Training.md"
   - "地图手册":
     - "地图手册": "./Map/index.md"
+    - "地图手册模式索引": "./Map/Mode.md"
     - "暖服推荐": "./Map/Seeding.md"
     - "Al Basrah | 巴士拉": "./Map/Al_Basrah.md"
     - "Anvil | 铁砧": "./Map/Anvil.md"
@@ -53,7 +54,7 @@ nav:
     - "Kohat Toi | 科哈特": "./Map/Kohat_Toi.md"
     - "Kokan | 寇坎": "./Map/Kokan.md"
     - "Lashkar Valley | 拉什卡谷": "./Map/Lashkar_Valley.md"
-    - "Logar Valley | 罗杰尔谷": "./Map/Logar_Valley.md"
+    - "Logar Valley | 卢格尔谷": "./Map/Logar_Valley.md"
     - "Manicouagan | 曼尼古根": "./Map/Manicouagan.md"
     - "Mestia | 梅斯提亚": "./Map/Mestia.md"
     - "Mutaha | 穆塔哈": "./Map/Mutaha.md"
@@ -62,13 +63,14 @@ nav:
     - "Skorpo | 斯科珀": "./Map/Skorpo.md"
     - "Sumari Bala | 索马里": "./Map/Sumari_Bala.md"
     - "Tallil Outskirts | 塔利尔郊区": "./Map/Tallil_Outskirts.md"
-    - "Yehorivka | 叶霍里符卡": "./Map/Yehorivka.md"
+    - "Yehorivka | 叶霍里夫卡": "./Map/Yehorivka.md"
   - "更新信息":
     - "战术小队热修复 4.3.1 更新日志": "./Update/v4.3.1/release_notes/index.md"
     - "SQUAD HOTFIX 4.3.1 RELEASE NOTES": "./Update/v4.3.1/release_notes/en.md"
     - "战术小队 V4.3 更新日志": "./Update/v4.3/release_notes/index.md"
   - "赛事介绍":
     - "赛事总览": "./Contest/index.md"
+    - "SOI | 战术小队公开邀请赛" : "./Contest/SOI/index.md"
     - "SPLC | 战术小队中国顶级联赛": "./Contest/SPLC/index.md"
     - "Squad Masters | 战术小队大师赛": "./Contest/Masters/index.md"
     - "GSL | 全球战术小队联盟锦标赛": "./Contest/GSL/index.md"
@@ -117,6 +119,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 theme:
   name: material

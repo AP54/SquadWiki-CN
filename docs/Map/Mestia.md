@@ -1,8 +1,11 @@
 # Mestia | 梅斯提亚
 
-> 文章作者：桀氓AlbertWensley
+> 文章作者：桀氓AlbertWensley, TL
 
-![Mestia](./img/map_mini/Mestia.jpg)
+<figure markdown>
+  ![Mestia](./img/map_mini/Mestia.jpg){loading=lazy}
+  <figcaption>Mestia 位于高加索山脉，是苏联时代的瞭望塔群的所在地，最近被当地武装民兵重新利用。一队武装车辆通过深山谷将是危险的，而控制山谷需要拥有挖掘的山顶堡垒。</figcaption>
+</figure>
 
 ### Mestia AAS v1
 

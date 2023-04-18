@@ -2,7 +2,10 @@
 
 > 文章作者：桀氓AlbertWensley, TL
 
-![Jensens_Range](./img/map_mini/Jensens_Range.jpg)
+<figure markdown>
+  ![Jensens_Range](./img/map_mini/Jensens_Range.jpg){loading=lazy}
+  <figcaption>地处在沙漠机密地点中的军事训练场，该设施能为士兵提供磨炼作战技巧所需的一切。</figcaption>
+</figure>
 
 
 ### Jensen's Training Range
