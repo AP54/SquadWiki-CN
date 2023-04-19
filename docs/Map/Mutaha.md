@@ -651,10 +651,28 @@
 
 预设代码： `AdminSetNextLayer Mutaha_TANKE_v1`
 
-光照情况： 
+光照情况： 日出
 
 旗点数量： 
 
 双方阵营： 中东 VS PLA
 
-初始票数： 
+初始票数： 300 - 300
+
+??? abstract "中东载具"
+    - Ural-4320 Transport *1
+    - Simir Logi *1
+    - Ural-4320 Logistics *3
+    - Simir Kornet *1
+    - BMP-1 *1
+    - BMP-2 *2
+    - T-62 *1
+    - T-72S *1
+
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 HJ8 *1
+    - ZBL08 HJ73C *2
+    - ZBD04A *1
+    - ZTZ99A *1

@@ -619,13 +619,42 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v8`
 
-光照情况： 
+光照情况： 正午
 
 旗点数量： 
 
-双方阵营： 英军 VS 民兵
+双方阵营： 美军 VS 民兵
 
-初始票数： 
+初始票数： 300 - 300
+
+??? abstract "美军载具"
+    - ??? M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *2
+    - UH-60M *1
+
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - Armored Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BTR-80 *1
+    - BMP-1 *2
+    - BM-21 Grad *1
+    - T-62 *2
 
 
 ### Manicouagan RAAS v9
@@ -634,13 +663,40 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v9`
 
-光照情况： 
+光照情况： 正午
 
 旗点数量： 
 
 双方阵营： 俄军 VS 民兵
 
-初始票数： 
+初始票数： 300 - 300
+
+??? abstract "俄军载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *2
+    - Tigr-M Kord *2
+    - Tigr-M RWS Kord *1
+    - MT-LB VMK *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+??? abstract "民兵载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - BRDM-2 *1
+    - BTR-80 *2
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BMP-1 *2
+    - BM-21 Grad *1
+    - T-62 *1
 
 
 ### Manicouagan Seed v1
