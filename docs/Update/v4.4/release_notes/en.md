@@ -31,11 +31,11 @@ _*See the bottom of the patch notes for more information_
 
     RUS -> RGF
 
-This update will cause any mods that rely on these faction templates to fail until the mod is recooked with the new updates
+    This update will cause any mods that rely on these faction templates to fail until the mod is recooked with the new updates
 
 - Made adjustments to Militia kit role inventories
 - IMF Marksman 01 – Added 1x deployable Infantry Camo Netting
-- IMF Saboteur 01 – Switched primary weapon to AKS47U with 45rnd banana mag
+- IMF Saboteur 01 – Switched primary weapon to AKS74U with 45rnd banana mag
 - Server Tagging – Servers can now be tagged with “Rule Tags”
 - Rule tags appear on the server preview card and allow server owners to describe the rules that apply to playing on that server. Server owners can learn more about this feature here: [[URL LINK]](https://squad.fandom.com/wiki/Server_Configuration#Rule_List)
 - Server Tagging – Added automatic language detection
