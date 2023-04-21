@@ -35,6 +35,18 @@ nav:
       - "TA | 装甲死斗": "./Course/Gamemode/TA.md"
       - "TC | 领土控制": "./Course/Gamemode/TC.md"
       - "Training | 训练": "./Course/Gamemode/Training.md"
+  - "阵营派系":
+    - "阵营派系": "./Faction/index.md"
+    - "[ADF]澳大利亚国防军": "./Faction/ADF/index.md"
+    - "[BAF]英国武装部队": "./Faction/BAF/index.md"
+    - "[CAF]加拿大武装部队": "./Faction/CAF/index.md"
+    - "[IMF]非正规民兵部队": "./Faction/IMF/index.md"
+    - "[INS]反叛军": "./Faction/INS/index.md"
+    - "[MEA]中东联盟": "./Faction/MEA/index.md"
+    - "[PLA]中国人民解放军": "./Faction/PLA/index.md"
+    - "[RGF]俄罗斯陆军": "./Faction/RGF/index.md"
+    - "[USA]美国陆军": "./Faction/USA/index.md"
+    - "[USMC]美国海军陆战队": "./Faction/USMC/index.md"
   - "地图手册":
     - "地图手册": "./Map/index.md"
     - "地图手册模式索引": "./Map/Mode.md"

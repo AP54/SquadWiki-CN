@@ -27,7 +27,7 @@
 
 - 3rd Brigade
 
-    第三旅
+    澳大利亚第三旅
 
 - Australian Mentoring Task Force
 
@@ -35,11 +35,11 @@
 
 - 1st Armoured Regiment
 
-    第一装甲团
+    澳大利亚第一装甲团
 
 - 2nd/14th Light Horse Regiment
 
-    第二/第十四轻骑兵团
+    澳大利亚第二/第十四轻骑兵团
 
 ### 兵种
 
