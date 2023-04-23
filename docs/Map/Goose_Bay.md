@@ -377,6 +377,29 @@
     - Z-8G *2
 
 
+### Goose Bay Seed v1
+
+切换代码： `AdminChangeLayer GooseBay_Seed_v1`
+
+预设代码： `AdminSetNextLayer GooseBay_Seed_v1`
+
+光照情况： 正午
+
+旗点数量： 
+
+双方阵营： USMC VS PLA
+
+初始票数： 150  -  150
+
+??? abstract "USMC载具"
+    -  M939 Logistics *5
+    -  M1151 M2 Open Doors *1
+
+??? abstract "PLA载具"
+    - CTM131 Logistics *5
+    - CTM131 Transport QJZ89 *1
+
+
 ### Goose Bay Skirmish v1
 
 切换代码： `AdminChangeLayer GooseBay_Skirmish_v1`
@@ -400,26 +423,3 @@
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
-
-
-### Goose Bay Seed v1
-
-切换代码： `AdminChangeLayer GooseBay_Seed_v1`
-
-预设代码： `AdminSetNextLayer GooseBay_Seed_v1`
-
-光照情况： 正午
-
-旗点数量： 
-
-双方阵营： USMC VS PLA
-
-初始票数： 150  -  150
-
-??? abstract "USMC载具"
-    -  M939 Logistics *5
-    -  M1151 M2 Open Doors *1
-
-??? abstract "PLA载具"
-    - CTM131 Logistics *5
-    - CTM131 Transport QJZ89 *1

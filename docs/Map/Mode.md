@@ -2,14 +2,30 @@
 
 > 文章作者：桀氓AlbertWensley
 
-当前版本： V4.3.1
+当前版本： V4.4
 
 这里是以游戏模式关键字的地图手册索引。
 
 !!! tip "游戏模式列表"
-    [AAS | 攻守有序](#aas){ .md-button .md-button--primary }        [RAAS | 随机攻守](#raas){ .md-button .md-button--primary }        [Invasion | 侵攻](#invasion){ .md-button .md-button--primary }
-    [Seed | 暖服](#seed){ .md-button .md-button--primary }        [Skirmish | 遭遇战](#skirmish){ .md-button .md-button--primary }        [Tanks | 坦克大战](#tanks){ .md-button .md-button--primary }
-    [TC | 领土控制](#tc){ .md-button .md-button--primary }        [Destruction | 摧毁](#destruction){ .md-button .md-button--primary }        [Insurgency | 叛乱](#insurgency)
+    
+    [AAS | 攻守有序](#aas){ .md-button .md-button--primary }
+    
+    [RAAS | 随机攻守](#raas){ .md-button .md-button--primary }
+    
+    [Invasion | 侵攻](#invasion){ .md-button .md-button--primary }
+    
+    [Seed | 暖服](#seed){ .md-button .md-button--primary }
+    
+    [Skirmish | 遭遇战](#skirmish){ .md-button .md-button--primary }
+    
+    [Tanks | 坦克大战](#tanks){ .md-button .md-button--primary }
+    
+    [TC | 领土控制](#tc){ .md-button .md-button--primary }
+    
+    [Destruction | 摧毁](#destruction){ .md-button .md-button--primary }
+    
+    [Insurgency | 叛乱](#insurgency){ .md-button .md-button--primary }
+    
     [Training | 训练](#training){ .md-button .md-button--primary }
 
 ## AAS | 攻守有序
@@ -372,7 +388,7 @@
 
 ## RAAS | 随机攻守
 
-共 132 个图层。
+共 134 个图层。
 
 - [Anvil RAAS v1](/Map/anvil/#anvil-raas-v1)
 
@@ -530,6 +546,10 @@
 
 - [Manicouagan RAAS v7](/Map/manicouagan/#manicouagan-raas-v7)
 
+- [Manicouagan RAAS v8](/Map/manicouagan/#manicouagan-raas-v8)
+
+- [Manicouagan RAAS v9](/Map/manicouagan/#manicouagan-raas-v9)
+
 - [Mestia RAAS v1](/Map/mestia/#mestia-raas-v1)
 
 - [Mestia RAAS v2](/Map/mestia/#mestia-raas-v2)
@@ -641,11 +661,13 @@
 
 ## Seed | 暖服
 
-共 12 个图层。
+共 13 个图层。
 
 - [Al Basrah Seed v1](/Map/al_basrah/#al-basrah-seed-v1)
 
 - [Fallujah Seed v1](/Map/fallujah/#fallujah-seed-v1)
+
+- [Goose Bay Seed v1](/Map/goose_bay/#goose-bay-seed-v1)
 
 - [Logar Seed v1](/Map/logar/#logar-seed-v1)
 
@@ -754,7 +776,9 @@
 
 ## Tanks | 坦克大战
 
-共 2 个图层
+共 3 个图层
+
+- [Mutaha Tanks v1](/Map/mutaha/#mutaha-tanks-v1)
 
 - [Tallil Outskirts Tanks v1](/Map/tallil_outskirts/#tallil-outskirts-tanks-v1)
 
