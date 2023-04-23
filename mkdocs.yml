@@ -37,7 +37,9 @@ nav:
       - "Training | 训练": "./Course/Gamemode/Training.md"
   - "阵营派系":
     - "阵营派系": "./Faction/index.md"
-    - "[ADF]澳大利亚国防军": "./Faction/ADF/index.md"
+    - "[ADF]澳大利亚国防军": 
+      - "总述": "./Faction/ADF/index.md"
+      - "兵种装备一览": "./Faction/ADF/Kit/index.md"
     - "[BAF]英国武装部队": "./Faction/BAF/index.md"
     - "[CAF]加拿大武装部队": "./Faction/CAF/index.md"
     - "[IMF]非正规民兵部队": "./Faction/IMF/index.md"
@@ -141,6 +143,7 @@ theme:
   name: material
   features:
     - navigation.instant
+    - navigation.indexes
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
