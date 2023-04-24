@@ -17,6 +17,6 @@ SOI 旨在通过举办社区性的战术小队竞技赛事以鼓励国服各战�
 
 ## 联系方式
 
-[Discord :fontawesome-brands-discord:](#){.md-button .md-button--primary}   [KOOK :simple-kinopoisk:](https://kook.top/9Vi7y4){.md-button .md-button--primary}
+[Discord :fontawesome-brands-discord:](https://discord.gg/cunA6e3Q){.md-button .md-button--primary}   [KOOK :simple-kinopoisk:](https://kook.top/9Vi7y4){.md-button .md-button--primary}
 
 <iframe src="https://kookapp.cn/widget?id=4939320590138488&theme=dark" width="100%" height="600" allowtransparency="true" frameborder="0"></iframe>
