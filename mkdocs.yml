@@ -39,7 +39,7 @@ nav:
     - "阵营派系": "./Faction/index.md"
     - "[ADF]澳大利亚国防军": 
       - "总述": "./Faction/ADF/index.md"
-      - "兵种装备一览": "./Faction/ADF/Kit/index.md"
+      - "兵种配置": "./Faction/ADF/Kit/index.md"
     - "[BAF]英国武装部队": "./Faction/BAF/index.md"
     - "[CAF]加拿大武装部队": "./Faction/CAF/index.md"
     - "[IMF]非正规民兵部队": "./Faction/IMF/index.md"
@@ -79,6 +79,8 @@ nav:
     - "Tallil Outskirts | 塔利尔郊区": "./Map/Tallil_Outskirts.md"
     - "Yehorivka | 叶霍里夫卡": "./Map/Yehorivka.md"
   - "更新信息":
+    - "战术小队热修复 4.4.1 更新日志": "./Update/v4.4.1/release_notes/index.md"
+    - "SQUAD HOTFIX 4.4.1 RELEASE NOTES": "./Update/v4.4.1/release_notes/en.md"
     - "战术小队 V4.4 更新日志": "./Update/v4.4/release_notes/index.md"
     - "SQUAD UPDATE V4.4 RELEASE NOTES": "./Update/v4.4/release_notes/en.md"
     - "战术小队热修复 4.3.1 更新日志": "./Update/v4.3.1/release_notes/index.md"
@@ -143,7 +145,6 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.indexes
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
