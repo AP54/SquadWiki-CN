@@ -17,18 +17,18 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *4
     - PMV RWS M2 *2
     - UH-60M *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -47,11 +47,11 @@
 
 旗点数量： 6
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 350  -  350
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *2
@@ -59,7 +59,7 @@
     - PMV RWS M2 *1
     - ASLAV *2
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -77,18 +77,18 @@
 
 旗点数量： 6
 
-双方阵营： 澳军 VS 叛军
+双方阵营： ADF VS INS
 
 初始票数： 200  -  800
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
     - PMV Mag58 x3 *2
     - PMV RWS M2 *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -109,18 +109,18 @@
 
 旗点数量： 6
 
-双方阵营： 澳军 VS 叛军
+双方阵营： ADF VS INS
 
 初始票数： 800  -  200
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
     - PMV Mag58 x3 *2
     - PMV RWS M2 *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Ural-375D Logistics *1
@@ -142,11 +142,11 @@
 
 旗点数量： 4
 
-双方阵营： 俄军 VS 中东
+双方阵营： RGF VS MEA
 
 初始票数： 400  -  400
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -155,7 +155,7 @@
     - T-72B3 *1
     - Mi-8 *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -176,11 +176,11 @@
 
 旗点数量： 9
 
-双方阵营： 加军 VS 中东
+双方阵营： CAF VS MEA
 
 初始票数： 300  -  300
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 C6 *1
@@ -190,7 +190,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -211,11 +211,11 @@
 
 旗点数量： 4
 
-双方阵营： 澳军 VS 中东
+双方阵营： ADF VS MEA
 
 初始票数： 400  -  400
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
@@ -225,7 +225,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -246,11 +246,11 @@
 
 旗点数量： 9
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
@@ -259,7 +259,7 @@
     - M1A1 *2
     - MRH-90 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -278,16 +278,16 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 200  -  200
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -303,11 +303,11 @@
 
 旗点数量： 56
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 400  -  400
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
@@ -315,7 +315,7 @@
     - PMV RWS M2 *2
     - ASLAV *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -335,11 +335,11 @@
 
 旗点数量： 56
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 400  -  400
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport Truck *1
     - HX60 Logistics Truck *3
     - PMV Mag58 *1
@@ -347,7 +347,7 @@
     - PMV RWS M2 *2
     - ASLAV *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport Truck *1
     - KamAZ 5350 Logistics Truck *3
     - Tigr-M Kord *2

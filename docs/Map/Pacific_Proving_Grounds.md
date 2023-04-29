@@ -20,7 +20,7 @@
 
 初始票数： 99999  -  99999
 
-??? abstract "USMC载具"
+??? abstract "USMC 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - AAVC-7A1 Logistics *1
@@ -39,7 +39,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "PLA载具"
+??? abstract "PLA 载具"
     - CTM131 Logistics *1
     - CTM131 Transport QJY88 *1
     - CTM131 Transport QJZ89 *1
@@ -69,11 +69,11 @@
 
 旗点数量： 2
 
-双方阵营： USMC VS 俄军
+双方阵营： USMC VS RGF
 
 初始票数： 99999  -  99999
 
-??? abstract "USMC载具"
+??? abstract "USMC 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - AAVC-7A1 Logistics *1
@@ -92,7 +92,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - Tigr-M Kord *1

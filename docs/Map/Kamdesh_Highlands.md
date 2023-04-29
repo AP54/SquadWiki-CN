@@ -17,18 +17,18 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
     - ASLAV *2
     - M1A1 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -47,18 +47,18 @@
 
 旗点数量： 2
 
-双方阵营： 澳军 VS 叛军
+双方阵营： ADF VS INS
 
 初始票数： 200  -  1000
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *2
     - PMV Mag58 x3 *2
     - ASLAV *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
     - Ural-375D Logistics *1
@@ -82,18 +82,18 @@
 
 旗点数量： 2
 
-双方阵营： 英军 VS 叛军
+双方阵营： BAF VS INS
 
 初始票数： 200  -  1000
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Transport *3
     - HX60 Logistics *4
     - FV510 UA *2
     - FV510 *1
     - FV432 *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *4
     - Ural-375D Logistics *1
@@ -116,18 +116,18 @@
 
 旗点数量： 5
 
-双方阵营： 美军 VS 叛军
+双方阵营： USA VS INS
 
 初始票数： 200  -  900
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M1126 CROWS M2 *2
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -150,11 +150,11 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 叛军
+双方阵营： BAF VS INS
 
 初始票数： 200  -  900
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Transport *1
     - FV432 *1
     - HX60 Logistics *3
@@ -162,7 +162,7 @@
     - FV432 RWS *1
     - SA330 *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *6
     - Logistics Pickup Truck *6
     - Transport Pickup Truck *4
@@ -184,11 +184,11 @@
 
 旗点数量： 5
 
-双方阵营： 美军 VS 叛军
+双方阵营： USA VS INS
 
 初始票数： 200  -  800
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M939 Transport *1
@@ -196,7 +196,7 @@
     - M1126 CROWS M2 *1
     - UH-60M *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *9
     - Logistics Pickup Truck *5
     - Transport Pickup Truck *1
@@ -218,11 +218,11 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 叛军
+双方阵营： ADF VS INS
 
 初始票数： 200  -  800
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -231,7 +231,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *5
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -254,11 +254,11 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 叛军
+双方阵营： ADF VS INS
 
 初始票数： 200  -  800
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -267,7 +267,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *5
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -290,11 +290,11 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 中东
+双方阵营： ADF VS MEA
 
 初始票数： 200  -  800
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -304,7 +304,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir MG3 *2
@@ -325,11 +325,11 @@
 
 旗点数量： 5
 
-双方阵营： 加军 VS 叛军
+双方阵营： CAF VS INS
 
 初始票数： 200  -  900
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV M2 *2
@@ -339,7 +339,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - MT-LB PKT *1
     - Ural-375D Logistics *3
@@ -362,11 +362,11 @@
 
 旗点数量： 6
 
-双方阵营： 民兵 VS 叛军
+双方阵营： IMF VS INS
 
 初始票数： 300  -  300
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Logistics Pickup Truck *2
     - Ural-375D Logistics *2
     - Technical DShK Shielded *2
@@ -375,7 +375,7 @@
     - BMP-1 ZU-23-2 *1
     - Technical UB-32 *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Logistics Pickup Truck *2
     - Ural-375D Logistics *2
     - Armored Technical DShK *1
@@ -396,11 +396,11 @@
 
 旗点数量： 7
 
-双方阵营： 英军 VS 俄军
+双方阵营： BAF VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV432 *2
@@ -408,7 +408,7 @@
     - FV4034 *1
     - FV432 RWS *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BMP-2 *1
@@ -428,11 +428,11 @@
 
 旗点数量： 7
 
-双方阵营： 美军 VS 中东
+双方阵营： USA VS MEA
 
 初始票数： 250  -  250
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *1
@@ -441,7 +441,7 @@
     - M1A2 *1
     - M-ATV TOW *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
     - BMP-2 *1
@@ -461,18 +461,18 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 中东
+双方阵营： BAF VS MEA
 
 初始票数： 300  -  300
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - FV432 *2
     - FV432 RWS *1
     - FV510 UA *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *3
@@ -491,11 +491,11 @@
 
 旗点数量： 6
 
-双方阵营： 澳军 VS 中东
+双方阵营： ADF VS MEA
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -503,7 +503,7 @@
     - ASLAV *2
     - M1A1 *2
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -524,11 +524,11 @@
 
 旗点数量： 7
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -537,7 +537,7 @@
     - ASLAV *2
     - M1A1 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -556,11 +556,11 @@
 
 旗点数量： 5
 
-双方阵营： 加军 VS 叛军
+双方阵营： CAF VS INS
 
 初始票数： 300  -  300
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - LUVW Transport *2
     - LUVW Logistics *3
     - LUV-A1 Logistics *1
@@ -568,7 +568,7 @@
     - LUVW M2 *3
     - M113A3 TLAV *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
@@ -590,16 +590,16 @@
 
 旗点数量： 3
 
-双方阵营： 澳军 VS 英军
+双方阵营： ADF VS BAF
 
 初始票数： 150  -  150
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *1
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
@@ -615,11 +615,11 @@
 
 旗点数量： 43
 
-双方阵营： 英军 VS 俄军
+双方阵营： BAF VS RGF
 
 初始票数： 400  -  400
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV107 *1
@@ -627,7 +627,7 @@
     - LPPV *2
     - SA330 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BMP-2 *1
@@ -646,11 +646,11 @@
 
 旗点数量： 43
 
-双方阵营： 民兵 VS 叛军
+双方阵营： IMF VS INS
 
 初始票数： 400  -  400
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Logistics Pickup Truck *4
     - Transport Pickup Truck *1
     - Technical DShK Shielded *2
@@ -658,7 +658,7 @@
     - Ural-375D Logistics *1
     - Minsk 400 *4
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Logistics Pickup Truck *3
     - Transport Pickup Truck *1
     - BMP-1 *1
@@ -679,11 +679,11 @@
 
 旗点数量： 43
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 400  -  400
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -693,7 +693,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -713,18 +713,18 @@
 
 旗点数量： 33
 
-双方阵营： 加军 VS 叛军
+双方阵营： CAF VS INS
 
 初始票数： 450  -  450
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV C6 *1
     - LUVW C6 *2
     - M113A3 TLAV *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Ural-375D Logistics *2

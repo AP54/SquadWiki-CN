@@ -17,17 +17,17 @@
 
 旗点数量： 5
 
-双方阵营： 美军 VS 俄军
+双方阵营： USA VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *3
     - M-ATV CROWS M2 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
     - Tigr-M RWS Kord *1
@@ -45,17 +45,17 @@
 
 旗点数量： 7
 
-双方阵营： 美军 VS 俄军
+双方阵营： USA VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
     - M1126 CROWS M2 *3
     - M939 Transport *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - BTR-80 *1
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
@@ -73,18 +73,18 @@
 
 旗点数量： 2
 
-双方阵营： 俄军 VS 民兵
+双方阵营： RGF VS IMF
 
 初始票数： 200  -  1000
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - BTR-80 *1
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - T-72B3 *1
     - KamAZ 5350 Transport *1
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Technical DShK *1
     - Technical DShK Shielded *1
     - BRDM-2 Spandrel *1
@@ -106,11 +106,11 @@
 
 旗点数量： 4
 
-双方阵营： 英军 VS 民兵
+双方阵营： BAF VS IMF
 
 初始票数： 200  -  700
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - FV510 *1
     - LPPV *1
@@ -118,7 +118,7 @@
     - HX60 Transport *1
     - FV107 *1
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Technical DShK *1
     - BRDM-2 *1
     - Ural-375D Logistics *2
@@ -139,18 +139,18 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 俄军
+双方阵营： BAF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - FV432 RWS *1
     - FV432 *2
     - HX60 Transport *1
     - FV107 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - BRDM-2 *1
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
@@ -169,18 +169,18 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 俄军
+双方阵营： BAF VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - FV432 *2
     - LPPV RWS *1
     - HX60 Transport *1
     - FV432 RWS *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - Tigr-M Kord *1
     - BRDM-2 *1
     - KamAZ 5350 Logistics *3
@@ -198,11 +198,11 @@
 
 旗点数量： 6
 
-双方阵营： 英军 VS 民兵
+双方阵营： BAF VS IMF
 
 初始票数： 250  -  250
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Logistics *3
     - LPPV *1
     - FV510 UA *1
@@ -210,7 +210,7 @@
     - FV432 *1
     - FV432 RWS *1
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Logistics Modern Pickup Truck *2
     - Ural-375D Logistics *2
     - MT-LBM 6MB *1
@@ -231,16 +231,16 @@
 
 旗点数量： 5
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 300  -  300
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *4
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *4
@@ -256,17 +256,17 @@
 
 旗点数量： 5
 
-双方阵营： 加军 VS 俄军
+双方阵营： CAF VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 M2 *1
     - M113A3 TLAV *2
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -283,16 +283,16 @@
 
 旗点数量： 5
 
-双方阵营： 美军 VS 俄军
+双方阵营： USA VS RGF
 
 初始票数： 150  -  150
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -308,15 +308,15 @@
 
 旗点数量： 3
 
-双方阵营： 美军 VS 俄军
+双方阵营： USA VS RGF
 
 初始票数： 200  -  200
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
 
@@ -331,18 +331,18 @@
 
 旗点数量： 30
 
-双方阵营： 俄军 VS 民兵
+双方阵营： RGF VS IMF
 
 初始票数： 400  -  400
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - BTR-80 *1
     - BTR-82A *1
     - Tigr-M Kord *1
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Technical DShK *1
     - BMP-1 ZU-23-2 *1
     - BRDM-2 *1

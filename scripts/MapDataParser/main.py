@@ -2,8 +2,8 @@ import json
 
 fjson = open('finished.json', 'r', errors='ignore')
 data = json.load(fjson)
-faction = {'Australian Defence Force': '澳军', 'Russian Ground Forces': '俄军', 'Middle Eastern Alliance': '中东', 'British Armed Forces': '英军',
-           'Insurgent Forces': '叛军', 'United States Army': '美军', 'United States Marine Corps': 'USMC', 'Canadian Armed Forces': '加军', 'Irregular Militia Forces': '民兵',"People's Liberation Army": 'PLA'}
+faction = {'Australian Defence Force': 'ADF', 'Russian Ground Forces': 'RGF', 'Middle Eastern Alliance': 'MEA', 'British Armed Forces': 'BAF',
+           'Insurgent Forces': 'INS', 'United States Army': 'USA', 'United States Marine Corps': 'USMC', 'Canadian Armed Forces': 'CAF', 'Irregular Militia Forces': 'IMF',"People's Liberation Army": 'PLA'}
 
 weather = {'Sunrise': '黎明', 'Sunset': '黄昏', 'Morning Sunrise': '黎明', 'Early Morning': '早晨', 'Stormy': '暴雨', 'Dusty Mid Day': '正午&扬沙',
            'Early Dawn (Dark)': '凌晨', 'Dusk': '黄昏', 'Clear Night': '晴夜', 'Evening': '傍晚', 'Partial Clouds Mid Day': '正午&多云', 'Cloudy Mid Day': '正午&阴天', 'Mid Day': '正午', 'Foggy': '大雾', 'Night': '夜晚', 'Storm': '暴雨', 'Sunny Mid Day': '正午', None: None, 'Sand Storm Mid Day': '正午&沙暴', 'Overcast': '阴天', 'Sunny Afternoon': '下午&晴天', 'Rain Storm': '暴雨'}
@@ -26,7 +26,7 @@ for index in range(len(data['Maps'])):
             data['Maps'][index]['team1']['tickets'], data['Maps'][index]['team2']['tickets'])
         vehicles_dict = {}
         teamvehicles = data['Maps'][index]['team1'].get('vehicles')
-        para_str += '??? abstract "%s载具"\n' % (
+        para_str += '??? abstract "%s 载具"\n' % (
             faction[data['Maps'][index]['team1']['faction']])
         if teamvehicles != None:
             for index_vehicle in teamvehicles:

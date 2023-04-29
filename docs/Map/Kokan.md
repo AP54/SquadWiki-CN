@@ -17,18 +17,18 @@
 
 旗点数量： 7
 
-双方阵营： 美军 VS PLA
+双方阵营： USA VS PLA
 
 初始票数： 250  -  250
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
     - M-ATV CROWS M2 *1
     - RHIB M240 *1
 
-??? abstract "PLA载具"
+??? abstract "PLA 载具"
     - CTM-131 Transport QJY-88 *1
     - CTM-131 Logistics *3
     - CSK-131 QJY-88 *1
@@ -47,18 +47,18 @@
 
 旗点数量： 5
 
-双方阵营： 英军 VS 中东
+双方阵营： BAF VS MEA
 
 初始票数： 250  -  250
 
-??? abstract "英军载具"
+??? abstract "BAF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
     - LPPV RWS *2
     - FV432 *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -77,11 +77,11 @@
 
 旗点数量： 7
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -89,7 +89,7 @@
     - PMV Mag58 *1
     - ASLAV *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -107,17 +107,17 @@
 
 旗点数量： 2
 
-双方阵营： 美军 VS 叛军
+双方阵营： USA VS INS
 
 初始票数： 200  -  1000
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M-ATV CROWS M240 *1
     - M939 Transport *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *3
     - Technical DShK *2
@@ -135,18 +135,18 @@
 
 旗点数量： 5
 
-双方阵营： 俄军 VS 叛军
+双方阵营： RGF VS INS
 
 初始票数： 200  -  800
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - BTR-80 *1
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - Tigr-M Kord *1
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -165,16 +165,16 @@
 
 旗点数量： 6
 
-双方阵营： 美军 VS 中东
+双方阵营： USA VS MEA
 
 初始票数： 250  -  250
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M-ATV M2 *4
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Logistics *3
     - Simir Logi *1
     - Simir Kord *3
@@ -192,17 +192,17 @@
 
 旗点数量： 5
 
-双方阵营： 俄军 VS 中东
+双方阵营： RGF VS MEA
 
 初始票数： 250  -  250
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
     - KamAZ 5350 Transport *1
     - Tigr-M RWS Kord *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Logistics *3
     - Simir Logi *1
     - Simir Kord *3
@@ -221,11 +221,11 @@
 
 旗点数量： 6
 
-双方阵营： 澳军 VS 俄军
+双方阵营： ADF VS RGF
 
 初始票数： 250  -  250
 
-??? abstract "澳军载具"
+??? abstract "ADF 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -233,7 +233,7 @@
     - PMV Mag58 *1
     - ASLAV *1
 
-??? abstract "俄军载具"
+??? abstract "RGF 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -251,18 +251,18 @@
 
 旗点数量： 6
 
-双方阵营： 加军 VS 中东
+双方阵营： CAF VS MEA
 
 初始票数： 250  -  250
 
-??? abstract "加军载具"
+??? abstract "CAF 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW C6 *2
     - LUVW M2 *2
     - M113A3 TLAV *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Ural-4320 Transport *1
     - Simir Logi *3
     - Simir MG3 *2
@@ -280,17 +280,17 @@
 
 旗点数量： 5
 
-双方阵营： 民兵 VS 叛军
+双方阵营： IMF VS INS
 
 初始票数： 150  -  150
 
-??? abstract "民兵载具"
+??? abstract "IMF 载具"
     - Transport Pickup Truck *2
     - Ural-375D Transport *1
     - Ural-375D Logistics *3
     - Technical DShK *2
 
-??? abstract "叛军载具"
+??? abstract "INS 载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *4
@@ -307,16 +307,16 @@
 
 旗点数量： 37
 
-双方阵营： 美军 VS 中东
+双方阵营： USA VS MEA
 
 初始票数： 400  -  400
 
-??? abstract "美军载具"
+??? abstract "USA 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "中东载具"
+??? abstract "MEA 载具"
     - Simir Kord *3
     - Ural-4320 Logistics *3
     - Simir Logi *2
