@@ -178,6 +178,8 @@ theme:
   logo: logo/SQ_200_200.png
   favicon: logo/SQ_200_200.png
   plugins:
+    - search:
+        lang: jp
     - glightbox:
        touchNavigation: true
        loop: false
@@ -191,10 +193,10 @@ theme:
          - custom-skip-class-name
        auto_caption: false
        caption_position: bottom
-    - search:
-        lang: jp
 
 plugins:
+   - search:
+        lang: jp 
    - glightbox
    - git-revision-date-localized:
       enable_creation_date: true
