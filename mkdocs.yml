@@ -38,15 +38,21 @@ nav:
   - "阵营派系":
     - "阵营派系": "./Faction/index.md"
     - "[ADF]澳大利亚国防军": 
-      - "总述": "./Faction/ADF/index.md"
+      - "派系概览": "./Faction/ADF/index.md"
       - "兵种配置": "./Faction/ADF/Kit/index.md"
     - "[BAF]英国武装部队": "./Faction/BAF/index.md"
     - "[CAF]加拿大武装部队": "./Faction/CAF/index.md"
-    - "[IMF]非正规民兵部队": "./Faction/IMF/index.md"
-    - "[INS]反叛军": "./Faction/INS/index.md"
+    - "[IMF]非正规民兵部队": 
+      - "派系概览": "./Faction/IMF/index.md"
+      - "兵种配置": "./Faction/IMF/Kit/index.md"
+    - "[INS]反叛军": 
+      - "派系概览": "./Faction/INS/index.md"
+      - "兵种配置": "./Faction/INS/Kit/index.md"
     - "[MEA]中东联盟": "./Faction/MEA/index.md"
     - "[PLA]中国人民解放军": "./Faction/PLA/index.md"
-    - "[RGF]俄罗斯陆军": "./Faction/RGF/index.md"
+    - "[RGF]俄罗斯陆军": 
+      - "派系概览": "./Faction/RGF/index.md"
+      - "兵种配置": "./Faction/RGF/Kit/index.md"
     - "[USA]美国陆军": "./Faction/USA/index.md"
     - "[USMC]美国海军陆战队": "./Faction/USMC/index.md"
   - "地图手册":
@@ -136,7 +142,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.highlight
-  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
