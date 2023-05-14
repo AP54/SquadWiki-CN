@@ -109,16 +109,6 @@ nav:
       - "摄影命令": "./Server/Command/Camera.md"
       - "载具生成命令": "./Server/Command/Vehicle.md"
       - "部署物生成命令": "./Server/Command/Deployable.md"
-  - "入驻组织":
-    - "入驻组织列表": "./Union/index.md"
-    - "[BY] 北域": "./Union/BY/index.md"
-    - "[CHPD] 修仙公会": "./Union/CHPD/index.md"
-    - "[CRN] 坎特洛特": "./Union/CRN/index.md"
-    - "[DRN] 龙城战队": "./Union/DRN/index.md"
-    - "[MAG] MAG社团": "./Union/MAG/index.md"
-    - "[NMB] 北急熊战队": "./Union/NMB/index.md"
-    - "[77] 萌新兄弟连": "./Union/77/index.md"
-    - "=小鹿= 小鹿社团": "./Union/XL/index.md"    
 
 markdown_extensions:
   - attr_list
