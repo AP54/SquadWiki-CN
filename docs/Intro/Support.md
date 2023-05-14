@@ -6,4 +6,4 @@
 
 大额捐赠将会记录在本页面下方，或日后更合适的位置，以表感谢。
 
-![Cash_QR](./img/Cash_QR.jpg)
+![Cash_QR-Code](/img/cash_qr.jpg)

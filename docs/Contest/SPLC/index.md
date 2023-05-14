@@ -9,11 +9,11 @@
 <iframe src="//player.bilibili.com/player.html?aid=652668814&bvid=BV1AY4y1m752&cid=1030383803&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480" width="720"> </iframe>
 
 <figure markdown>
-  ![20v20](./20v20.png){ loading="lazy" width="100%" }
+  ![20v20](/img/contest/splc/20v20.png){ loading="lazy" width="100%" }
   <figcaption>20v20赛程</figcaption>
   
-  ![36v36](./36v36.png){ loading="lazy" width="100%" }
+  ![36v36](/img/contest/splc/36v36.png){ loading="lazy" width="100%" }
   <figcaption>36v36赛程</figcaption>
 </figure>
 
-![Rules](./rules.jpg){loading=lazy width=100%}
+![Rules](/img/contest/splc/rules.jpg){loading="lazy" width="100%"}

@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![澳大利亚国旗](/logo/flag/flag_of_australia.webp){loading=lazy}
+  ![澳大利亚国旗](/img/flag/australia.webp){loading=lazy}
   <figcaption>澳大利亚国旗</figcaption>
 </figure>
 

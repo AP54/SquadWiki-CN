@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![](/logo/flag/flag_of_canada.webp){loading=lazy}
+  ![加拿大国旗](/img/flag/canada.webp){loading=lazy}
   <figcaption></figcaption>
 </figure>
 

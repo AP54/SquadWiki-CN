@@ -43,7 +43,7 @@
 空心弹头内部的锥形装药爆炸后会把黄铜药罩变成一股高温高速金属射流穿透装甲；同样的，这种弹药对于复合装甲和间隙装甲杀伤效果不好。但该种弹同样具有高爆效果。除了英国之外的所有的主战坦克都配备破甲弹。
 
 <figure markdown>
-  ![dp_form](./img/dp_form.png){ loading="lazy" height="100%" width="100%" }
+  ![dp_form](/img/course/begiiner/chapter_5/dp_form.png){ loading="lazy" height="100%" width="100%" }
   <figcaption>弹药基本穿深和载具防护对照表</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@
 载具上最为脆弱的部分，对于轮式载具来说可能还好，但履带式载具一旦被摧毁了履带就完全丧失了机动能力，变成筒子群的攻击目标。
 
 <figure markdown>
-  ![sketch](./img/sketch.png){ loading="lazy" height="100%" width="100%" }
+  ![sketch](/img/course/beginner/chapter_5/sketch.png){ loading="lazy" height="100%" width="100%" }
   <figcaption>弹药基本穿深和载具防护对照表</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@
 ## （四）基本载具识别
 
 <figure markdown>
-  [![list](./img/list.png){ loading="lazy" height="100%" width="100%"}](./img/list.png)
+  ![list](/img/course/beginner/chapter_5/list.png){ loading="lazy" height="100%" width="100%"}
   <figcaption>载具识别手册目录</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ for root, dirs, files in os.walk("./docs", topdown=False):
             links_output += apagelink.replace('index.md',
                                               '').replace('.md', '')
 
-sitemap_file = open('./urls.txt', mode='w',
+sitemap_file = open('./site/urls.txt', mode='w',
                     encoding="utf-8", errors="ignore")
 sitemap_file.write(links_output)
 sitemap_file.close()

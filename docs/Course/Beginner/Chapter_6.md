@@ -26,65 +26,65 @@
 
     万年不变 mc 迷彩。
 
-    ![USArmy_1](./img/USArmy_1.png){loading="lazy" height="75%" width="45%"}
-    ![USArmy_2](./img/USArmy_2.png){loading="lazy" height="75%" width="45%"}
+    ![USArmy_1](/img/course/beginner/chapter_6/USArmy_1.png){loading="lazy" height="75%" width="45%"}
+    ![USArmy_2](/img/course/beginner/chapter_6/USArmy_2.png){loading="lazy" height="75%" width="45%"}
 
 === "USMC"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![USMC_desert_1](./img/USMC_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![USMC_desert_2](./img/USMC_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_desert_1](/img/course/beginner/chapter_6/USMC_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_desert_2](/img/course/beginner/chapter_6/USMC_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![USMC_wood_1](./img/USMC_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![USMC_wood_2](./img/USMC_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_wood_1](/img/course/beginner/chapter_6/USMC_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_wood_2](/img/course/beginner/chapter_6/USMC_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 === "俄军"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![RUS_desert_1](./img/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![RUS_desert_2](./img/RUS_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_desert_1](/img/course/beginner/chapter_6/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_desert_2](/img/course/beginner/chapter_6/RUS_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![RUS_wood_1](./img/RUS_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![RUS_wood_2](./img/RUS_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_wood_1](/img/course/beginner/chapter_6/RUS_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_wood_2](/img/course/beginner/chapter_6/RUS_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 === "加军"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![CAF_desert_1](./img/CAF_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![CAF_desert_2](./img/CAF_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_desert_1](/img/course/beginner/chapter_6/CAF_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_desert_2](/img/course/beginner/chapter_6/CAF_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![CAF_wood_1](./img/CAF_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![CAF_wood_2](./img/CAF_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_wood_1](/img/course/beginner/chapter_6/CAF_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_wood_2](/img/course/beginner/chapter_6/CAF_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 
 === "英军"
 
-    ![BA_1](./img/BA_1.png){loading="lazy" height="75%" width="45%"}
-    ![BA_2](./img/BA_2.png){loading="lazy" height="75%" width="45%"}
+    ![BA_1](/img/course/beginner/chapter_6/BA_1.png){loading="lazy" height="75%" width="45%"}
+    ![BA_2](/img/course/beginner/chapter_6/BA_2.png){loading="lazy" height="75%" width="45%"}
 
 === "澳军"
 
-    ![AUS_1](./img/AUS_1.png){loading="lazy" height="75%" width="45%"}
-    ![AUS_2](./img/AUS_2.png){loading="lazy" height="75%" width="45%"}
+    ![AUS_1](/img/course/beginner/chapter_6/AUS_1.png){loading="lazy" height="75%" width="45%"}
+    ![AUS_2](/img/course/beginner/chapter_6/AUS_2.png){loading="lazy" height="75%" width="45%"}
 
 === "民兵"
 
-    ![](./img/IM_1.png){loading="lazy" height="75%" width="45%"}
-    ![](./img/IM_2.png){loading="lazy" height="75%" width="45%"}
+    ![IMF_1](/img/course/beginner/chapter_6/IM_1.png){loading="lazy" height="75%" width="45%"}
+    ![IMF_2](/img/course/beginner/chapter_6/IM_2.png){loading="lazy" height="75%" width="45%"}
 
 === "叛军"
 
-    ![](./img/INS_1.png){loading="lazy" height="75%" width="45%"}
-    ![](./img/INS_2.png){loading="lazy" height="75%" width="45%"}
+    ![INS_1](/img/course/beginner/chapter_6/INS_1.png){loading="lazy" height="75%" width="45%"}
+    ![INS_2](/img/course/beginner/chapter_6/INS_2.png){loading="lazy" height="75%" width="45%"}
 
 ### 装备识别
 
@@ -92,8 +92,8 @@
 
 还是继续用上面的图
 
-![](./img/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
-![](./img/AUS_1.png){loading="lazy" height="75%" width="45%"}
+![](/img/course/beginner/chapter_6/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
+![](/img/course/beginner/chapter_6/AUS_1.png){loading="lazy" height="75%" width="45%"}
 
 我们可以看得出来，毛子的头盔要宽的多，并且没啥花里胡哨的东西。北约阵营不然，头灯、伪装布甚至降噪耳机。在沙漠图里毛子还在用黑色的护膝护肘倒也是一个比较显眼的特点。
 

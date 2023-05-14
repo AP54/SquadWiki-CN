@@ -25,7 +25,7 @@
 
 #### 计算使用率
 
-![Squad_Affinity_Calculator](./img/affinity.webp){width=100% loading=lazy}
+![Squad_Affinity_Calculator](/img/server/configuration/affinity.webp){width=100% loading=lazy}
 
 1. 点击 **菜单图标**
 

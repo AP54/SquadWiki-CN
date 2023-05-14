@@ -15,27 +15,27 @@
 由北约成员国和西方国家构成。
 
 <figure markdown>
-  [![ADF](/Logo/Faction/ADF_Rifleman_Flag.webp){loading=lazy}](./ADF/)
+  [![ADF](/img/faction/adf.webp){loading=lazy}](./adf/)
   <figcaption>ADF | 澳大利亚国防军</figcaption>
 </figure>
 
 <figure markdown>
-  [![BAF](/Logo/Faction/BAF_Rifleman_Flag.webp){loading=lazy}](./BAF/)
+  [![BAF](/img/faction/baf.webp){loading=lazy}](./baf/)
   <figcaption>BAF | 英国武装部队</figcaption>
 </figure>
 
 <figure markdown>
-  [![CAF](/Logo/Faction/CAF_Rifleman_Flag.webp){loading=lazy}](./CAF/)
+  [![CAF](/img/faction/caf.webp){loading=lazy}](./caf/)
   <figcaption>CAF | 加拿大武装部队</figcaption>
 </figure>
 
 <figure markdown>
-  [![USA](/Logo/Faction/US_Rifleman_Flag.webp){loading=lazy}](./USA/)
+  [![USA](/img/faction/us.webp){loading=lazy}](./usa/)
   <figcaption>USA | 美国陆军</figcaption>
 </figure>
 
 <figure markdown>
-  [![USMC](/Logo/Faction/USMC_Rifleman_Flag.webp){loading=lazy}](./USMC/)
+  [![USMC](/img/faction/usmc.webp){loading=lazy}](./usmc/)
   <figcaption>USMC | 美国海军陆战队</figcaption>
 </figure>
 
@@ -44,28 +44,28 @@
 西方国家的军事、地缘政治和技术的竞争对手，使用各种平台的武器。
 
 <figure markdown>
-  [![PLA](/Logo/Faction/PLA_Rifleman_Flag.webp){loading=lazy}](./PLA/)
+  [![PLA](/img/faction/pla.webp){loading=lazy}](./pla/)
   <figcaption>PLA | 中国人民解放军</figcaption>
 </figure>
 
 <figure markdown>
-  [![RGF](/Logo/Faction/RGF_Rifleman_Flag.webp){loading=lazy}](./RGF/)
+  [![RGF](/img/faction/rgf.webp){loading=lazy}](./rgf/)
   <figcaption>RGF | 俄罗斯陆军</figcaption>
 </figure>
 
 ## INDEPENDENT 无阵营
 
 <figure markdown>
-  [![MEA](/Logo/Faction/MEA_Rifleman_Flag.webp){loading=lazy}](./MEA/)
+  [![MEA](/img/faction/mea.webp){loading=lazy}](./mea/)
   <figcaption>MEA | 中东联盟</figcaption>
 </figure>
 
 <figure markdown>
-  [![INS](/Logo/Faction/INS_Rifleman_Flag.webp){loading=lazy}](./INS/)
+  [![INS](/img/faction/ins.webp){loading=lazy}](./ins/)
   <figcaption>INS | 反叛军</figcaption>
 </figure>
 
 <figure markdown>
-  [![IMF](/Logo/Faction/IMF_Rifleman_Flag.webp){loading=lazy}](./IMF/)
+  [![IMF](/img/faction/imf.webp){loading=lazy}](./imf/)
   <figcaption>IMF | 非正规民兵部队</figcaption>
 </figure>

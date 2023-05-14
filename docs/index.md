@@ -136,9 +136,7 @@ button[data-md-color-accent]:hover, button[data-md-color-primary]:hover {
 !!! info "版权声明"
     本站点的所有文章内容，无特殊声明时，均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供，附加条款亦可能应用。“SQ”与“SQUAD”徽标相关权利为其权利人所有，不受上述协议约束。
 
-![SquadLogo](./Logo/SQUAD_540_300.png)
-
 <figure markdown>
-  [![Netlify](./Logo/Netlify.png){height="100%" width="100%" }](https://www.netlify.com/)
+  [![Netlify](/img/logo/netlify.png){height="100%" width="100%" }](https://www.netlify.com/)
   <figcaption>本项目托管于 Netlify</figcaption>
 </figure>

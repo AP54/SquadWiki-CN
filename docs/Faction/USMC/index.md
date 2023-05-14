@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![USMC Flag](/logo/flag/flag_of_usmc.webp){loading=lazy}
+  ![USMC Flag](/img/flag/usmc.webp){loading=lazy}
   <figcaption>美国陆军旗帜</figcaption>
 </figure>
 

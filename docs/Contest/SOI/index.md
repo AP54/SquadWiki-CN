@@ -1,7 +1,7 @@
 # 战术小队公开邀请赛 | SQUAD OPEN INVITATIONAL
 
 <figure markdown>
-  ![SOI Logo](./logo.jpg){loading=lazy}
+  ![SOI Logo](/img/contest/soi/logo.jpg){loading="lazy"}
   <figcaption>战术小队公开邀请赛 | SQUAD OPEN INVITATIONAL</figcaption>
 </figure>
 

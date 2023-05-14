@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![RGF Flag](/logo/flag/flag_of_rgf.webp){loading=lazy}
+  ![RGF Flag](/img/flag/rgf.webp){loading=lazy}
   <figcaption>俄罗斯陆军旗帜</figcaption>
 </figure>
 

@@ -10,32 +10,32 @@
 
 === "战地止血带"
 
-    ![Bandage](./img/Bandage.png){width=30% loading=lazy align=left}
+    ![Bandage](/img/course/beginner/chapter_2/Bandage.png){width=30% loading=lazy align=left}
     人物受伤后的止血道具，手持绷带可以查看周围队友是否正在流血，自己流血时按住右键给自己止血，队友流血时按住左键对着队友使用即可给队友止血，同样，绷带是唯一可以拉起重伤倒地队友的道具。并且根据兵种的不同，使用其拉起重伤倒地队友所用的时间也会有所变化。
 
 === "望远镜"
 
-    ![Telescope](./img/Telescope.png){width=30% loading=lazy align=left}
-    用于观察远处敌人和测距使用，测距教学过于繁琐，无法单独用文字解释，请查看[橘猫大尉视频中的测距教学](./#_1)。
+    ![Telescope](/img/course/beginner/chapter_2/Telescope.png){width=30% loading=lazy align=left}
+    用于观察远处敌人和测距使用，测距教学过于繁琐，无法单独用文字解释，请查看[橘猫大尉视频中的测距教学](#_1)。
     
 === "工兵铲"
 
-    ![Shovel](./img/Shovel.png){width=30% loading=lazy align=left}
+    ![Shovel](/img/course/beginner/chapter_2/Shovel.png){width=30% loading=lazy align=left}
     用于建造或摧毁工事。
 
 === "弹药包"
 
-    ![Ammunition_Bag](./img/Ammunition_Bag.png){width=30% loading=lazy align=left}
+    ![Ammunition_Bag](/img/course/beginner/chapter_2/Ammunition_Bag.png){width=30% loading=lazy align=left}
     用于补充弹药，一个弹药包可以携带 100 点弹药，是队伍中特装火力的主要补给。    
 
 === "医疗装备"
 
-    ![Medic](./img/Medic.png){width=30% loading=lazy align=left}
+    ![Medic](/img/course/beginner/chapter_2/Medic.png){width=30% loading=lazy align=left}
     仅医疗兵携带此装备，用于治疗受伤的队友及医疗自己。
 
 === "集结点"
 
-    ![Rally_Point](./img/Rally_Point.png){width=30% loading=lazy align=left}
+    ![Rally_Point](/img/course/beginner/chapter_2/Rally_Point.png){width=30% loading=lazy align=left}
     小队的临时复活点，由队长携带和部署，仅小队员可用，复活时无法补充弹药，机制为每 60 秒统一复活。
 
 ## 重型固定武器
@@ -43,12 +43,12 @@
 === "反坦克导弹"
 
     <figure markdown>
-        ![9M133](./img/9M133.png){loading=lazy}
+        ![9M133](/img/course/beginner/chapter_2/9M133.png){loading=lazy}
         <figcaption>俄制短号反坦克导弹</figcaption>
     </figure>
 
     <figure markdown>
-        ![Tow](./img/Tow.png){loading=lazy}
+        ![Tow](/img/course/beginner/chapter_2/Tow.png){loading=lazy}
         <figcaption>北约陶式反坦克导弹</figcaption>
     </figure>
 
@@ -56,35 +56,35 @@
 
 === "无后座力炮"
 
-    ![SPG-9](./img/SPG9.png){width=60% loading=lazy align=left}
+    ![SPG-9](/img/course/beginner/chapter_2/SPG9.png){width=60% loading=lazy align=left}
     非正规军使用单发威力相比于反坦克导弹而言较小，但射速较快，使用方法和 RPG 类似。有两种弹种，++1++ 号弹为反载具破甲弹，++2++ 号弹为杀伤性破片弹。
 
 === "防空炮"
 
-    ![ZU-23](./img/ZU23.png){width=60% loading=lazy align=left}
+    ![ZU-23](/img/course/beginner/chapter_2/ZU23.png){width=60% loading=lazy align=left}
     非正规军装备 ZU-23 防空炮，射速极高，使用 23mm HE 弹，亦可平射杀伤装甲载具及人员。
 
 === "重机枪"
 
     <figure markdown>
-        ![M2HB](./img/M2HB.png){loading=lazy}
+        ![M2HB](/img/course/beginner/chapter_2/M2HB.png){loading=lazy}
         <figcaption>北约装备的 M2HB 重机枪，使用 .50BMG 弹</figcaption>
     </figure>
     
     <figure markdown>
-        ![NSV](./img/NSV.png){loading=lazy}
+        ![NSV](/img/course/beginner/chapter_2/NSV.png){loading=lazy}
         <figcaption>俄军装备的 NSV 重机枪，口径为 12.7mm</figcaption>
     </figure>
     
     <figure markdown>
-    ![DshK](./img/DshK.png){loading=lazy}
+    ![DshK](/img/course/beginner/chapter_2/DshK.png){loading=lazy}
         <figcaption>非正规军装备的 DshK 重机枪，口径为 12.7mm</figcaption>
     </figure>
     
 === "迫击炮"
 
     <figure markdown>
-        ![Montars](./img/Montars.png){loading=lazy}
+        ![Montars](/img/course/beginner/chapter_2/Montars.png){loading=lazy}
         <figcaption></figcaption>
     </figure>
     
@@ -92,14 +92,14 @@
 
 === "加农炮"
 
-    ![Hell Cannon](./img/Hell_Cannon.png){loading=lazy align=left width=60%}
+    ![Hell Cannon](/img/course/beginner/chapter_2/Hell_Cannon.png){loading=lazy align=left width=60%}
 
     叛军专属装备，溅射范围极大，精度一般，有效射程 700m，可有效杀伤敌步兵。
 
 ## 兵种介绍
 
 <figure markdown>
-   ![Kit](./img/Kit.png)
+   ![Kit](/img/course/beginner/chapter_2/Kit.png)
    <figcaption></figcaption>
 </figure>
 

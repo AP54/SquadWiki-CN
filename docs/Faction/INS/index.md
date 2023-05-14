@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![INS Flag](/logo/flag/flag_of_ins.webp){loading=lazy}
+  ![INS Flag](/img/flag/ins.webp){loading=lazy}
   <figcaption>非正规民兵部队旗帜</figcaption>
 </figure>
 

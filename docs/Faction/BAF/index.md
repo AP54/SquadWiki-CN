@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![英国国旗](/logo/flag/flag_of_uk.webp){loading=lazy}
+  ![英国国旗](/img/flag/uk.webp){loading=lazy}
   <figcaption></figcaption>
 </figure>
 

@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![MEA Flag](/logo/flag/flag_of_mea.webp){loading=lazy}
+  ![MEA Flag](/img/flag/mea.webp){loading=lazy}
   <figcaption>中东联盟旗帜</figcaption>
 </figure>
 

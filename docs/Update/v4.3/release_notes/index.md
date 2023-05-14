@@ -8,7 +8,7 @@
 
 ### 地图列表
 
-![maptable](./img/map_table.webp){loading=lazy witdh=100%}
+![maptable](/img/update/v4.3/release_notes/map_table.webp){loading=lazy witdh=100%}
 
 - Manicouagan AAS v1 – 加军 vs 俄罗斯陆军
 - Manicouagan AAS v2 – 美国海军陆战队 vs 俄罗斯陆军

@@ -49,7 +49,7 @@
 1. 三角区
 
     <figure markdown>
-        ![Triangle](./img/Triangle.png){loading=lazy}
+        ![Triangle](/img/course/beginner/chapter_4/Triangle.png){loading=lazy}
         <figcaption>三角区示意图</figcaption>
     </figure>
 
@@ -60,7 +60,7 @@
 2. 楼梯缝
 
     <figure markdown>
-        ![Gap](./img/Gap.png){loading=lazy}
+        ![Gap](/img/course/beginner/chapter_4/Gap.png){loading=lazy}
         <figcaption>楼梯缝示意图</figcaption>
     </figure>
 
@@ -74,7 +74,7 @@
     转弯平台可以架住上一层楼梯，给下楼的敌人修脚，在他走到上层楼梯的时候，他手里的枪会挡住他观察我们位置的视线。在这个位置架枪，也可以很安全的击杀敌人。
 
     <figure markdown>
-        ![Corner](./img/Corner.png){loading=lazy}
+        ![Corner](/img/course/beginner/chapter_4/Corner.png){loading=lazy}
         <figcaption>楼梯缝示意图</figcaption>
     </figure>
 

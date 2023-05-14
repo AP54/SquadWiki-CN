@@ -7,7 +7,7 @@
 ### 旗帜
 
 <figure markdown>
-  ![PLA Flag](/logo/flag/flag_of_pla.webp){loading=lazy}
+  ![PLA Flag](/img/flag/pla.webp){loading=lazy}
   <figcaption>中国人民解放军军旗</figcaption>
 </figure>
 

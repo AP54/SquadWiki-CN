@@ -36,7 +36,7 @@
 
     脚本显示如图所示：
 
-    ![input](./img/input.png){loading=lazy width=80%}
+    ![input](/img/server/installation/input.png){loading=lazy width=80%}
 
     输入你的 `steamcmd.exe` 安装路径并按 ++enter++ 键。
 
@@ -44,7 +44,7 @@
 
     如果出现以下界面，则证明你的 Squad 服务端已开始下载。
 
-    ![start](./img/start.png){loading=lazy width=80%}
+    ![start](/img/server/installation/start.png){loading=lazy width=80%}
 
     !!! failure "Steam 访问性问题"
 
@@ -62,7 +62,7 @@
 
     脚本运行正常完成后应如下图所示：
     
-    ![finish](./img/finish.png){loading=lazy width=80%}
+    ![finish](/img/server/installation/finish.png){loading=lazy width=80%}
 
     如果脚本显示 `Success! App '403240' fully installed.`（图中框选内容），那么 Squad 服务端就已正确安装在了服务器上。
 
