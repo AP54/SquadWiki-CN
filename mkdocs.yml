@@ -148,6 +148,7 @@ markdown_extensions:
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs
@@ -156,6 +157,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - content.code.copy
+    - announce.dismiss
     - navigation.footer
     - tabs: true
   palette:
