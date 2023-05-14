@@ -102,6 +102,8 @@ nav:
     - "运维管理简介": "./Server/index.md"
     - "服务端管理":
       - "服务端安装": "./Server/Installation.md"
+      - "服务器配置": "./Server/Configuration.md"
+      - "服务器标签": "./Server/tag.md"
     - "控制命令":
       - "控制命令简介": "./Server/Command/index.md"
       - "公共命令": "./Server/Command/Public.md"
