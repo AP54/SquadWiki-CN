@@ -3,7 +3,7 @@
 ## 托管商赞助
 
 <figure markdown>
-  [![Netlify](../Logo/Netlify.png){height="100%" width="100%" }](https://www.netlify.com/)
+  [![Netlify](/img/logo/netlify.png){height="100%" width="100%" }](https://www.netlify.com/)
   <figcaption>本项目托管于 Netlify</figcaption>
 </figure>
 
