@@ -244,7 +244,10 @@
 ## Fire Support
 
 ### Infiltrator	
+
+???+ quote "Infiltrator 01"
     === "Infiltrator 01"
+	
        - AKS-74U + Banana Mag, 6 mags
        - Vz. 61 Škorpion, 3 mags
        - AKM Bayonet
