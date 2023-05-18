@@ -15,27 +15,34 @@
 
 贡献者名单（不分先后顺序）：
 
-- [-D.R.N-zjh](https://steamcommunity.com/profiles/76561198847227244)
+- [Guxue](https://steamcommunity.com/profiles/76561198425654483)
 
-- [[北域学院]呕像鸽王](https://steamcommunity.com/profiles/76561199255759727)
+- [传奇医疗兵老陈](https://steamcommunity.com/profiles/76561198923428917)
 
 - [Astesia](https://steamcommunity.com/profiles/76561199119948140)
+
+- [=R.S.T=TCP SYN FLOOD](https://steamcommunity.com/profiles/76561199105440267)
 
 - [阿言](https://steamcommunity.com/profiles/76561199086078223)
 
 - [林夕](https://steamcommunity.com/profiles/76561198418714701/)
-
-- [Xx_我终将她归于人海](https://steamcommunity.com/profiles/76561198978767329)
-
-- [Rimuru Tempest](https://steamcommunity.com/profiles/76561198957342664)
-
-- [HEYQAQ](https://steamcommunity.com/profiles/76561198844469021)
 
 - [TL](https://steamcommunity.com/profiles/76561199251306583)
 
 - [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
 
 - [Crystal](https://steamcommunity.com/profiles/76561198324014856/)
+
+
+!!! info "中文维基早期项目“Thetis”志愿成员名单"
+    - [Xx_我终将她归于人海](https://steamcommunity.com/profiles/76561198978767329)
+    - [Rimuru Tempest](https://steamcommunity.com/profiles/76561198957342664)
+    - [HEYQAQ](https://steamcommunity.com/profiles/76561198844469021)
+    - [-D.R.N-zjh](https://steamcommunity.com/profiles/76561198847227244)
+    - [[北域学院]呕像鸽王](https://steamcommunity.com/profiles/76561199255759727)
+    - [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
+    - [TL](https://steamcommunity.com/profiles/76561199251306583)
+    - [Astesia](https://steamcommunity.com/profiles/76561199119948140)
 
 ## 入驻组织
 

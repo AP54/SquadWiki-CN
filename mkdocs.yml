@@ -53,8 +53,12 @@ nav:
     - "[RGF]俄罗斯陆军":
       - "派系概览": "./faction/rgf/index.md"
       - "兵种配置": "./faction/rgf/kit/index.md"
-    - "[USA]美国陆军": "./faction/usa/index.md"
-    - "[USMC]美国海军陆战队": "./faction/usmc/index.md"
+    - "[USA]美国陆军": 
+      - "派系概览": "./faction/usa/index.md"
+      - "兵种配置": "./faction/usa/kit/index.md"
+    - "[USMC]美国海军陆战队": 
+      - "派系概览": "./faction/usmc/index.md"
+      - "兵种配置": "./faction/usmc/kit/index.md"
   - "地图手册":
     - "地图手册": "./map/index.md"
     - "地图手册模式索引": "./map/mode.md"

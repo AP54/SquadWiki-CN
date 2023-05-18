@@ -1,5 +1,7 @@
 # [IMF]非正规民兵部队 | 装备一览
 
+> 页面贡献者：=R.S.T=TCP SYN FLOOD
+
 ## Command And Support
 
 ### Squad Leader

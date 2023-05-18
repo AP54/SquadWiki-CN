@@ -1,5 +1,7 @@
 # [RGF]俄罗斯陆军 | 装备一览
 
+> 页面贡献者：TL
+
 ## Command And Support
 
 ### Squad Leader

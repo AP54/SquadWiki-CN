@@ -1,5 +1,7 @@
 # [INS]反叛军 | 装备一览
 
+> 页面贡献者：=R.S.T=TCP SYN FLOOD
+
 ## Command And Support
 
 ### Cell Leader
