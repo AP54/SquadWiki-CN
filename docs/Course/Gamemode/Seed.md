@@ -1,6 +1,6 @@
 # Seed | 暖服
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 暖服（Seed）是 Squad 的一种游戏模式，从[遭遇战（Skirmish）](./skirmish)改装而来。
 

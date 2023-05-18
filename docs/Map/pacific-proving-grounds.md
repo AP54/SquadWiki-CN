@@ -1,6 +1,6 @@
 # Pacific Proving Grounds | 太平洋训练场
 
-> 文章作者：桀氓AlbertWensley ,TL
+> 页面贡献者：桀氓AlbertWensley ,TL
 
 
 ## Training | 训练

@@ -1,6 +1,6 @@
 # Destruction | 摧毁
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 摧毁（Destruction）是 Squad 的一种游戏模式。
 

@@ -1,6 +1,6 @@
 # 战术小队热修复 4.3.1 更新日志
 
-> 文章作者：Offworld Industries
+> 页面贡献者：Offworld Industries
 > 
 > 翻译整理：Astesia
 

@@ -1,6 +1,6 @@
 # Tanks | 载具大战
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 载具大战（Tanks）是 Squad 中的一种游戏模式，由[攻守有序（AAS）](./aas)改装而来
 

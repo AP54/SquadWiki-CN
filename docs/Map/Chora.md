@@ -1,6 +1,6 @@
 # Chora | 乔拉
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![Chora](/img/map_mini/chora.jpg){loading=lazy}

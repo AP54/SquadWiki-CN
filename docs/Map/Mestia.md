@@ -1,6 +1,6 @@
 # Mestia | 梅斯提亚
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Mestia](/img/map_mini/mestia.jpg){loading=lazy}

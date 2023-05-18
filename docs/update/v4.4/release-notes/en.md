@@ -1,6 +1,6 @@
 # SQUAD UPDATE V4.4 RELEASE NOTES
 
-> 文章作者：Offworld Industries
+> 页面贡献者：Offworld Industries
 > 
 > posted on April 18, 2023
 

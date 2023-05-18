@@ -1,6 +1,6 @@
 # 服务器配置
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 本文将详细介绍 Squad 服务器的安装流程。
 

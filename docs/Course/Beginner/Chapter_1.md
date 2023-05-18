@@ -1,8 +1,8 @@
 # 第一目 设置和UI
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：桀氓AlbertWensley, 
+> 页面贡献者：桀氓AlbertWensley, 
 
 <iframe src="//player.bilibili.com/player.html?aid=894865952&bvid=BV1bP4y1u7Rc&cid=550957982&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

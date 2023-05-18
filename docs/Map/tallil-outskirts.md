@@ -1,6 +1,6 @@
 # Tallil Outskirts | 塔利尔郊区
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![tallil-outskirts](/img/map_mini/tallil.jpg){loading=lazy}

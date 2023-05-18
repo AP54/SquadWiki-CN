@@ -1,6 +1,6 @@
 # Yehorivka | 叶霍里夫卡
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Yehorivka](/img/map_mini/yehorivka.jpg){loading=lazy}

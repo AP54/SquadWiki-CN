@@ -1,6 +1,6 @@
 # Skorpo | 斯科珀
 
-> 文章作者：桀氓AlbertWensley, Astesia, TL
+> 页面贡献者：桀氓AlbertWensley, Astesia, TL
 
 <figure markdown>
   ![Skorpo](/img/map_mini/skorpo.jpg){loading=lazy}

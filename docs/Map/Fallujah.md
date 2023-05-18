@@ -1,6 +1,6 @@
 # Fallujah | 费卢杰
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![Fallujah](/img/map_mini/fallujah.jpg){loading=lazy}

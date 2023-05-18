@@ -1,6 +1,6 @@
 # Logar Valley | 卢格尔谷
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![logar-valley](/img/map_mini/logar.jpg){loading=lazy}

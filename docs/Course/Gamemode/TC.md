@@ -1,6 +1,6 @@
 # TC | 领土控制 
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 !!! info "游戏内描述 | In-game description"
     Territory Control is a game mode in which teams capture contiguous hex tiles across a map. Teams are unaware of their opponents progress until they capture a tile bordering a tile captured by the opposing team. The team which controls the majority of the map the longest will eventually win the round.

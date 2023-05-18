@@ -1,6 +1,6 @@
 # Narva | 纳尔瓦
 
-> 文章作者：桀氓AlbertWensley, Astesia, TL
+> 页面贡献者：桀氓AlbertWensley, Astesia, TL
 
 <figure markdown>
   ![Narva](/img/map_mini/narva.jpg){loading=lazy}

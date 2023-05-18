@@ -1,6 +1,6 @@
 # 地图手册模式索引
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 当前版本： V4.4
 

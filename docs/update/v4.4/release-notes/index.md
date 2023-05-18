@@ -1,6 +1,6 @@
 # 战术小队 V4.4 更新日志
 
-> 文章作者：Offworld Industries
+> 页面贡献者：Offworld Industries
 >
 > 原标题：战术小队 - v4.4
 >

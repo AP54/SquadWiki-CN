@@ -1,6 +1,6 @@
 # 模式总览
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 Squad 中共有 11 种游戏模式，本章对各种游戏模式的基本规则和特点做了总结。
 

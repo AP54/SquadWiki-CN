@@ -1,6 +1,6 @@
 # Manicouagan | 曼尼古根
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Manicouagan](/img/map_mini/manicouagan.jpg){loading=lazy}

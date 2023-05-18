@@ -1,6 +1,6 @@
 # Sumari Bala | 索马里
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Sumari_Bala](/img/map_mini/sumari.jpg){loading=lazy}

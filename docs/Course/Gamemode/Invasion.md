@@ -1,6 +1,6 @@
 # Invasion | 侵攻
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 侵攻（Invasion）是 Squad 中一种重要的游戏模式。
 

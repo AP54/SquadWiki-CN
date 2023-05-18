@@ -1,6 +1,6 @@
 # Al Basrah | 巴士拉
 
-> 文章作者：桀氓AlbertWensley, Astesia
+> 页面贡献者：桀氓AlbertWensley, Astesia
 
 <figure markdown>
   ![al-basrah](/img/map_mini/al-basrah.jpg){loading=lazy}

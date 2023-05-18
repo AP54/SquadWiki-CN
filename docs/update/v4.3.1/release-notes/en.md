@@ -1,6 +1,6 @@
 # SQUAD HOTFIX 4.3.1 RELEASE NOTES
 
-> 文章作者：Offworld Industries
+> 页面贡献者：Offworld Industries
 
 Attention Squaddies,
 

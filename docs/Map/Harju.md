@@ -1,6 +1,6 @@
 # Harju | 哈留
 
-> 文章作者：桀氓AlbertWensley, TL, Astesia
+> 页面贡献者：桀氓AlbertWensley, TL, Astesia
 
 <figure markdown>
   ![Harju](/img/map_mini/harju.jpg)

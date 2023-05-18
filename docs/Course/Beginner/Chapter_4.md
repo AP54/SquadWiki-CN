@@ -1,8 +1,8 @@
 # 第四目 战斗技巧
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：TL
+> 页面贡献者：TL
 
 <iframe src="//player.bilibili.com/player.html?aid=980657133&bvid=BV1L44y157Hr&cid=577366587&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

@@ -1,6 +1,6 @@
 # Belaya Pass | 贝拉亚山口
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![belaya-Pass](/img/map_mini/belaya.jpg){loading=lazy}

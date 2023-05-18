@@ -1,6 +1,6 @@
 # Gorodok | 格鲁多克
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Gorodok](/img/map_mini/gorodok.jpg){loading=lazy}

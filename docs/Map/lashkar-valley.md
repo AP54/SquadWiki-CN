@@ -1,6 +1,6 @@
 # Lashkar Valley | 拉什卡谷
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![lashkar-valley](/img/map_mini/lashkar.jpg){loading=lazy}

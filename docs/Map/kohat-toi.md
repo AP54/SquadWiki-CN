@@ -1,6 +1,6 @@
 # Kohat Toi | 科哈特
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Kohat_Toi](/img/map_mini/kohat.jpg){loading=lazy}

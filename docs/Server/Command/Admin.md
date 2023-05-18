@@ -1,6 +1,6 @@
 # 管理命令
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 本文详细介绍了 Squad 游戏中命令控制台（ ++tilde++ 键打开）的所有管理命令，供管理员查阅。
 

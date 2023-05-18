@@ -1,6 +1,6 @@
 # Mutaha | 穆塔哈
 
-> 文章作者：桀氓AlbertWensley, TL
+> 页面贡献者：桀氓AlbertWensley, TL
 
 <figure markdown>
   ![Mutaha](/img/map_mini/mutaha.jpg){loading=lazy}

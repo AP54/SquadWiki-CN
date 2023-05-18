@@ -1,6 +1,6 @@
 # Kokan | 寇坎
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![Kokan](/img/map_mini/kokan.jpg){loading=lazy}

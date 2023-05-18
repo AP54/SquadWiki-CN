@@ -1,8 +1,8 @@
 # 第六目 索敌技巧
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：阿言，Astesia
+> 页面贡献者：阿言，Astesia
 
 <iframe src="//player.bilibili.com/player.html?aid=683696664&bvid=BV13U4y1U7eH&cid=711036107&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

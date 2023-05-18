@@ -1,8 +1,8 @@
 # 第七目 规则和模式
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：ZJH
+> 页面贡献者：ZJH
 
 <iframe src="//player.bilibili.com/player.html?aid=603309415&bvid=BV1cB4y1J7Hm&cid=842025362&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

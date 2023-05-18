@@ -1,6 +1,6 @@
 # Fool's Road | 傻瓜之路
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![fools-road](/img/map_mini/fools-road.jpg)

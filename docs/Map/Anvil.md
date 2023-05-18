@@ -1,6 +1,6 @@
 # Anvil | 铁砧
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![Anvil](/img/map_mini/anvil.jpg){loading=lazy}

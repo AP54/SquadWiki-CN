@@ -1,8 +1,8 @@
 # 第三目 团队和社区
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：Xx_我终将她归于人海
+> 页面贡献者：Xx_我终将她归于人海
 
 <iframe src="//player.bilibili.com/player.html?aid=980341568&bvid=BV1s44y1P7nJ&cid=563621626&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

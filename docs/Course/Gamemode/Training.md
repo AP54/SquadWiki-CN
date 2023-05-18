@@ -1,6 +1,6 @@
 # Training | 训练
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 训练（Training）是 Squad 中一种游戏模式，正如其名，它**仅仅用于训练**。
 

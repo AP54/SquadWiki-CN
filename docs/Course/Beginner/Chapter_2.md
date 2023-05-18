@@ -1,8 +1,8 @@
 # 第二目 特装和武器
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：林夕
+> 页面贡献者：林夕
 
 <iframe src="//player.bilibili.com/player.html?aid=339984933&bvid=BV1jR4y1c7SK&cid=556112937&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

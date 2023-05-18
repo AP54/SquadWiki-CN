@@ -1,6 +1,6 @@
 # Skirmish | 遭遇战
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 !!!info "In-game description | 游戏内描述"
     Skirmish is a control point mode, the objective for both teams is to capture and hold Control Points (aka Flags) in a preset order. Capturing enemy flags penalizes the enemy team and rewards you with additional Tickets. The team who first runs out of tickets will lose.

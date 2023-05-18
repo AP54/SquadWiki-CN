@@ -1,6 +1,6 @@
 # Kamdesh Highlands | 卡姆德什高地
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![kamdesh-highlands](/img/map_mini/kamdesh.jpg){loading=lazy}

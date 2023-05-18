@@ -1,6 +1,6 @@
 # RAAS | 随机攻守
 
-> 文章作者：桀氓AlbertWensley， ZJH
+> 页面贡献者：桀氓AlbertWensley， ZJH
 
 随机攻守(Random Advance and Secure, RAAS)是 Squad 中一种主要的游戏模式，与[攻守有序（AAS）](./aas)非常相似。
 

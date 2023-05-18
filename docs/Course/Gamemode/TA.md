@@ -1,6 +1,6 @@
 # TA | 装甲死斗
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 !!! failed "装甲死斗模式仅适于人数极少时暖服和训练使用，不适用于人数较多的对局"
 

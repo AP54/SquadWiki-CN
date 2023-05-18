@@ -1,6 +1,6 @@
 # Goose Bay | 鹅湾
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 <figure markdown>
   ![GooseBay](/img/map_mini/goosebay.jpg){loading=lazy}

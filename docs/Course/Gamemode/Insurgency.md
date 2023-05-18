@@ -1,6 +1,6 @@
 # Insurgency | 叛乱
 
-> 文章作者：桀氓AlbertWensley
+> 页面贡献者：桀氓AlbertWensley
 
 叛乱（Insurgency）是 Squad 中的一种游戏模式。进攻方的目标是摧毁非正规军的弹药库。
 

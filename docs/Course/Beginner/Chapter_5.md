@@ -1,8 +1,8 @@
 # 第五目 载具识别
 
-> 视频作者：橘猫大尉
+> 特别鸣谢：橘猫大尉
 
-> 文章作者：Astesia
+> 页面贡献者：Astesia
 
 <iframe src="//player.bilibili.com/player.html?aid=768296601&bvid=BV1hr4y1H7ZQ&cid=580650402&page=1" height="480" width="720" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
