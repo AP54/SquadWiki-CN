@@ -4,11 +4,11 @@
 
 !!! tips "运维管理目录"
     - 服务端管理
-        - [服务器安装](./Installation)
+        - [服务器安装](./installation)
     - 控制命令
-        - [控制命令简介](./Command)
-        - [公共命令](./Command/Public)
-        - [管理命令](./Command/Admin)
-        - [摄影命令](./Command/Camera)
-        - [载具生成命令](./Command/Vehicle)
-        - [部署物生成命令](./Command/Deployable)
+        - [控制命令简介](./command)
+        - [公共命令](./command/public)
+        - [管理命令](./command/admin)
+        - [摄影命令](./command/camera)
+        - [载具生成命令](./command/vehicle)
+        - [部署物生成命令](./command/deployable)

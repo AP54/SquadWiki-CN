@@ -8,13 +8,13 @@
 
 Squad 让多达 100 名玩家的团队在对局中决定如何进行前哨建设和人员部署，团队合作与沟通对于成功至关重要。
 
-当前发布版本：[v4.4.1](./Update/v4.4.1/release_notes/)
+当前发布版本：[v4.4.1](./update/v4.4.1/release_notes/)
 
 战术小队中文维基致力于成为一个**开放且持续更新的战术小队非盈利性知识整合站点**，为各位玩家提供实用的游戏知识。本站为各位玩家准备了模式、载具、兵种以及阵营等游戏内容，帮助各位玩家快速深入的了解战术小队。
 
 本项目受 [CTF Wiki](https://ctf-wiki.org/) 启发，在编写过程中参考了诸多资料，在此一并致谢。
 
-如果您觉得本站对您有很大帮助，请考虑[投喂我们](./Intro/Support)。
+如果您觉得本站对您有很大帮助，请考虑[投喂我们](./intro/support)。
 
 
 ## Material color palette 颜色主题
@@ -132,7 +132,7 @@ button[data-md-color-accent]:hover, button[data-md-color-primary]:hover {
 - [在 Steam 上的 Squad](https://store.steampowered.com/app/393380)
 
 !!! info "版权声明"
-    本站点的所有文章内容，无特殊声明时，均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供，附加条款亦可能应用。“SQ”与“SQUAD”徽标相关权利为其权利人所有，不受上述协议约束。
+    本站点的所有文章内容，无特殊声明时，均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供，附加条款亦可能应用。“SQ”与“SQUAD”徽标相关权利为其权利人所有，不受上述协议约束。
 
 <figure markdown>
   [![Netlify](/img/logo/netlify.png){height="100%" width="100%" }](https://www.netlify.com/)

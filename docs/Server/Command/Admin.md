@@ -4,9 +4,9 @@
 
 本文详细介绍了 Squad 游戏中命令控制台（ ++tilde++ 键打开）的所有管理命令，供管理员查阅。
 
-普通玩家也可阅读本文作简单了解，若有意成为服务器管理员可前往[入驻组织](/Union/)部分，查看各组织详情页中管理招募的相关信息。
+普通玩家也可阅读本文作简单了解，若有意成为服务器管理员可前往[入驻组织](/union/)部分，查看各组织详情页中管理招募的相关信息。
 
-有关命令权限的信息请查看[管理员权限级别 - 控制命令简介](/Server/Command)。
+有关命令权限的信息请查看[管理员权限级别 - 控制命令简介](/server/command)。
 
 ## AdminKick
 
@@ -345,4 +345,4 @@
 
 ## 参考资料
 
-- [Server Administration - Squad Official Wiki](https://squad.fandom.com/wiki/Server_Administration)
+- [Server Administration - Squad Official Wiki](https://squad.fandom.com/wiki/server_administration)

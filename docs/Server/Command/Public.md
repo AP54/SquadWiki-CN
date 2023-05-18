@@ -200,4 +200,4 @@
 
 ## 参考资料
 
-- [Server Administration - Squad Official Wiki](https://squad.fandom.com/wiki/Server_Administration)
+- [Server Administration - Squad Official Wiki](https://squad.fandom.com/wiki/server_administration)

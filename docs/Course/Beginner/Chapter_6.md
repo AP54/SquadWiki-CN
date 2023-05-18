@@ -26,65 +26,65 @@
 
     万年不变 mc 迷彩。
 
-    ![USArmy_1](/img/course/beginner/chapter_6/USArmy_1.png){loading="lazy" height="75%" width="45%"}
-    ![USArmy_2](/img/course/beginner/chapter_6/USArmy_2.png){loading="lazy" height="75%" width="45%"}
+    ![USArmy_1](/img/course/beginner/chapter_6/usarmy_1.png){loading="lazy" height="75%" width="45%"}
+    ![USArmy_2](/img/course/beginner/chapter_6/usarmy_2.png){loading="lazy" height="75%" width="45%"}
 
 === "USMC"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![USMC_desert_1](/img/course/beginner/chapter_6/USMC_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![USMC_desert_2](/img/course/beginner/chapter_6/USMC_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_desert_1](/img/course/beginner/chapter_6/usmc_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_desert_2](/img/course/beginner/chapter_6/usmc_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![USMC_wood_1](/img/course/beginner/chapter_6/USMC_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![USMC_wood_2](/img/course/beginner/chapter_6/USMC_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_wood_1](/img/course/beginner/chapter_6/usmc_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![USMC_wood_2](/img/course/beginner/chapter_6/usmc_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 === "俄军"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![RUS_desert_1](/img/course/beginner/chapter_6/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![RUS_desert_2](/img/course/beginner/chapter_6/RUS_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_desert_1](/img/course/beginner/chapter_6/rus_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_desert_2](/img/course/beginner/chapter_6/rus_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![RUS_wood_1](/img/course/beginner/chapter_6/RUS_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![RUS_wood_2](/img/course/beginner/chapter_6/RUS_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_wood_1](/img/course/beginner/chapter_6/rus_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![RUS_wood_2](/img/course/beginner/chapter_6/rus_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 === "加军"
 
     上方为沙漠涂装，下方为林地涂装。
 
-    ![CAF_desert_1](/img/course/beginner/chapter_6/CAF_desert_1.png){loading="lazy" height="75%" width="45%"}
-    ![CAF_desert_2](/img/course/beginner/chapter_6/CAF_desert_2.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_desert_1](/img/course/beginner/chapter_6/caf_desert_1.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_desert_2](/img/course/beginner/chapter_6/caf_desert_2.png){loading="lazy" height="75%" width="45%"}
 
     -----我是个分隔线耶:D-----
 
-    ![CAF_wood_1](/img/course/beginner/chapter_6/CAF_wood_1.png){loading="lazy" height="75%" width="45%"}
-    ![CAF_wood_2](/img/course/beginner/chapter_6/CAF_wood_2.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_wood_1](/img/course/beginner/chapter_6/caf_wood_1.png){loading="lazy" height="75%" width="45%"}
+    ![CAF_wood_2](/img/course/beginner/chapter_6/caf_wood_2.png){loading="lazy" height="75%" width="45%"}
 
 
 === "英军"
 
-    ![BA_1](/img/course/beginner/chapter_6/BA_1.png){loading="lazy" height="75%" width="45%"}
-    ![BA_2](/img/course/beginner/chapter_6/BA_2.png){loading="lazy" height="75%" width="45%"}
+    ![BA_1](/img/course/beginner/chapter_6/ba_1.png){loading="lazy" height="75%" width="45%"}
+    ![BA_2](/img/course/beginner/chapter_6/ba_2.png){loading="lazy" height="75%" width="45%"}
 
 === "澳军"
 
-    ![AUS_1](/img/course/beginner/chapter_6/AUS_1.png){loading="lazy" height="75%" width="45%"}
-    ![AUS_2](/img/course/beginner/chapter_6/AUS_2.png){loading="lazy" height="75%" width="45%"}
+    ![AUS_1](/img/course/beginner/chapter_6/aus_1.png){loading="lazy" height="75%" width="45%"}
+    ![AUS_2](/img/course/beginner/chapter_6/aus_2.png){loading="lazy" height="75%" width="45%"}
 
 === "民兵"
 
-    ![IMF_1](/img/course/beginner/chapter_6/IM_1.png){loading="lazy" height="75%" width="45%"}
-    ![IMF_2](/img/course/beginner/chapter_6/IM_2.png){loading="lazy" height="75%" width="45%"}
+    ![IMF_1](/img/course/beginner/chapter_6/im_1.png){loading="lazy" height="75%" width="45%"}
+    ![IMF_2](/img/course/beginner/chapter_6/im_2.png){loading="lazy" height="75%" width="45%"}
 
 === "叛军"
 
-    ![INS_1](/img/course/beginner/chapter_6/INS_1.png){loading="lazy" height="75%" width="45%"}
-    ![INS_2](/img/course/beginner/chapter_6/INS_2.png){loading="lazy" height="75%" width="45%"}
+    ![INS_1](/img/course/beginner/chapter_6/ins_1.png){loading="lazy" height="75%" width="45%"}
+    ![INS_2](/img/course/beginner/chapter_6/ins_2.png){loading="lazy" height="75%" width="45%"}
 
 ### 装备识别
 
@@ -92,8 +92,8 @@
 
 还是继续用上面的图
 
-![](/img/course/beginner/chapter_6/RUS_desert_1.png){loading="lazy" height="75%" width="45%"}
-![](/img/course/beginner/chapter_6/AUS_1.png){loading="lazy" height="75%" width="45%"}
+![](/img/course/beginner/chapter_6/rus_desert_1.png){loading="lazy" height="75%" width="45%"}
+![](/img/course/beginner/chapter_6/aus_1.png){loading="lazy" height="75%" width="45%"}
 
 我们可以看得出来，毛子的头盔要宽的多，并且没啥花里胡哨的东西。北约阵营不然，头灯、伪装布甚至降噪耳机。在沙漠图里毛子还在用黑色的护膝护肘倒也是一个比较显眼的特点。
 
@@ -126,6 +126,6 @@
 **nya~**
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第六章：索敌技巧](https://www.bilibili.com/video/BV13U4y1U7eH)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第六章：索敌技巧](https://www.bilibili.com/video/bv13u4y1u7eh)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。
 

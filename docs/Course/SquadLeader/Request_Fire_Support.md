@@ -13,17 +13,17 @@
 !!! warning "注意！"
     一定要更换**队长装**，否则是无法使用队长菜单的。
 
-[![RFS1](/img/course/squad_leader/request_fire_support/RFS1_Mini.png)](/img/course/squad_leader/request_fire_support/RFS1.png){loading="lazy" height="75%" width="45%"}
+[![RFS1](/img/course/squad_leader/request_fire_support/rfs1_mini.png)](/img/course/squad_leader/request_fire_support/RFS1.png){loading="lazy" height="75%" width="45%"}
 
 ## 提交请求
 
 第二步，按 ++caps-lock++ 大写键打开地图，找到位于你图标位置的蓝色**火力支援圈**，**右键**点击，**左键**左侧确认按钮，并将打击目标在地图上右键标记。
 
-[![RFS2](/img/course/squad_leader/request_fire_support/RFS2_Mini.png)](/img/course/squad_leader/request_fire_support/RFS2.png){loading="lazy" height="75%" width="45%"}
+[![RFS2](/img/course/squad_leader/request_fire_support/rfs2_mini.png)](/img/course/squad_leader/request_fire_support/RFS2.png){loading="lazy" height="75%" width="45%"}
 
 ## 确认打击
 
-[![RFS3](/img/course/squad_leader/request_fire_support/RFS3_Mini.png)](/img/course/squad_leader/request_fire_support/RFS3.png){loading="lazy" height="75%" width="45%"}
+[![RFS3](/img/course/squad_leader/request_fire_support/rfs3_mini.png)](/img/course/squad_leader/request_fire_support/RFS3.png){loading="lazy" height="75%" width="45%"}
 
 第三步，使用 ++g++ 键与指挥官进行交流，向指挥官说明请求何种支援，打击何类目标及目标具体位置。
 
@@ -41,5 +41,5 @@
     “已在地图上标明攻击方向。”
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【Squad短教程】队长该如何呼叫火力支援](https://www.bilibili.com/video/BV11M4y1u7ww)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【Squad短教程】队长该如何呼叫火力支援](https://www.bilibili.com/video/bv11m4y1u7ww)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。

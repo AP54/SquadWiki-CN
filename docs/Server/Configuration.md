@@ -98,7 +98,7 @@ FFFF = 8核心
 
 ### Admins.cfg
 
-可以创建一个权限组，并将管理员分配到该组中。您可以创建任意类型，任意数量的权限组。这些文件在更新时将不会被覆盖，所以当添加权限时您需要前往[官方Wiki/en](https://squad.fandom.com/wiki/Server_Configuration#Adding_Admins_in_Admins.cfg)更新。 
+可以创建一个权限组，并将管理员分配到该组中。您可以创建任意类型，任意数量的权限组。这些文件在更新时将不会被覆盖，所以当添加权限时您需要前往[官方Wiki/en](https://squad.fandom.com/wiki/server_configuration#adding_admins_in_admins.cfg)更新。 
 
 必须使用 SteamID64，您可以在 [SteamID I/O](steamid.io/lookup) 中转换。
 
@@ -192,7 +192,7 @@ Admin=7984591565523:Whitelist //玩家 156
 
 手动添加封禁玩家时，请使用换行符作为每个封禁玩家的分割。
 
-如果要检查封禁玩家的封禁时间或创建一个限时的玩家封禁，请使用[此工具](https://tool.chinaz.com/Tools/unixtime.aspx)转换时间戳。
+如果要检查封禁玩家的封禁时间或创建一个限时的玩家封禁，请使用[此工具](https://tool.chinaz.com/tools/unixtime.aspx)转换时间戳。
 
 
 ### LevelRotation.cfg

@@ -13,10 +13,10 @@ SOI 旨在通过举办社区性的战术小队竞技赛事以鼓励国服各战�
 
 为最大化确保公平性与公开性，SOI 欢迎各战队代表入驻赛事委员会，以共同商讨决定比赛相关事宜。
 
-详情请见[《战术小队公开邀请赛策划方案》](./Plan/)。
+详情请见[《战术小队公开邀请赛策划方案》](./plan/)。
 
 ## 联系方式
 
-[Discord :fontawesome-brands-discord:](https://discord.gg/cunA6e3Q){.md-button .md-button--primary}   [KOOK :simple-kinopoisk:](https://kook.top/9Vi7y4){.md-button .md-button--primary}
+[Discord :fontawesome-brands-discord:](https://discord.gg/cuna6e3q){.md-button .md-button--primary}   [KOOK :simple-kinopoisk:](https://kook.top/9vi7y4){.md-button .md-button--primary}
 
 <iframe src="https://kookapp.cn/widget?id=4939320590138488&theme=dark" width="100%" height="600" allowtransparency="true" frameborder="0"></iframe>

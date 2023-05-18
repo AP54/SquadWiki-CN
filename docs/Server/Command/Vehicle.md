@@ -2,7 +2,7 @@
 
 此页面列出了 Squad 中所有可生成载具的部署命令，您可以直接从 Wiki 复制粘贴到游戏控制台中，不必手动输入。
 
-当前版本：[V4.3](/Update/v4.3/release_notes/)
+当前版本：[V4.3](/update/v4.3/release_notes/)
 
 !!! warning 
     您只能在具有 **featuretest** 管理员权限的**自定义服务器**或者**本地服务器**上生成载具。

@@ -16,24 +16,24 @@ Destruction、Insurgency、TC 罕见于国服。
 
     世外官方也在服务器运营要求中对此做了要求。
 
-- [Skirmish | 遭遇战](./Skirmish)
+- [Skirmish | 遭遇战](./skirmish)
 
-- [RAAS | 随机攻守](./RAAS)
+- [RAAS | 随机攻守](./raas)
 
-- [Invasion | 侵攻](./Invasion)
+- [Invasion | 侵攻](./invasion)
 
-- [AAS | 攻守有序](./AAS)
+- [AAS | 攻守有序](./aas)
 
-- [Destruction | 摧毁](./Destruction)
+- [Destruction | 摧毁](./destruction)
 
-- [Insurgency | 叛乱](./Insurgency)
+- [Insurgency | 叛乱](./insurgency)
 
-- [TC | 领土控制](./TC)
+- [TC | 领土控制](./tc)
 
-- [Seed | 暖服](./Seed)
+- [Seed | 暖服](./seed)
 
-- [TA | 装甲死斗](./TA)
+- [TA | 装甲死斗](./ta)
 
-- [Training | 训练](./Training)
+- [Training | 训练](./training)
 
-- [Tanks | 载具大战](./Tanks)
+- [Tanks | 载具大战](./tanks)

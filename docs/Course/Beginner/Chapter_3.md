@@ -99,7 +99,7 @@
 
 15. 严禁随意丢弃载具，严禁消极游戏，恶意摧毁载具。
 
-此处引用 [【NMB】北域萌新正式服](/Union/NMB/) 服规（[点我查看](./enclosure/NMB_Rules.txt)），供各位参考。         
+此处引用 [【NMB】北域萌新正式服](/union/nmb/) 服规（[点我查看](./enclosure/nmb_rules.txt)），供各位参考。         
 
 各服务器规定不完全相同，具体规则可以询问值班OP。
 
@@ -110,8 +110,8 @@
 
 ## 附件
 
-- [【NMB】北域萌新正式服服规](./enclosure/NMB_Rules.txt)
+- [【NMB】北域萌新正式服服规](./enclosure/nmb_rules.txt)
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第三章：团队和社区](https://www.bilibili.com/video/BV1s44y1P7nJ)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第三章：团队和社区](https://www.bilibili.com/video/bv1s44y1p7nj)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。

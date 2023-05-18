@@ -14,28 +14,28 @@
 
 个人认为，使用多样化的暖服图层，可以引起玩家好奇从而进入服务器。同时，Skirmish 图层少见于国服，使用这些地图暖服同时也满足了玩家对 Squad 的探索需求。
 
-- [Albasrah_Seed_v1](/Map/Al_Basrah/#al-basrah-seed-v1)
+- [Albasrah_Seed_v1](/map/al_basrah/#al-basrah-seed-v1)
 
-- [Albasrah_Skirmish_v1](/Map/Al_Basrah/#al-basrah-skirmish-v1)
+- [Albasrah_Skirmish_v1](/map/al_basrah/#al-basrah-skirmish-v1)
 
-- [BlackCoast_Skirmish_v1](/Map/Black_Coast/#black-coast-skirmish-v1)
+- [BlackCoast_Skirmish_v1](/map/black_coast/#black-coast-skirmish-v1)
 
-- [Chora_Skirmish_v1](/Map/Chora/#chora-skirmish-v1)
+- [Chora_Skirmish_v1](/map/chora/#chora-skirmish-v1)
 
-- [Fallujah_Skirmish_v1](/Map/Fallujah/#fallujah-skirmish-v1)
+- [Fallujah_Skirmish_v1](/map/fallujah/#fallujah-skirmish-v1)
 
-- [Fools_Road_Skirmish_v1](/Map/Fools_Road/#fools-road-skirmish-v1)
+- [Fools_Road_Skirmish_v1](/map/fools_road/#fools-road-skirmish-v1)
 
-- [Goose_Bay_Skirmish_v1](/Map/Goose_Bay/#goose-bay-skirmish-v1)
+- [Goose_Bay_Skirmish_v1](/map/goose_bay/#goose-bay-skirmish-v1)
 
-- [Kohat_Skirmish_v1](/Map/Kohat_Toi/#kohat-toi-skirmish-v1)
+- [Kohat_Skirmish_v1](/map/kohat_toi/#kohat-toi-skirmish-v1)
 
-- [Sumari_Seed_v1](/Map/Sumari_Bala/#sumari-bala-seed-v1)
+- [Sumari_Seed_v1](/map/sumari_bala/#sumari-bala-seed-v1)
 
-- [Tallil_Skirmish_v1](/Map/Tallil_Outskirts/#tallil-outskirts-seed-v1)
+- [Tallil_Skirmish_v1](/map/tallil_outskirts/#tallil-outskirts-seed-v1)
 
-- [Yehorivka_Skirmish_v1](/Map/Yehorivka/#yehorivka-skirmish-v1)
+- [Yehorivka_Skirmish_v1](/map/yehorivka/#yehorivka-skirmish-v1)
 
-- [Yehorivka_Skirmish_v3](/Map/Yehorivka/#yehorivka-skirmish-v3)
+- [Yehorivka_Skirmish_v3](/map/yehorivka/#yehorivka-skirmish-v3)
 
 纯属个人推荐，仅供参考捏~

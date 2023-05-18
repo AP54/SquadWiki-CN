@@ -16,8 +16,8 @@
 
 ![schedule](/img/contest/masters/schedule.png){width="100%" loading="lazy"}
 
-详细规则见[《战术小队大师赛规则集》](./Ruleset)（中文，由 Astesia 翻译整理）
+详细规则见[《战术小队大师赛规则集》](./ruleset)（中文，由 Astesia 翻译整理）
 
 ## 联系方式
 
-[Discord :fontawesome-brands-discord:](https://discord.gg/gXtzJcK9){.md-button .md-button--primary}
+[Discord :fontawesome-brands-discord:](https://discord.gg/gxtzjck9){.md-button .md-button--primary}

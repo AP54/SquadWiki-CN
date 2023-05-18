@@ -92,12 +92,12 @@
   <figcaption>载具识别手册目录</figcaption>
 </figure>
 
-详见附件 1 [【载具识别手册 - 战术小队中文维基.pdf】](./enclosure/%E8%BD%BD%E5%85%B7%E8%AF%86%E5%88%AB%E6%89%8B%E5%86%8C-%E6%88%98%E6%9C%AF%E5%B0%8F%E9%98%9F%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA.pdf)。
+详见附件 1 [【载具识别手册 - 战术小队中文维基.pdf】](./enclosure/%e8%bd%bd%e5%85%b7%e8%af%86%e5%88%ab%e6%89%8b%e5%86%8c-%e6%88%98%e6%9c%af%e5%b0%8f%e9%98%9f%e4%b8%ad%e6%96%87%e7%bb%b4%e5%9f%ba.pdf)。
 
 ## 附件
 
-1. [载具识别手册 - 战术小队中文维基.pdf](./enclosure/%E8%BD%BD%E5%85%B7%E8%AF%86%E5%88%AB%E6%89%8B%E5%86%8C-%E6%88%98%E6%9C%AF%E5%B0%8F%E9%98%9F%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA.pdf)
+1. [载具识别手册 - 战术小队中文维基.pdf](./enclosure/%e8%bd%bd%e5%85%b7%e8%af%86%e5%88%ab%e6%89%8b%e5%86%8c-%e6%88%98%e6%9c%af%e5%b0%8f%e9%98%9f%e4%b8%ad%e6%96%87%e7%bb%b4%e5%9f%ba.pdf)
 
 !!! info "版权声明"
-    本文中视频与图片部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第五章：载具入门](https://www.bilibili.com/video/BV1hr4y1H7ZQ)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频与图片部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第五章：载具入门](https://www.bilibili.com/video/bv1hr4y1h7zq)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。

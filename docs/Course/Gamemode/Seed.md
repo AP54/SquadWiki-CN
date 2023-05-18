@@ -2,9 +2,9 @@
 
 > 文章作者：桀氓AlbertWensley
 
-暖服（Seed）是 Squad 的一种游戏模式，从[遭遇战（Skirmish）](./Skirmish)改装而来。
+暖服（Seed）是 Squad 的一种游戏模式，从[遭遇战（Skirmish）](./skirmish)改装而来。
 
-游戏基本机制与遭遇战模式完全相同，详情见“[遭遇战 | Skirmish](./Skirmish)”页面。
+游戏基本机制与遭遇战模式完全相同，详情见“[遭遇战 | Skirmish](./skirmish)”页面。
 
 暖服模式在遭遇战模式的基础上做了如下改动，使战斗节奏更快、玩家要求更低，以便于暖服。
 
@@ -23,26 +23,26 @@ x 默认值为50，可在配置文件中修改。
 
     现版本下暖服模式共有 10 张图层可用，单击可前往详情页。
 
-    - [Al Basrah Seed v1](/Map/al_basrah/#al-basrah-seed-v1)
+    - [Al Basrah Seed v1](/map/al_basrah/#al-basrah-seed-v1)
 
-    - [Fallujah Seed v1](/Map/fallujah/#fallujah-seed-v1)
+    - [Fallujah Seed v1](/map/fallujah/#fallujah-seed-v1)
     
-    - [Logar Seed v1](/Map/logar/#logar-seed-v1)
+    - [Logar Seed v1](/map/logar/#logar-seed-v1)
     
-    - [Manicouagan Seed v1](/Map/manicouagan/#manicouagan-seed-v1)
+    - [Manicouagan Seed v1](/map/manicouagan/#manicouagan-seed-v1)
     
-    - [Mutaha Seed v1](/Map/mutaha/#mutaha-seed-v1)
+    - [Mutaha Seed v1](/map/mutaha/#mutaha-seed-v1)
     
-    - [Sumari Bala Seed v1](/Map/sumari_bala/#sumari-bala-seed-v1)
+    - [Sumari Bala Seed v1](/map/sumari_bala/#sumari-bala-seed-v1)
     
-    - [Sumari Bala Seed v2](/Map/sumari_bala/#sumari-bala-seed-v2)
+    - [Sumari Bala Seed v2](/map/sumari_bala/#sumari-bala-seed-v2)
     
-    - [Sumari Bala Seed v3](/Map/sumari_bala/#sumari-bala-seed-v3)
+    - [Sumari Bala Seed v3](/map/sumari_bala/#sumari-bala-seed-v3)
     
-    - [Tallil Outskirts Seed v1](/Map/tallil_outskirts/#tallil-outskirts-seed-v1)
+    - [Tallil Outskirts Seed v1](/map/tallil_outskirts/#tallil-outskirts-seed-v1)
     
-    - [Tallil Outskirts Seed v2](/Map/tallil_outskirts/#tallil-outskirts-seed-v2)
+    - [Tallil Outskirts Seed v2](/map/tallil_outskirts/#tallil-outskirts-seed-v2)
     
-    - [Black Coast Seed v1](/Map/black_coast/#black-coast-seed-v1)
+    - [Black Coast Seed v1](/map/black_coast/#black-coast-seed-v1)
     
-    - [Harju Seed v1](/Map/harju/#harju-seed-v1)
+    - [Harju Seed v1](/map/harju/#harju-seed-v1)

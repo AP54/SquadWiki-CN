@@ -26,76 +26,76 @@
 
     现版本下领土控制模式共有 37 张图层可用，单击可前往详情页。
 
-    - [Anvil TC v1](/Map/anvil/#anvil-tc-v1)
+    - [Anvil TC v1](/map/anvil/#anvil-tc-v1)
 
-    - [Al Basrah TC v1](/Map/al_basrah/#al-basrah-tc-v1)
+    - [Al Basrah TC v1](/map/al_basrah/#al-basrah-tc-v1)
 
-    - [Al Basrah TC v2](/Map/al_basrah/#al-basrah-tc-v2)
+    - [Al Basrah TC v2](/map/al_basrah/#al-basrah-tc-v2)
 
-    - [Belaya TC v1](/Map/belaya/#belaya-tc-v1)
+    - [Belaya TC v1](/map/belaya/#belaya-tc-v1)
 
-    - [Chora TC v1](/Map/chora/#chora-tc-v1)
+    - [Chora TC v1](/map/chora/#chora-tc-v1)
 
-    - [Fallujah TC v1](/Map/fallujah/#fallujah-tc-v1)
+    - [Fallujah TC v1](/map/fallujah/#fallujah-tc-v1)
 
-    - [Fallujah TC v2](/Map/fallujah/#fallujah-tc-v2)
+    - [Fallujah TC v2](/map/fallujah/#fallujah-tc-v2)
 
-    - [Fool's Road TC v1](/Map/fools_road/#fools-road-tc-v1)
+    - [Fool's Road TC v1](/map/fools_road/#fools-road-tc-v1)
 
-    - [Gorodok TC v1](/Map/gorodok/#gorodok-tc-v1)
+    - [Gorodok TC v1](/map/gorodok/#gorodok-tc-v1)
 
-    - [Gorodok TC v2](/Map/gorodok/#gorodok-tc-v2)
+    - [Gorodok TC v2](/map/gorodok/#gorodok-tc-v2)
 
-    - [Kamdesh TC v1](/Map/kamdesh/#kamdesh-tc-v1)
+    - [Kamdesh TC v1](/map/kamdesh/#kamdesh-tc-v1)
 
-    - [Kamdesh TC v2](/Map/kamdesh/#kamdesh-tc-v2)
+    - [Kamdesh TC v2](/map/kamdesh/#kamdesh-tc-v2)
 
-    - [Kamdesh TC v3](/Map/kamdesh/#kamdesh-tc-v3)
+    - [Kamdesh TC v3](/map/kamdesh/#kamdesh-tc-v3)
 
-    - [Kamdesh TC v4](/Map/kamdesh/#kamdesh-tc-v4)
+    - [Kamdesh TC v4](/map/kamdesh/#kamdesh-tc-v4)
 
-    - [Kohat Toi TC v1](/Map/kohat_toi/#kohat-toi-tc-v1)
+    - [Kohat Toi TC v1](/map/kohat_toi/#kohat-toi-tc-v1)
 
-    - [Kokan TC v1](/Map/kokan/#kokan-tc-v1)
+    - [Kokan TC v1](/map/kokan/#kokan-tc-v1)
 
-    - [Lashkar TC v1](/Map/lashkar/#lashkar-tc-v1)
+    - [Lashkar TC v1](/map/lashkar/#lashkar-tc-v1)
 
-    - [Lashkar TC v2](/Map/lashkar/#lashkar-tc-v2)
+    - [Lashkar TC v2](/map/lashkar/#lashkar-tc-v2)
 
-    - [Lashkar TC v3](/Map/lashkar/#lashkar-tc-v3)
+    - [Lashkar TC v3](/map/lashkar/#lashkar-tc-v3)
 
-    - [Lashkar TC v4](/Map/lashkar/#lashkar-tc-v4)
+    - [Lashkar TC v4](/map/lashkar/#lashkar-tc-v4)
 
-    - [Lashkar TC v5](/Map/lashkar/#lashkar-tc-v5)
+    - [Lashkar TC v5](/map/lashkar/#lashkar-tc-v5)
 
-    - [Logar TC v1](/Map/logar/#logar-tc-v1)
+    - [Logar TC v1](/map/logar/#logar-tc-v1)
 
-    - [Mestia TC v1](/Map/mestia/#mestia-tc-v1)
+    - [Mestia TC v1](/map/mestia/#mestia-tc-v1)
 
-    - [Mutaha TC v1](/Map/mutaha/#mutaha-tc-v1)
+    - [Mutaha TC v1](/map/mutaha/#mutaha-tc-v1)
 
-    - [Mutaha TC v2](/Map/mutaha/#mutaha-tc-v2)
+    - [Mutaha TC v2](/map/mutaha/#mutaha-tc-v2)
 
-    - [Narva TC v1](/Map/narva/#narva-tc-v1)
+    - [Narva TC v1](/map/narva/#narva-tc-v1)
 
-    - [Narva TC v2](/Map/narva/#narva-tc-v2)
+    - [Narva TC v2](/map/narva/#narva-tc-v2)
 
-    - [Skorpo TC v1](/Map/skorpo/#skorpo-tc-v1)
+    - [Skorpo TC v1](/map/skorpo/#skorpo-tc-v1)
 
-    - [Skorpo TC v2](/Map/skorpo/#skorpo-tc-v2)
+    - [Skorpo TC v2](/map/skorpo/#skorpo-tc-v2)
 
-    - [Skorpo TC v3](/Map/skorpo/#skorpo-tc-v3)
+    - [Skorpo TC v3](/map/skorpo/#skorpo-tc-v3)
 
-    - [Sumari Bala TC v1](/Map/sumari_bala/#sumari-bala-tc-v1)
+    - [Sumari Bala TC v1](/map/sumari_bala/#sumari-bala-tc-v1)
 
-    - [Tallil Outskirts TC v1](/Map/tallil_outskirts/#tallil-outskirts-tc-v1)
+    - [Tallil Outskirts TC v1](/map/tallil_outskirts/#tallil-outskirts-tc-v1)
 
-    - [Yehorivka TC v1](/Map/yehorivka/#yehorivka-tc-v1)
+    - [Yehorivka TC v1](/map/yehorivka/#yehorivka-tc-v1)
 
-    - [Yehorivka TC v2](/Map/yehorivka/#yehorivka-tc-v2)
+    - [Yehorivka TC v2](/map/yehorivka/#yehorivka-tc-v2)
 
-    - [Yehorivka TC v3](/Map/yehorivka/#yehorivka-tc-v3)
+    - [Yehorivka TC v3](/map/yehorivka/#yehorivka-tc-v3)
 
-    - [Harju TC v1](/Map/harju/#harju-tc-v1)
+    - [Harju TC v1](/map/harju/#harju-tc-v1)
 
-    - [Harju TC v2](/Map/harju/#harju-tc-v2)
+    - [Harju TC v2](/map/harju/#harju-tc-v2)

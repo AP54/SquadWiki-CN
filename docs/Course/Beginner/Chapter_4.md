@@ -49,7 +49,7 @@
 1. 三角区
 
     <figure markdown>
-        ![Triangle](/img/course/beginner/chapter_4/Triangle.png){loading=lazy}
+        ![Triangle](/img/course/beginner/chapter_4/triangle.png){loading=lazy}
         <figcaption>三角区示意图</figcaption>
     </figure>
 
@@ -60,7 +60,7 @@
 2. 楼梯缝
 
     <figure markdown>
-        ![Gap](/img/course/beginner/chapter_4/Gap.png){loading=lazy}
+        ![Gap](/img/course/beginner/chapter_4/gap.png){loading=lazy}
         <figcaption>楼梯缝示意图</figcaption>
     </figure>
 
@@ -74,7 +74,7 @@
     转弯平台可以架住上一层楼梯，给下楼的敌人修脚，在他走到上层楼梯的时候，他手里的枪会挡住他观察我们位置的视线。在这个位置架枪，也可以很安全的击杀敌人。
 
     <figure markdown>
-        ![Corner](/img/course/beginner/chapter_4/Corner.png){loading=lazy}
+        ![Corner](/img/course/beginner/chapter_4/corner.png){loading=lazy}
         <figcaption>楼梯缝示意图</figcaption>
     </figure>
 
@@ -153,5 +153,5 @@
 - [叫我老桑的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/626393418)
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第四章：进阶战斗技巧](https://www.bilibili.com/video/BV1L44y157Hr)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第四章：进阶战斗技巧](https://www.bilibili.com/video/bv1l44y157hr)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。

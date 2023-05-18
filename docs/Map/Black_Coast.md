@@ -3,7 +3,7 @@
 > 文章作者：桀氓AlbertWensley, Astesia
 
 <figure markdown>
-  ![Black Coast](/img/map_mini/Black_Coast.jpg){loading=lazy}
+  ![Black Coast](/img/map_mini/black_coast.jpg){loading=lazy}
   <figcaption>它坐落在高加索山麓和波光粼粼的黑海之间，卫星图像显示围绕着一个冷战潜艇基地有新的活动迹象。</figcaption>
 </figure>
 

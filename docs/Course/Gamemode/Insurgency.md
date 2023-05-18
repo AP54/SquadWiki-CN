@@ -16,24 +16,24 @@
 
     现版本下攻守有序模式共有 11 张图层可用，单击可前往详情页。
 
-    - [Al Basrah Insurgency v1](/Map/al_basrah/#al-basrah-insurgency-v1)
+    - [Al Basrah Insurgency v1](/map/al_basrah/#al-basrah-insurgency-v1)
 
-    - [Chora Insurgency v1](/Map/chora/#chora-insurgency-v1)
+    - [Chora Insurgency v1](/map/chora/#chora-insurgency-v1)
 
-    - [Fallujah Insurgency v1](/Map/fallujah/#fallujah-insurgency-v1)
+    - [Fallujah Insurgency v1](/map/fallujah/#fallujah-insurgency-v1)
 
-    - [Gorodok Insurgency v1](/Map/gorodok/#gorodok-insurgency-v1)
+    - [Gorodok Insurgency v1](/map/gorodok/#gorodok-insurgency-v1)
 
-    - [Kamdesh Insurgency v1](/Map/kamdesh/#kamdesh-insurgency-v1)
+    - [Kamdesh Insurgency v1](/map/kamdesh/#kamdesh-insurgency-v1)
 
-    - [Kamdesh Insurgency v2](/Map/kamdesh/#kamdesh-insurgency-v2)
+    - [Kamdesh Insurgency v2](/map/kamdesh/#kamdesh-insurgency-v2)
 
-    - [Kohat Toi Insurgency v1](/Map/kohat_toi/#kohat-toi-insurgency-v1)
+    - [Kohat Toi Insurgency v1](/map/kohat_toi/#kohat-toi-insurgency-v1)
 
-    - [Kokan Insurgency v1](/Map/kokan/#kokan-insurgency-v1)
+    - [Kokan Insurgency v1](/map/kokan/#kokan-insurgency-v1)
 
-    - [Lashkar Insurgency v1](/Map/lashkar/#lashkar-insurgency-v1)
+    - [Lashkar Insurgency v1](/map/lashkar/#lashkar-insurgency-v1)
 
-    - [Logar Insurgency v1](/Map/logar/#logar-insurgency-v1)
+    - [Logar Insurgency v1](/map/logar/#logar-insurgency-v1)
 
-    - [Sumari Bala Insurgency v1](/Map/sumari_bala/#sumari-bala-insurgency-v1)
+    - [Sumari Bala Insurgency v1](/map/sumari_bala/#sumari-bala-insurgency-v1)

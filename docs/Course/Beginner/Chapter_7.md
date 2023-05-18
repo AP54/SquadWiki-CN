@@ -64,12 +64,12 @@
 
 ## 游戏模式
 
-请参阅本维基[“模式规则”](/course/beginner/Gamemode)部分，本文不再赘述。
+请参阅本维基[“模式规则”](/course/beginner/gamemode)部分，本文不再赘述。
 
 ## 另请参阅
 
-- [模式规则 - SQUAD战术小队中文维基](/Gamemode)
+- [模式规则 - SQUAD战术小队中文维基](/gamemode)
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第七章：规则和模式](https://www.bilibili.com/video/BV1cB4y1J7Hm)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第七章：规则和模式](https://www.bilibili.com/video/bv1cb4y1j7hm)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。

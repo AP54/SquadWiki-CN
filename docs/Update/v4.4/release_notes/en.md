@@ -37,7 +37,7 @@ _*See the bottom of the patch notes for more information_
 - IMF Marksman 01 – Added 1x deployable Infantry Camo Netting
 - IMF Saboteur 01 – Switched primary weapon to AKS74U with 45rnd banana mag
 - Server Tagging – Servers can now be tagged with “Rule Tags”
-- Rule tags appear on the server preview card and allow server owners to describe the rules that apply to playing on that server. Server owners can learn more about this feature here: [[URL LINK]](https://squad.fandom.com/wiki/Server_Configuration#Rule_List)
+- Rule tags appear on the server preview card and allow server owners to describe the rules that apply to playing on that server. Server owners can learn more about this feature here: [[URL LINK]](https://squad.fandom.com/wiki/server_configuration#rule_list)
 - Server Tagging – Added automatic language detection
 - The game will automatically detect your language based on your Steam settings and apply that to the quick play feature. If you have already changed your language setting in Squad, this will not impact you
 - Full servers with queues will no longer appear while using the quick play feature
@@ -158,6 +158,6 @@ HAB spawn disable range has been increased to 90 meters. When players enter the 
 - Updated mod versioning to v4.4. This should not cause any incompatibility issues.
 - Fixed an issue where pak files were not being generated properly resulting in all data being chunked into one file
 
-*The Significance Manager provides a framework for us to determine if an object is significant to you. It does this by comparing objects inside of your field of view and ranking them based on criteria we define (such as distance to you). The engine then determines the significance of the objects based on those rules and updates the tick rate of each of those objects. Previously, objects like players or vehicles that were behind you would continue to tick even if you could not see them. Objects that are not in your field of view or have been ranked to have no significance will no longer tick. We’ve already noticed some performance improvements from our current integration and we’ll continue to iterate on this system in future updates. If you want to learn more, you can read Epic’s documentation on the feature [here](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/SignificanceManager/).
+*The Significance Manager provides a framework for us to determine if an object is significant to you. It does this by comparing objects inside of your field of view and ranking them based on criteria we define (such as distance to you). The engine then determines the significance of the objects based on those rules and updates the tick rate of each of those objects. Previously, objects like players or vehicles that were behind you would continue to tick even if you could not see them. Objects that are not in your field of view or have been ranked to have no significance will no longer tick. We’ve already noticed some performance improvements from our current integration and we’ll continue to iterate on this system in future updates. If you want to learn more, you can read Epic’s documentation on the feature [here](https://docs.unrealengine.com/4.27/en-us/testingandoptimization/performanceandprofiling/significancemanager/).
 
 OFFWORLD OUT.

@@ -6,7 +6,7 @@
 
 ## 交流方式
 
-本项目主要使用 [Issues](https://github.com/AP54/SquadWiki-CN/issues) 进行交流。
+本项目主要使用 [Issues](https://github.com/ap54/squadwiki-cn/issues) 进行交流。
 
 ## 如何参与
 
@@ -44,9 +44,9 @@
 
 入驻本站后，您可以：
 
-- 在 [入驻组织](/Union/) 中添加一个自定义的页面，内容包括但不限于简介、OP/队员招募等。
+- 在 [入驻组织](/union/) 中添加一个自定义的页面，内容包括但不限于简介、OP/队员招募等。
 
-- 第一时间获取 PDF 版的 [OP 地图手册](/Map/) 等内容。
+- 第一时间获取 PDF 版的 [OP 地图手册](/map/) 等内容。
 
 - 通过本站联系战队约战。
 
