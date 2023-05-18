@@ -19,11 +19,11 @@
 
     - [Anvil AAS v2](/map/anvil/#anvil-aas-v2)
 
-    - [Al Basrah AAS v1](/map/al_basrah/#al-basrah-aas-v1)
+    - [Al Basrah AAS v1](/map/al-basrah/#al-basrah-aas-v1)
 
-    - [Al Basrah AAS v2](/map/al_basrah/#al-basrah-aas-v2)
+    - [Al Basrah AAS v2](/map/al-basrah/#al-basrah-aas-v2)
 
-    - [Al Basrah AAS v3](/map/al_basrah/#al-basrah-aas-v3)
+    - [Al Basrah AAS v3](/map/al-basrah/#al-basrah-aas-v3)
 
     - [Belaya AAS v1](/map/belaya/#belaya-aas-v1)
 
@@ -47,13 +47,13 @@
 
     - [Fallujah AAS v2](/map/fallujah/#fallujah-aas-v2)
 
-    - [Fool's Road AAS v1](/map/fools_road/#fools-road-aas-v1)
+    - [Fool's Road AAS v1](/map/fools-road/#fools-road-aas-v1)
 
-    - [Fool's Road AAS v2](/map/fools_road/#fools-road-aas-v2)
+    - [Fool's Road AAS v2](/map/fools-road/#fools-road-aas-v2)
 
-    - [Goose Bay AAS v1](/map/goose_bay/#goose-bay-aas-v1)
+    - [Goose Bay AAS v1](/map/goose-bay/#goose-bay-aas-v1)
 
-    - [Goose Bay AAS v2](/map/goose_bay/#goose-bay-aas-v2)
+    - [Goose Bay AAS v2](/map/goose-bay/#goose-bay-aas-v2)
 
     - [Gorodok AAS v1](/map/gorodok/#gorodok-aas-v1)
 
@@ -129,9 +129,9 @@
 
     - [Sumari Bala AAS v5](/map/sumari_bala/#sumari-bala-aas-v5)
 
-    - [Tallil Outskirts AAS_v1](/map/tallil_outskirts/#tallil-outskirts-aas_v1)
+    - [Tallil Outskirts AAS_v1](/map/tallil-outskirts/#tallil-outskirts-aas_v1)
 
-    - [Tallil Outskirts AAS v2](/map/tallil_outskirts/#tallil-outskirts-aas-v2)
+    - [Tallil Outskirts AAS v2](/map/tallil-outskirts/#tallil-outskirts-aas-v2)
 
     - [Yehorivka AAS v1](/map/yehorivka/#yehorivka-aas-v1)
 
@@ -141,9 +141,9 @@
 
     - [Yehorivka AAS v4](/map/yehorivka/#yehorivka-aas-v4)
 
-    - [Black Coast AAS v1](/map/black_coast/#black-coast-aas-v1)
+    - [Black Coast AAS v1](/map/black-coast/#black-coast-aas-v1)
 
-    - [Black Coast AAS v2](/map/black_coast/#black-coast-aas-v2)
+    - [Black Coast AAS v2](/map/black-coast/#black-coast-aas-v2)
 
     - [Harju AAS v1](/map/harju/#harju-aas-v1)
 

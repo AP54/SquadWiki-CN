@@ -3,7 +3,7 @@
 > 文章作者：桀氓AlbertWensley, TL
 
 <figure markdown>
-  ![Jensens_Range](/img/map_mini/jensens_range.jpg){loading=lazy}
+  ![jensens-range](/img/map_mini/jensens-range.jpg){loading=lazy}
   <figcaption>地处在沙漠机密地点中的军事训练场，该设施能为士兵提供磨炼作战技巧所需的一切。</figcaption>
 </figure>
 

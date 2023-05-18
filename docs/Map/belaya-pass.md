@@ -3,15 +3,15 @@
 > 文章作者：桀氓AlbertWensley
 
 <figure markdown>
-  ![Belaya_Pass](/img/map_mini/belaya.jpg){loading=lazy}
+  ![belaya-Pass](/img/map_mini/belaya.jpg){loading=lazy}
   <figcaption>战略性的贝拉亚山口贯穿乌拉尔山脉南部。它包含许多铁路和公路，对于工业和货物进入俄罗斯内陆的运输至关重要。通道中间的地下设施为工业铁路线提供服务，并提供理想的防御阵地。</figcaption>
 </figure>
 
 ### Belaya AAS v1
 
-切换代码： `AdminChangeLayer Belaya_AAS_v1`
+切换代码： `AdminChangeLayer belaya-AAS_v1`
 
-预设代码： `AdminSetNextLayer Belaya_AAS_v1`
+预设代码： `AdminSetNextLayer belaya-AAS_v1`
 
 光照情况： 阴天
 
@@ -42,9 +42,9 @@
 
 ### Belaya AAS v2
 
-切换代码： `AdminChangeLayer Belaya_AAS_v2`
+切换代码： `AdminChangeLayer belaya-AAS_v2`
 
-预设代码： `AdminSetNextLayer Belaya_AAS_v2`
+预设代码： `AdminSetNextLayer belaya-AAS_v2`
 
 光照情况： 正午
 
@@ -72,9 +72,9 @@
 
 ### Belaya AAS v3
 
-切换代码： `AdminChangeLayer Belaya_AAS_v3`
+切换代码： `AdminChangeLayer belaya-AAS_v3`
 
-预设代码： `AdminSetNextLayer Belaya_AAS_v3`
+预设代码： `AdminSetNextLayer belaya-AAS_v3`
 
 光照情况： 阴天
 
@@ -104,9 +104,9 @@
 
 ### Belaya Invasion v1
 
-切换代码： `AdminChangeLayer Belaya_Invasion_v1`
+切换代码： `AdminChangeLayer belaya-Invasion_v1`
 
-预设代码： `AdminSetNextLayer Belaya_Invasion_v1`
+预设代码： `AdminSetNextLayer belaya-Invasion_v1`
 
 光照情况： 正午
 
@@ -138,9 +138,9 @@
 
 ### Belaya Invasion v2
 
-切换代码： `AdminChangeLayer Belaya_Invasion_v2`
+切换代码： `AdminChangeLayer belaya-Invasion_v2`
 
-预设代码： `AdminSetNextLayer Belaya_Invasion_v2`
+预设代码： `AdminSetNextLayer belaya-Invasion_v2`
 
 光照情况： 阴天
 
@@ -171,9 +171,9 @@
 
 ### Belaya Invasion v3
 
-切换代码： `AdminChangeLayer Belaya_Invasion_v3`
+切换代码： `AdminChangeLayer belaya-Invasion_v3`
 
-预设代码： `AdminSetNextLayer Belaya_Invasion_v3`
+预设代码： `AdminSetNextLayer belaya-Invasion_v3`
 
 光照情况： 阴天
 
@@ -206,9 +206,9 @@
 
 ### Belaya RAAS v1
 
-切换代码： `AdminChangeLayer Belaya_RAAS_v1`
+切换代码： `AdminChangeLayer belaya-RAAS_v1`
 
-预设代码： `AdminSetNextLayer Belaya_RAAS_v1`
+预设代码： `AdminSetNextLayer belaya-RAAS_v1`
 
 光照情况： 阴天
 
@@ -239,9 +239,9 @@
 
 ### Belaya RAAS v2
 
-切换代码： `AdminChangeLayer Belaya_RAAS_v2`
+切换代码： `AdminChangeLayer belaya-RAAS_v2`
 
-预设代码： `AdminSetNextLayer Belaya_RAAS_v2`
+预设代码： `AdminSetNextLayer belaya-RAAS_v2`
 
 光照情况： 正午
 
@@ -274,9 +274,9 @@
 
 ### Belaya RAAS v3
 
-切换代码： `AdminChangeLayer Belaya_RAAS_v3`
+切换代码： `AdminChangeLayer belaya-RAAS_v3`
 
-预设代码： `AdminSetNextLayer Belaya_RAAS_v3`
+预设代码： `AdminSetNextLayer belaya-RAAS_v3`
 
 光照情况： 正午
 
@@ -310,9 +310,9 @@
 
 ### Belaya RAAS v4
 
-切换代码： `AdminChangeLayer Belaya_RAAS_v4`
+切换代码： `AdminChangeLayer belaya-RAAS_v4`
 
-预设代码： `AdminSetNextLayer Belaya_RAAS_v4`
+预设代码： `AdminSetNextLayer belaya-RAAS_v4`
 
 光照情况： 正午
 
@@ -346,9 +346,9 @@
 
 ### Belaya RAAS v5
 
-切换代码： `AdminChangeLayer Belaya_RAAS_v5`
+切换代码： `AdminChangeLayer belaya-RAAS_v5`
 
-预设代码： `AdminSetNextLayer Belaya_RAAS_v5`
+预设代码： `AdminSetNextLayer belaya-RAAS_v5`
 
 光照情况： 阴天
 
@@ -380,9 +380,9 @@
 
 ### Belaya Skirmish v1
 
-切换代码： `AdminChangeLayer Belaya_Skirmish_v1`
+切换代码： `AdminChangeLayer belaya-Skirmish_v1`
 
-预设代码： `AdminSetNextLayer Belaya_Skirmish_v1`
+预设代码： `AdminSetNextLayer belaya-Skirmish_v1`
 
 光照情况： 阴天
 
@@ -405,9 +405,9 @@
 
 ### Belaya TC v1
 
-切换代码： `AdminChangeLayer Belaya_TC_v1`
+切换代码： `AdminChangeLayer belaya-TC_v1`
 
-预设代码： `AdminSetNextLayer Belaya_TC_v1`
+预设代码： `AdminSetNextLayer belaya-TC_v1`
 
 光照情况： 阴天
 

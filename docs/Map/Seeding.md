@@ -14,25 +14,25 @@
 
 个人认为，使用多样化的暖服图层，可以引起玩家好奇从而进入服务器。同时，Skirmish 图层少见于国服，使用这些地图暖服同时也满足了玩家对 Squad 的探索需求。
 
-- [Albasrah_Seed_v1](/map/al_basrah/#al-basrah-seed-v1)
+- [Albasrah_Seed_v1](/map/al-basrah/#al-basrah-seed-v1)
 
-- [Albasrah_Skirmish_v1](/map/al_basrah/#al-basrah-skirmish-v1)
+- [Albasrah_Skirmish_v1](/map/al-basrah/#al-basrah-skirmish-v1)
 
-- [BlackCoast_Skirmish_v1](/map/black_coast/#black-coast-skirmish-v1)
+- [BlackCoast_Skirmish_v1](/map/black-coast/#black-coast-skirmish-v1)
 
 - [Chora_Skirmish_v1](/map/chora/#chora-skirmish-v1)
 
 - [Fallujah_Skirmish_v1](/map/fallujah/#fallujah-skirmish-v1)
 
-- [Fools_Road_Skirmish_v1](/map/fools_road/#fools-road-skirmish-v1)
+- [fools-road_Skirmish_v1](/map/fools-road/#fools-road-skirmish-v1)
 
-- [Goose_Bay_Skirmish_v1](/map/goose_bay/#goose-bay-skirmish-v1)
+- [goose-bay_Skirmish_v1](/map/goose-bay/#goose-bay-skirmish-v1)
 
 - [Kohat_Skirmish_v1](/map/kohat_toi/#kohat-toi-skirmish-v1)
 
 - [Sumari_Seed_v1](/map/sumari_bala/#sumari-bala-seed-v1)
 
-- [Tallil_Skirmish_v1](/map/tallil_outskirts/#tallil-outskirts-seed-v1)
+- [Tallil_Skirmish_v1](/map/tallil-outskirts/#tallil-outskirts-seed-v1)
 
 - [Yehorivka_Skirmish_v1](/map/yehorivka/#yehorivka-skirmish-v1)
 

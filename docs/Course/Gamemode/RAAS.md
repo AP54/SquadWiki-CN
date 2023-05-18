@@ -20,7 +20,7 @@
 
     - [Anvil RAAS v4](/map/anvil/#anvil-raas-v4)
 
-    - [Al Basrah RAAS v1](/map/al_basrah/#al-basrah-raas-v1)
+    - [Al Basrah RAAS v1](/map/al-basrah/#al-basrah-raas-v1)
 
     - [Belaya RAAS v1](/map/belaya/#belaya-raas-v1)
 
@@ -56,23 +56,23 @@
 
     - [Fallujah RAAS v7](/map/fallujah/#fallujah-raas-v7)
 
-    - [Fool's Road RAAS v1](/map/fools_road/#fools-road-raas-v1)
+    - [Fool's Road RAAS v1](/map/fools-road/#fools-road-raas-v1)
 
-    - [Fool's Road RAAS v2](/map/fools_road/#fools-road-raas-v2)
+    - [Fool's Road RAAS v2](/map/fools-road/#fools-road-raas-v2)
 
-    - [Fool's Road RAAS v3](/map/fools_road/#fools-road-raas-v3)
+    - [Fool's Road RAAS v3](/map/fools-road/#fools-road-raas-v3)
 
-    - [Fool's Road RAAS v4](/map/fools_road/#fools-road-raas-v4)
+    - [Fool's Road RAAS v4](/map/fools-road/#fools-road-raas-v4)
 
-    - [Fool's Road RAAS v5](/map/fools_road/#fools-road-raas-v5)
+    - [Fool's Road RAAS v5](/map/fools-road/#fools-road-raas-v5)
 
-    - [Goose Bay RAAS v1](/map/goose_bay/#goose-bay-raas-v1)
+    - [Goose Bay RAAS v1](/map/goose-bay/#goose-bay-raas-v1)
 
-    - [Goose Bay RAAS v2](/map/goose_bay/#goose-bay-raas-v2)
+    - [Goose Bay RAAS v2](/map/goose-bay/#goose-bay-raas-v2)
 
-    - [Goose Bay RAAS v3](/map/goose_bay/#goose-bay-raas-v3)
+    - [Goose Bay RAAS v3](/map/goose-bay/#goose-bay-raas-v3)
 
-    - [Goose Bay RAAS v4](/map/goose_bay/#goose-bay-raas-v4)
+    - [Goose Bay RAAS v4](/map/goose-bay/#goose-bay-raas-v4)
 
     - [Gorodok RAAS v1](/map/gorodok/#gorodok-raas-v1)
 
@@ -212,21 +212,21 @@
 
     - [Sumari Bala RAAS v2](/map/sumari_bala/#sumari-bala-raas-v2)
 
-    - [Tallil Outskirts RAAS v1](/map/tallil_outskirts/#tallil-outskirts-raas-v1)
+    - [Tallil Outskirts RAAS v1](/map/tallil-outskirts/#tallil-outskirts-raas-v1)
 
-    - [Tallil Outskirts RAAS v2](/map/tallil_outskirts/#tallil-outskirts-raas-v2)
+    - [Tallil Outskirts RAAS v2](/map/tallil-outskirts/#tallil-outskirts-raas-v2)
 
-    - [Tallil Outskirts RAAS v3](/map/tallil_outskirts/#tallil-outskirts-raas-v3)
+    - [Tallil Outskirts RAAS v3](/map/tallil-outskirts/#tallil-outskirts-raas-v3)
 
-    - [Tallil Outskirts RAAS v4](/map/tallil_outskirts/#tallil-outskirts-raas-v4)
+    - [Tallil Outskirts RAAS v4](/map/tallil-outskirts/#tallil-outskirts-raas-v4)
 
-    - [Tallil Outskirts RAAS v5](/map/tallil_outskirts/#tallil-outskirts-raas-v5)
+    - [Tallil Outskirts RAAS v5](/map/tallil-outskirts/#tallil-outskirts-raas-v5)
 
-    - [Tallil Outskirts RAAS v6](/map/tallil_outskirts/#tallil-outskirts-raas-v6)
+    - [Tallil Outskirts RAAS v6](/map/tallil-outskirts/#tallil-outskirts-raas-v6)
 
-    - [Tallil Outskirts RAAS v7](/map/tallil_outskirts/#tallil-outskirts-raas-v7)
+    - [Tallil Outskirts RAAS v7](/map/tallil-outskirts/#tallil-outskirts-raas-v7)
 
-    - [Tallil Outskirts RAAS v8](/map/tallil_outskirts/#tallil-outskirts-raas-v8)
+    - [Tallil Outskirts RAAS v8](/map/tallil-outskirts/#tallil-outskirts-raas-v8)
 
     - [Yehorivka RAAS v1](/map/yehorivka/#yehorivka-raas-v1)
 
@@ -256,13 +256,13 @@
 
     - [Yehorivka RAAS v14](/map/yehorivka/#yehorivka-raas-v14)
 
-    - [Black Coast RAAS v1](/map/black_coast/#black-coast-raas-v1)
+    - [Black Coast RAAS v1](/map/black-coast/#black-coast-raas-v1)
 
-    - [Black Coast RAAS v2](/map/black_coast/#black-coast-raas-v2)
+    - [Black Coast RAAS v2](/map/black-coast/#black-coast-raas-v2)
 
-    - [Black Coast RAAS v3](/map/black_coast/#black-coast-raas-v3)
+    - [Black Coast RAAS v3](/map/black-coast/#black-coast-raas-v3)
 
-    - [Black Coast RAAS v4](/map/black_coast/#black-coast-raas-v4)
+    - [Black Coast RAAS v4](/map/black-coast/#black-coast-raas-v4)
 
     - [Harju RAAS v1](/map/harju/#harju-raas-v1)
 

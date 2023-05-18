@@ -9,7 +9,7 @@
 
 遭遇战（Skirmish）是 Squad 中的一种游戏模式。
 
-遭遇战的目标与[攻守有序（AAS）](./aas)相同，都为双方队伍争夺旗点，但规模相对较小。遭遇战是在地图上的一小块规定区域进行的。例如 [Tallil Outskirts Skirmish v2](/map/tallil_outskirts#tallil-outskirts-skirmish-v2) 的整个战斗区域是 Ali 空军基地，它只是实际 Tallil Outskirts 地图的一部分。
+遭遇战的目标与[攻守有序（AAS）](./aas)相同，都为双方队伍争夺旗点，但规模相对较小。遭遇战是在地图上的一小块规定区域进行的。例如 [Tallil Outskirts Skirmish v2](/map/tallil-outskirts#tallil-outskirts-skirmish-v2) 的整个战斗区域是 Ali 空军基地，它只是实际 Tallil Outskirts 地图的一部分。
 
 初始票数远低于[攻守有序](./aas)和[随机攻守](./raas)，一般每个队伍 100 张。首次占领控制点时，该队五将获得 10 点票数。 当一个队伍占领一个敌方的控制点时，门票收益/损失为 +20 / -20。 当一支球队的票数达到 0 时，该球队输掉比赛。 
 
@@ -21,9 +21,9 @@
 
     - [Anvil Skirmish v1](/map/anvil/#anvil-skirmish-v1)
 
-    - [Al Basrah Skirmish v1](/map/al_basrah/#al-basrah-skirmish-v1)
+    - [Al Basrah Skirmish v1](/map/al-basrah/#al-basrah-skirmish-v1)
 
-    - [Al Basrah Skirmish v2](/map/al_basrah/#al-basrah-skirmish-v2)
+    - [Al Basrah Skirmish v2](/map/al-basrah/#al-basrah-skirmish-v2)
 
     - [Belaya Skirmish v1](/map/belaya/#belaya-skirmish-v1)
 
@@ -33,11 +33,11 @@
 
     - [Fallujah Skirmish v2](/map/fallujah/#fallujah-skirmish-v2)
 
-    - [Fool's Road Skirmish v1](/map/fools_road/#fools-road-skirmish-v1)
+    - [Fool's Road Skirmish v1](/map/fools-road/#fools-road-skirmish-v1)
 
-    - [Fool's Road Skirmish v2](/map/fools_road/#fools-road-skirmish-v2)
+    - [Fool's Road Skirmish v2](/map/fools-road/#fools-road-skirmish-v2)
 
-    - [Goose Bay Skirmish v1](/map/goose_bay/#goose-bay-skirmish-v1)
+    - [Goose Bay Skirmish v1](/map/goose-bay/#goose-bay-skirmish-v1)
 
     - [Gorodok Skirmish v1](/map/gorodok/#gorodok-skirmish-v1)
 
@@ -67,11 +67,11 @@
 
     - [Sumari Bala Skirmish v1](/map/sumari_bala/#sumari-bala-skirmish-v1)
 
-    - [Tallil Outskirts Skirmish v1](/map/tallil_outskirts/#tallil-outskirts-skirmish-v1)
+    - [Tallil Outskirts Skirmish v1](/map/tallil-outskirts/#tallil-outskirts-skirmish-v1)
 
-    - [Tallil Outskirts Skirmish v2](/map/tallil_outskirts/#tallil-outskirts-skirmish-v2)
+    - [Tallil Outskirts Skirmish v2](/map/tallil-outskirts/#tallil-outskirts-skirmish-v2)
 
-    - [Tallil Outskirts Skirmish v3](/map/tallil_outskirts/#tallil-outskirts-skirmish-v3)
+    - [Tallil Outskirts Skirmish v3](/map/tallil-outskirts/#tallil-outskirts-skirmish-v3)
 
     - [Yehorivka Skirmish v1](/map/yehorivka/#yehorivka-skirmish-v1)
 
@@ -79,7 +79,7 @@
 
     - [Yehorivka Skirmish v3](/map/yehorivka/#yehorivka-skirmish-v3)
 
-    - [Black Coast Skirmish v1](/map/black_coast/#black-coast-skirmish-v1)
+    - [Black Coast Skirmish v1](/map/black-coast/#black-coast-skirmish-v1)
 
     - [Harju Skirmish v1](/map/harju/#harju-skirmish-v1)
 

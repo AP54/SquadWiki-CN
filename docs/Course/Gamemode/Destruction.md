@@ -20,7 +20,7 @@
 
     现版本下摧毁模式共有 4 张图层可用，单击可前往详情页。
 
-    - [Fool's Road Destruction v1](/map/fools_road/#fools-road-destruction-v1)
+    - [Fool's Road Destruction v1](/map/fools-road/#fools-road-destruction-v1)
 
     - [Gorodok Destruction v1](/map/gorodok/#gorodok-destruction-v1)
     

@@ -16,7 +16,7 @@
 
     现版本下攻守有序模式共有 11 张图层可用，单击可前往详情页。
 
-    - [Al Basrah Insurgency v1](/map/al_basrah/#al-basrah-insurgency-v1)
+    - [Al Basrah Insurgency v1](/map/al-basrah/#al-basrah-insurgency-v1)
 
     - [Chora Insurgency v1](/map/chora/#chora-insurgency-v1)
 

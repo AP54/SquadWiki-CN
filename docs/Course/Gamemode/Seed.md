@@ -23,7 +23,7 @@ x 默认值为50，可在配置文件中修改。
 
     现版本下暖服模式共有 10 张图层可用，单击可前往详情页。
 
-    - [Al Basrah Seed v1](/map/al_basrah/#al-basrah-seed-v1)
+    - [Al Basrah Seed v1](/map/al-basrah/#al-basrah-seed-v1)
 
     - [Fallujah Seed v1](/map/fallujah/#fallujah-seed-v1)
     
@@ -39,10 +39,10 @@ x 默认值为50，可在配置文件中修改。
     
     - [Sumari Bala Seed v3](/map/sumari_bala/#sumari-bala-seed-v3)
     
-    - [Tallil Outskirts Seed v1](/map/tallil_outskirts/#tallil-outskirts-seed-v1)
+    - [Tallil Outskirts Seed v1](/map/tallil-outskirts/#tallil-outskirts-seed-v1)
     
-    - [Tallil Outskirts Seed v2](/map/tallil_outskirts/#tallil-outskirts-seed-v2)
+    - [Tallil Outskirts Seed v2](/map/tallil-outskirts/#tallil-outskirts-seed-v2)
     
-    - [Black Coast Seed v1](/map/black_coast/#black-coast-seed-v1)
+    - [Black Coast Seed v1](/map/black-coast/#black-coast-seed-v1)
     
     - [Harju Seed v1](/map/harju/#harju-seed-v1)

@@ -36,11 +36,11 @@
 
 - [Anvil AAS v2](/map/anvil/#anvil-aas-v2)
 
-- [Al Basrah AAS v1](/map/al_basrah/#al-basrah-aas-v1)
+- [Al Basrah AAS v1](/map/al-basrah/#al-basrah-aas-v1)
 
-- [Al Basrah AAS v2](/map/al_basrah/#al-basrah-aas-v2)
+- [Al Basrah AAS v2](/map/al-basrah/#al-basrah-aas-v2)
 
-- [Al Basrah AAS v3](/map/al_basrah/#al-basrah-aas-v3)
+- [Al Basrah AAS v3](/map/al-basrah/#al-basrah-aas-v3)
 
 - [Belaya AAS v1](/map/belaya/#belaya-aas-v1)
 
@@ -64,13 +64,13 @@
 
 - [Fallujah AAS v2](/map/fallujah/#fallujah-aas-v2)
 
-- [Fool's Road AAS v1](/map/fools_road/#fools-road-aas-v1)
+- [Fool's Road AAS v1](/map/fools-road/#fools-road-aas-v1)
 
-- [Fool's Road AAS v2](/map/fools_road/#fools-road-aas-v2)
+- [Fool's Road AAS v2](/map/fools-road/#fools-road-aas-v2)
 
-- [Goose Bay AAS v1](/map/goose_bay/#goose-bay-aas-v1)
+- [Goose Bay AAS v1](/map/goose-bay/#goose-bay-aas-v1)
 
-- [Goose Bay AAS v2](/map/goose_bay/#goose-bay-aas-v2)
+- [Goose Bay AAS v2](/map/goose-bay/#goose-bay-aas-v2)
 
 - [Gorodok AAS v1](/map/gorodok/#gorodok-aas-v1)
 
@@ -146,9 +146,9 @@
 
 - [Sumari Bala AAS v5](/map/sumari_bala/#sumari-bala-aas-v5)
 
-- [Tallil Outskirts AAS_v1](/map/tallil_outskirts/#tallil-outskirts-aas_v1)
+- [Tallil Outskirts AAS_v1](/map/tallil-outskirts/#tallil-outskirts-aas_v1)
 
-- [Tallil Outskirts AAS v2](/map/tallil_outskirts/#tallil-outskirts-aas-v2)
+- [Tallil Outskirts AAS v2](/map/tallil-outskirts/#tallil-outskirts-aas-v2)
 
 - [Yehorivka AAS v1](/map/yehorivka/#yehorivka-aas-v1)
 
@@ -158,9 +158,9 @@
 
 - [Yehorivka AAS v4](/map/yehorivka/#yehorivka-aas-v4)
 
-- [Black Coast AAS v1](/map/black_coast/#black-coast-aas-v1)
+- [Black Coast AAS v1](/map/black-coast/#black-coast-aas-v1)
 
-- [Black Coast AAS v2](/map/black_coast/#black-coast-aas-v2)
+- [Black Coast AAS v2](/map/black-coast/#black-coast-aas-v2)
 
 - [Harju AAS v1](/map/harju/#harju-aas-v1)
 
@@ -173,7 +173,7 @@
 
 共 4 个图层。
 
-- [Fool's Road Destruction v1](/map/fools_road/#fools-road-destruction-v1)
+- [Fool's Road Destruction v1](/map/fools-road/#fools-road-destruction-v1)
 
 - [Gorodok Destruction v1](/map/gorodok/#gorodok-destruction-v1)
 
@@ -186,7 +186,7 @@
 
 共 11 个图册。
 
-- [Al Basrah Insurgency v1](/map/al_basrah/#al-basrah-insurgency-v1)
+- [Al Basrah Insurgency v1](/map/al-basrah/#al-basrah-insurgency-v1)
 
 - [Chora Insurgency v1](/map/chora/#chora-insurgency-v1)
 
@@ -217,21 +217,21 @@
 
 - [Anvil Invasion v2](/map/anvil/#anvil-invasion-v2)
 
-- [Al Basrah Invasion v1](/map/al_basrah/#al-basrah-invasion-v1)
+- [Al Basrah Invasion v1](/map/al-basrah/#al-basrah-invasion-v1)
 
-- [Al Basrah Invasion v2](/map/al_basrah/#al-basrah-invasion-v2)
+- [Al Basrah Invasion v2](/map/al-basrah/#al-basrah-invasion-v2)
 
-- [Al Basrah Invasion v3](/map/al_basrah/#al-basrah-invasion-v3)
+- [Al Basrah Invasion v3](/map/al-basrah/#al-basrah-invasion-v3)
 
-- [Al Basrah Invasion v4](/map/al_basrah/#al-basrah-invasion-v4)
+- [Al Basrah Invasion v4](/map/al-basrah/#al-basrah-invasion-v4)
 
-- [Al Basrah Invasion v5](/map/al_basrah/#al-basrah-invasion-v5)
+- [Al Basrah Invasion v5](/map/al-basrah/#al-basrah-invasion-v5)
 
-- [Al Basrah Invasion v6](/map/al_basrah/#al-basrah-invasion-v6)
+- [Al Basrah Invasion v6](/map/al-basrah/#al-basrah-invasion-v6)
 
-- [Al Basrah Invasion v7](/map/al_basrah/#al-basrah-invasion-v7)
+- [Al Basrah Invasion v7](/map/al-basrah/#al-basrah-invasion-v7)
 
-- [Al Basrah Invasion v8](/map/al_basrah/#al-basrah-invasion-v8)
+- [Al Basrah Invasion v8](/map/al-basrah/#al-basrah-invasion-v8)
 
 - [Belaya Invasion v1](/map/belaya/#belaya-invasion-v1)
 
@@ -255,17 +255,17 @@
 
 - [Fallujah Invasion v6](/map/fallujah/#fallujah-invasion-v6)
 
-- [Fool's Road Invasion v1](/map/fools_road/#fools-road-invasion-v1)
+- [Fool's Road Invasion v1](/map/fools-road/#fools-road-invasion-v1)
 
-- [Goose Bay Invasion v1](/map/goose_bay/#goose-bay-invasion-v1)
+- [Goose Bay Invasion v1](/map/goose-bay/#goose-bay-invasion-v1)
 
-- [Goose Bay Invasion v2](/map/goose_bay/#goose-bay-invasion-v2)
+- [Goose Bay Invasion v2](/map/goose-bay/#goose-bay-invasion-v2)
 
-- [Goose Bay Invasion v3](/map/goose_bay/#goose-bay-invasion-v3)
+- [Goose Bay Invasion v3](/map/goose-bay/#goose-bay-invasion-v3)
 
-- [Goose Bay Invasion v4](/map/goose_bay/#goose-bay-invasion-v4)
+- [Goose Bay Invasion v4](/map/goose-bay/#goose-bay-invasion-v4)
 
-- [Goose Bay Invasion v5](/map/goose_bay/#goose-bay-invasion-v5)
+- [Goose Bay Invasion v5](/map/goose-bay/#goose-bay-invasion-v5)
 
 - [Gorodok Invasion v1](/map/gorodok/#gorodok-invasion-v1)
 
@@ -351,15 +351,15 @@
 
 - [Sumari Bala Invasion v1](/map/sumari_bala/#sumari-bala-invasion-v1)
 
-- [Tallil Outskirts Invasion v1](/map/tallil_outskirts/#tallil-outskirts-invasion-v1)
+- [Tallil Outskirts Invasion v1](/map/tallil-outskirts/#tallil-outskirts-invasion-v1)
 
-- [Tallil Outskirts Invasion v2](/map/tallil_outskirts/#tallil-outskirts-invasion-v2)
+- [Tallil Outskirts Invasion v2](/map/tallil-outskirts/#tallil-outskirts-invasion-v2)
 
-- [Tallil Outskirts Invasion v3](/map/tallil_outskirts/#tallil-outskirts-invasion-v3)
+- [Tallil Outskirts Invasion v3](/map/tallil-outskirts/#tallil-outskirts-invasion-v3)
 
-- [Tallil Outskirts Invasion v4](/map/tallil_outskirts/#tallil-outskirts-invasion-v4)
+- [Tallil Outskirts Invasion v4](/map/tallil-outskirts/#tallil-outskirts-invasion-v4)
 
-- [Tallil Outskirts Invasion v5](/map/tallil_outskirts/#tallil-outskirts-invasion-v5)
+- [Tallil Outskirts Invasion v5](/map/tallil-outskirts/#tallil-outskirts-invasion-v5)
 
 - [Yehorivka Invasion v1](/map/yehorivka/#yehorivka-invasion-v1)
 
@@ -367,13 +367,13 @@
 
 - [Yehorivka Invasion v3](/map/yehorivka/#yehorivka-invasion-v3)
 
-- [Black Coast Invasion v1](/map/black_coast/#black-coast-invasion-v1)
+- [Black Coast Invasion v1](/map/black-coast/#black-coast-invasion-v1)
 
-- [Black Coast Invasion v2](/map/black_coast/#black-coast-invasion-v2)
+- [Black Coast Invasion v2](/map/black-coast/#black-coast-invasion-v2)
 
-- [Black Coast Invasion v3](/map/black_coast/#black-coast-invasion-v3)
+- [Black Coast Invasion v3](/map/black-coast/#black-coast-invasion-v3)
 
-- [Black Coast Invasion v4](/map/black_coast/#black-coast-invasion-v4)
+- [Black Coast Invasion v4](/map/black-coast/#black-coast-invasion-v4)
 
 - [Harju Invasion v1](/map/harju/#harju-invasion-v1)
 
@@ -398,7 +398,7 @@
 
 - [Anvil RAAS v4](/map/anvil/#anvil-raas-v4)
 
-- [Al Basrah RAAS v1](/map/al_basrah/#al-basrah-raas-v1)
+- [Al Basrah RAAS v1](/map/al-basrah/#al-basrah-raas-v1)
 
 - [Belaya RAAS v1](/map/belaya/#belaya-raas-v1)
 
@@ -434,23 +434,23 @@
 
 - [Fallujah RAAS v7](/map/fallujah/#fallujah-raas-v7)
 
-- [Fool's Road RAAS v1](/map/fools_road/#fools-road-raas-v1)
+- [Fool's Road RAAS v1](/map/fools-road/#fools-road-raas-v1)
 
-- [Fool's Road RAAS v2](/map/fools_road/#fools-road-raas-v2)
+- [Fool's Road RAAS v2](/map/fools-road/#fools-road-raas-v2)
 
-- [Fool's Road RAAS v3](/map/fools_road/#fools-road-raas-v3)
+- [Fool's Road RAAS v3](/map/fools-road/#fools-road-raas-v3)
 
-- [Fool's Road RAAS v4](/map/fools_road/#fools-road-raas-v4)
+- [Fool's Road RAAS v4](/map/fools-road/#fools-road-raas-v4)
 
-- [Fool's Road RAAS v5](/map/fools_road/#fools-road-raas-v5)
+- [Fool's Road RAAS v5](/map/fools-road/#fools-road-raas-v5)
 
-- [Goose Bay RAAS v1](/map/goose_bay/#goose-bay-raas-v1)
+- [Goose Bay RAAS v1](/map/goose-bay/#goose-bay-raas-v1)
 
-- [Goose Bay RAAS v2](/map/goose_bay/#goose-bay-raas-v2)
+- [Goose Bay RAAS v2](/map/goose-bay/#goose-bay-raas-v2)
 
-- [Goose Bay RAAS v3](/map/goose_bay/#goose-bay-raas-v3)
+- [Goose Bay RAAS v3](/map/goose-bay/#goose-bay-raas-v3)
 
-- [Goose Bay RAAS v4](/map/goose_bay/#goose-bay-raas-v4)
+- [Goose Bay RAAS v4](/map/goose-bay/#goose-bay-raas-v4)
 
 - [Gorodok RAAS v1](/map/gorodok/#gorodok-raas-v1)
 
@@ -594,21 +594,21 @@
 
 - [Sumari Bala RAAS v2](/map/sumari_bala/#sumari-bala-raas-v2)
 
-- [Tallil Outskirts RAAS v1](/map/tallil_outskirts/#tallil-outskirts-raas-v1)
+- [Tallil Outskirts RAAS v1](/map/tallil-outskirts/#tallil-outskirts-raas-v1)
 
-- [Tallil Outskirts RAAS v2](/map/tallil_outskirts/#tallil-outskirts-raas-v2)
+- [Tallil Outskirts RAAS v2](/map/tallil-outskirts/#tallil-outskirts-raas-v2)
 
-- [Tallil Outskirts RAAS v3](/map/tallil_outskirts/#tallil-outskirts-raas-v3)
+- [Tallil Outskirts RAAS v3](/map/tallil-outskirts/#tallil-outskirts-raas-v3)
 
-- [Tallil Outskirts RAAS v4](/map/tallil_outskirts/#tallil-outskirts-raas-v4)
+- [Tallil Outskirts RAAS v4](/map/tallil-outskirts/#tallil-outskirts-raas-v4)
 
-- [Tallil Outskirts RAAS v5](/map/tallil_outskirts/#tallil-outskirts-raas-v5)
+- [Tallil Outskirts RAAS v5](/map/tallil-outskirts/#tallil-outskirts-raas-v5)
 
-- [Tallil Outskirts RAAS v6](/map/tallil_outskirts/#tallil-outskirts-raas-v6)
+- [Tallil Outskirts RAAS v6](/map/tallil-outskirts/#tallil-outskirts-raas-v6)
 
-- [Tallil Outskirts RAAS v7](/map/tallil_outskirts/#tallil-outskirts-raas-v7)
+- [Tallil Outskirts RAAS v7](/map/tallil-outskirts/#tallil-outskirts-raas-v7)
 
-- [Tallil Outskirts RAAS v8](/map/tallil_outskirts/#tallil-outskirts-raas-v8)
+- [Tallil Outskirts RAAS v8](/map/tallil-outskirts/#tallil-outskirts-raas-v8)
 
 - [Yehorivka RAAS v1](/map/yehorivka/#yehorivka-raas-v1)
 
@@ -638,13 +638,13 @@
 
 - [Yehorivka RAAS v14](/map/yehorivka/#yehorivka-raas-v14)
 
-- [Black Coast RAAS v1](/map/black_coast/#black-coast-raas-v1)
+- [Black Coast RAAS v1](/map/black-coast/#black-coast-raas-v1)
 
-- [Black Coast RAAS v2](/map/black_coast/#black-coast-raas-v2)
+- [Black Coast RAAS v2](/map/black-coast/#black-coast-raas-v2)
 
-- [Black Coast RAAS v3](/map/black_coast/#black-coast-raas-v3)
+- [Black Coast RAAS v3](/map/black-coast/#black-coast-raas-v3)
 
-- [Black Coast RAAS v4](/map/black_coast/#black-coast-raas-v4)
+- [Black Coast RAAS v4](/map/black-coast/#black-coast-raas-v4)
 
 - [Harju RAAS v1](/map/harju/#harju-raas-v1)
 
@@ -663,11 +663,11 @@
 
 共 13 个图层。
 
-- [Al Basrah Seed v1](/map/al_basrah/#al-basrah-seed-v1)
+- [Al Basrah Seed v1](/map/al-basrah/#al-basrah-seed-v1)
 
 - [Fallujah Seed v1](/map/fallujah/#fallujah-seed-v1)
 
-- [Goose Bay Seed v1](/map/goose_bay/#goose-bay-seed-v1)
+- [Goose Bay Seed v1](/map/goose-bay/#goose-bay-seed-v1)
 
 - [Logar Seed v1](/map/logar/#logar-seed-v1)
 
@@ -681,11 +681,11 @@
 
 - [Sumari Bala Seed v3](/map/sumari_bala/#sumari-bala-seed-v3)
 
-- [Tallil Outskirts Seed v1](/map/tallil_outskirts/#tallil-outskirts-seed-v1)
+- [Tallil Outskirts Seed v1](/map/tallil-outskirts/#tallil-outskirts-seed-v1)
 
-- [Tallil Outskirts Seed v2](/map/tallil_outskirts/#tallil-outskirts-seed-v2)
+- [Tallil Outskirts Seed v2](/map/tallil-outskirts/#tallil-outskirts-seed-v2)
 
-- [Black Coast Seed v1](/map/black_coast/#black-coast-seed-v1)
+- [Black Coast Seed v1](/map/black-coast/#black-coast-seed-v1)
 
 - [Harju Seed v1](/map/harju/#harju-seed-v1)
 
@@ -696,9 +696,9 @@
 
 - [Anvil Skirmish v1](/map/anvil/#anvil-skirmish-v1)
 
-- [Al Basrah Skirmish v1](/map/al_basrah/#al-basrah-skirmish-v1)
+- [Al Basrah Skirmish v1](/map/al-basrah/#al-basrah-skirmish-v1)
 
-- [Al Basrah Skirmish v2](/map/al_basrah/#al-basrah-skirmish-v2)
+- [Al Basrah Skirmish v2](/map/al-basrah/#al-basrah-skirmish-v2)
 
 - [Belaya Skirmish v1](/map/belaya/#belaya-skirmish-v1)
 
@@ -708,11 +708,11 @@
 
 - [Fallujah Skirmish v2](/map/fallujah/#fallujah-skirmish-v2)
 
-- [Fool's Road Skirmish v1](/map/fools_road/#fools-road-skirmish-v1)
+- [Fool's Road Skirmish v1](/map/fools-road/#fools-road-skirmish-v1)
 
-- [Fool's Road Skirmish v2](/map/fools_road/#fools-road-skirmish-v2)
+- [Fool's Road Skirmish v2](/map/fools-road/#fools-road-skirmish-v2)
 
-- [Goose Bay Skirmish v1](/map/goose_bay/#goose-bay-skirmish-v1)
+- [Goose Bay Skirmish v1](/map/goose-bay/#goose-bay-skirmish-v1)
 
 - [Gorodok Skirmish v1](/map/gorodok/#gorodok-skirmish-v1)
 
@@ -742,11 +742,11 @@
 
 - [Sumari Bala Skirmish v1](/map/sumari_bala/#sumari-bala-skirmish-v1)
 
-- [Tallil Outskirts Skirmish v1](/map/tallil_outskirts/#tallil-outskirts-skirmish-v1)
+- [Tallil Outskirts Skirmish v1](/map/tallil-outskirts/#tallil-outskirts-skirmish-v1)
 
-- [Tallil Outskirts Skirmish v2](/map/tallil_outskirts/#tallil-outskirts-skirmish-v2)
+- [Tallil Outskirts Skirmish v2](/map/tallil-outskirts/#tallil-outskirts-skirmish-v2)
 
-- [Tallil Outskirts Skirmish v3](/map/tallil_outskirts/#tallil-outskirts-skirmish-v3)
+- [Tallil Outskirts Skirmish v3](/map/tallil-outskirts/#tallil-outskirts-skirmish-v3)
 
 - [Yehorivka Skirmish v1](/map/yehorivka/#yehorivka-skirmish-v1)
 
@@ -754,7 +754,7 @@
 
 - [Yehorivka Skirmish v3](/map/yehorivka/#yehorivka-skirmish-v3)
 
-- [Black Coast Skirmish v1](/map/black_coast/#black-coast-skirmish-v1)
+- [Black Coast Skirmish v1](/map/black-coast/#black-coast-skirmish-v1)
 
 - [Harju Skirmish v1](/map/harju/#harju-skirmish-v1)
 
@@ -765,11 +765,11 @@
 
 共 4 个图层。
 
-- [Al Basrah TA v1](/map/al_basrah/#al-basrah-ta-v1)
+- [Al Basrah TA v1](/map/al-basrah/#al-basrah-ta-v1)
 
 - [Narva TA v1](/map/narva/#narva-ta-v1)
 
-- [Tallil Outskirts TA v1](/map/tallil_outskirts/#tallil-outskirts-ta-v1)
+- [Tallil Outskirts TA v1](/map/tallil-outskirts/#tallil-outskirts-ta-v1)
 
 - [Yehorivka TA v1](/map/yehorivka/#yehorivka-ta-v1)
 
@@ -780,9 +780,9 @@
 
 - [Mutaha Tanks v1](/map/mutaha/#mutaha-tanks-v1)
 
-- [Tallil Outskirts Tanks v1](/map/tallil_outskirts/#tallil-outskirts-tanks-v1)
+- [Tallil Outskirts Tanks v1](/map/tallil-outskirts/#tallil-outskirts-tanks-v1)
 
-- [Tallil Outskirts Tanks v2](/map/tallil_outskirts/#tallil-outskirts-tanks-v2)
+- [Tallil Outskirts Tanks v2](/map/tallil-outskirts/#tallil-outskirts-tanks-v2)
 
 
 ## TC | 领土控制
@@ -791,9 +791,9 @@
 
 - [Anvil TC v1](/map/anvil/#anvil-tc-v1)
 
-- [Al Basrah TC v1](/map/al_basrah/#al-basrah-tc-v1)
+- [Al Basrah TC v1](/map/al-basrah/#al-basrah-tc-v1)
 
-- [Al Basrah TC v2](/map/al_basrah/#al-basrah-tc-v2)
+- [Al Basrah TC v2](/map/al-basrah/#al-basrah-tc-v2)
 
 - [Belaya TC v1](/map/belaya/#belaya-tc-v1)
 
@@ -803,7 +803,7 @@
 
 - [Fallujah TC v2](/map/fallujah/#fallujah-tc-v2)
 
-- [Fool's Road TC v1](/map/fools_road/#fools-road-tc-v1)
+- [Fool's Road TC v1](/map/fools-road/#fools-road-tc-v1)
 
 - [Gorodok TC v1](/map/gorodok/#gorodok-tc-v1)
 
@@ -851,7 +851,7 @@
 
 - [Sumari Bala TC v1](/map/sumari_bala/#sumari-bala-tc-v1)
 
-- [Tallil Outskirts TC v1](/map/tallil_outskirts/#tallil-outskirts-tc-v1)
+- [Tallil Outskirts TC v1](/map/tallil-outskirts/#tallil-outskirts-tc-v1)
 
 - [Yehorivka TC v1](/map/yehorivka/#yehorivka-tc-v1)
 

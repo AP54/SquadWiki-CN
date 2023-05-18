@@ -20,21 +20,21 @@
 
     - [Anvil Invasion v2](/map/anvil/#anvil-invasion-v2)
 
-    - [Al Basrah Invasion v1](/map/al_basrah/#al-basrah-invasion-v1)
+    - [Al Basrah Invasion v1](/map/al-basrah/#al-basrah-invasion-v1)
 
-    - [Al Basrah Invasion v2](/map/al_basrah/#al-basrah-invasion-v2)
+    - [Al Basrah Invasion v2](/map/al-basrah/#al-basrah-invasion-v2)
 
-    - [Al Basrah Invasion v3](/map/al_basrah/#al-basrah-invasion-v3)
+    - [Al Basrah Invasion v3](/map/al-basrah/#al-basrah-invasion-v3)
 
-    - [Al Basrah Invasion v4](/map/al_basrah/#al-basrah-invasion-v4)
+    - [Al Basrah Invasion v4](/map/al-basrah/#al-basrah-invasion-v4)
 
-    - [Al Basrah Invasion v5](/map/al_basrah/#al-basrah-invasion-v5)
+    - [Al Basrah Invasion v5](/map/al-basrah/#al-basrah-invasion-v5)
 
-    - [Al Basrah Invasion v6](/map/al_basrah/#al-basrah-invasion-v6)
+    - [Al Basrah Invasion v6](/map/al-basrah/#al-basrah-invasion-v6)
 
-    - [Al Basrah Invasion v7](/map/al_basrah/#al-basrah-invasion-v7)
+    - [Al Basrah Invasion v7](/map/al-basrah/#al-basrah-invasion-v7)
 
-    - [Al Basrah Invasion v8](/map/al_basrah/#al-basrah-invasion-v8)
+    - [Al Basrah Invasion v8](/map/al-basrah/#al-basrah-invasion-v8)
 
     - [Belaya Invasion v1](/map/belaya/#belaya-invasion-v1)
 
@@ -58,17 +58,17 @@
 
     - [Fallujah Invasion v6](/map/fallujah/#fallujah-invasion-v6)
 
-    - [Fool's Road Invasion v1](/map/fools_road/#fools-road-invasion-v1)
+    - [Fool's Road Invasion v1](/map/fools-road/#fools-road-invasion-v1)
 
-    - [Goose Bay Invasion v1](/map/goose_bay/#goose-bay-invasion-v1)
+    - [Goose Bay Invasion v1](/map/goose-bay/#goose-bay-invasion-v1)
 
-    - [Goose Bay Invasion v2](/map/goose_bay/#goose-bay-invasion-v2)
+    - [Goose Bay Invasion v2](/map/goose-bay/#goose-bay-invasion-v2)
 
-    - [Goose Bay Invasion v3](/map/goose_bay/#goose-bay-invasion-v3)
+    - [Goose Bay Invasion v3](/map/goose-bay/#goose-bay-invasion-v3)
 
-    - [Goose Bay Invasion v4](/map/goose_bay/#goose-bay-invasion-v4)
+    - [Goose Bay Invasion v4](/map/goose-bay/#goose-bay-invasion-v4)
 
-    - [Goose Bay Invasion v5](/map/goose_bay/#goose-bay-invasion-v5)
+    - [Goose Bay Invasion v5](/map/goose-bay/#goose-bay-invasion-v5)
 
     - [Gorodok Invasion v1](/map/gorodok/#gorodok-invasion-v1)
 
@@ -154,15 +154,15 @@
 
     - [Sumari Bala Invasion v1](/map/sumari_bala/#sumari-bala-invasion-v1)
 
-    - [Tallil Outskirts Invasion v1](/map/tallil_outskirts/#tallil-outskirts-invasion-v1)
+    - [Tallil Outskirts Invasion v1](/map/tallil-outskirts/#tallil-outskirts-invasion-v1)
 
-    - [Tallil Outskirts Invasion v2](/map/tallil_outskirts/#tallil-outskirts-invasion-v2)
+    - [Tallil Outskirts Invasion v2](/map/tallil-outskirts/#tallil-outskirts-invasion-v2)
 
-    - [Tallil Outskirts Invasion v3](/map/tallil_outskirts/#tallil-outskirts-invasion-v3)
+    - [Tallil Outskirts Invasion v3](/map/tallil-outskirts/#tallil-outskirts-invasion-v3)
 
-    - [Tallil Outskirts Invasion v4](/map/tallil_outskirts/#tallil-outskirts-invasion-v4)
+    - [Tallil Outskirts Invasion v4](/map/tallil-outskirts/#tallil-outskirts-invasion-v4)
 
-    - [Tallil Outskirts Invasion v5](/map/tallil_outskirts/#tallil-outskirts-invasion-v5)
+    - [Tallil Outskirts Invasion v5](/map/tallil-outskirts/#tallil-outskirts-invasion-v5)
 
     - [Yehorivka Invasion v1](/map/yehorivka/#yehorivka-invasion-v1)
 
@@ -170,13 +170,13 @@
 
     - [Yehorivka Invasion v3](/map/yehorivka/#yehorivka-invasion-v3)
 
-    - [Black Coast Invasion v1](/map/black_coast/#black-coast-invasion-v1)
+    - [Black Coast Invasion v1](/map/black-coast/#black-coast-invasion-v1)
 
-    - [Black Coast Invasion v2](/map/black_coast/#black-coast-invasion-v2)
+    - [Black Coast Invasion v2](/map/black-coast/#black-coast-invasion-v2)
 
-    - [Black Coast Invasion v3](/map/black_coast/#black-coast-invasion-v3)
+    - [Black Coast Invasion v3](/map/black-coast/#black-coast-invasion-v3)
 
-    - [Black Coast Invasion v4](/map/black_coast/#black-coast-invasion-v4)
+    - [Black Coast Invasion v4](/map/black-coast/#black-coast-invasion-v4)
 
     - [Harju Invasion v1](/map/harju/#harju-invasion-v1)
 

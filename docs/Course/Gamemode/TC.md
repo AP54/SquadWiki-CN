@@ -28,9 +28,9 @@
 
     - [Anvil TC v1](/map/anvil/#anvil-tc-v1)
 
-    - [Al Basrah TC v1](/map/al_basrah/#al-basrah-tc-v1)
+    - [Al Basrah TC v1](/map/al-basrah/#al-basrah-tc-v1)
 
-    - [Al Basrah TC v2](/map/al_basrah/#al-basrah-tc-v2)
+    - [Al Basrah TC v2](/map/al-basrah/#al-basrah-tc-v2)
 
     - [Belaya TC v1](/map/belaya/#belaya-tc-v1)
 
@@ -40,7 +40,7 @@
 
     - [Fallujah TC v2](/map/fallujah/#fallujah-tc-v2)
 
-    - [Fool's Road TC v1](/map/fools_road/#fools-road-tc-v1)
+    - [Fool's Road TC v1](/map/fools-road/#fools-road-tc-v1)
 
     - [Gorodok TC v1](/map/gorodok/#gorodok-tc-v1)
 
@@ -88,7 +88,7 @@
 
     - [Sumari Bala TC v1](/map/sumari_bala/#sumari-bala-tc-v1)
 
-    - [Tallil Outskirts TC v1](/map/tallil_outskirts/#tallil-outskirts-tc-v1)
+    - [Tallil Outskirts TC v1](/map/tallil-outskirts/#tallil-outskirts-tc-v1)
 
     - [Yehorivka TC v1](/map/yehorivka/#yehorivka-tc-v1)
 

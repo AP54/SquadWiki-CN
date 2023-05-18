@@ -446,31 +446,31 @@ Yehorivka TC v2
 
 # v1.0 加拿大DLC
 
-CAF_Al_Basrah_Invasion_v1
-CAF_Al_Basrah_Invasion_v2
-CAF_Belaya_AAS_v1
-CAF_Belaya_RAAS_v1
-CAF_Belaya_RAAS_v2
+CAF_al-basrah_Invasion_v1
+CAF_al-basrah_Invasion_v2
+CAF_belaya-AAS_v1
+CAF_belaya-RAAS_v1
+CAF_belaya-RAAS_v2
 CAF_Chora_AAS_v1
 CAF_Chora_RAAS_v1
 CAF_Fallujah_Invasion_v1
 CAF_Fallujah_RAAS_v1
-CAF_Fools_Road_RAAS_v1
+CAF_fools-road_RAAS_v1
 CAF_Gorodok_AAS_v1
 CAF_Gorodok_Invasion_v1
 CAF_Gorodok_RAAS_v1
 CAF_Gorodok_RAAS_v2
 CAF_Gorodok_TC_v1
-CAF_Jensens_Range_v4
+CAF_jensens-range_v4
 CAF_Kamdesh_Invasion_v1
 CAF_Kamdesh_RAAS_v1
 CAF_Kamdesh_TC_v1
 CAF_Kohat_Invasion_v1
 CAF_Kokan_RAAS_v1
-CAF_Lashkar_Valley_Invasion_v1
-CAF_Lashkar_Valley_RAAS_v1
-CAF_Lashkar_Valley_TC_v1
-CAF_Logar_Valley_RAAS_v1
+CAF_lashkar-valley_Invasion_v1
+CAF_lashkar-valley_RAAS_v1
+CAF_lashkar-valley_TC_v1
+CAF_logar-valley_RAAS_v1
 CAF_Manic-5_AAS_v1
 CAF_Manic-5_AAS_v2
 CAF_Manic-5_Invasion_v1
