@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <style>
+        .swiper {
+            width: 720px;
+            height: 480px;
+        }
+    </style>
+</head>
+<body>
+<section>
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="Space.png"></div>
+            <div class="swiper-slide"><img src="Space2.png"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-scrollbar"></div>
+    </div>
+</section>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+    var mySwiper = new Swiper ('.swiper', {
+        direction: 'horizontal', // 水平切换选项
+        effect: 'fade',
+        loop: true, // 循环模式选项
+        preventClicks:false,
+        speed:1000,
+        centeredSlides:true,
+        autoplay:{
+          delay:5000,
+            pauseOnMouseEnter:true,
+            disableOnInteraction:false,
+        },
+        grid:{
+
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable:true
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    })
+</script>
+</body>
+</html>
