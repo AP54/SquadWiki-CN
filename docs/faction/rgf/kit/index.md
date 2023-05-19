@@ -89,16 +89,16 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-        === "Medic 02"
+    === "Medic 02"
 
-            - AK-74M + 1P78, 6 mags
-            - MP443 Grach, 2 mags
-            - AK74 Bayonet 
-            - RDG2 White Smoke, 2 grenades
-            - RDG2 Orange Smoke, 2grenades
-            - Field Dressing, 9 packages
-            - Medical Kit
-            - MPL50 Spade
+        - AK-74M + 1P78, 6 mags
+        - MP443 Grach, 2 mags
+        - AK74 Bayonet 
+        - RDG2 White Smoke, 2 grenades
+        - RDG2 Orange Smoke, 2grenades
+        - Field Dressing, 9 packages
+        - Medical Kit
+        - MPL50 Spade
 
 ### Crewman
 

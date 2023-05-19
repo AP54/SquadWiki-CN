@@ -48,8 +48,12 @@ nav:
     - "[INS]反叛军":
       - "派系概览": "./faction/ins/index.md"
       - "兵种配置": "./faction/ins/kit/index.md"
-    - "[MEA]中东联盟": "./faction/mea/index.md"
-    - "[PLA]中国人民解放军": "./faction/pla/index.md"
+    - "[MEA]中东联盟":
+      - "派系概览": "./faction/mea/index.md"
+      - "兵种配置": "./faction/mea/kit/index.md"
+    - "[PLA]中国人民解放军":
+      - "派系概览": "./faction/pla/index.md"
+      - "兵种配置": "./faction/pla/kit/index.md"
     - "[RGF]俄罗斯陆军":
       - "派系概览": "./faction/rgf/index.md"
       - "兵种配置": "./faction/rgf/kit/index.md"

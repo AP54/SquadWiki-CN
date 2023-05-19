@@ -23,6 +23,8 @@
 
 - [=R.S.T=TCP SYN FLOOD](https://steamcommunity.com/profiles/76561199105440267)
 
+- [SakuraLove](https://steamcommunity.com/profiles/76561199064203131)
+
 - [阿言](https://steamcommunity.com/profiles/76561199086078223)
 
 - [林夕](https://steamcommunity.com/profiles/76561198418714701/)
@@ -34,7 +36,7 @@
 - [Crystal](https://steamcommunity.com/profiles/76561198324014856/)
 
 
-!!! info "中文维基早期项目“Thetis”志愿成员名单"
+??? info "中文维基早期项目“Thetis”志愿成员名单"
     - [Xx_我终将她归于人海](https://steamcommunity.com/profiles/76561198978767329)
     - [Rimuru Tempest](https://steamcommunity.com/profiles/76561198957342664)
     - [HEYQAQ](https://steamcommunity.com/profiles/76561198844469021)
