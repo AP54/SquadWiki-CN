@@ -8,14 +8,4 @@
 
 双方的游戏目标是率先全部击毁敌方载具。
 
-!!! example "装甲死斗图层列表"
-
-    现版本下装甲死斗模式共有 4 张图层可用，单击可前往详情页。
-
-    - [Al Basrah TA v1](/map/al-basrah/#al-basrah-ta-v1)
-    
-    - [Narva TA v1](/map/narva/#narva-ta-v1)
-    
-    - [Tallil Outskirts TA v1](/map/tallil-outskirts/#tallil-outskirts-ta-v1)
-    
-    - [Yehorivka TA v1](/map/yehorivka/#yehorivka-ta-v1)
+装甲死斗的地图列表请前往 [地图手册模式索引](/map/mode#ta) 查看。

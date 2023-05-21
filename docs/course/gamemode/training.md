@@ -8,20 +8,4 @@
 
 训练图层中也会有一些特殊设施用于提升玩家的游戏水平，例如杀戮屋。
 
-!!! example "训练图层列表"
-
-    现版本下训练模式共有 7 张图层可用，单击可前往详情页。
-
-    - [Jensen's Training Range GB-MIL](/map/jensens-range/#jensensrange-training-v1)
-
-    - [Jensen's Training Range US-RUS](/map/jensens-range/#jensensrange-training-v2)
-
-    - [Jensen's Training Range USMC-MEA](/map/jensens-range/#jensensrange-training-v3)
-
-    - [Jensen's Training Range CAF-INS](/map/jensens-range/#jensensrange-training-v4)
-
-    - [Jensen's Training Range AUS-PLA](/map/jensens-range/#jensensrange-training-v5)
-
-    - [Pacific Proving Grounds USMC-RUS](/map/pacific-proving-grounds/#pacific-proving-grounds-training-v1)
-
-    - [Pacific Proving Grounds USMC-PLA](/map/pacific-proving-grounds/#pacific-proving-grounds-training-v2)
+训练的地图列表请前往 [地图手册模式索引](/map/mode#training) 查看。

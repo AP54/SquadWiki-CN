@@ -10,10 +10,4 @@
 
 这导致了这个模式中的战斗重心偏向载具的较量而非步兵的厮杀。
 
-!!! example "载具大战图层列表"
-
-    现版本下载具大战模式共有 2 张图层可用，单击可前往详情页。
-
-    - [Tallil Outskirts Tanks v1](/map/tallil-outskirts/#tallil-outskirts-tanks-v1)
-
-    - [Tallil Outskirts Tanks v2](/map/tallil-outskirts/#tallil-outskirts-tanks-v2)
+载具大战的地图列表请前往 [地图手册模式索引](/map/mode#tank) 查看。

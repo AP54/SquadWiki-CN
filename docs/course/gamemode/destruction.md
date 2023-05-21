@@ -16,15 +16,4 @@
 
 如果兵力票耗尽，双方都会输。
 
-!!! example "摧毁图层列表"
-
-    现版本下摧毁模式共有 4 张图层可用，单击可前往详情页。
-
-    - [Fool's Road Destruction v1](/map/fools-road/#fools-road-destruction-v1)
-
-    - [Gorodok Destruction v1](/map/gorodok/#gorodok-destruction-v1)
-    
-    - [Narva Destruction v1](/map/narva/#narva-destruction-v1)
-    
-    - [Yehorivka Destruction v1](/map/yehorivka/#yehorivka-destruction-v1)
-
+摧毁的地图列表请前往 [地图手册模式索引](/map/mode#destruction) 查看。
