@@ -75,7 +75,7 @@ for gamemode in modelist:
         if(data['Maps'][index]['gamemode'] == gamemode):
             try:
                 levelname = str(data['Maps'][index]['Name'])
-                mapname = '_'.join(str(data['Maps'][index]['mapName']).split()).lower().replace("'",'')
+                mapname = '-'.join(str(data['Maps'][index]['mapName']).split()).lower().replace("'",'')
                 titlelink = '-'.join(levelname.split()).lower().replace("'",'')
             except KeyError:
                 print(data['Maps'][index]['Name'])
