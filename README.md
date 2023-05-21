@@ -6,4 +6,4 @@
 
 本项目受 [CTF Wiki](https://ctf-wiki.org/) 启发，在编写过程中参考了诸多资料，在此一并致谢。
 
-本站点的所有文章内容，无特殊声明时，均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供，附加条款亦可能应用。
+本站点的所有文章内容，无特殊声明时，均在 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 和 [SATA](https://github.com/zTrix/sata-license) 协议之条款下提供，附加条款亦可能应用。

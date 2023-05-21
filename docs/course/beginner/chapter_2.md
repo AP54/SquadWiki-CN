@@ -108,5 +108,5 @@
 作为医疗兵可以使用烟雾弹来掩护接近倒地的队友，之后在相对安全的环境下用绷带拉起倒地的队友。且医疗兵拥有全兵种最多的 9 个绷带且救治倒地的队友速度极快，因此医疗兵就是整个小队的生命线，紧急情况下医疗一般会优先选择拉起队长及队伍内的筒子等重要兵种。
 
 !!! info "版权声明"
-    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第二章：特装和武器](https://www.bilibili.com/video/bv1jr4y1c7sk)，视频的各项权利归其权利人所有，不在[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
+    本文中视频部分引用自[哔哩哔哩](https://www.bilibili.com)，由[橘猫大尉](https://space.bilibili.com/162372711)创作的视频[【SQUAD入门攻略】战术小队新手教学第二章：特装和武器](https://www.bilibili.com/video/bv1jr4y1c7sk)，视频的各项权利归其权利人所有，不在[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 和 [SATA](https://github.com/ztrix/sata-license) 协议之条款下提供；
     正文部分改编自视频，改编已获原作者[橘猫大尉](https://space.bilibili.com/162372711)授权。
