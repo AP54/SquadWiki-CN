@@ -1,6 +1,4 @@
-# [ADF]澳大利亚国防军 | 兵种配置
-
-> 页面贡献者：桀氓AlbertWensley
+# [CAF]加拿大武装部队 | 兵种配置
 
 ## Command And Support
 
@@ -9,10 +7,10 @@
 ???+ quote "Squad Leader"
     === "Squad Leader 01"
         
-        - EF88 Tracer + Grippod, 7 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
+        - C8A3 + Foregrip, 7 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
+        - C13 Fragmentation, 2 grenades
         - M18 Smoke White, 2 grenades
         - M18 Smoke Red, 1 grenade
         - M18 Smoke Blue, 1 grenade
@@ -22,10 +20,10 @@
 
     === "Squad Leader 02"
         
-        - EF88 Tracer + ET552 + Grippod, 7 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
+        - C8A3 + ET552 + Foregrip, 7 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
+        - C13 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - M18 Smoke Red, 1 grenade
         - M18 Smoke Blue, 1 grenade
@@ -35,10 +33,10 @@
 
     === "Squad Leader 03"
         
-        - EF88 Tracer + Specter + Grippod, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenades
+        - C8A3 + C79A2 +Foregrip, 5 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
+        - C13 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - M18 Smoke Red, 1 grenade
         - M18 Smoke Blue, 1 grenade
@@ -51,10 +49,10 @@
 ???+ quote "Lead Crewman"
     === "Lead Crewman 01"
         
-        - EF88C Tracer + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
+        - C8A3, 2 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
+        - M18 Smoke White, 1 grenade
         - Field Dressing, 2 packages
         - Field Binoculars
         - Vehicle Repair Tools
@@ -65,9 +63,9 @@
 ???+ quote "Lead Pilot"
     === "Lead Pilot 01"
         
-        - EF88C Tracer + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C8A3, 2 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke Red, 2 grenades
         - Field Dressing, 2 packages
         - Field Binoculars
@@ -79,12 +77,12 @@
 ???+ quote "Medic"
     === "Medic 01"
         
-        - EF88 + ET552, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
+        - C7A2, 7 mags
+        - Hi-Power Pistol, 2mags
+        - Bayonet2000
+        - C13 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenades
+        - M18 Smoke Red, 2 grenade
         - Field Dressing, 9 packages
         - Medical Kit
         - Entrenching Tool
@@ -92,11 +90,11 @@
 
     === "Medic 02"
         
-        - EF88 + Specter, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C7A2 + C79A2, 5 mags
+        - Hi-Power Pistol, 2mags
+        - Bayonet2000
         - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenades
+        - M18 Smoke Red, 2 grenade
         - Field Dressing, 9 packages
         - Medical Kit
         - Entrenching Tool
@@ -106,9 +104,9 @@
 ???+ quote "Crewman"
     === "Crewman 01"
         
-        - EF88C + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C8A3, 2 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -120,9 +118,9 @@
 ???+ quote "Pilot"
     === "Pilot 01"
         
-        - EF88C + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C8A3, 2 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke Red, 2 grenades
         - Field Dressing, 2 packages
         - Field Binoculars
@@ -136,9 +134,9 @@
 ???+ quote "Rifleman"
     === "Rifleman 01"
         
-        - EF88, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
+        - C7A2 + Foregrip, 7 mags
+        - Bayonet2000
+        - C13 Fragmentation, 2 grenades
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -147,9 +145,9 @@
 
     === "Rifleman 02"
         
-        - EF88 + ET552, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
+        - C7A2 + ET552, 7 mags
+        - Bayonet2000
+        - C13 Fragmentation, 2 grenades
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -158,9 +156,9 @@
 
     === "Rifleman 03"
         
-        - EF88 + Specter, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
+        - C7A2 + C79A2, 5 mags
+        - Bayonet2000
+        - C13 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -171,10 +169,10 @@
 ???+ quote "Automatic Rifleman"
     === "Automatic Rifleman 01"
 
-        - F89 Minimi + ET552, 6 ammo boxes
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
+        - C9A2, 3 ammo boxes
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
+        - C13 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -187,9 +185,9 @@
 ???+ quote "Automatic Rifleman"
     === "Automatic Rifleman 01"
 
-        - F89 Minimi + Specter, 6 ammo boxes
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C9A2 + C79A2, 3 ammo boxes
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -199,12 +197,12 @@
 ???+ quote "Grenadier"
     === "Grenadier 01"
         
-        - EF88 SL40 + Specter, 6 mags
-        - SOCP Knife
-        - SL40 High Explosive Dual Purpose, 10 rounds
-        - SL40 Smoke Marker White, 2 rounds
-        - SL40 Smoke Marker Blue, 2 rounds
-        - SL40 Smoke Marker Red, 2 rounds
+        - C7A2 M203A1 + C79A2, 5 mags
+        - Bayonet2000
+        - M203 High Explosive Dual Purpose, 10 rounds
+        - M203 Smoke Marker White, 2 rounds
+        - M203 Smoke Marker Blue, 2 rounds
+        - M203 Smoke Marker Red, 2 rounds
         - Field Dressing, 2 packages
         - Entrenching Tool
 
@@ -213,10 +211,10 @@
 ???+ quote "Light Anti-Tank"
     === "Light Anti-Tank 01"
 
-        - EF88 + ET552, 6 mags
-        - SOCP Knife
+        - C7A2 + ET552, 7 mags
+        - Bayonet2000
         - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - F1 Fragmentation, 2 grenade
+        - C13 Fragmentation, 2 grenades
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -224,22 +222,22 @@
 
     === "Light Anti-Tank 02"
 
-        - EF88 + Specter, 6 mags
-        - SOCP Knife
+        - C7A2 + C79A2, 5 mags
+        - Bayonet2000
         - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - F1 Fragmentation, 2 grenade
+        - C13 Fragmentation, 2 grenades
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Marksman
+### Sniper
 
 ???+ quote "Marksman"
     === "Marksman 01"
         
-        - HK417, 8 mag
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C14 Timberwolf, 8 mags
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -252,9 +250,9 @@
 ???+ quote "Machine Gunner"
     === "Machine Gunner 01"
         
-        - F89 Maximi + Specter, 6 ammo pouches
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - C6A1 FLEX, 7 ammo pouches
+        - Hi-Power Pistol, 2 mags
+        - Bayonet2000
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -264,11 +262,11 @@
 ???+ quote "Heavy Anti-Tank"
     === "Heavy Anti-Tank 01"
         
-        - EF88, 4 mags
-        - SOCP Knife
-        - M3 MAAWS Tandem Heavy Anti-Tank, 1 round
-        - M3 MAAWS High Explosive Anti Tank, 1 round
-        - M3 MAAWS Smoke, 2 rounds
+        - C8A3 + ET552, 4 mags
+        - Bayonet2000
+        - Carl Gustav M2 Tandem + No78Mk1, 1 round
+        - Carl Gustav M2 HEAT + No78Mk1, 1 round
+        - Carl Gustav M2 HE + No78Mk1, 2 rounds
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -276,11 +274,10 @@
 
     === "Heavy Anti-Tank 02"
         
-        - EF88 + ET552, 4 mags
-        - SOCP Knife
-        - M3 MAAWS Tandem Heavy Anti-Tank, 1 round
-        - M3 MAAWS High Explosive Anti Tank, 1 round
-        - M3 MAAWS Smoke, 2 rounds
+        - C8A3 + C79A2, 4 mags
+        - Bayonet2000
+        - Carl Gustav M2 Tandem + No78Mk1, 1 round
+        - Carl Gustav M2 HEAT + No78Mk1, 1 round
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
@@ -291,28 +288,14 @@
 ???+ quote "Combat Engineer"
     === "Combat Engineer 01"
         
-        - EF88, 4 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - Comp B (30s Fuze), 1 block
+        - C7A2 + C79A2, 4 mags
+        - Bayonet2000
+        - M112 C4 Explosive (30s Fuze), 1 block
         - F1 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Vehicle Repair Tools
-        - Field Binoculars
-
-    === "Combat Engineer 02"
-        
-        - EF88 + Specter, 4 mags
-        - SOCP Knife
-        - M15 Anti-Tank Mine, 4 Mines
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Vehicle Repair Tools
-        - Sandbags
-        - Razor Wire
         - Field Binoculars
 
 ## Miscellaneous
@@ -322,7 +305,7 @@
 ???+ quote "Recruit"
     === "Recruit 01"
 
-        - EF88, 1 mag
+        - C7A2, 1 mag
         - Field Dressing, 1 package
         - Entrenching Tool
 

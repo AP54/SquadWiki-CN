@@ -1,4 +1,4 @@
-# [PLA]中国人民解放军 | 装备一览
+# [PLA]中国人民解放军 | 兵种配置
 
 > 页面贡献者：SakuraLove
 
@@ -93,7 +93,7 @@
         - WJQ308
         - Type 95 Binoculars
 
-   === "Medic 02"
+    === "Medic 02"
 
         - QBZ95‑1 + YMA600, 6 mags
         - QSZ92, 2 mags

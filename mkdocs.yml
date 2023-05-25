@@ -40,8 +40,12 @@ nav:
     - "[ADF]澳大利亚国防军":
       - "派系概览": "./faction/adf/index.md"
       - "兵种配置": "./faction/adf/kit/index.md"
-    - "[BAF]英国武装部队": "./faction/baf/index.md"
-    - "[CAF]加拿大武装部队": "./faction/caf/index.md"
+    - "[BAF]英国武装部队": 
+      - "派系概览": "./faction/baf/index.md"
+      - "兵种配置": "./faction/baf/kit/index.md"
+    - "[CAF]加拿大武装部队":
+      - "派系概览": "./faction/caf/index.md"
+      - "兵种配置": "./faction/caf/kit/index.md"
     - "[IMF]非正规民兵部队":
       - "派系概览": "./faction/imf/index.md"
       - "兵种配置": "./faction/imf/kit/index.md"

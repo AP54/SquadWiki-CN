@@ -1,4 +1,4 @@
-# [MEA]中东军 | 装备一览
+# [MEA]中东军 | 兵种配置
 
 > 页面贡献者：SakuraLove
 
@@ -328,7 +328,7 @@
 ### Recruit
 
 ???+ quote "Recruit"
-    === "Recruit 01
+    === "Recruit 01"
 
         - G3A3, 1 mag
         - Field Dressing, 1 package

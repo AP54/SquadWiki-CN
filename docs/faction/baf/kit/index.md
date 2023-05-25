@@ -1,6 +1,4 @@
-# [ADF]澳大利亚国防军 | 兵种配置
-
-> 页面贡献者：桀氓AlbertWensley
+# [BAF]英国武装部队 | 兵种配置
 
 ## Command And Support
 
@@ -9,39 +7,38 @@
 ???+ quote "Squad Leader"
     === "Squad Leader 01"
         
-        - EF88 Tracer + Grippod, 7 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
+        - L85A2 Tracer + Foregrip Bipod, 7 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
+        - L152A1 Orange Smoke, 1 grenade
+        - L152A1 Yellow Smoke, 1 grenade
         - Field Dressing, 2 packages
         - Field Binoculars
         - Rally Point
 
     === "Squad Leader 02"
         
-        - EF88 Tracer + ET552 + Grippod, 7 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
+        - L85A2 Tracer + SUSAT + Foregrip Bipod, 7 mags
+        - L131A1, 3 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
+        - L152A1 Orange Smoke, 1 grenade
+        - L152A1 Yellow Smoke, 1 grenade
         - Field Dressing, 2 packages
         - Field Binoculars
         - Rally Point
 
     === "Squad Leader 03"
         
-        - EF88 Tracer + Specter + Grippod, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenades
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
+        - L85A2 Tracer + LDS + Foregrip Bipod, 7 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
+        - L152A1 Orange Smoke, 1 grenade
+        - L152A1 Yellow Smoke, 1 grenade
         - Field Dressing, 2 packages
         - Field Binoculars
         - Rally Point
@@ -51,9 +48,9 @@
 ???+ quote "Lead Crewman"
     === "Lead Crewman 01"
         
-        - EF88C Tracer + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - L22A2 Tracer + SUSAT + Foregrip, 2 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Field Binoculars
@@ -65,10 +62,10 @@
 ???+ quote "Lead Pilot"
     === "Lead Pilot 01"
         
-        - EF88C Tracer + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke Red, 2 grenades
+        - L22A2 Tracer + SUSAT + Foregrip, 2 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 Red Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Field Binoculars
         - Vehicle Repair Tools
@@ -79,12 +76,12 @@
 ???+ quote "Medic"
     === "Medic 01"
         
-        - EF88 + ET552, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenades
+        - L85A2 + SUSAT, 6 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
+        - L152A1 Orange Smoke, 2 grenades
         - Field Dressing, 9 packages
         - Medical Kit
         - Entrenching Tool
@@ -92,11 +89,11 @@
 
     === "Medic 02"
         
-        - EF88 + Specter, 6 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenades
+        - L85A2 + LDS, 6 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
+        - L152A1 Orange Smoke, 2 grenades
         - Field Dressing, 9 packages
         - Medical Kit
         - Entrenching Tool
@@ -107,9 +104,9 @@
     === "Crewman 01"
         
         - EF88C + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
@@ -120,10 +117,10 @@
 ???+ quote "Pilot"
     === "Pilot 01"
         
-        - EF88C + Specter, 2 mags
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke Red, 2 grenades
+        - L22A2 + Foregrip, 2 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 Red Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Field Binoculars
         - Vehicle Repair Tools
@@ -136,10 +133,10 @@
 ???+ quote "Rifleman"
     === "Rifleman 01"
         
-        - EF88, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
+        - L85A2, 7 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 2 grenades
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Ammo Bag
@@ -147,10 +144,10 @@
 
     === "Rifleman 02"
         
-        - EF88 + ET552, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
+        - L85A2 + SUSAT, 7 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Ammo Bag
@@ -158,10 +155,10 @@
 
     === "Rifleman 03"
         
-        - EF88 + Specter, 6 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
+        - L85A2 + LDS, 6 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Ammo Bag
@@ -171,11 +168,11 @@
 ???+ quote "Automatic Rifleman"
     === "Automatic Rifleman 01"
 
-        - F89 Minimi + ET552, 6 ammo boxes
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - F1 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
+        - L110A2 Minimi, 6 ammo boxes
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
@@ -187,10 +184,10 @@
 ???+ quote "Automatic Rifleman"
     === "Automatic Rifleman 01"
 
-        - F89 Minimi + Specter, 6 ammo boxes
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
+        - L110A2 Minimi + SUSAT, 6 ammo boxes
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
 
@@ -199,12 +196,12 @@
 ???+ quote "Grenadier"
     === "Grenadier 01"
         
-        - EF88 SL40 + Specter, 6 mags
-        - SOCP Knife
-        - SL40 High Explosive Dual Purpose, 10 rounds
-        - SL40 Smoke Marker White, 2 rounds
-        - SL40 Smoke Marker Blue, 2 rounds
-        - SL40 Smoke Marker Red, 2 rounds
+        - L85A2 L123A2 + LDS, 7 mags
+        - SA80 Bayonet
+        - L123A2 High Explosive Dual Purpose, 10 rounds
+        - L123A2 Smoke Marker White, 2 rounds
+        - L123A2 Smoke Marker Blue, 2 rounds
+        - L123A2 Smoke Marker Red, 2 rounds
         - Field Dressing, 2 packages
         - Entrenching Tool
 
@@ -213,22 +210,22 @@
 ???+ quote "Light Anti-Tank"
     === "Light Anti-Tank 01"
 
-        - EF88 + ET552, 6 mags
-        - SOCP Knife
+        - L85A2 + SUSAT, 6 mags
+        - SA80 Bayonet
         - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - F1 Fragmentation, 2 grenade
-        - M18 Smoke White, 2 grenades
+        - L109A1 Fragmentation, 2 grenades
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
 
     === "Light Anti-Tank 02"
 
-        - EF88 + Specter, 6 mags
-        - SOCP Knife
+        - L85A2 + LDS, 6 mags
+        - SA80 Bayonet
         - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - F1 Fragmentation, 2 grenade
-        - M18 Smoke White, 2 grenades
+        - L109A1 Fragmentation, 2 grenades
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
 
@@ -237,10 +234,10 @@
 ???+ quote "Marksman"
     === "Marksman 01"
         
-        - HK417, 8 mag
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
+        - L129A1 Sharpshooter Rifle, 8 mags
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
@@ -252,10 +249,10 @@
 ???+ quote "Machine Gunner"
     === "Machine Gunner 01"
         
-        - F89 Maximi + Specter, 6 ammo pouches
-        - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
-        - M18 Smoke White, 2 grenades
+        - L7A2 GPMG, 7 ammo pouches
+        - L131A1, 2 mags
+        - SA80 Bayonet
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
 
@@ -264,24 +261,23 @@
 ???+ quote "Heavy Anti-Tank"
     === "Heavy Anti-Tank 01"
         
-        - EF88, 4 mags
-        - SOCP Knife
-        - M3 MAAWS Tandem Heavy Anti-Tank, 1 round
-        - M3 MAAWS High Explosive Anti Tank, 1 round
-        - M3 MAAWS Smoke, 2 rounds
-        - M18 Smoke White, 2 grenades
+        - L85A2 + SUSAT, 4 mags
+        - SA80 Bayonet
+        - NLAW, 1 rocket
+        - M72A7 LAW High Explosive Anti-Tank, 1 rocket
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
 
     === "Heavy Anti-Tank 02"
         
-        - EF88 + ET552, 4 mags
-        - SOCP Knife
-        - M3 MAAWS Tandem Heavy Anti-Tank, 1 round
-        - M3 MAAWS High Explosive Anti Tank, 1 round
-        - M3 MAAWS Smoke, 2 rounds
-        - M18 Smoke White, 2 grenades
+        - L85A2, 4 mags
+        - SA80 Bayonet
+        - NLAW, 1 rocket
+        - M72A7 LAW High Explosive Anti-Tank, 1 rocket
+        - L109A1 Fragmentation, 1 grenade
+        - L132A1 White Smoke, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Field Binoculars
@@ -291,28 +287,15 @@
 ???+ quote "Combat Engineer"
     === "Combat Engineer 01"
         
-        - EF88, 4 mags
+        - L85A2 + SUSAT, 4 mags
         - Self-Loading Pistol Mk3, 2 mags
-        - SOCP Knife
+        - SA80 Bayonet
         - Comp B (30s Fuze), 1 block
         - F1 Fragmentation, 1 grenade
         - M18 Smoke White, 2 grenades
         - Field Dressing, 2 packages
         - Entrenching Tool
         - Vehicle Repair Tools
-        - Field Binoculars
-
-    === "Combat Engineer 02"
-        
-        - EF88 + Specter, 4 mags
-        - SOCP Knife
-        - M15 Anti-Tank Mine, 4 Mines
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Vehicle Repair Tools
-        - Sandbags
-        - Razor Wire
         - Field Binoculars
 
 ## Miscellaneous
@@ -322,7 +305,7 @@
 ???+ quote "Recruit"
     === "Recruit 01"
 
-        - EF88, 1 mag
+        - L85A2, 1 mag
         - Field Dressing, 1 package
         - Entrenching Tool
 
