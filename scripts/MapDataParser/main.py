@@ -2,8 +2,8 @@ import json
 
 fjson = open('finished.json', 'r', errors='ignore')
 data = json.load(fjson)
-faction = {'Australian Defence Force': 'ADF', 'Russian Ground Forces': 'RGF', 'Middle Eastern Alliance': 'MEA', 'British Armed Forces': 'BAF',
-           'Insurgent Forces': 'INS', 'United States Army': 'USA', 'United States Marine Corps': 'USMC', 'Canadian Armed Forces': 'CAF', 'Irregular Militia Forces': 'IMF',"People's Liberation Army": 'PLA'}
+faction = {'Australian Defence Force': '[ADF](/faction/adf)', 'Russian Ground Forces': '[RGF](/faction/rgf)', 'Middle Eastern Alliance': '[MEA](/faction/mea)', 'British Armed Forces': '[BAF](/faction/baf)',
+           'Insurgent Forces': '[INS](/faction/ins)', 'United States Army': '[USA](/faction/usa)', 'United States Marine Corps': '[USMC](/faction/usmc)', 'Canadian Armed Forces': '[CAF](/faction/caf)', 'Irregular Militia Forces': '[IMF](/faction/imf)',"People's Liberation Army": '[PLA](/faction/pla)'}
 
 weather = {'Sunrise': '黎明', 'Sunset': '黄昏', 'Morning Sunrise': '黎明', 'Early Morning': '早晨', 'Stormy': '暴雨', 'Dusty Mid Day': '正午&扬沙',
            'Early Dawn (Dark)': '凌晨', 'Dusk': '黄昏', 'Clear Night': '晴夜', 'Evening': '傍晚', 'Partial Clouds Mid Day': '正午&多云', 'Cloudy Mid Day': '正午&阴天', 'Mid Day': '正午', 'Foggy': '大雾', 'Night': '夜晚', 'Storm': '暴雨', 'Sunny Mid Day': '正午', None: None, 'Sand Storm Mid Day': '正午&沙暴', 'Overcast': '阴天', 'Sunny Afternoon': '下午&晴天', 'Rain Storm': '暴雨'}
