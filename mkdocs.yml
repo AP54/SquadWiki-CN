@@ -13,15 +13,15 @@ nav:
   - "游戏教程":
     - "教程简介": "./course/index.md"
     - "萌新入门":
-      - "第一目 设置和ui": "./course/beginner/chapter_1.md"
-      - "第二目 特装和武器": "./course/beginner/chapter_2.md"
-      - "第三目 团队和社区": "./course/beginner/chapter_3.md"
-      - "第四目 战斗技巧": "./course/beginner/chapter_4.md"
-      - "第五目 载具识别": "./course/beginner/chapter_5.md"
-      - "第六目 索敌技巧": "./course/beginner/chapter_6.md"
-      - "第七目 规则和模式": "./course/beginner/chapter_7.md"
+      - "第一目 设置和ui": "./course/beginner/chapter-1.md"
+      - "第二目 特装和武器": "./course/beginner/chapter-2.md"
+      - "第三目 团队和社区": "./course/beginner/chapter-3.md"
+      - "第四目 战斗技巧": "./course/beginner/chapter-4.md"
+      - "第五目 载具识别": "./course/beginner/chapter-5.md"
+      - "第六目 索敌技巧": "./course/beginner/chapter-6.md"
+      - "第七目 规则和模式": "./course/beginner/chapter-7.md"
     - "队长指挥技术":
-      - "请求火力支援": "./course/squadleader/request_fire_support.md"
+      - "请求火力支援": "./course/squadleader/request-fire-support.md"
     - "模式规则":
       - "模式简介": "./course/gamemode/index.md"
       - "AAS | 攻守有序": "./course/gamemode/aas.md"
