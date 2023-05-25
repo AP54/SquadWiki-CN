@@ -218,15 +218,15 @@
 
     === "Ambusher 02"
 
-       - M4, 7 mags
-       - M9 Bayonet
-       - RGD5 Fragmentation, 2 grenades
-       - RKG3 Anti-Tank Grenade, 2 grenades
-       - RDG2 White Smoke, 2 grenades
-       - Field Dressing, 2 packages
-       - MPL50 Spade
-       - Soviet Field Binoculars
-       - Infantry Camo Netting
+        - M4, 7 mags
+        - M9 Bayonet
+        - RGD5 Fragmentation, 2 grenades
+        - RKG3 Anti-Tank Grenade, 2 grenades
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade
+        - Soviet Field Binoculars
+        - Infantry Camo Netting
 
 ### Automatic Rifleman
 
