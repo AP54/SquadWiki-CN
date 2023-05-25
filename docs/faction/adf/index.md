@@ -45,7 +45,7 @@
 
 [兵种详情点我](./kit){.md-button .md-button--primary}
 
-- Command And Support
+- Command And Support | 指挥辅助
 
     - Squad Leader
     - Lead Crewman
@@ -54,19 +54,19 @@
     - Crewman
     - Pilot
 
-- Direct Combat
+- Direct Combat | 直接战斗
 
     - Rifleman
     - Automatic Rifleman
 
-- Fire Support
+- Fire Support | 火力支援
 
     - Automatic Rifleman
     - Grenadier
     - Light Anti-Tank
     - Marksman
 
-- Specialist
+- Specialist | 设备专家
 
     - Machine Gunner
     - Heavy Anti-Tank

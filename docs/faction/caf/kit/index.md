@@ -1,11 +1,11 @@
 # [CAF]加拿大武装部队 | 兵种配置
 
-## Command And Support
+## Command And Support | 指挥辅助
 
-### Squad Leader
+### Squad Leader | 小队长
 
-???+ quote "Squad Leader"
-    === "Squad Leader 01"
+???+ quote "小队长"
+    === "小队长 01"
         
         - C8A3 + Foregrip, 7 mags
         - Hi-Power Pistol, 2 mags
@@ -18,7 +18,7 @@
         - Field Binoculars
         - Rally Point
 
-    === "Squad Leader 02"
+    === "小队长 02"
         
         - C8A3 + ET552 + Foregrip, 7 mags
         - Hi-Power Pistol, 2 mags
@@ -31,7 +31,7 @@
         - Field Binoculars
         - Rally Point
 
-    === "Squad Leader 03"
+    === "小队长 03"
         
         - C8A3 + C79A2 +Foregrip, 5 mags
         - Hi-Power Pistol, 2 mags
@@ -44,10 +44,10 @@
         - Field Binoculars
         - Rally Point
 
-### Lead Crewman
+### Lead Crewman | 载具组长
 
-???+ quote "Lead Crewman"
-    === "Lead Crewman 01"
+???+ quote "载具组长"
+    === "载具组长 01"
         
         - C8A3, 2 mags
         - Hi-Power Pistol, 2 mags
@@ -58,10 +58,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Lead Pilot
+### Lead Pilot | 飞行员组长
 
-???+ quote "Lead Pilot"
-    === "Lead Pilot 01"
+???+ quote "飞行员组长"
+    === "飞行员组长 01"
         
         - C8A3, 2 mags
         - Hi-Power Pistol, 2 mags
@@ -72,10 +72,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Medic
+### Medic | 医疗兵
 
-???+ quote "Medic"
-    === "Medic 01"
+???+ quote "医疗兵"
+    === "医疗兵 01"
         
         - C7A2, 7 mags
         - Hi-Power Pistol, 2mags
@@ -88,7 +88,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Medic 02"
+    === "医疗兵 02"
         
         - C7A2 + C79A2, 5 mags
         - Hi-Power Pistol, 2mags
@@ -99,10 +99,10 @@
         - Medical Kit
         - Entrenching Tool
 
-### Crewman
+### Crewman | 载具组员
 
-???+ quote "Crewman"
-    === "Crewman 01"
+???+ quote "载具组员"
+    === "载具组员 01"
         
         - C8A3, 2 mags
         - Hi-Power Pistol, 2 mags
@@ -113,10 +113,10 @@
         - Field Binoculars
         - Vehicle Repair Tools
 
-### Pilot
+### Pilot | 飞行员
 
-???+ quote "Pilot"
-    === "Pilot 01"
+???+ quote "飞行员"
+    === "飞行员 01"
         
         - C8A3, 2 mags
         - Hi-Power Pistol, 2 mags
@@ -127,12 +127,12 @@
         - Vehicle Repair Tools
 
 
-## Direct Combat
+## Direct Combat | 直接战斗
 
-### Rifleman
+### Rifleman | 步枪兵
 
-???+ quote "Rifleman"
-    === "Rifleman 01"
+???+ quote "步枪兵"
+    === "步枪兵 01"
         
         - C7A2 + Foregrip, 7 mags
         - Bayonet2000
@@ -143,7 +143,7 @@
         - Ammo Bag
         - Field Binoculars
 
-    === "Rifleman 02"
+    === "步枪兵 02"
         
         - C7A2 + ET552, 7 mags
         - Bayonet2000
@@ -154,7 +154,7 @@
         - Ammo Bag
         - Field Binoculars
 
-    === "Rifleman 03"
+    === "步枪兵 03"
         
         - C7A2 + C79A2, 5 mags
         - Bayonet2000
@@ -164,10 +164,10 @@
         - Entrenching Tool
         - Ammo Bag
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - C9A2, 3 ammo boxes
         - Hi-Power Pistol, 2 mags
@@ -178,12 +178,12 @@
         - Entrenching Tool
         - Field Binoculars
 
-## Fire Support
+## Fire Support | 火力支援
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - C9A2 + C79A2, 3 ammo boxes
         - Hi-Power Pistol, 2 mags
@@ -192,10 +192,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Grenadier
+### Grenadier | 榴弹兵
 
-???+ quote "Grenadier"
-    === "Grenadier 01"
+???+ quote "榴弹兵"
+    === "榴弹兵 01"
         
         - C7A2 M203A1 + C79A2, 5 mags
         - Bayonet2000
@@ -206,10 +206,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Light Anti-Tank
+### Light Anti-Tank | 轻型反坦克手
 
-???+ quote "Light Anti-Tank"
-    === "Light Anti-Tank 01"
+???+ quote "轻型反坦克手"
+    === "轻型反坦克手 01"
 
         - C7A2 + ET552, 7 mags
         - Bayonet2000
@@ -220,7 +220,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Light Anti-Tank 02"
+    === "轻型反坦克手 02"
 
         - C7A2 + C79A2, 5 mags
         - Bayonet2000
@@ -230,10 +230,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Sniper
+### Sniper | 狙击手
 
-???+ quote "Marksman"
-    === "Marksman 01"
+???+ quote "狙击手"
+    === "狙击手 01"
         
         - C14 Timberwolf, 8 mags
         - Hi-Power Pistol, 2 mags
@@ -243,12 +243,12 @@
         - Entrenching Tool
         - Field Binoculars
 
-## Specialist
+## Specialist | 设备专家
 
-### Machine Gunner
+### Machine Gunner | 机枪手
 
-???+ quote "Machine Gunner"
-    === "Machine Gunner 01"
+???+ quote "机枪手"
+    === "机枪手 01"
         
         - C6A1 FLEX, 7 ammo pouches
         - Hi-Power Pistol, 2 mags
@@ -257,10 +257,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Heavy Anti-Tank
+### Heavy Anti-Tank | 重型反坦克手
 
-???+ quote "Heavy Anti-Tank"
-    === "Heavy Anti-Tank 01"
+???+ quote "重型反坦克手"
+    === "重型反坦克手 01"
         
         - C8A3 + ET552, 4 mags
         - Bayonet2000
@@ -272,7 +272,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Heavy Anti-Tank 02"
+    === "重型反坦克手 02"
         
         - C8A3 + C79A2, 4 mags
         - Bayonet2000
@@ -283,10 +283,10 @@
         - Entrenching Tool
         - Field Binoculars
 
-### Combat Engineer
+### Combat Engineer | 战斗工兵
 
-???+ quote "Combat Engineer"
-    === "Combat Engineer 01"
+???+ quote "战斗工兵"
+    === "战斗工兵 01"
         
         - C7A2 + C79A2, 4 mags
         - Bayonet2000
@@ -298,20 +298,20 @@
         - Vehicle Repair Tools
         - Field Binoculars
 
-## Miscellaneous
+## Miscellaneous | 其它
 
-### Recruit
+### Recruit | 征召兵
 
-???+ quote "Recruit"
-    === "Recruit 01"
+???+ quote "征召兵"
+    === "征召兵 01"
 
         - C7A2, 1 mag
         - Field Dressing, 1 package
         - Entrenching Tool
 
-### Unarmed
+### Unarmed | 无武装
 
-???+ quote "Unarmed"
-    === "Unarmed 01"
+???+ quote "无武装"
+    === "无武装 01"
 
         - N/A

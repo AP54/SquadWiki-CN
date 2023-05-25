@@ -2,12 +2,12 @@
 
 > 页面贡献者：TL
 
-## Command And Support
+## Command And Support | 指挥辅助
 
-### Squad Leader
+### Squad Leader | 小队长
 
-???+ quote "Squad Leader"
-    === "Squad Leader 01"
+???+ quote "小队长"
+    === "小队长 01"
         - AK-74M Tracer, 7 mags
         - MP443 Grach, 2 mags
         - AK74 Bayonet
@@ -19,7 +19,7 @@
         - Russian Field Binoculars
         - Rally Point
 
-    === "Squad Leader 02"
+    === "小队长 02"
 
         - AK-74M Tracer + 1P63, 7 mags
         - MP443 Grach, 2 mags
@@ -32,7 +32,7 @@
         - Russian Field Binoculars
         - Rally Point
 
-    === "Squad Leader 03"
+    === "小队长 03"
          
         - AK-74M Tracer + 1P78, 6 mags
         - MP443 Grach, 2 mags
@@ -45,10 +45,10 @@
         - Russian Field Binoculars
         - Rally Point
 
-### Lead Crewman
+### Lead Crewman | 载具组长
 
-???+ quote "Lead Crewman"
-    === "Lead Crewman 01"
+???+ quote "载具组长"
+    === "载具组长 01"
 
         - AKS-74U, 2 mags
         - MP443 Grach, 2 mags
@@ -59,10 +59,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Lead Pilot
+### Lead Pilot | 飞行员组长
 
-???+ quote "Lead Pilot"
-    === "Lead Pilot 01"
+???+ quote "飞行员组长"
+    === "飞行员组长 01"
 
         - AKS-74U, 2 mags
         - MP443 Grach, 2 mags
@@ -73,10 +73,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Medic
+### Medic | 医疗兵
 
-???+ quote "Medic"
-    === "Medic 01"
+???+ quote "医疗兵"
+    === "医疗兵 01"
 
         - AK-74M, 7 mags
         - MP443 Grach, 3 mags
@@ -89,7 +89,7 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-    === "Medic 02"
+    === "医疗兵 02"
 
         - AK-74M + 1P78, 6 mags
         - MP443 Grach, 2 mags
@@ -100,10 +100,10 @@
         - Medical Kit
         - MPL50 Spade
 
-### Crewman
+### Crewman | 载具组员
 
-???+ quote "Crewman"
-    === "Crewman 01"
+???+ quote "载具组员"
+    === "载具组员 01"
 
         - AKS-74U, 2 mags
         - MP443 Grach, 2 mags
@@ -114,10 +114,10 @@
         - Russian Field Binoculars
         - Vehicle Repair Tools
 
-### Pilot
+### Pilot | 飞行员
 
-???+ quote "Pilot"
-    === "Pilot 01"
+???+ quote "飞行员"
+    === "飞行员 01"
 
         - AKS-74U, 2 mags
         - MP443 Grach, 2 mags
@@ -128,12 +128,12 @@
         - Vehicle Repair Tools
 
 
-## Direct Combat
+## Direct Combat | 直接战斗
 
-### Rifleman
+### Rifleman | 步枪兵
 
-???+ quote "Rifleman"
-    === "Rifleman 01"
+???+ quote "步枪兵"
+    === "步枪兵 01"
      
         - AK-74M, 7 mags
         - AK74 Bayonet
@@ -144,7 +144,7 @@
         - Ammo Bag
         - Russian Field Binoculars
 
-    === "Rifleman 02"
+    === "步枪兵 02"
 
         - AK-74M + 1P63, 7 mags
         - AK74 Bayonet
@@ -155,7 +155,7 @@
         - Ammo Bag
         - Russian Field Binoculars
 
-    === "Rifleman 03"
+    === "步枪兵 03"
 
         - AK-74M + 1P78, 6 mags
         - AK74 Bayonet
@@ -165,10 +165,10 @@
         - MPL50 Spade
         - Ammo Bag
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - RPK-74M, 8 mags
         - MP443 Grach, 2 mags
@@ -179,12 +179,12 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-## Fire Support
+## Fire Support | 火力支援
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - RPK-74M + 1P78, 8 mags
         - MP443 Grach, 2 mags
@@ -193,10 +193,10 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
 
-### Grenadier
+### Grenadier | 榴弹兵
 
-???+ quote "Grenadier"
-    === "Grenadier 01"
+???+ quote "榴弹兵"
+    === "榴弹兵 01"
 
         - AK-74M GP-25 + 1P78, 7 mags
         - AK74 Bayonet
@@ -207,10 +207,10 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
 
-### Light Anti-Tank
+### Light Anti-Tank | 轻型反坦克手
 
-???+ quote "Light Anti-Tank"
-    === "Light Anti-Tank 01"
+???+ quote "轻型反坦克手"
+    === "轻型反坦克手 01"
 
         - AK-74M, 7 mags
         - AK74 Bayonet
@@ -222,7 +222,7 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-    === "Light Anti-Tank 02"
+    === "轻型反坦克手 02"
      
         - AK-74M + 1P78, 6 mags
         - AK74 Bayonet
@@ -233,10 +233,10 @@
         - RDG2 White Smoke, 2 grenades
         - RDG2 White Smoke, 2 grenades
 
-### Marksman
+### Marksman | 精确射手
 
-???+ quote "Marksman"
-    === "Marksman 01"
+???+ quote "精确射手"
+    === "精确射手 01"
 
         - SVDM, 9 mags
         - MP443 Grach, 2 mags
@@ -246,12 +246,12 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-## Specialist
+## Specialist | 设备专家
 
-### Machine Gunner
+### Machine Gunner | 机枪手
 
-???+ quote "Machine Gunner"
-    === "Machine Gunner 01"
+???+ quote "机枪手"
+    === "机枪手 01"
 
         - PKP Pecheneg + 1P78, 5 ammo boxes
         -  PKP Pecheneg + 1P78, 5 ammo boxes
@@ -259,10 +259,10 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
 
-### Heavy Anti-Tank
+### Heavy Anti-Tank | 重型反坦克手
 
-???+ quote "Heavy Anti-Tank"
-    === "Heavy Anti-Tank 01"
+???+ quote "重型反坦克手"
+    === "重型反坦克手 01"
 
         - AK-74M, 4 mags
         - AK74 Bayonet
@@ -273,7 +273,7 @@
         - MPL50 Spade
         - Russian Field Binoculars
 
-    === "Heavy Anti-Tank 02"
+    === "重型反坦克手 02"
 
         - AK-74M + 1P78, 6 mags
         - AK74 Bayonet
@@ -283,10 +283,10 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
 
-### Combat Engineer
+### Combat Engineer | 战斗工兵
 
-???+ quote "Combat Engineer"
-    === "Combat Engineer 01"
+???+ quote "战斗工兵"
+    === "战斗工兵 01"
      
         - AK-74M, 4 mags
         - AK74 Bayonet
@@ -300,20 +300,20 @@
         - Razor Wire
         - Russian Field Binoculars
 
-## Miscellaneous
+## Miscellaneous | 其它
 
-### Recruit
+### Recruit | 征召兵
 
-???+ quote "Recruit"
-    === "Recruit 01"
+???+ quote "征召兵"
+    === "征召兵 01"
 
         - AK-74M, 1 mag
         - Field Dressing, 1 package
         - MPL50 Spade
 
-### Unarmed
+### Unarmed | 无武装
 
-???+ quote "Unarmed"
-    === "Unarmed 01"
+???+ quote "无武装"
+    === "无武装 01"
 
         - N/A

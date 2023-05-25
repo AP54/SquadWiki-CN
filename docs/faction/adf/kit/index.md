@@ -2,12 +2,12 @@
 
 > 页面贡献者：桀氓AlbertWensley
 
-## Command And Support
+## Command And Support | 指挥辅助
 
-### Squad Leader
+### Squad Leader | 小队长
 
-???+ quote "Squad Leader"
-    === "Squad Leader 01"
+???+ quote "小队长"
+    === "小队长 01"
         
         - EF88 Tracer + Grippod, 7 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -20,7 +20,7 @@
         - Field Binoculars
         - Rally Point
 
-    === "Squad Leader 02"
+    === "小队长 02"
         
         - EF88 Tracer + ET552 + Grippod, 7 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -33,7 +33,7 @@
         - Field Binoculars
         - Rally Point
 
-    === "Squad Leader 03"
+    === "小队长 03"
         
         - EF88 Tracer + Specter + Grippod, 6 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -46,10 +46,10 @@
         - Field Binoculars
         - Rally Point
 
-### Lead Crewman
+### Lead Crewman | 载具组长
 
-???+ quote "Lead Crewman"
-    === "Lead Crewman 01"
+???+ quote "载具组长"
+    === "载具组长 01"
         
         - EF88C Tracer + Specter, 2 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -60,10 +60,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Lead Pilot
+### Lead Pilot | 飞行员组长
 
-???+ quote "Lead Pilot"
-    === "Lead Pilot 01"
+???+ quote "飞行员组长"
+    === "飞行员组长 01"
         
         - EF88C Tracer + Specter, 2 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -74,10 +74,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Medic
+### Medic | 医疗兵
 
-???+ quote "Medic"
-    === "Medic 01"
+???+ quote "医疗兵"
+    === "医疗兵 01"
         
         - EF88 + ET552, 6 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -90,7 +90,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Medic 02"
+    === "医疗兵 02"
         
         - EF88 + Specter, 6 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -101,10 +101,10 @@
         - Medical Kit
         - Entrenching Tool
 
-### Crewman
+### Crewman | 载具组员
 
-???+ quote "Crewman"
-    === "Crewman 01"
+???+ quote "载具组员"
+    === "载具组员 01"
         
         - EF88C + Specter, 2 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -115,10 +115,10 @@
         - Field Binoculars
         - Vehicle Repair Tools
 
-### Pilot
+### Pilot | 飞行员
 
-???+ quote "Pilot"
-    === "Pilot 01"
+???+ quote "飞行员"
+    === "飞行员 01"
         
         - EF88C + Specter, 2 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -129,12 +129,12 @@
         - Vehicle Repair Tools
 
 
-## Direct Combat
+## Direct Combat | 直接战斗
 
-### Rifleman
+### Rifleman | 步枪兵
 
-???+ quote "Rifleman"
-    === "Rifleman 01"
+???+ quote "步枪兵"
+    === "步枪兵 01"
         
         - EF88, 6 mags
         - SOCP Knife
@@ -145,7 +145,7 @@
         - Ammo Bag
         - Field Binoculars
 
-    === "Rifleman 02"
+    === "步枪兵 02"
         
         - EF88 + ET552, 6 mags
         - SOCP Knife
@@ -156,7 +156,7 @@
         - Ammo Bag
         - Field Binoculars
 
-    === "Rifleman 03"
+    === "步枪兵 03"
         
         - EF88 + Specter, 6 mags
         - SOCP Knife
@@ -166,10 +166,10 @@
         - Entrenching Tool
         - Ammo Bag
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - F89 Minimi + ET552, 6 ammo boxes
         - Self-Loading Pistol Mk3, 2 mags
@@ -180,12 +180,12 @@
         - Entrenching Tool
         - Field Binoculars
 
-## Fire Support
+## Fire Support | 火力支援
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
         - F89 Minimi + Specter, 6 ammo boxes
         - Self-Loading Pistol Mk3, 2 mags
@@ -194,10 +194,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Grenadier
+### Grenadier | 榴弹兵
 
-???+ quote "Grenadier"
-    === "Grenadier 01"
+???+ quote "榴弹兵"
+    === "榴弹兵 01"
         
         - EF88 SL40 + Specter, 6 mags
         - SOCP Knife
@@ -208,10 +208,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Light Anti-Tank
+### Light Anti-Tank | 轻型反坦克手
 
-???+ quote "Light Anti-Tank"
-    === "Light Anti-Tank 01"
+???+ quote "轻型反坦克手"
+    === "轻型反坦克手 01"
 
         - EF88 + ET552, 6 mags
         - SOCP Knife
@@ -222,7 +222,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Light Anti-Tank 02"
+    === "轻型反坦克手 02"
 
         - EF88 + Specter, 6 mags
         - SOCP Knife
@@ -232,10 +232,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Marksman
+### Marksman | 精确射手
 
-???+ quote "Marksman"
-    === "Marksman 01"
+???+ quote "精确射手"
+    === "精确射手 01"
         
         - HK417, 8 mag
         - Self-Loading Pistol Mk3, 2 mags
@@ -245,12 +245,12 @@
         - Entrenching Tool
         - Field Binoculars
 
-## Specialist
+## Specialist | 设备专家
 
-### Machine Gunner
+### Machine Gunner | 机枪手
 
-???+ quote "Machine Gunner"
-    === "Machine Gunner 01"
+???+ quote "机枪手"
+    === "机枪手 01"
         
         - F89 Maximi + Specter, 6 ammo pouches
         - Self-Loading Pistol Mk3, 2 mags
@@ -259,10 +259,10 @@
         - Field Dressing, 2 packages
         - Entrenching Tool
 
-### Heavy Anti-Tank
+### Heavy Anti-Tank | 重型反坦克手
 
-???+ quote "Heavy Anti-Tank"
-    === "Heavy Anti-Tank 01"
+???+ quote "重型反坦克手"
+    === "重型反坦克手 01"
         
         - EF88, 4 mags
         - SOCP Knife
@@ -274,7 +274,7 @@
         - Entrenching Tool
         - Field Binoculars
 
-    === "Heavy Anti-Tank 02"
+    === "重型反坦克手 02"
         
         - EF88 + ET552, 4 mags
         - SOCP Knife
@@ -286,10 +286,10 @@
         - Entrenching Tool
         - Field Binoculars
 
-### Combat Engineer
+### Combat Engineer | 战斗工兵
 
-???+ quote "Combat Engineer"
-    === "Combat Engineer 01"
+???+ quote "战斗工兵"
+    === "战斗工兵 01"
         
         - EF88, 4 mags
         - Self-Loading Pistol Mk3, 2 mags
@@ -302,7 +302,7 @@
         - Vehicle Repair Tools
         - Field Binoculars
 
-    === "Combat Engineer 02"
+    === "战斗工兵 02"
         
         - EF88 + Specter, 4 mags
         - SOCP Knife
@@ -315,20 +315,20 @@
         - Razor Wire
         - Field Binoculars
 
-## Miscellaneous
+## Miscellaneous | 其它
 
-### Recruit
+### Recruit | 征召兵
 
-???+ quote "Recruit"
-    === "Recruit 01"
+???+ quote "征召兵"
+    === "征召兵 01"
 
         - EF88, 1 mag
         - Field Dressing, 1 package
         - Entrenching Tool
 
-### Unarmed
+### Unarmed | 无武装
 
-???+ quote "Unarmed"
-    === "Unarmed 01"
+???+ quote "无武装"
+    === "无武装 01"
 
         - N/A

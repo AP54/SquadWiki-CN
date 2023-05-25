@@ -2,12 +2,12 @@
 
 > 页面贡献者：=R.S.T=TCP SYN FLOOD
 
-## Command And Support
+## Command And Support | 指挥辅助
 
-### Squad Leader
+### Squad Leader | 小队长
 
-???+ quote "Squad Leader"
-    === "Squad Leader 01"
+???+ quote "小队长"
+    === "小队长 01"
 
         - AKS-74U + Banana Mag, 6 mags
         - TT33 Tokarev, 4 mags
@@ -20,7 +20,7 @@
         - Soviet Field Binoculars
         - Rally Point
 		
-    === "Squad Leader 02"
+    === "小队长 02"
 
         - M4 + M68, 7 mags
         - TT33 Tokarev, 4 mags
@@ -33,7 +33,7 @@
         - Soviet Field Binoculars
         - Rally Point
 		
-    === "Squad Leader 03"
+    === "小队长 03"
 		
         - AKS-74 + 1P29, 6 mags	
         - TT33 Tokarev, 4 mags
@@ -46,7 +46,7 @@
         - Soviet Field Binoculars
         - Rally Point	
 		
-    === "Squad Leader 04"
+    === "小队长 04"
 
         - AK-74 GP-25 + 1P63, 6 mags	
         - TT33 Tokarev, 4 mags
@@ -60,7 +60,7 @@
         - Soviet Field Binoculars
         - Rally Point
 		
-    === "Squad Leader 05"
+    === "小队长 05"
 	
         - AK-74 GP-25 + 1P78, 6 mags
         - TT33 Tokarev, 4 mags
@@ -73,10 +73,10 @@
         - Soviet Field Binoculars
         - Rally Point
 
-### Lead Crewman
+### Lead Crewman | 载具组长
 
-???+ quote "Lead Crewman"
-    === "Lead Crewman 01"
+???+ quote "载具组长"
+    === "载具组长 01"
 	
         - AKS-74U, 2 mags
         - PM Makarov, 2 mags
@@ -87,10 +87,10 @@
         - Vehicle Repair Tools
         - Rally Point
 
-### Medic
+### Medic | 医疗兵
 
-???+ quote "Medic"
-    === "Medic 01"
+???+ quote "医疗兵"
+    === "医疗兵 01"
         
         - AKS-74U, 7 mags
         - TT-33 Tokarev, 4 mags
@@ -103,7 +103,7 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-    === "Medic 02"
+    === "医疗兵 02"
 
         - AKS-74 + 1P29, 6 mags
         - TT33 Tokarev, 2 mags
@@ -115,10 +115,10 @@
         - Medical Kit
         - MPL50 Spade
 
-### Crewman
+### Crewman | 载具组员
 
-???+ quote "Crewman"
-    === "Crewman 01"
+???+ quote "载具组员"
+    === "载具组员 01"
 	
         - AKS-74U, 2 mags
         - PM Makarov, 2 mags
@@ -129,12 +129,12 @@
         - Soviet Field Binoculars
         - Vehicle Repair Tools
 
-## Direct Combat
+## Direct Combat | 直接战斗
 
-### Rifleman
+### Rifleman | 步枪兵
 
-???+ quote "Rifleman"
-    === "Rifleman 01"
+???+ quote "步枪兵"
+    === "步枪兵 01"
 
         - FN FAL, 7 mags
         - AKM Bayonet
@@ -146,7 +146,7 @@
         - Ammo Bag
         - Soviet Field Binoculars
 
-    === "Rifleman 02"
+    === "步枪兵 02"
 
         - M4, 7 mags
         - M9 Bayonet
@@ -158,7 +158,7 @@
         - Ammo Bag
         - Soviet Field Binoculars
 
-    === "Rifleman 03"
+    === "步枪兵 03"
 
         - AKS-74 + 1P63, 7 mags
         - AKM Bayonet
@@ -170,7 +170,7 @@
         - Ammo Bag
         - Soviet Field Binoculars
 
-    === "Rifleman 04"
+    === "步枪兵 04"
 	
         - M4 + M68, 7 mags
         - M9 Bayonet
@@ -181,7 +181,7 @@
         - Ammo Bag
         - Soviet Field Binoculars
 
-    === "Rifleman 05"
+    === "步枪兵 05"
 	
         - AKS-74 + 1P78, 7 mags
         - AKM Bayonet
@@ -192,7 +192,7 @@
         - Ammo Bag
         - Soviet Field Binoculars
 
-    === "Rifleman 06"
+    === "步枪兵 06"
 
         - SKS + PU, 12 clips
         - SKS Bayonet
@@ -228,10 +228,10 @@
         - Soviet Field Binoculars
         - Infantry Camo Netting
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
        - Automatic Rifleman	
        - Minimi, 3 ammo boxes
@@ -243,12 +243,12 @@
        - MPL50 Spade
        - Soviet Field Binoculars
 
-## Fire Support
+## Fire Support | 火力支援
 
-### Infiltrator	
+### Infiltrator | 伏击兵
 
-???+ quote "Infiltrator 01"
-    === "Infiltrator 01"
+???+ quote "伏击兵 01"
+    === "伏击兵 01"
 	
        - AKS-74U + Banana Mag, 6 mags
        - Vz. 61 Škorpion, 3 mags
@@ -260,10 +260,10 @@
        - MPL50 Spade
        - Soviet Field Binoculars
 
-### Automatic Rifleman
+### Automatic Rifleman | 自动步枪兵
 
-???+ quote "Automatic Rifleman"
-    === "Automatic Rifleman 01"
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
 
        - RPK-74 + 1P78, 10 mags
        - PM Makarov, 4 mags
@@ -273,10 +273,10 @@
        - Field Dressing, 2 packages
        - MPL50 Spade
 
-### Grenadier
+### Grenadier | 榴弹兵
 
-???+ quote "Grenadier"
-    === "Grenadier 01"
+???+ quote "榴弹兵"
+    === "榴弹兵 01"
 
         - M4, 7 mags
         - AKM Bayonet
@@ -287,7 +287,7 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-    === "Grenadier 02"
+    === "榴弹兵 02"
 
         - AK-74 GP-25, 7 mags
         - AKM Bayonet
@@ -299,10 +299,10 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-### Light Anti-Tank
+### Light Anti-Tank | 轻型反坦克手
 
-???+ quote "Light Anti-Tank"
-    === "Light Anti-Tank 01"
+???+ quote "轻型反坦克手"
+    === "轻型反坦克手 01"
 
         - FN FAL, 6 mags
         - AKM Bayonet
@@ -312,7 +312,7 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-    === "Light Anti-Tank 02"
+    === "轻型反坦克手 02"
 	
         - AKS-74 + 1P29, 6 mags
         - AKM Bayonet
@@ -322,10 +322,10 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
 
-### Marksman
+### Marksman | 精确射手
 
-???+ quote "Marksman"
-    === "Marksman 01"
+???+ quote "精确射手"
+    === "精确射手 01"
 	
         - SVD, 9 mags
         - TT33 Tokarev, 2 mags
@@ -337,12 +337,12 @@
         - Soviet Field Binoculars
         - Infantry Camo Netting
 
-## Specialist
+## Specialist | 设备专家
 
-### Machine Gunner
+### Machine Gunner | 机枪手
 
-???+ quote "Machine Gunner"
-    === "Machine Gunner 01"
+???+ quote "机枪手"
+    === "机枪手 01"
 	
         - PKM + 1P29, 6 ammo boxes
         - PM Makarov, 4 mags
@@ -352,10 +352,10 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-### Heavy Anti-Tank
+### Heavy Anti-Tank | 重型反坦克手
 
-???+ quote "Heavy Anti-Tank"
-    === "Heavy Anti-Tank 01"
+???+ quote "重型反坦克手"
+    === "重型反坦克手 01"
 
         - AKS-74U, 4 mags
         - AK74 Bayonet
@@ -366,7 +366,7 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-    === "Heavy Anti-Tank 01"
+    === "重型反坦克手 01"
 
         - FN FAL, 4 mags
         - AK74 Bayonet
@@ -376,10 +376,10 @@
         - MPL50 Spade
         - Soviet Field Binoculars
 
-### Saboteur
+### Saboteur | 破袭兵
 
-???+ quote "Saboteur"
-    === "Saboteur 01"
+???+ quote "破袭兵"
+    === "破袭兵 01"
 
         - AKS-74U + Banana Mag, 4 mags
         - AK74 Bayonet
@@ -390,20 +390,20 @@
         - Field Dressing, 2 packages
         - MPL50 Spade
         - Soviet Field Binoculars
-		
-## Miscellaneous
 
-### Recruit
+## Miscellaneous | 其它
 
-???+ quote "Recruit"
-    === "Recruit 01"
+### Recruit | 征召兵
+
+???+ quote "征召兵"
+    === "征召兵 01"
 
         - AK-74, 1 mag
         - Field Dressing, 1 package
 
-### Unarmed
+### Unarmed | 无武装
 
-???+ quote "Unarmed"
-    === "Unarmed 01"
+???+ quote "无武装"
+    === "无武装 01"
 
         - N/A
