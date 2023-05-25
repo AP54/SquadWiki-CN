@@ -1,8 +1,10 @@
 # 战术小队热修复 4.3.1 更新日志
 
-> 页面贡献者：Offworld Industries
+> 页面贡献者：Astesia
+>
+> 原文章：[SQUAD HOTFIX 4.3.1 RELEASE NOTES](https://joinsquad.com/2023/03/29/squad-hotfix-4-3-1-release-notes/)
 > 
-> 翻译整理：Astesia
+> 发布时间：2023/03/29
 
 各位战术小队玩家们你们好：
 

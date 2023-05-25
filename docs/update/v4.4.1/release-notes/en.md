@@ -1,4 +1,4 @@
-## SQUAD HOTFIX 4.4.1 RELEASE NOTES
+# SQUAD HOTFIX 4.4.1 RELEASE NOTES
 
 > 页面贡献者：Offworld Industries
 > 
