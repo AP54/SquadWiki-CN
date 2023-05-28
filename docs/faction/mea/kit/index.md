@@ -9,121 +9,121 @@
 ???+ quote "小队长"
     === "小队长 01"
 
-        - G3A4 + Tracer, 7 mags
-        - Hi-Power, 2 mags
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 Grenade
-        - M18 White Smoke, 2 grenades
-        - M18 Yellow Smoke, 1 grenade
-        - M18 Green Smoke, 1 grenade
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Rally Point
+        - G3A4 + Tracer, 7 个弹匣
+        - Hi-Power, 2 个弹匣
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 黄色烟雾弹, 1 颗
+        - M18 绿色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 集结点
 
     === "小队长 02"
 
-        - G3A4 + Z-Point + Tracer, 7 mags
-        - Hi-Power, 2 mags
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 Grenade
-        - M18 White Smoke, 2 grenades
-        - M18 Yellow Smoke, 1 grenade
-        - M18 Green Smoke, 1 grenade
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Rally Point
+        - G3A4 + Z-Point + Tracer, 7 个弹匣
+        - Hi-Power, 2 个弹匣
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 黄色烟雾弹, 1 颗
+        - M18 绿色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 集结点
 
     === "小队长 03"
 
-        - G3A4 + ZF1 + Tracer, 6 mags
-        - Hi-Power, 2 mags
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 Grenade
-        - M18 White Smoke, 2 grenades
-        - M18 Yellow Smoke, 1 grenade
-        - M18 Green Smoke, 1 grenade
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Rally Point
+        - G3A4 + ZF1 + Tracer, 6 个弹匣
+        - Hi-Power, 2 个弹匣
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 黄色烟雾弹, 1 颗
+        - M18 绿色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 集结点
 
 ### Lead Crewman | 载具组长
 
 ???+ quote "载具组长"
     === "载具组长 01"
 
-        - HK 51, 3 mags
-        - Hi-Power, 2 mags
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Vehicle Repair Tools
-        - Rally Point
+        - HK 51, 3 个弹匣
+        - Hi-Power, 2 个弹匣
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 载具维修工具
+        - 集结点
 
 ### Lead Pilot | 飞行员组长
 
 ???+ quote "飞行员组长"
     === "飞行员组长 01"
 
-        - HK 51, 3 mags
-        - Hi-Power, 2 mags
-        - M18 Yellow Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Vehicle Repair Tools
-        - Vehicle Repair Tools
+        - HK 51, 3 个弹匣
+        - Hi-Power, 2 个弹匣
+        - M18 黄色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 载具维修工具
+        - 载具维修工具
 
 ### Medic | 医疗兵
 
 ???+ quote "医疗兵"
     === "医疗兵 01"
 
-        - G3A3, 7 mags
-        - Hi-Power, 3 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - M18 Yellow Smoke, 2 grenades
-        - Field Dressing, 9
+        - G3A3, 7 个弹匣
+        - Hi-Power, 3 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 黄色烟雾弹, 2 颗
+        - 战地止血带, 9
         - Medical Kit 
-        - MPL50 Spade
-        - Soviet Field Binoculars
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
 
     === "医疗兵 02"
 
-        - G3A3 + ZF1, 6 mags
-        - Hi-Power, 3 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - M18 Yellow Smoke, 2 grenades
-        - Field Dressing, 9
+        - G3A3 + ZF1, 6 个弹匣
+        - Hi-Power, 3 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 黄色烟雾弹, 2 颗
+        - 战地止血带, 9
         - Medical Kit 
-        - MPL50 Spade
+        - MPL50 工兵铲
 
 ### Crewman | 载具组员
 
 ???+ quote "载具组员"
     === "载具组员 01"
 
-        - HK 51, 3 mags
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Soviet Field Binoculars
-        - Vehicle Repair Tools
+        - HK 51, 3 个弹匣
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
+        - 载具维修工具
 
 ???+ quote "飞行员"
     === "飞行员 01"
 
-        - HK 51, 3 mags
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - M18 Yellow Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - Soviet Field Binoculars
-        - Vehicle Repair Tools
+        - HK 51, 3 个弹匣
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - M18 黄色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - Soviet 战地望远镜
+        - 载具维修工具
 
 ## Direct Combat | 直接战斗
 
@@ -132,86 +132,86 @@
 ???+ quote "步枪兵"
     === "步枪兵 01"
 
-        - G3A3, 7 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
-        - Soviet Field Binoculars
+        - G3A3, 7 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
+        - Soviet 战地望远镜
 
     === "步枪兵 02"
 
-        - G3A3, 7 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
+        - G3A3, 7 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
 
     === "步枪兵 03"
 
-        - G3A3 + Z-Point, 7 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
-        - Soviet Field Binoculars
+        - G3A3 + Z-Point, 7 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
+        - Soviet 战地望远镜
 
     === "步枪兵 04"
 
-        - G3A3 + Z-Point, 7 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
+        - G3A3 + Z-Point, 7 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
 
     === "步枪兵 05"
 
-        - G3A3 + ZF1, 6 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
-        - Soviet Field Binoculars
+        - G3A3 + ZF1, 6 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
+        - Soviet 战地望远镜
 
     === "步枪兵 06"
 
-        - G3A3 + ZF1, 6 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 2 grenades
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Ammo Bag
+        - G3A3 + ZF1, 6 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 2 颗
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 弹药包
 
 ### Automatic Rifleman | 自动步枪兵
 
 ???+ quote "自动步枪兵"
     === "自动步枪兵 01"
 
-        - G3A3, 7 drum mags
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - F1 Fragmentation, 1 grenade
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Soviet Field Binoculars
+        - G3A3, 7 个弹鼓
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
 
 ## Fire Support | 火力支援
 
@@ -220,64 +220,64 @@
 ???+ quote "自动步枪兵"
     === "自动步枪兵 01"
 
-        - G3A3 + ZF1, 7 drum mags
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
+        - G3A3 + ZF1, 7 个弹鼓
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
 
 ### Grenadier | 榴弹兵
 
 ???+ quote "榴弹兵"
     === "榴弹兵 01"
 
-        - G3A3 HK79 + ZF1, 6 mags
-        - G3 Bayonet
-        - HK79 High Explosive, 10 rounds
-        - HK79 Smoke Marker White, 2 rounds
-        - HK79 Smoke Marker Blue, 2 rounds
-        - HK79 Smoke Marker Red, 2 rounds
-        - Field Dressing, 2 packages
-        - MPL50 Spade
+        - G3A3 HK79 + ZF1, 6 个弹匣
+        - G3 刺刀
+        - HK79 高爆榴弹, 10 发
+        - HK79 白色标记烟雾弹, 2 发
+        - HK79 蓝色标记烟雾弹, 2 发
+        - HK79 红色标记烟雾弹, 2 发
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
 
 ### Light Anti-Tank | 轻型反坦克手
 
 ???+ quote "轻型反坦克手"
     === "轻型反坦克手 01"
 
-        - G3KA4, 7 mags
-        - G3KA4 + ZF1, 6 mags
-        - G3 Bayonet
-        - RPG-7V2 High Explosive Anti-Tank, 1 rocket
-        - RPG-7V2 High Explosive Anti-Tank, 1 rocket
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Soviet Field Binoculars
+        - G3KA4, 7 个弹匣
+        - G3KA4 + ZF1, 6 个弹匣
+        - G3 刺刀
+        - RPG-7V2 破甲弹, 1 发
+        - RPG-7V2 破甲弹, 1 发
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
 
     === "轻型反坦克手 02"
 
-        - G3KA4 + ZF1, 6 mags
-        - G3 Bayonet
-        - RPG-26 High Explosive Anti-Tank, 1 rocket
-        - F1 Fragmentation, 2 grenades
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
+        - G3KA4 + ZF1, 6 个弹匣
+        - G3 刺刀
+        - RPG-26 破甲弹, 1 发
+        - F1 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
 
 ### Marksman | 精确射手
 
 ???+ quote "精确射手"
     === "精确射手 01"
 
-        - G3SG/1, 7 mags
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Soviet Field Binoculars
+        - G3SG/1, 7 个弹匣
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
 
 ## Specialist | 设备专家
 
@@ -286,42 +286,42 @@
 ???+ quote "机枪手"
     === "机枪手 01"
 
-        - MG3, 4 ammo boxes
-        - Hi-Power, 2 mags
-        - G3 Bayonet
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
+        - MG3, 4 个弹箱
+        - Hi-Power, 2 个弹匣
+        - G3 刺刀
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
 
 ### Heavy Anti-Tank | 重型反坦克手
 
 ???+ quote "重型反坦克手"
     === "重型反坦克手 01"
 
-        - HK 51 + Z-Point, 4 mags
-        - G3 Bayonet
-        - RPG-29 Tandem Heavy Anti-Tank, 2 rockets
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Soviet Field Binoculars
+        - HK 51 + Z-Point, 4 个弹匣
+        - G3 刺刀
+        - RPG-29 高爆串联重型反坦克武器, 2 发
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - Soviet 战地望远镜
 
 ### Combat Engineer | 战斗工兵
 
 ???+ quote "战斗工兵"
     === "战斗工兵 01"
 
-        - G3KA4 + Z-Point, 4 mags
-        - G3 Bayonet
-        - SZ-1 Explosive (30s Fuze), 1 block
-        - TM62 Anti-Tank Mine, 3 mines
-        - M18 White Smoke, 2 grenades
-        - Field Dressing, 2 packages
-        - MPL50 Spade
-        - Vehicle Repair Tools
-        - Sandbags
-        - Razor Wire
-        - Soviet Field Binoculars
+        - G3KA4 + Z-Point, 4 个弹匣
+        - G3 刺刀
+        - SZ-1 炸药 (30 秒引信), 1 块
+        - TM62 反坦克地雷, 3 枚
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - MPL50 工兵铲
+        - 载具维修工具
+        - 沙袋墙
+        - 铁丝网
+        - Soviet 战地望远镜
 
 ## Miscellaneous | 其它
 
@@ -330,9 +330,9 @@
 ???+ quote "征召兵"
     === "征召兵 01"
 
-        - G3A3, 1 mag
-        - Field Dressing, 1 package
-        - MPL50 Spade
+        - G3A3, 1 个弹匣
+        - 战地止血带, 1 个
+        - MPL50 工兵铲
 
 ### Unarmed | 无武装
 

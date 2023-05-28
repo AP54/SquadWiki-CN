@@ -7,124 +7,124 @@
 ???+ quote "小队长"
     === "小队长 01"
         
-        - C8A3 + Foregrip, 7 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3 + Foregrip, 7 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Rally Point
+        - C13 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 红色烟雾弹, 1 颗
+        - M18 蓝色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 集结点
 
     === "小队长 02"
         
-        - C8A3 + ET552 + Foregrip, 7 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3 + ET552 + Foregrip, 7 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Rally Point
+        - C13 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 红色烟雾弹, 1 颗
+        - M18 蓝色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 集结点
 
     === "小队长 03"
         
-        - C8A3 + C79A2 +Foregrip, 5 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3 + C79A2 +Foregrip, 5 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 1 grenade
-        - M18 Smoke Blue, 1 grenade
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Rally Point
+        - C13 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 红色烟雾弹, 1 颗
+        - M18 蓝色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 集结点
 
 ### Lead Crewman | 载具组长
 
 ???+ quote "载具组长"
     === "载具组长 01"
         
-        - C8A3, 2 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3, 2 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke White, 1 grenade
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Vehicle Repair Tools
-        - Rally Point
+        - M18 白色烟雾弹, 1 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 载具维修工具
+        - 集结点
 
 ### Lead Pilot | 飞行员组长
 
 ???+ quote "飞行员组长"
     === "飞行员组长 01"
         
-        - C8A3, 2 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3, 2 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke Red, 2 grenades
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Vehicle Repair Tools
-        - Rally Point
+        - M18 红色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 载具维修工具
+        - 集结点
 
 ### Medic | 医疗兵
 
 ???+ quote "医疗兵"
     === "医疗兵 01"
         
-        - C7A2, 7 mags
+        - C7A2, 7 个弹匣
         - Hi-Power Pistol, 2mags
         - Bayonet2000
-        - C13 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenade
-        - Field Dressing, 9 packages
+        - C13 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - M18 红色烟雾弹, 2 颗
+        - 战地止血带, 9 个
         - Medical Kit
-        - Entrenching Tool
-        - Field Binoculars
+        - 工程师加固工具
+        - 战地望远镜
 
     === "医疗兵 02"
         
-        - C7A2 + C79A2, 5 mags
+        - C7A2 + C79A2, 5 个弹匣
         - Hi-Power Pistol, 2mags
         - Bayonet2000
-        - M18 Smoke White, 2 grenades
-        - M18 Smoke Red, 2 grenade
-        - Field Dressing, 9 packages
+        - M18 白色烟雾弹, 2 颗
+        - M18 红色烟雾弹, 2 颗
+        - 战地止血带, 9 个
         - Medical Kit
-        - Entrenching Tool
+        - 工程师加固工具
 
 ### Crewman | 载具组员
 
 ???+ quote "载具组员"
     === "载具组员 01"
         
-        - C8A3, 2 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3, 2 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
-        - Vehicle Repair Tools
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
+        - 载具维修工具
 
 ### Pilot | 飞行员
 
 ???+ quote "飞行员"
     === "飞行员 01"
         
-        - C8A3, 2 mags
-        - Hi-Power Pistol, 2 mags
+        - C8A3, 2 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke Red, 2 grenades
-        - Field Dressing, 2 packages
-        - Field Binoculars
-        - Vehicle Repair Tools
+        - M18 红色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 战地望远镜
+        - 载具维修工具
 
 
 ## Direct Combat | 直接战斗
@@ -134,49 +134,49 @@
 ???+ quote "步枪兵"
     === "步枪兵 01"
         
-        - C7A2 + Foregrip, 7 mags
+        - C7A2 + Foregrip, 7 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Ammo Bag
-        - Field Binoculars
+        - C13 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 弹药包
+        - 战地望远镜
 
     === "步枪兵 02"
         
-        - C7A2 + ET552, 7 mags
+        - C7A2 + ET552, 7 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Ammo Bag
-        - Field Binoculars
+        - C13 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 弹药包
+        - 战地望远镜
 
     === "步枪兵 03"
         
-        - C7A2 + C79A2, 5 mags
+        - C7A2 + C79A2, 5 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Ammo Bag
+        - C13 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 弹药包
 
 ### Automatic Rifleman | 自动步枪兵
 
 ???+ quote "自动步枪兵"
     === "自动步枪兵 01"
 
-        - C9A2, 3 ammo boxes
-        - Hi-Power Pistol, 2 mags
+        - C9A2, 3 个弹箱
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - C13 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
+        - C13 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
 
 ## Fire Support | 火力支援
 
@@ -185,63 +185,63 @@
 ???+ quote "自动步枪兵"
     === "自动步枪兵 01"
 
-        - C9A2 + C79A2, 3 ammo boxes
-        - Hi-Power Pistol, 2 mags
+        - C9A2 + C79A2, 3 个弹箱
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
 
 ### Grenadier | 榴弹兵
 
 ???+ quote "榴弹兵"
     === "榴弹兵 01"
         
-        - C7A2 M203A1 + C79A2, 5 mags
+        - C7A2 M203A1 + C79A2, 5 个弹匣
         - Bayonet2000
-        - M203 High Explosive Dual Purpose, 10 rounds
-        - M203 Smoke Marker White, 2 rounds
-        - M203 Smoke Marker Blue, 2 rounds
-        - M203 Smoke Marker Red, 2 rounds
-        - Field Dressing, 2 packages
-        - Entrenching Tool
+        - M203 双用高爆榴弹, 10 发
+        - M203 白色标记烟雾弹, 2 发
+        - M203 蓝色标记烟雾弹, 2 发
+        - M203 红色标记烟雾弹, 2 发
+        - 战地止血带, 2 个
+        - 工程师加固工具
 
 ### Light Anti-Tank | 轻型反坦克手
 
 ???+ quote "轻型反坦克手"
     === "轻型反坦克手 01"
 
-        - C7A2 + ET552, 7 mags
+        - C7A2 + ET552, 7 个弹匣
         - Bayonet2000
-        - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - C13 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
+        - M72A7 轻型高爆反坦克武器, 1 发
+        - C13 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
 
     === "轻型反坦克手 02"
 
-        - C7A2 + C79A2, 5 mags
+        - C7A2 + C79A2, 5 个弹匣
         - Bayonet2000
-        - M72A7 LAW High Explosive Anti-Tank, 1 rocket
-        - C13 Fragmentation, 2 grenades
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
+        - M72A7 轻型高爆反坦克武器, 1 发
+        - C13 破片手榴弹, 2 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
 
 ### Sniper | 狙击手
 
 ???+ quote "狙击手"
     === "狙击手 01"
         
-        - C14 Timberwolf, 8 mags
-        - Hi-Power Pistol, 2 mags
+        - C14 Timberwolf, 8 个弹匣
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
 
 ## Specialist | 设备专家
 
@@ -250,53 +250,53 @@
 ???+ quote "机枪手"
     === "机枪手 01"
         
-        - C6A1 FLEX, 7 ammo pouches
-        - Hi-Power Pistol, 2 mags
+        - C6A1 FLEX, 7 个弹袋
+        - Hi-Power Pistol, 2 个弹匣
         - Bayonet2000
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
 
 ### Heavy Anti-Tank | 重型反坦克手
 
 ???+ quote "重型反坦克手"
     === "重型反坦克手 01"
         
-        - C8A3 + ET552, 4 mags
+        - C8A3 + ET552, 4 个弹匣
         - Bayonet2000
-        - Carl Gustav M2 Tandem + No78Mk1, 1 round
-        - Carl Gustav M2 HEAT + No78Mk1, 1 round
-        - Carl Gustav M2 HE + No78Mk1, 2 rounds
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
+        - 卡尔·古斯塔夫 M2 Tandem + No78Mk1, 1 发
+        - 卡尔·古斯塔夫 M2 HEAT + No78Mk1, 1 发
+        - 卡尔·古斯塔夫 M2 HE + No78Mk1, 2 发
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
 
     === "重型反坦克手 02"
         
-        - C8A3 + C79A2, 4 mags
+        - C8A3 + C79A2, 4 个弹匣
         - Bayonet2000
-        - Carl Gustav M2 Tandem + No78Mk1, 1 round
-        - Carl Gustav M2 HEAT + No78Mk1, 1 round
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Field Binoculars
+        - 卡尔·古斯塔夫 M2 Tandem + No78Mk1, 1 发
+        - 卡尔·古斯塔夫 M2 HEAT + No78Mk1, 1 发
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 战地望远镜
 
 ### Combat Engineer | 战斗工兵
 
 ???+ quote "战斗工兵"
     === "战斗工兵 01"
         
-        - C7A2 + C79A2, 4 mags
+        - C7A2 + C79A2, 4 个弹匣
         - Bayonet2000
-        - M112 C4 Explosive (30s Fuze), 1 block
-        - F1 Fragmentation, 1 grenade
-        - M18 Smoke White, 2 grenades
-        - Field Dressing, 2 packages
-        - Entrenching Tool
-        - Vehicle Repair Tools
-        - Field Binoculars
+        - M112 C4 炸药 (30 秒引信), 1 块
+        - F1 破片手榴弹, 1 颗
+        - M18 白色烟雾弹, 2 颗
+        - 战地止血带, 2 个
+        - 工程师加固工具
+        - 载具维修工具
+        - 战地望远镜
 
 ## Miscellaneous | 其它
 
@@ -305,9 +305,9 @@
 ???+ quote "征召兵"
     === "征召兵 01"
 
-        - C7A2, 1 mag
-        - Field Dressing, 1 package
-        - Entrenching Tool
+        - C7A2, 1 个弹匣
+        - 战地止血带, 1 个
+        - 工程师加固工具
 
 ### Unarmed | 无武装
 

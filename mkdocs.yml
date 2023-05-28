@@ -25,7 +25,7 @@ nav:
       - "请求火力支援": "./course/squadleader/request-fire-support.md"
     - "战斗兵种攻略": 
       - "精确射手":
-        - "精确射手入门指南": "/course/role/marksman"
+        - "精确射手入门指南": "./course/role/marksman/index.md"
     - "模式规则":
       - "模式简介": "./course/gamemode/index.md"
       - "AAS | 攻守有序": "./course/gamemode/aas.md"

@@ -90,13 +90,13 @@
     - Maximi - General Purpose Machine Gun
     - Self-Loading Pistol Mk3 - Pistol
 
-- Grenades and Launchers
+- 颗 and Launchers
 
-    - M18 - Smoke Grenade
-    - F1 - Fragmentation Grenade
-    - SL40 - Underbarrel Grenade Launcher
-    - M72A7 LAW - Rocket Launcher
-    - M3 MAAWS - Recoilless Rifle
+    - M18 - Smoke 颗
+    - F1 - 破片手榴弹 颗
+    - SL40 - Underbarrel 颗 Launcher
+    - M72A7 LAW - 发 Launcher
+    - M3 古斯塔夫无后座力炮- Recoilless Rifle
 
 - Emplacements
 
@@ -107,10 +107,10 @@
 - Equipment
 
     - SOCP Knife - Bayonet
-    - E-Tool - Entrenching Tool
-    - M15 - Anti-Tank Mine
-    - M112 C4 - Explosive
-    - Field Binoculars - Binoculars
+    - E-Tool - 工程师加固工具
+    - M15 - 反坦克地雷
+    - M112 C4 - 炸药
+    - 战地望远镜 - Binoculars
 
 ### Vehicles
 
