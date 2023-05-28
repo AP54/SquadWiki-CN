@@ -2,30 +2,14 @@
 
 此页面列出了 Squad 中所有可生成载具的部署命令，您可以直接从 Wiki 复制粘贴到游戏控制台中，不必手动输入。
 
-当前版本：[V4.3](/update/v4.3/release-notes/)
+当前版本：[V4.5](/update/v4.5/release-notes/)
 
 !!! warning 
     您只能在具有 **featuretest** 管理员权限的**自定义服务器**或者**本地服务器**上生成载具。
 
-## Minsk Motorbike
+## Logistics Vehicle | 运输载具
 
-- 明斯克摩托车 红色
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_minsk.BP_minsk_C`
-
-- 明斯克摩托车 黑色
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_black.BP_Minsk_black_C`
-
-- 明斯克摩托车 蓝色
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_blue.BP_Minsk_blue_C`
-
-- 明斯克摩托车 绿色
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`
-
-## LUV-A1 
+### LUV-A1 
 
 - LUV-A1 运输型 林地涂装
 
@@ -43,7 +27,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/M-Gator/BP_M-Gator_Transport_ARID.BP_M-Gator_Transport_ARID_C`
 
-## M939 
+### M939 
 
 - M939 运输型 沙漠涂装 US 
 
@@ -77,7 +61,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_USMC_Woodland_Logi.BP_US_Util_USMC_Woodland_Logi_C`
 
-## MSVS Truck 
+### MSVS Truck 
 
 - MSVS Truck 运输型 沙漠涂装
 
@@ -95,7 +79,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/CAF_Utility_Truck/BP_CAF_Util_Woodland_Logi.BP_CAF_Util_Woodland_Logi_C`
 
-## MAN HX60 
+### MAN HX60 
 
 - UK MAN HX60 运输型 沙漠涂装
 
@@ -121,7 +105,7 @@
 
     `AdminCreateVehicle/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck_Logi.BP_Aussie_Util_Truck_Logi_C`
 
-## Ural 375D TRUCK / Ural 375D Technical 
+### Ural 375D TRUCK / Ural 375D Technical 
 
 - URAL 375D 运输型 RGF 沙漠涂装
 
@@ -155,7 +139,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural375/BP_Ural_375_ZU23.BP_Ural_375_ZU23_C`
 
-## Ural 4320 
+### Ural 4320 
 
 - URAL 4320 运输型 RGF 沙漠涂装
 
@@ -181,7 +165,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Ural4320/BP_Ural_4320_logi_MEA.BP_Ural_4320_logi_MEA_C`
 
-## Kamaz 5350 
+### Kamaz 5350 
 
 - Kamaz 5350 运输型 沙漠涂装
 
@@ -199,7 +183,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Kamaz_5350/BP_Kamaz_5350_Logi.BP_Kamaz_5350_Logi_C`
 
-## CTM-131 
+### CTM-131 
 
 - CTM-131 运输型 武装版 7.62 沙漠涂装
 
@@ -225,7 +209,9 @@
 
     `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic.BP_CTM131_Logistic_C`
 
-## Technical Pickup Truck 
+## Light Vehicles | 轻型载具
+
+### Technical Pickup Truck 
 
 - 旧型 Technical 运输型 INS
 
@@ -335,7 +321,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_UB32.BP_Technical2Seater_Camo_UB32_C`
 
-## Simir Jeep 
+### Simir Jeep 
 
 - Simir 吉普 运输型 
 
@@ -353,7 +339,7 @@
 
     `AdminCreateVehicle /game/vehicles/Safir/BP_Safir_Kornet.BP_Safir_Kornet_C`
 
-## G-Wagon 
+### G-Wagon 
 
 - LUVW 运输型 沙漠涂装
 
@@ -387,7 +373,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LUVW/BP_LUVW_M2.BP_LUVW_M2_C`
 
-## HMMWV M1151 
+### HMMWV M1151 
 
 - HMMWV M1151 黑色 Dshk INS
 
@@ -417,7 +403,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/M1151/BP_M1151_CROWS_Woodland.BP_M1151_CROWS_Woodland_C`
 
-## M-ATV 
+### M-ATV 
 
 - M-ATV M240 沙漠涂装 US 
 
@@ -483,7 +469,7 @@
 
     `AdminCreateVehicle /game/vehicles/MATV/BP_MATV_USMC_TOW_Woodland.BP_MATV_USMC_TOW_Woodland_C`
 
-## TAPV 
+### TAPV 
 
 - TAPV M2A1 CROWS 林地涂装
 
@@ -501,7 +487,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/TAPV/BP_TAPV_C6_Desert.BP_TAPV_C6_Desert_C`
 
-## LPPV (Foxground) 
+### LPPV (Foxground) 
 
 - LPPV L7A2 x2 沙漠涂装
 
@@ -519,7 +505,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LPPV/BP_LPPV_M2RWS_Woodland.BP_LPPV_M2RWS_Woodland_C`
 
-## Bushmaster PMV 
+### Bushmaster PMV 
 
 - PMV MAG-58 
 
@@ -533,7 +519,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/PMV/BP_PMV_RWS.BP_PMV_RWS_C`
 
-## Tigr-M Kord 
+### Tigr-M Kord 
 
 - Tigr-M Kord 沙漠涂装
 
@@ -551,7 +537,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Tigr/BP_Tigr_RWS.BP_Tigr_RWS_C`
 
-## BRDM-2 
+### BRDM-2 
 
 - BRDM-2 RGF 沙漠涂装
 
@@ -593,7 +579,7 @@
 
     `AdminCreateVehicle /game/vehicles/BRDM-2/BP_BRDM-2_Spandrel_INS.BP_BRDM-2_Spandrel_INS_C`
 
-## CSK-131 
+### CSK-131 
 
 - CSK-131 沙漠涂装
 
@@ -627,7 +613,9 @@
 
     `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_HJ-8ATGM.BP_CSK131_HJ-8ATGM_C`
 
-## BTR-80 
+## Armored Vehicle | 装甲载具
+
+### BTR-80 
 
 - BTR-80 RGF 沙漠涂装
 
@@ -645,7 +633,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/BP_BTR80_Militia.BP_BTR80_Militia_C`
 
-## BTR-82A 
+### BTR-82A 
 
 - BTR-82A 沙漠涂装
 
@@ -655,7 +643,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/82A/BP_BTR82A_RUS.BP_BTR82A_RUS_C`
 
-## LAV-25 
+### LAV-25 
 
 - LAV-25A2 沙漠涂装
 
@@ -665,7 +653,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV25/BP_LAV25_Woodland.BP_LAV25_Woodland_C`
 
-## Coyote RV 
+### Coyote RV 
 
 - Coyote RV 沙漠涂装
 
@@ -675,13 +663,13 @@
 
     `AdminCreateVehicle /Game/Vehicles/Coyote/BP_LAV2_Coyote_Woodland.BP_LAV2_Coyote_Woodland_C`
 
-## ASLAV 
+### ASLAV 
 
 - ASLAV 
 
     `AdminCreateVehicle /Game/vehicles/ASLAV/BP_ASLAV.BP_ASLAV_C`
 
-## LAV 6.0 
+### LAV 6.0 
 
 - LAV 6.0 沙漠涂装
 
@@ -691,7 +679,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV6/BP_LAV6_Woodland.BP_LAV6_Woodland_C`
 
-## LAV III 
+### LAV III 
 
 - LAV III RWS C6 沙漠涂装
 
@@ -709,7 +697,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_M2.BP_LAV_RWS_M2_C`
 
-## M113A3 
+### M113A3 
 
 - M113A3 C6 沙漠涂装
 
@@ -735,7 +723,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_TLAV.BP_M113A3_TLAV_C`
 
-## M1126 
+### M1126 
 
 - M1126 M240 沙漠涂装
 
@@ -753,7 +741,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/M1126/BP_M1126_Woodland.BP_M1126_Woodland_C`
 
-## ZBL-08/ZSL-10 
+### ZBL-08/ZSL-10 
 
 - ZBL-08 林地涂装
 
@@ -779,7 +767,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89_Desert.BP_ZSL10_QJZ-89_Desert_C`
 
-## AAVP7A1 
+### AAVP7A1 
 
 - AAVP7A1 补给型 林地涂装
 
@@ -797,7 +785,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/AAVP7A1/BP_AAVP7A1.BP_AAVP7A1_C`
 
-## FV432 
+### FV432 
 
 - FV432 沙漠涂装
 
@@ -815,7 +803,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV432/BP_FV432_RWS_Woodland.BP_FV432_RWS_Woodland_C`
 
-## FV107 
+### FV107 
 
 - FV107 沙漠涂装
 
@@ -825,7 +813,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV107/BP_FV107_Woodland.BP_FV107_Woodland_C`
 
-## MT-LB / MT-LBM / MT-LB Field Modifications 
+### MT-LB / MT-LBM / MT-LB Field Modifications 
 
 - MT-LB RGF 沙漠涂装
 
@@ -879,7 +867,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/MTLB/BP_MTLB_VMK_MEA.BP_MTLB_VMK_MEA_C`
 
-## BMP-1 / BMP-1 Field Modifications 
+### BMP-1 / BMP-1 Field Modifications 
 
 - BMP-1 IMF
 
@@ -901,7 +889,7 @@
 
     `AdminCreateVehicle /Game/vehicles/BMP-1/BP_BMP1_MEA.BP_BMP1_MEA_C`
 
-## BMP-2 
+### BMP-2 
 
 - BMP-2 林地涂装
 
@@ -915,7 +903,7 @@
 
     `AdminCreateVehicle /Game/vehicles/BMP-2/BP_BMP2_MEA.BP_BMP2_MEA_C`
 
-## M2A3 
+### M2A3 
 
 - M2A3 沙漠涂装
 
@@ -925,7 +913,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BFV/BP_BFV_Woodland.BP_BFV_Woodland_C`
 
-## FV510 
+### FV510 
 
 - FV510 沙漠涂装
 
@@ -951,7 +939,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
 
-## ZBD-04A 
+### ZBD-04A 
 
 - ZBD-04A 林地涂装
 
@@ -961,7 +949,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C`
 
-## FV4034 
+### FV4034 
 
 - FV4034 沙漠涂装
 
@@ -971,7 +959,7 @@
 
     `AdminCreateVehicle /Game/vehicles/FV4034/BP_FV4034_woodland.BP_FV4034_woodland_C`
 
-## Leopard 2A6M / Leopard 2A6M CAN 
+### Leopard 2A6M / Leopard 2A6M CAN 
 
 - Leopard 2A6M 沙漠涂装
 
@@ -989,7 +977,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Leopard2/BP_2A6_Woodland_Cage.BP_2A6_Woodland_Cage_C`
 
-## M1A2 
+### M1A2 
 
 - M1A2 沙漠涂装
 
@@ -999,13 +987,21 @@
 
     `AdminCreateVehicle /Game/vehicles/M1A2/BP_M1A2_woodland.BP_M1A2_woodland_C`
 
-## M1A1 
+### M1A1 
 
 - M1A1 AUS 
 
     `AdminCreateVehicle /Game/vehicles/AUS_M1A1/BP_AUS_M1A1.BP_AUS_M1A1_C`
 
-## T-62 
+- M1A1 沙漠涂装 USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/M1A1_USMC/BP_M1A1_USMC.BP_M1A1_USMC_C`
+
+- M1A1 林地涂装 USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/M1A1_USMC/BP_M1A1_USMC_Woodland.BP_M1A1_USMC_Woodland_C`
+
+### T-62 
 
 - T-62 IMF
 
@@ -1019,7 +1015,7 @@
 
     `AdminCreateVehicle /Game/vehicles/T62/BP_T62_MEA.BP_T62_MEA_C`
 
-## T-72B3 / T-72S 
+### T-72B3 / T-72S 
 
 - T-72B3 沙漠涂装
 
@@ -1033,7 +1029,7 @@
 
     `AdminCreateVehicle /Game/vehicles/T72AV/BP_T72AV_MEA.BP_T72AV_MEA_C`
 
-## ZTZ-99A 
+### ZTZ-99A 
 
 - ZTZ-99 林地涂装
 
@@ -1051,7 +1047,9 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C`
 
-## MLRS BM21-GRAD 
+## MLRS | 多管火箭发射系统
+
+### MLRS BM21-GRAD 
 
 - BM21 IMF
 
@@ -1061,7 +1059,9 @@
 
     `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_INS.BP_BM21Grad_INS_C`
 
-## Mi-8 / Mi-17 
+## Helicopter | 直升机
+
+### Mi-8 / Mi-17 
 
 - MI-8 RGF 
 
@@ -1071,7 +1071,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/MI17/BP_MI17_MEA.BP_MI17_MEA_C`
 
-## UH-60M 
+### UH-60M 
 
 - UH-60M 
 
@@ -1081,37 +1081,39 @@
 
     `AdminCreateVehicle /Game/Vehicles/AUS_UH60M/BP_UH60_AUS.BP_UH60_AUS_C`
 
-## SA330 
+### SA330 
 
 - SA330 
 
     `AdminCreateVehicle /Game/Vehicles/SA330/BP_SA330.BP_SA330_C`
 
-## MRH-90 
+### MRH-90 
 
 - MRH-90 
 
     `AdminCreateVehicle /Game/Vehicles/MRH90/BP_MRH90_Mag58.BP_MRH90_Mag58_C`
 
-## CH-146 
+### CH-146 
 
 - CH-146 
 
     `AdminCreateVehicle /Game/Vehicles/CH146/BP_CH146.BP_CH146_C`
 
-## UH-1Y 
+### UH-1Y 
 
 - UH-1Y 
 
     `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C `
 
-## Z-8G 
+### Z-8G 
 
 - Z-8G 
 
     `AdminCreateVehicle /Game/Vehicles/Z8G/BP_Z8G.BP_Z8G_C`
 
-## RHIB 
+## Boat | 船
+
+### RHIB 
 
 - RHIB MG3 
 
@@ -1145,3 +1147,22 @@
 
     `AdminCreateVehiccle /Game/Vehicles/RHIB/BP_RHIB_Logistics.BP_RHIB_Logistics_C`
 
+## Motorcycle | 摩托车
+
+### Minsk Motorbike
+
+- 明斯克摩托车 红色
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_minsk.BP_minsk_C`
+
+- 明斯克摩托车 黑色
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_black.BP_Minsk_black_C`
+
+- 明斯克摩托车 蓝色
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_blue.BP_Minsk_blue_C`
+
+- 明斯克摩托车 绿色
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`

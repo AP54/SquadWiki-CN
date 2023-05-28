@@ -14,8 +14,13 @@ Squad 让多达 100 名玩家的团队在对局中决定如何进行前哨建设
 
 本项目受 [CTF Wiki](https://ctf-wiki.org/) 启发，在编写过程中参考了诸多资料，在此一并致谢。
 
-如果您觉得本站对您有很大帮助，请考虑[投喂我们](./intro/support)。
+## 最近更新
 
+- 2023-05-28：[载具部署指令](/server/command/vehicle)更新至 v4.5，并调整了顺序和增加分类；
+
+- 2023-05-25：阵营派系标题汉化；
+
+- 2023-05-25：同步 v4.5 更新日志（[中文](/update/v4.5/release-notes/) [英文](/update/v4.5/release-notes/en)）；
 
 ## Material color palette 颜色主题
 

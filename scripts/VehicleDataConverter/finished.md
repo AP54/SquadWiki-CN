@@ -1,22 +1,5 @@
-## Minsk Motorbike 
-
-- Minsk Motorbike Red 
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_minsk.BP_minsk_C`
-
-- Minsk Motorbike Black 
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_black.BP_Minsk_black_C`
-
-- Minsk Motorbike Blue 
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_blue.BP_Minsk_blue_C`
-
-- Minsk Motorbike Green 
-
-    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`
-
-## LUV-A1 
+# a
+## LUV-A1 "Gator" 
 
 - LUV-A1 Transport Woodland 
 
@@ -46,7 +29,7 @@
 
 - M939 Logistics Desert US 
 
-    `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/B_US_Util_Desert_Logi.BP_US_Util_Desert_Logi_C`
+    `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_Desert_Logi.BP_US_Util_Desert_Logi_C`
 
 - M939 Logistics Woodland US 
 
@@ -68,7 +51,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/US_Util_Truck/BP_US_Util_USMC_Woodland_Logi.BP_US_Util_USMC_Woodland_Logi_C`
 
-## MSVS Truck 
+## MSVS Truck variants 
 
 - MSVS Truck Transport Desert 
 
@@ -106,11 +89,11 @@
 
 - AUS HX60 Transport 
 
-    `AdminCreateVehicle/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck.BP_Aussie_Util_Truck_C`
+    `AdminCreateVehicle /Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck.BP_Aussie_Util_Truck_C`
 
 - AUS HX60 Logistics 
 
-    `AdminCreateVehicle/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck_Logi.BP_Aussie_Util_Truck_Logi_C`
+    `AdminCreateVehicle /Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck_Logi.BP_Aussie_Util_Truck_Logi_C`
 
 ## Ural 375D TRUCK / Ural 375D Technical 
 
@@ -216,7 +199,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic.BP_CTM131_Logistic_C`
 
-## Technical Pickup Truck 
+## Technical Pickup Truck variants 
 
 - OLD Technical Transport Insurgents 
 
@@ -344,7 +327,7 @@
 
     `AdminCreateVehicle /game/vehicles/Safir/BP_Safir_Kornet.BP_Safir_Kornet_C`
 
-## G-Wagon 
+## LUVW "G-Wagon" 
 
 - LUVW Transport Desert 
 
@@ -510,7 +493,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LPPV/BP_LPPV_M2RWS_Woodland.BP_LPPV_M2RWS_Woodland_C`
 
-## Bushmaster PMV 
+## Bushmaster PMV variants 
 
 - PMV MAG-58 
 
@@ -646,7 +629,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BTR80/82A/BP_BTR82A_RUS.BP_BTR82A_RUS_C`
 
-## LAV-25 
+## LAV-25 variants 
 
 - LAV-25A2 Desert 
 
@@ -656,7 +639,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV25/BP_LAV25_Woodland.BP_LAV25_Woodland_C`
 
-## Coyote RV 
+## Coyote RV variants 
 
 - Coyote RV Armored glass kit Desert 
 
@@ -666,7 +649,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Coyote/BP_LAV2_Coyote_Woodland.BP_LAV2_Coyote_Woodland_C`
 
-## ASLAV 
+## ASLAV variants 
 
 - ASLAV 
 
@@ -700,7 +683,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/LAV_RWS/BP_LAV_RWS_M2.BP_LAV_RWS_M2_C`
 
-## M113A3 
+## M113A3 variants 
 
 - M113A3 C6 Desert 
 
@@ -726,7 +709,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/TLAV/BP_M113A3_TLAV.BP_M113A3_TLAV_C`
 
-## M1126 
+## M1126 "Stryker" 
 
 - M1126 M240 Desert 
 
@@ -770,7 +753,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89_Desert.BP_ZSL10_QJZ-89_Desert_C`
 
-## AAVP7A1 
+## AAVP 7A1 
 
 - AAVP7A1 Logistics Woodland 
 
@@ -788,7 +771,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/AAVP7A1/BP_AAVP7A1.BP_AAVP7A1_C`
 
-## FV432 
+## FV432 "Bulldog" 
 
 - FV432 Desert 
 
@@ -806,7 +789,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV432/BP_FV432_RWS_Woodland.BP_FV432_RWS_Woodland_C`
 
-## FV107 
+## FV107 "Scimitar" 
 
 - FV107 Desert 
 
@@ -816,7 +799,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV107/BP_FV107_Woodland.BP_FV107_Woodland_C`
 
-## MT-LB / MT-LBM / MT-LB Field Modifications 
+## MT-LB 
 
 - MT-LB Russian Desert 
 
@@ -906,7 +889,7 @@
 
     `AdminCreateVehicle /Game/vehicles/BMP-2/BP_BMP2_MEA.BP_BMP2_MEA_C`
 
-## M2A3 
+## M2A3 "Bradley" 
 
 - M2A3 Desert 
 
@@ -916,7 +899,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/BFV/BP_BFV_Woodland.BP_BFV_Woodland_C`
 
-## FV510 
+## FV510 "Warrior" 
 
 - FV510 Desert 
 
@@ -934,11 +917,13 @@
 
     `AdminCreateVehicle /Game/vehicles/FV510/BP_FV510UA_Woodland.BP_FV510UA_Woodland_C`
 
-- FV510 WCSP (40 mm) Desert 
+## FV520 "CTAS" 
+
+- FV520 WCSP (40 mm) Desert 
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40.BP_FV510UA_CTAS40_C`
 
-- FV510 WCSP (40 mm) Woodland 
+- FV520 WCSP (40 mm) Woodland 
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
 
@@ -952,7 +937,11 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C`
 
-## FV4034 
+- Spawn Main Battle Tank 
+
+    ``
+
+## FV4034 "Challenger" 
 
 - FV4034 Desert 
 
@@ -980,7 +969,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/Leopard2/BP_2A6_Woodland_Cage.BP_2A6_Woodland_Cage_C`
 
-## M1A2 
+## M1A2 "Abrams" 
 
 - M1A2 Desert 
 
@@ -990,11 +979,19 @@
 
     `AdminCreateVehicle /Game/vehicles/M1A2/BP_M1A2_woodland.BP_M1A2_woodland_C`
 
-## M1A1 
+## M1A1 "Abrams" 
 
 - M1A1 AUS 
 
     `AdminCreateVehicle /Game/vehicles/AUS_M1A1/BP_AUS_M1A1.BP_AUS_M1A1_C`
+
+- M1A1 Desert USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/M1A1_USMC/BP_M1A1_USMC.BP_M1A1_USMC_C`
+
+- M1A1 Woodland USMC 
+
+    `AdminCreateVehicle /Game/Vehicles/M1A1_USMC/BP_M1A1_USMC_Woodland.BP_M1A1_USMC_Woodland_C`
 
 ## T-62 
 
@@ -1042,17 +1039,11 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C`
 
-## MLRS BM21-GRAD 
+- Spawn Helicopter 
 
-- BM21 Grad 
+    ``
 
-    `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_MIL.BP_BM21Grad_MIL_C`
-
-- BM21 Grad 
-
-    `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_INS.BP_BM21Grad_INS_C`
-
-## Mi-8 / Mi-17 
+## Mi-8 / Mi-17 "Hip" 
 
 - MI-8 Russian 
 
@@ -1062,7 +1053,7 @@
 
     `AdminCreateVehicle /Game/Vehicles/MI17/BP_MI17_MEA.BP_MI17_MEA_C`
 
-## UH-60M 
+## UH-60M "Blackhawk" 
 
 - UH-60M 
 
@@ -1071,6 +1062,16 @@
 - UH-60M Australian 
 
     `AdminCreateVehicle /Game/Vehicles/AUS_UH60M/BP_UH60_AUS.BP_UH60_AUS_C`
+
+## UH-1Y "Venom" 
+
+- UH-1Y 
+
+    `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C`
+
+- CAS UH-1Y 
+
+    `[Removed, Not Working] AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y_CAS.BP_UH1Y_CAS_C`
 
 ## SA330 
 
@@ -1090,17 +1091,21 @@
 
     `AdminCreateVehicle /Game/Vehicles/CH146/BP_CH146.BP_CH146_C`
 
-## UH-1Y 
-
-- UH-1Y 
-
-    `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C `
-
 ## Z-8G 
 
 - Z-8G 
 
     `AdminCreateVehicle /Game/Vehicles/Z8G/BP_Z8G.BP_Z8G_C`
+
+## BM21-GRAD MLRS 
+
+- BM21 Grad 
+
+    `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_MIL.BP_BM21Grad_MIL_C`
+
+- BM21 Grad 
+
+    `AdminCreateVehicle /Game/Vehicles/BM21Grad/BP_BM21Grad_INS.BP_BM21Grad_INS_C`
 
 ## RHIB 
 
@@ -1135,4 +1140,22 @@
 - RHIB Logistics 
 
     `AdminCreateVehiccle /Game/Vehicles/RHIB/BP_RHIB_Logistics.BP_RHIB_Logistics_C`
+
+## Minsk Motorbike 
+
+- Minsk Motorbike Red 
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_minsk.BP_minsk_C`
+
+- Minsk Motorbike Black 
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_black.BP_Minsk_black_C`
+
+- Minsk Motorbike Blue 
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_blue.BP_Minsk_blue_C`
+
+- Minsk Motorbike Green 
+
+    `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`
 
