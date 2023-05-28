@@ -1,5 +1,5 @@
-sourcefile = open("Source.txt", "r", encoding="utf-8", errors="ignore")
-outputfile = open("finished.md", "w", encoding="utf-8")
+sourcefile = open("./scripts/DeployableDataConverter/Source.txt", "r", encoding="utf-8", errors="ignore")
+outputfile = open("./scripts/DeployableDataConverter/finished.md", "w", encoding="utf-8")
 
 for sourceline in sourcefile.readlines():
     if '#' in sourceline:

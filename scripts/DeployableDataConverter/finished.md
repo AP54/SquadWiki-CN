@@ -52,6 +52,10 @@
 
 ## HABs 
 
+- GB_Hab 
+
+    `[NOT WORKING] - AdminCreateDeployable /Game/Gameplay/Deployables/HABs/GB/GB_Hab.GB_Hab_C`
+
 - INS_Hab 
 
     `AdminCreateDeployable /Game/Gameplay/Deployables/HABs/Ins/INS_Hab.INS_Hab_C`
@@ -446,7 +450,7 @@
 
     `AdminCreateDeployable /Game/Vehicles/Emplaced_HJ-8ATGM/BP_HJ-8ATGM_Deployable.BP_HJ-8ATGM_Deployable_C`
 
-## Fixed Weapons
+## Fixed Weapons 
 
 - DShK 
 

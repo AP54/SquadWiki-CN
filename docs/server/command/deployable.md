@@ -2,7 +2,7 @@
 
 部署物可以通过部署命令在您的位置生成，由此生成的部署物不属于任何阵营。
 
-当前版本：[V4.3](/update/v4.3/release-notes)
+当前版本：[V4.5](/update/v4.5/release-notes)
 
 !!! warning "Squad 仅允许在**自定义服务器**或**本地服务器**中生成部署物。"
 
@@ -22,9 +22,9 @@
 
     `AdminCreateDeployable /Game/Gameplay/Deployables/Radios/MEA/BP_FOBRadio_MEA.BP_FOBRadio_MEA_C`
 
-- IMF
+- IMF 【无法生效的】
 
-    `AdminCreateDeployable /Game/Gameplay/Deployables/Radios/MIL/BP_FOBRadio_MIL.BP_FOBRadio_MIL_C`
+    `AdminCreateDeployable /Game/Gameplay/Deployables/HABs/GB/GB_Hab.GB_Hab_C`
 
 - RGF
 

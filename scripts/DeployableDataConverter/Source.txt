@@ -13,6 +13,7 @@ BP_MilitiaAmmocrate:AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/
 BP_rus_Ammocrate:AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_rus_Ammocrate.BP_rus_Ammocrate_C
 BP_rus_DE_Ammocrate:AdminCreateDeployable /Game/Gameplay/Deployables/Ammocrates/BP_rus_DE_Ammocrate.BP_rus_DE_Ammocrate_C
 HABs#
+GB_Hab:[NOT WORKING] - AdminCreateDeployable /Game/Gameplay/Deployables/HABs/GB/GB_Hab.GB_Hab_C
 INS_Hab:AdminCreateDeployable /Game/Gameplay/Deployables/HABs/Ins/INS_Hab.INS_Hab_C
 MEA_Hab:AdminCreateDeployable /Game/Gameplay/Deployables/HABs/MEA/MEA_Hab.MEA_Hab_C
 Mil_hab:AdminCreateDeployable /Game/Gameplay/Deployables/HABs/Mil/Mil_hab.Mil_hab_C
