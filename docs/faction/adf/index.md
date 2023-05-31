@@ -64,7 +64,6 @@
     - Automatic Rifleman
     - Grenadier
     - Light Anti-Tank
-    - Marksman
 
 - Specialist | 设备专家
 
