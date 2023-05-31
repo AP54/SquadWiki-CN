@@ -87,7 +87,7 @@
 ### 武器
 
 
-Small Arms:
+- Small Arms:
 
     - L131A1 ⇒ Pistol
     - L85A2 ⇒ Assault Rifle
@@ -98,7 +98,7 @@ Small Arms:
     - L128A1 ⇒ Shotgun
     - L129A1 ⇒ Sharpshooter Rifle
 
-Grenades And Launchers:
+- Grenades And Launchers:
 
     - L109A1 ⇒ Fragmentation Grenade
     - L123A2 ⇒ Underslung Grenade Launcher
@@ -107,7 +107,8 @@ Grenades And Launchers:
     - M72A7 LAW ⇒ Rocket Launcher
     - NLAW ⇒ Rocket Launcher
 
-Emplacements:
+- Emplacements:
+    
     - BGM-71 TOW ⇒ Rocket Launcher
     - L16A2 81mm ⇒ Mortar
     - L111A1 ⇒ Heavy Machine Gun
@@ -122,7 +123,7 @@ Emplacements:
     
     - HX60 Logistics Truck
 
--Light Attack and Recons
+- Light Attack and Recons
     
     - FV107 CVR(T)
 
