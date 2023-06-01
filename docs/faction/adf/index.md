@@ -78,38 +78,6 @@
 
 [兵种详情点我](./kit){.md-button .md-button--primary}
 
-### 武器
-
-- Small Arms
-
-    - EF88 - Assault Rifle
-    - EF88C - Carbine
-    - HK417 - Designated Marksman Rifle
-    - F89 Minimi - Light Machine Gun
-    - Maximi - General Purpose Machine Gun
-    - Self-Loading Pistol Mk3 - Pistol
-
-- 颗 and Launchers
-
-    - M18 - Smoke 颗
-    - F1 - 破片手榴弹 颗
-    - SL40 - Underbarrel 颗 Launcher
-    - M72A7 LAW - 发 Launcher
-    - M3 古斯塔夫无后座力炮- Recoilless Rifle
-
-- Emplacements
-
-    - M2A1 - Heavy Machine Gun
-    - BGM-71 TOW - Anti-Tank Guided Missile Launcher
-    - M252 81mm - Mortar
-
-- Equipment
-
-    - SOCP Knife - Bayonet
-    - E-Tool - 工程师加固工具
-    - M15 - 反坦克地雷
-    - M112 C4 - 炸药
-    - 战地望远镜 - Binoculars
 
 ### Vehicles
 
