@@ -202,10 +202,10 @@
         - MPL50 工兵铲
         - 弹药包
 
-### Ambusher
+### Ambusher | 伏击兵
 
-???+ quote "Ambusher"
-    === "Ambusher 01"
+???+ quote "伏击兵"
+    === "伏击兵 01"
 
         - FN FAL, 6 个弹匣
         - G3 刺刀
@@ -216,7 +216,7 @@
         - Soviet 战地望远镜
         - Infantry Camo Netting
 
-    === "Ambusher 02"
+    === "伏击兵 02"
 
         - M4, 7 个弹匣
         - M9 刺刀
@@ -245,10 +245,10 @@
 
 ## Fire Support | 火力支援
 
-### Infiltrator | 伏击兵
+### Infiltrator | 潜袭兵
 
-???+ quote "伏击兵 01"
-    === "伏击兵 01"
+???+ quote "潜袭兵 01"
+    === "潜袭兵 01"
 	
        - AKS-74U + Banana Mag, 6 个弹匣
        - Vz. 61 Škorpion, 3 个弹匣

@@ -178,12 +178,12 @@
         - MPL50 工兵铲
         - 弹药包	
 		
-### Raider
+### Raider | 突击兵
 
-???+ quote "Raider"
-    === "Raider 01"	
+???+ quote "突击兵"
+    === "突击兵 01"	
 	
-        - PPSh-41, 4 stick 个弹匣, 2 个弹鼓
+        - PPSh-41, 4 个弹匣, 2 个弹鼓
         - PM Makarov, 4 个弹匣
         - AKM 刺刀
         - RKG-3 Anti-Tank 颗, 4 颗

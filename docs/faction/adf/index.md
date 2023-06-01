@@ -43,40 +43,14 @@
 
 ### 兵种
 
-[兵种详情点我](./kit){.md-button .md-button--primary}
-
-- Command And Support | 指挥辅助
-
-    - Squad Leader
-    - Lead Crewman
-    - Lead Pilot
-    - Medic
-    - Crewman
-    - Pilot
-
-- Direct Combat | 直接战斗
-
-    - Rifleman
-    - Automatic Rifleman
-
-- Fire Support | 火力支援
-
-    - Automatic Rifleman
-    - Grenadier
-    - Light Anti-Tank
-
-- Specialist | 设备专家
-
-    - Machine Gunner
-    - Heavy Anti-Tank
-    - Combat Engineer
-
-- Miscellaneous
-
-    - Recruit
-    - Unarmed
-
-[兵种详情点我](./kit){.md-button .md-button--primary}
+|指挥辅助|直接战斗|火力支援|设备专家|其它|
+|:-----:|:-----:|:-----:|:-----:|:---:|
+|[![squad-leader](/img/kit_icons/squad_leader.png){width="60" height="60" loading="lazy"}](./kit/#squad-leader)|[![rifleman](/img/kit_icons/rifleman.png){width="60" height="60" loading="lazy"}](./kit/#rifleman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](./kit/#automatic-rifleman_1)|[![machine-gunner](/img/kit_icons/machine_gunner.png){width="60" height="60" loading="lazy"}](./kit/#machine-gunner)|[![recruit](/img/kit_icons/recruit.png){width="60" height="60" loading="lazy"}](./kit/#recruit)|
+|[![lead-crewman](/img/kit_icons/lead_crewman.png){width="60" height="60" loading="lazy"}](./kit/#lead-crewman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](./kit/#automatic-rifleman)|[![grenadier](/img/kit_icons/grenadier.png){width="60" height="60" loading="lazy"}](./kit/#grenadier)|[![hat](/img/kit_icons/heavy_anti-tank.png){width="60" height="60" loading="lazy"}](./kit/#heavy-anti-tank)|[![unarmed](/img/kit_icons/unarmed.png){width="60" height="60" loading="lazy"}](./kit/#unarmed)|
+|[![lead-pilot](/img/kit_icons/lead_pilot.jpg){width="60" height="60" loading="lazy"}](./kit/#lead-pilot)||[![lat](/img/kit_icons/light_anti-tank.png){width="60" height="60" loading="lazy"}](./kit/#light-anti-tank)|[![combat-engineer](/img/kit_icons/combat_engineer.png){width="60" height="60" loading="lazy"}](./kit/#combat-engineer)||
+|[![medic](/img/kit_icons/medic.png){width="60" height="60" loading="lazy"}](./kit/#medic)||[![marksman](/img/kit_icons/marksman.png){width="60" height="60" loading="lazy"}](./kit/#marksman)|||
+|[![crewman](/img/kit_icons/crewman.png){width="60" height="60" loading="lazy"}](./kit/#crewman)|||||
+|[![pilot](/img/kit_icons/pilot.jpg){width="60" height="60" loading="lazy"}](./kit/#pilot)|||||
 
 
 ### Vehicles
