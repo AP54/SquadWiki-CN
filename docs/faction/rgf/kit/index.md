@@ -2,6 +2,15 @@
 
 > 页面贡献者：TL
 
+|指挥辅助|直接战斗|火力支援|设备专家|其它|
+|:-----:|:-----:|:-----:|:-----:|:---:|
+|[![squad-leader](/img/kit_icons/squad_leader.png){width="60" height="60" loading="lazy"}](#squad-leader)|[![rifleman](/img/kit_icons/rifleman.png){width="60" height="60" loading="lazy"}](#rifleman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](#automatic-rifleman_1)|[![machine-gunner](/img/kit_icons/machine_gunner.png){width="60" height="60" loading="lazy"}](#machine-gunner)|[![recruit](/img/kit_icons/recruit.png){width="60" height="60" loading="lazy"}](#recruit)|
+|[![lead-crewman](/img/kit_icons/lead_crewman.png){width="60" height="60" loading="lazy"}](#lead-crewman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](#automatic-rifleman)|[![grenadier](/img/kit_icons/grenadier.png){width="60" height="60" loading="lazy"}](#grenadier)|[![hat](/img/kit_icons/heavy_anti-tank.png){width="60" height="60" loading="lazy"}](#heavy-anti-tank)|[![unarmed](/img/kit_icons/unarmed.png){width="60" height="60" loading="lazy"}](#unarmed)|
+|[![lead-pilot](/img/kit_icons/lead_pilot.jpg){width="60" height="60" loading="lazy"}](#lead-pilot)||[![lat](/img/kit_icons/light_anti-tank.png){width="60" height="60" loading="lazy"}](#light-anti-tank)|[![combat-engineer](/img/kit_icons/combat_engineer.png){width="60" height="60" loading="lazy"}](#combat-engineer)||
+|[![medic](/img/kit_icons/medic.png){width="60" height="60" loading="lazy"}](#medic)||[![marksman](/img/kit_icons/marksman.png){width="60" height="60" loading="lazy"}](#marksman)|||
+|[![crewman](/img/kit_icons/crewman.png){width="60" height="60" loading="lazy"}](#crewman)|||||
+|[![pilot](/img/kit_icons/pilot.jpg){width="60" height="60" loading="lazy"}](#pilot)|||||
+
 ## Command And Support | 指挥辅助
 
 ### Squad Leader | 小队长
@@ -85,7 +94,7 @@
         - RDG2 白色烟雾弹, 2 颗
         - RDG2 橙色烟雾弹, 2 颗
         - 战地止血带, 9 个
-        - Medical Kit
+        - 医疗装备
         - MPL50 工兵铲
         - Russian 战地望远镜
 
@@ -97,7 +106,7 @@
         - RDG2 白色烟雾弹, 2 颗
         - RDG2 橙色烟雾弹, 2grenades
         - 战地止血带, 9 个
-        - Medical Kit
+        - 医疗装备
         - MPL50 工兵铲
 
 ### Crewman | 载具组员

@@ -2,6 +2,15 @@
 
 > 页面贡献者：SakuraLove
 
+|指挥辅助|直接战斗|火力支援|设备专家|其它|
+|:-----:|:-----:|:-----:|:-----:|:---:|
+|[![squad-leader](/img/kit_icons/squad_leader.png){width="60" height="60" loading="lazy"}](#squad-leader)|[![rifleman](/img/kit_icons/rifleman.png){width="60" height="60" loading="lazy"}](#rifleman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](#automatic-rifleman_1)|[![machine-gunner](/img/kit_icons/machine_gunner.png){width="60" height="60" loading="lazy"}](#machine-gunner)|[![recruit](/img/kit_icons/recruit.png){width="60" height="60" loading="lazy"}](#recruit)|
+|[![lead-crewman](/img/kit_icons/lead_crewman.png){width="60" height="60" loading="lazy"}](#lead-crewman)|[![automatic-rifleman](/img/kit_icons/automatic_rifleman.png){width="60" height="60" loading="lazy"}](#automatic-rifleman)|[![grenadier](/img/kit_icons/grenadier.png){width="60" height="60" loading="lazy"}](#grenadier)|[![hat](/img/kit_icons/heavy_anti-tank.png){width="60" height="60" loading="lazy"}](#heavy-anti-tank)|[![unarmed](/img/kit_icons/unarmed.png){width="60" height="60" loading="lazy"}](#unarmed)|
+|[![lead-pilot](/img/kit_icons/lead_pilot.jpg){width="60" height="60" loading="lazy"}](#lead-pilot)||[![lat](/img/kit_icons/light_anti-tank.png){width="60" height="60" loading="lazy"}](#light-anti-tank)|[![combat-engineer](/img/kit_icons/combat_engineer.png){width="60" height="60" loading="lazy"}](#combat-engineer)||
+|[![medic](/img/kit_icons/medic.png){width="60" height="60" loading="lazy"}](#medic)||[![marksman](/img/kit_icons/marksman.png){width="60" height="60" loading="lazy"}](#marksman)|||
+|[![crewman](/img/kit_icons/crewman.png){width="60" height="60" loading="lazy"}](#crewman)|||||
+|[![pilot](/img/kit_icons/pilot.jpg){width="60" height="60" loading="lazy"}](#pilot)|||||
+
 ## Command And Support | 指挥辅助
 
 ### Squad Leader | 小队长
@@ -13,7 +22,6 @@
         - QSZ92, 2 个弹匣
         - QNL95 刺刀
         - Type 86P 破片手榴弹, 2 颗
-        - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - DFS161 红色烟雾弹, 1 颗
         - DFS161 蓝色烟雾弹, 1 颗
@@ -27,7 +35,6 @@
         - QSZ92, 2 个弹匣
         - QNL95 刺刀
         - Type 86P 破片手榴弹, 2 颗
-        - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - DFS161 红色烟雾弹, 1 颗
         - DFS161 蓝色烟雾弹, 1 颗
@@ -40,7 +47,6 @@
         - QBZ95‑1 + YMA600, 6 个弹匣
         - QSZ92, 2 个弹匣
         - QNL95 刺刀
-        - Type 86P 破片手榴弹, 2 颗
         - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - DFS161 红色烟雾弹, 1 颗
@@ -89,7 +95,7 @@
         - DSF161 白色烟雾弹, 2 颗
         - DSF161 蓝色烟雾弹, 2 颗
         - 战地止血带, 9 个
-        - Medical Kit
+        - 医疗装备
         - WJQ308 工兵锹
         - Type 95 望远镜
 
@@ -98,11 +104,10 @@
         - QBZ95‑1 + YMA600, 6 个弹匣
         - QSZ92, 2 个弹匣
         - QNL95 刺刀
-        - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - DSF161 蓝色烟雾弹, 2 颗
         - 战地止血带, 9 个
-        - Medical Kit
+        - 医疗装备
         - WJQ308 工兵锹
 
 ### Crewman | 载具组员
@@ -142,7 +147,6 @@
         - QBZ95‑1, 7 个弹匣
         - QNL95 刺刀
         - Type 86P 破片手榴弹, 2 颗
-        - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
         - WJQ308 工兵锹
@@ -154,7 +158,6 @@
         - QBZ95‑1 + Holo Sight, 7 个弹匣
         - QNL95 刺刀
         - Type 86P 破片手榴弹, 2 颗
-        - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
         - WJQ308 工兵锹
@@ -165,7 +168,6 @@
 
         - QBZ95‑1 + YMA600, 6 个弹匣
         - QNL95 刺刀
-        - Type 86P 破片手榴弹, 2 颗
         - Type 86P 破片手榴弹, 1 颗
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
@@ -197,7 +199,6 @@
         - QSZ92, 2 个弹匣
         - QNL95 刺刀
         - DSF161 白色烟雾弹, 2 颗
-        - DSF161 白色烟雾弹, 2 颗
         - WJQ308 工兵锹
 
 ### Grenadier | 榴弹兵
@@ -221,7 +222,7 @@
 
         - QBZ95‑1 + Holo Sight, 7 个弹匣
         - QNL95 刺刀
-        - DZJ08 Multipurpose Assault Munition, 1 发
+        - DZJ08 多用途突击弹, 1 发
         - Type 86P 破片手榴弹, 2 颗
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
@@ -232,7 +233,7 @@
 
         - QBZ95‑1 + YMA600, 6 个弹匣
         - QNL95 刺刀
-        - DZJ08 Multipurpose Assault Munition, 1 发
+        - DZJ08 多用途突击弹, 1 发
         - Type 86P 破片手榴弹, 2 颗
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
@@ -273,15 +274,6 @@
         - QBZ95B‑1, 4 个弹匣
         - QNL95 刺刀
         - PF98 串联高爆反坦克武器, 1 发
-        - DSF161 白色烟雾弹, 2 颗
-        - 战地止血带, 2 个
-        - WJQ308 工兵锹
-        - Type 95 望远镜
-
-    === "重型反坦克手 02"
-
-        - QBZ95B‑1, 4 个弹匣
-        - QNL95 刺刀
         - PF98 多用高爆燃烧弹, 1 发
         - DSF161 白色烟雾弹, 2 颗
         - 战地止血带, 2 个
