@@ -2,7 +2,7 @@
 
 此页面列出了 Squad 中所有可生成载具的部署命令，您可以直接从 Wiki 复制粘贴到游戏控制台中，不必手动输入。
 
-当前版本：[V4.5](/update/v4.5/release-notes/)
+当前版本：[V5.0](/update/v4.5/release-notes/)
 
 !!! warning 
     您只能在具有 **featuretest** 管理员权限的**自定义服务器**或者**本地服务器**上生成载具。
@@ -949,6 +949,58 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C`
 
+### ZBD05
+
+- ZBD05 IFV 海洋涂装
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZBD05.BP_ZBD05_C`
+
+- ZBD05 HJ73C IFV 海洋涂装
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZBD05_HJ73C.BP_ZBD05_HJ73C_C`
+
+### ZSD05 
+
+- ZSD05 APC 海洋涂装
+
+   `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89.BP_ZSD05_QJZ-89_C`
+
+- ZSD-05 补给型 海洋涂装
+  
+    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_Logi.BP_ZSD05_Logi_C`
+
+### BTR-D 
+
+- BTR-D 林地涂装 运输型
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Transport.BP_BTR-D_Transport_C`
+
+- BTR-D Kord APC 林地涂装
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Kord.BP_BTR-D_Kord_C`
+
+### BTR-DG
+
+- BTR-DG 林地涂装 补给型
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-DG_Logistics.BP_BTR-DG_Logistics_C`
+
+### BTR-MDM
+
+- BTR-MDM PKT RWS APC 林地涂装 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS.BP_BTRMDM_PKT_RWS_C`
+
+### BMD
+
+- BMD-1M 林地涂装
+  
+    `AdminCreateVehicle /Game/Vehicles/BMD-1M/BP_BMD1M.BP_BMD1M_C`
+
+- BMD-4M 林地涂装
+  
+    `AdminCreateVehicle /Game/Vehicles/BMD-4M/BP_BMD4M.BP_BMD4M_C`
+
 ## MBT | 主战坦克
 
 ### FV4034 
@@ -1049,6 +1101,20 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C`
 
+## 突击炮
+
+### ZTD05 MGS
+
+- ZTD05 MGS 海洋涂装
+  
+    `AdminCreateVehicle /Game/Vehicles/ZTD05/BP_ZTD05.BP_ZTD05_C`
+
+### Sprut-SDM1 MGS
+
+- Sprut-SDM1 MGS 林地涂装
+  
+   `AdminCreateVehicle /Game/Vehicles/Sprut-SDM1/BP_Sprut.BP_Sprut_C`
+   
 ## MLRS | 多管火箭发射系统
 
 ### MLRS BM21-GRAD 
@@ -1112,6 +1178,12 @@
 - Z-8G 
 
     `AdminCreateVehicle /Game/Vehicles/Z8G/BP_Z8G.BP_Z8G_C`
+
+### Z-8J
+
+- Z-8J
+
+    `AdminCreateVehicle /Game/Vehicles/Z8J/BP_Z8J.BP_Z8J_C`
 
 ## Boat | 船
 
