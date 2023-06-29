@@ -81,7 +81,7 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS VDV
 
 初始票数： 300  -  300
 
@@ -94,13 +94,13 @@
     - Coyote *2
     - CH-146 *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MA *1
-    - BTR-82A *2
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *1
     - Mi-8 *1
 
 
@@ -114,25 +114,25 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USMC 载具"
     - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 Open Doors *1
-    - M1151 M2 *1
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
+    - M1151 M2 *2
     - AAVP-7A1 *1
     - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - MT-LBM 6MB *1
-    - BTR-82A *2
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - BTR-DG Logistics *3
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
     - Mi-8 *2
 
 
@@ -245,31 +245,35 @@
 
 旗点数量： 6
 
-双方阵营： RGF VS IMF
+双方阵营： VDV VS IMF
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
-    - BTR-80 *1
+??? abstract "VDV 载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *1
-    - BMP-2 *2
-    - Tigr-M Kord *1
-    - Mi-8 *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-D Kord APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
 
-??? abstract "IMF 载具"
-    - BMP-1 ZU-23-2 *1
-    - Ural-375D Logistics *3
-    - Ural-375D Transport *1
-    - Technical SPG-9 *1
-    - BRDM-2 *1
-    - Technical DShK Shielded *2
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - MT-LBM 6MB *1
+    - MT-LB ZU-23-2 *1
     - T-62 *1
-    - Logistics Modern Pickup Truck *2
-    - Technical UB-32 *2
-    - BMP-1 *1
-    - Minsk 400 *1
+    - BM-21 Grad *1
 
 
 ### Gorodok Invasion v3
@@ -385,25 +389,25 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USA 载具"
-    - M939 Logistics *3
     - M939 Transport *1
-    - M2A3 *1
-    - M1126 CROWS M2 *1
-    - M-ATV M2 *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M2A3 *2
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Logistics *3
-    - BMP-2 *1
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - BTR-82A *1
-    - Tigr-M Kord *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
     - T-72B3 *1
     - Mi-8 *1
 
@@ -482,7 +486,7 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS PLANMC
 
 初始票数： 350  -  350
 
@@ -495,14 +499,15 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - BMP-2 *1
-    - T-72B3 *1
-    - Mi-8 *2
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *1
+    - ZSD05 Logistics *2
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *2
 
 
 ### Gorodok RAAS v7

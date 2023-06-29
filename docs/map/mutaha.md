@@ -405,26 +405,29 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS vdv
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
 ??? abstract "CAF 载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
-    - M113A3 TLAV *2
-    - Coyote *1
-    - Leopard 2A6M CAN *3
+    - MSVS Logistics *2
+    - LUVW C6 *2
+    - M113A3 TLAV *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - MT-LBM 6MA *1
-    - MT-LB VMK *1
-    - MT-LBM 6MB *1
-    - T-72B3 *3
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
     - Mi-8 *1
+
 
 
 ### Mutaha RAAS v5

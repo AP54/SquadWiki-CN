@@ -106,6 +106,72 @@
     - Mi-8 *1
 
 
+### Manicouagan AAS v4
+
+切换代码： `AdminChangeLayer Manicouagan_AAS_v4`
+
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v4`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "USMC 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *3
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *3
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *1
+
+
+### Manicouagan AAS v5
+
+切换代码： `AdminChangeLayer Manicouagan_AAS_v5`
+
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v5`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USA] VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "USA 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *2
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - T-72B3 *1
+    - Mi-8 *1
+
+
 ### Manicouagan Invasion v1
 
 切换代码： `AdminChangeLayer Manicouagan_Invasion_v1`
@@ -356,6 +422,87 @@
     - Modern Technical UB-32 *1
     - BM-21 Grad *1
     - T-62 *1
+
+
+### Manicouagan Invasion v8
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v8`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v8`
+
+光照情况： 暴雨
+
+旗点数量： 5
+
+双方阵营： USA VS VDV
+
+初始票数： 800  -  200
+
+??? abstract "USA 载具"
+    - M939 Transport *1
+    - M939 Logistics *4
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
+    - M-ATV TOW *1
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+    - RHIB M2 *1
+    - RHIB Logistics *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - Tigr-M Kord *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan Invasion v9
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v9`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v9`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "USMC 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *3
+    - M1151 CROWS M2 *1
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+    - RHIB Logistics *1
+    - RHIB M2 *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 APC *1
+    - ZBL08 HJ73C IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *1
 
 
 ### Manicouagan RAAS v1

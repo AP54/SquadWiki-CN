@@ -107,3 +107,50 @@
     - Mi-8 *1
     - RHIB NSV *1
     - RHIB Logistics *1
+
+### Pacific Proving Grounds v3
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_PLANMC-VDV`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_PLANMC-VDV`
+
+光照情况： 黎明
+
+旗点数量： 2
+
+双方阵营： PLANMC VS VDV
+
+初始票数： 99999  -  99999
+
+??? abstract "PLANMC 载具"
+    - CTM131 Logistics *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Transport QJY88 *1
+    - CSK131 QJC88 RWS *1
+    - CSK131 QJY88 *2
+    - ZSD05 Logistics *1
+    - ZSD05 APC *1
+    - ZSL10 APC *1
+    - ZBL08 IFV *1
+    - ZBL08 HJ73C IFV *1
+    - ZBD05 IFV *1
+    - ZBD05 HJ73C IFV *1
+    - ZTD05 MGS *1
+    - Z-8J *1
+    - RHIB QJZ89 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-D Transport *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+    - BRDM-2 *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+    - RHIB NSV *1

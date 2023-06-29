@@ -296,7 +296,7 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS PLA
 
 初始票数： 350  -  350
 
@@ -310,15 +310,15 @@
     - M1A1 *2
     - UH-1Y *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MB *2
-    - BTR-82A *2
-    - T-72B3 *2
-    - Mi-8 *2
+??? abstract "PLA载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *2
+    - ZSD05 *1
+    - ZBD05 *2
+    - ZTZ99A *2
+    - Z-8G *2
 
 
 ### Yehorivka RAAS v2
@@ -331,22 +331,28 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USA 载具"
-    - M-ATV CROWS M2 *1
-    - M939 Logistics *3
-    - M-ATV M2 *1
     - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M1126 CROWS M240 *1
+    - M1126 CROWS M2 *3
+    - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Logistics *3
-    - BRDM-2 *1
-    - Tigr-M RWS Kord *1
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
     - Mi-8 *2
 
 
@@ -425,25 +431,24 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS PLA
 
 初始票数： 350  -  350
 
 ??? abstract "USA 载具"
-    - M-ATV M2 *2
+    - M939 Transport *1
     - M939 Logistics *3
     - M1126 CROWS M2 *3
-    - M939 Transport *1
+    - M-ATV M2 *3
     - UH-60M *2
 
-??? abstract "RGF 载具"
-    - BTR-82A *2
-    - KamAZ 5350 Logistics *3
-    - BTR-80 *2
-    - BRDM-2 *1
-    - Tigr-M RWS Kord *1
-    - KamAZ 5350 Transport *1
-    - Mi-8 *2
+??? abstract "PLA 载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *2
+    - ZSD05 Logistics *1
+    - ZSD05 *4
+    - ZBL08 *2
+    - Z-8G *2
 
 
 ### Yehorivka RAAS v6
@@ -595,28 +600,29 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： BAF VS VDV
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - TAPV C6 *1
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *1
-    - CH-146 *1
+??? abstract "BAF 载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - FV432 *1
+    - FV432 RWS *1
+    - FV510 *2
+    - FV510 UA *1
+    - FV4034 *1
+    - SA330 *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - BTR-80 *1
-    - BTR-82A *1
-    - T-72B3 *1
+    - BTR-DG Logistics *2
+    - BTR-D Transport *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
     - Mi-8 *3
 
 
@@ -632,27 +638,28 @@
 
 双方阵营： CAF VS RGF
 
-初始票数： 350  -  350
+初始票数： 350  - VDV
 
 ??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *2
+    - LUVW Transport *2
+    - MSVS Logistics *1
+    - LUVW Logistics *1
+    - LUVW C6 *2
     - TAPV M2 *1
-    - M113A3 TLAV *1
-    - Coyote *1
     - LAV 6 *2
-    - Leopard 2A6M CAN *2
+    - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MA *1
-    - BTR-82A *3
-    - T-72B3 *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
     - Mi-8 *2
 
 

@@ -166,7 +166,7 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS VDV
 
 初始票数： 800  -  200
 
@@ -177,14 +177,15 @@
     - M1126 CROWS M2 *2
     - M2A3 *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - BTR-80 *1
-    - BTR-82A *2
-    - BMP-2 *1
+    - KamAZ 5350 Logistics *2
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
 
 
 ### Narva Invasion v2
@@ -358,25 +359,28 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USMC 载具"
     - M939 Transport *1
-    - M939 Logistics *3
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
     - M1151 M2 *2
-    - M1151 M2 Open Doors *1
     - AAVP-7A1 *1
     - LAV-25 *2
     - M1A1 *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-80 *1
-    - BTR-82A *3
+    - KamAZ 5350 Logistics *2
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
     - T-72B3 *1
 
 
@@ -506,6 +510,36 @@
     - ZSL-10 *1
     - ZBL-08 *2
     - ZTZ-99A *1
+
+
+### Narva RAAS v7
+
+切换代码： `AdminChangeLayer Narva_RAAS_v7`
+
+预设代码： `AdminSetNextLayer Narva_RAAS_v7`
+
+光照情况： 正午&多云
+
+旗点数量： 5
+
+双方阵营： USA VS RGF
+
+初始票数： 300  -  300
+
+??? abstract "USA 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - UH-60M *1
+
+??? abstract "RGF载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M RWS Kord *1
+    - BTR-80 *1
+    - BTR-82A *2
+    - Mi-8 *1
 
 
 ### Narva Skirmish v1

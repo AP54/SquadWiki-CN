@@ -17,26 +17,26 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
 初始票数： 250  -  250
 
 ??? abstract "USMC 载具"
     - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
     - M1151 M2 *3
-    - M1151 CROWS M2 *1
+    - AAVP-7A1 *1
     - LAV-25 *2
     - UH-1Y *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - BTR-DG Logistics *2
+    - KamAZ 5350 Logistics *1
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
     - Mi-8 *1
 
 
@@ -234,32 +234,35 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS PLANMC
 
 初始票数： 200  -  900
 
 ??? abstract "CAF 载具"
     - MSVS Transport *1
-    - MSVS Logistics *1
-    - LUVW Logistics *2
-    - LUVW M2 *2
-    - TAPV M2 *1
+    - MSVS Logistics *3
+    - LUVW M2 *1
+    - TAPV M2 *2
+    - LAV III M2 RWS *1
     - M113A3 TLAV *1
     - Coyote *1
     - LAV 6 *2
     - Leopard 2A6M CAN *1
-    - CH-146 *1
+    - CH-146 *2
     - RHIB Logistics *1
-    - RHIB Transport *1
-    - RHIB M2 *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - MT-LB Logistics *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *3
-    - BTR-82A *3
-    - T-72B3 *1
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *1
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *2
+    - RHIB Logistics *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
 
 
 ### Harju Invasion v5
@@ -332,7 +335,6 @@
     - BTR-80 *1
     - BTR-82A *2
     - Mi-8 *2
-
 
 ### Harju RAAS v2
 
@@ -425,7 +427,7 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS PLANMC
 
 初始票数： 300  -  300
 
@@ -435,7 +437,7 @@
     - RHIB M2 *1
     - MSVS Transport *1
     - MSVS Logistics *1
-    - LUVW Logistics *1
+    - LUVW Logistics *2
     - LUVW M2 *2
     - TAPV M2 *1
     - M113A3 TLAV *1
@@ -444,19 +446,19 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *1
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - BRDM-2 *1
-    - BTR-82A *2
-    - BMP-2 *1
-    - T-72B3 *1
-    - Mi-8 *2
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *1
+    - ZSD05 Logistics *2
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *2
     - RHIB Logistics *1
-    - RHIB PKP *1
-    - RHIB NSV *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
 
 
 ### Harju RAAS v5

@@ -255,3 +255,51 @@
     - T-72S *1
     - Mi-17 *1
 
+
+### Jensen's Training Range
+
+切换代码： `AdminChangeLayer JensensRange_PLANMC-VDV`
+
+预设代码： `AdminSetNextLayer JensensRange_PLANMC-VDV`
+
+光照情况： 正午
+
+旗点数量： 3
+
+双方阵营： PLANMC VS VDV
+
+初始票数： 99999  -  99999
+
+??? abstract "PLANMC载具"
+    - CTM131 Logistics
+    - CTM131 Transport QJY88
+    - CTM131 Transport QJZ89
+    - CSK131 QJY88
+    - CSK131 QJZ89
+    - CSK131 QJC88 RWS
+    - ZSD05 Logistics
+    - ZSD05 APC
+    - ZSL10 APC
+    - ZBL08
+    - ZBL08 HJ73C
+    - ZBD05 IFV
+    - ZBD05 HJ73C IFV
+    - ZTD05 MGS
+    - Z-8J
+  
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport
+    - KamAZ 5350 Logistics
+    - BTR-D Transport
+    - BTR-DG Logistics
+    - BTR-D Kord APC
+    - BTR-ZD Anti-Air
+    - BRDM-2
+    - BTR-MDM PKT RWS APC
+    - BTR-MDM PKT RWS APC
+    - BMD-1M IFV
+    - BMD-4M IFV
+    - Sprut-SDM1 MGS
+    - T-72B3
+    - Mi-8
+

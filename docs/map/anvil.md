@@ -247,27 +247,30 @@
 
 光照情况： 正午
 
-旗点数量： 9
+旗点数量： 6
 
-双方阵营： ADF VS RGF
+双方阵营： ADF VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "ADF 载具"
-    - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 *1
-    - PMV Mag58 x3 *1
+    - HX60 Transport *3
+    - HX60 Logistics *2
+    - PMV Mag58 x3 *2
     - ASLAV *2
-    - M1A1 *2
+    - M1A1 *1
     - MRH-90 *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - T-72B3 *2
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - T-72B3 *1
     - Mi-8 *1
 
 

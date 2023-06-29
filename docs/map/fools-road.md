@@ -45,22 +45,21 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： USA VS VDV
 
 初始票数： 250  -  250
 
 ??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M-ATV M2 *1
-    - M1126 CROWS M2 *3
     - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
 
-??? abstract "RGF 载具"
-    - BTR-80 *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
-    - KamAZ 5350 Transport *1
-    - Tigr-M RWS Kord *1
+??? abstract "VDV载具"
+    - BTR-D Kord APC *3
+    - BTR-DG Logistics *3
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
 
 
 ### Fool's Road Destruction v1

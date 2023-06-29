@@ -180,15 +180,15 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USA 载具"
-    - M939 Transport *3
-    - M939 Logistics *3
+    - M939 Transport *1
+    - M939 Logistics *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
 

@@ -179,28 +179,30 @@
 
 旗点数量： 4
 
-双方阵营： BAF VS RGF
+双方阵营： BAF VS VDV
 
-初始票数： 200  -  700
+初始票数： 200  -  800
 
 ??? abstract "BAF 载具"
+    - HX60 Transport *1
     - HX60 Logistics *3
-    - FV510 UA *1
-    - FV520 CTAS40 *1
     - FV432 *1
     - FV432 RWS *1
-    - HX60 Transport *1
+    - FV510 *1
+    - FV510 UA *2
     - FV4034 *1
     - SA330 *1
 
-??? abstract "RGF 载具"
-    - BTR-80 *1
-    - KamAZ 5350 Logistics *4
-    - BMP-2 *1
-    - BTR-82A *2
-    - BRDM-2 *1
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - T-72B3 *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BRDM-2 *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-D Kord APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
     - Mi-8 *1
 
 
@@ -214,27 +216,28 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： USA VS PLANMC
 
 初始票数： 300  -  300
 
 ??? abstract "USA 载具"
-    - M1A2 *1
-    - M939 Logistics *3
-    - M2A3 *1
-    - M1126 CROWS M2 *2
-    - M-ATV M2 *1
     - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
-    - BMP-2 *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
-    - T-72B3 *1
-    - Tigr-M Kord *1
-    - KamAZ 5350 Transport *1
-    - Mi-8 *1
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 IFV *1
+    - ZBD05 HJ73C IFV *1
+    - ZTD05 MGS *1
+    - Z-8J *1
 
 
 ### Belaya RAAS v2

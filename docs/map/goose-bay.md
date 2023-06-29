@@ -49,23 +49,27 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "CAF 载具"
     - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW C6 *6
-    - Coyote *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW C6 *4
+    - LAV 6 *1
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - BTR-82A *1
+    - BTR-DG Logistics *1
+    - KamAZ 5350 Logistics *2
+    - BTR-D Kord APC *2
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - Sprut-SDM1 MGS *1
     - T-72B3 *1
     - Mi-8 *1
 
@@ -147,25 +151,29 @@
 
 旗点数量： 3
 
-双方阵营： USA VS RGF
+双方阵营： USA VS PLANMC
 
 初始票数： 800  -  200
 
 ??? abstract "USA 载具"
-    - M939 Transport *2
+    - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *1
     - M-ATV M2 *1
     - M1126 CROWS M2 *2
+    - M2A3 *2
+    - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *2
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-80 *2
-    - MT-LBM 6MA *1
-    - Mi-8 *1
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - ZSD05 Logistics *1
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *3
+    - Z-8J *1
 
 
 ### Goose Bay Invasion v4
@@ -178,9 +186,9 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
-初始票数： 200  -  900
+初始票数： 200  -  800
 
 ??? abstract "USMC 载具"
     - RHIB Transport *1
@@ -193,12 +201,14 @@
     - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
+    - BTR-DG Logistics *1
+    - KamAZ 5350 Logistics *2
+    - BTR-D Kord APC *2
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *2
     - Mi-8 *1
 
 
@@ -249,27 +259,29 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS VDV
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
 ??? abstract "CAF 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
-    - LUVW M2 *2
-    - M113A3 TLAV *1
-    - Coyote *1
+    - LUVW C6 *2
+    - TAPV M2 *1
     - LAV 6 *2
-    - Leopard 2A6M CAN *2
+    - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *2
-    - MT-LBM 6MA *1
-    - BTR-82A *3
-    - T-72B3 *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
     - Mi-8 *2
 
 
@@ -285,7 +297,7 @@
 
 双方阵营： USA VS RGF
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
 ??? abstract "USA 载具"
     - M939 Transport *1
@@ -295,13 +307,15 @@
     - M1A2 *4
     - UH-60M *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BMP-2 *2
-    - T-72B3 *4
-    - Mi-8 *1
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *2
+    - CSK131 QJZ89 *1
+    - ZBD05 *1
+    - ZTD05 *2
+    - ZTZ99A *2
+    - Z-8J *1
 
 
 ### Goose Bay RAAS v3
