@@ -82,6 +82,10 @@
 
 - [Manicouagan AAS v3](/Map/manicouagan/#manicouagan-aas-v3)
 
+- [Manicouagan AAS v4](/Map/manicouagan/#manicouagan-aas-v4)
+
+- [Manicouagan AAS v5](/Map/manicouagan/#manicouagan-aas-v5)
+
 - [Mestia AAS v1](/Map/mestia/#mestia-aas-v1)
 
 - [Mestia AAS v2](/Map/mestia/#mestia-aas-v2)
@@ -114,7 +118,7 @@
 
 - [Sumari Bala AAS v5](/Map/sumari-bala/#sumari-bala-aas-v5)
 
-- [Tallil Outskirts AAS_v1](/Map/tallil-outskirts/#tallil-outskirts-aas_v1)
+- [Tallil Outskirts AAS v1](/Map/tallil-outskirts/#tallil-outskirts-aas-v1)
 
 - [Tallil Outskirts AAS v2](/Map/tallil-outskirts/#tallil-outskirts-aas-v2)
 
@@ -136,7 +140,7 @@
 
 - [Harju AAS v3](/Map/harju/#harju-aas-v3)
 
-AAS:68
+AAS:70
 
 ## Destruction
 
@@ -284,6 +288,10 @@ Insurgency:11
 
 - [Manicouagan Invasion v7](/Map/manicouagan/#manicouagan-invasion-v7)
 
+- [Manicouagan Invasion v8](/Map/manicouagan/#manicouagan-invasion-v8)
+
+- [Manicouagan Invasion v9](/Map/manicouagan/#manicouagan-invasion-v9)
+
 - [Mestia Invasion v1](/Map/mestia/#mestia-invasion-v1)
 
 - [Mestia Invasion v2](/Map/mestia/#mestia-invasion-v2)
@@ -340,6 +348,8 @@ Insurgency:11
 
 - [Black Coast Invasion v4](/Map/black-coast/#black-coast-invasion-v4)
 
+- [Black Coast Invasion v5](/Map/black-coast/#black-coast-invasion-v5)
+
 - [Harju Invasion v1](/Map/harju/#harju-invasion-v1)
 
 - [Harju Invasion v2](/Map/harju/#harju-invasion-v2)
@@ -350,7 +360,7 @@ Insurgency:11
 
 - [Harju Invasion v5](/Map/harju/#harju-invasion-v5)
 
-Invasion:86
+Invasion:89
 
 ## RAAS
 
@@ -498,6 +508,18 @@ Invasion:86
 
 - [Manicouagan RAAS v1](/Map/manicouagan/#manicouagan-raas-v1)
 
+- [Manicouagan RAAS v10](/Map/manicouagan/#manicouagan-raas-v10)
+
+- [Manicouagan RAAS v11](/Map/manicouagan/#manicouagan-raas-v11)
+
+- [Manicouagan RAAS v12](/Map/manicouagan/#manicouagan-raas-v12)
+
+- [Manicouagan RAAS v13](/Map/manicouagan/#manicouagan-raas-v13)
+
+- [Manicouagan RAAS v14](/Map/manicouagan/#manicouagan-raas-v14)
+
+- [Manicouagan RAAS v15](/Map/manicouagan/#manicouagan-raas-v15)
+
 - [Manicouagan RAAS v2](/Map/manicouagan/#manicouagan-raas-v2)
 
 - [Manicouagan RAAS v3](/Map/manicouagan/#manicouagan-raas-v3)
@@ -509,6 +531,10 @@ Invasion:86
 - [Manicouagan RAAS v6](/Map/manicouagan/#manicouagan-raas-v6)
 
 - [Manicouagan RAAS v7](/Map/manicouagan/#manicouagan-raas-v7)
+
+- [Manicouagan RAAS v8](/Map/manicouagan/#manicouagan-raas-v8)
+
+- [Manicouagan RAAS v9](/Map/manicouagan/#manicouagan-raas-v9)
 
 - [Mestia RAAS v1](/Map/mestia/#mestia-raas-v1)
 
@@ -539,6 +565,8 @@ Invasion:86
 - [Narva RAAS v5](/Map/narva/#narva-raas-v5)
 
 - [Narva RAAS v6](/Map/narva/#narva-raas-v6)
+
+- [Narva RAAS v7](/Map/narva/#narva-raas-v7)
 
 - [Skorpo RAAS v1](/Map/skorpo/#skorpo-raas-v1)
 
@@ -606,6 +634,8 @@ Invasion:86
 
 - [Black Coast RAAS v4](/Map/black-coast/#black-coast-raas-v4)
 
+- [Black Coast RAAS v5](/Map/black-coast/#black-coast-raas-v5)
+
 - [Harju RAAS v1](/Map/harju/#harju-raas-v1)
 
 - [Harju RAAS v2](/Map/harju/#harju-raas-v2)
@@ -618,13 +648,15 @@ Invasion:86
 
 - [Harju RAAS v6](/Map/harju/#harju-raas-v6)
 
-RAAS:132
+RAAS:142
 
 ## Seed
 
 - [Al Basrah Seed v1](/Map/al-basrah/#al-basrah-seed-v1)
 
 - [Fallujah Seed v1](/Map/fallujah/#fallujah-seed-v1)
+
+- [Goose Bay Seed v1](/Map/goose-bay/#goose-bay-seed-v1)
 
 - [Logar Seed v1](/Map/logar/#logar-seed-v1)
 
@@ -646,7 +678,7 @@ RAAS:132
 
 - [Harju Seed v1](/Map/harju/#harju-seed-v1)
 
-Seed:12
+Seed:13
 
 ## Skirmish
 
@@ -732,11 +764,13 @@ TA:4
 
 ## Tanks
 
+- [Mutaha Tanks v1](/Map/mutaha/#mutaha-tanks-v1)
+
 - [Tallil Outskirts Tanks v1](/Map/tallil-outskirts/#tallil-outskirts-tanks-v1)
 
 - [Tallil Outskirts Tanks v2](/Map/tallil-outskirts/#tallil-outskirts-tanks-v2)
 
-Tanks:2
+Tanks:3
 
 ## TC
 
@@ -818,15 +852,5 @@ TC:37
 
 ## Training
 
-- [Jensen's Training Range](/Map/jensens/#jensens-training-range)
-
-- [Jensen's Training Range](/Map/jensens/#jensens-training-range)
-
-- [Jensen's Training Range](/Map/ens/#jensens-training-range)
-
-- [Jensen's Training Range](/Map/jensens/#jensens-training-range)
-
-- [Jensen's Training Range](/Map/jensens/#jensens-training-range)
-
-Training:5
+Training:0
 

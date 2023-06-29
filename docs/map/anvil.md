@@ -17,24 +17,27 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： ADF VS PLA
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "ADF载具"
     - HX60 Transport *1
     - HX60 Logistics *3
-    - PMV Mag58 x3 *4
+    - PMV Mag58 x3 *3
     - PMV RWS M2 *2
+    - ASLAV *2
+    - M1A1 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *2
-    - BTR-80 *1
-    - Mi-8 *1
+??? abstract "PLA载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZSD05 *3
+    - ZBD05 *1
+    - ZTZ99A *1
+    - Z-8G *1
 
 
 ### Anvil AAS v2

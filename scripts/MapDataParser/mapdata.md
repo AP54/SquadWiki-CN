@@ -8,24 +8,27 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
-    - PMV Mag58 x3 *4
+    - PMV Mag58 x3 *3
     - PMV RWS M2 *2
+    - ASLAV *2
+    - M1A1 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *2
-    - BTR-80 *1
-    - Mi-8 *1
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *2
+    - ZSD05 *3
+    - ZBD05 *1
+    - ZTZ99A *1
+    - Z-8G *1
 
 
 ### Anvil AAS v2
@@ -38,11 +41,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *2
@@ -50,7 +53,7 @@
     - PMV RWS M2 *1
     - ASLAV *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -68,18 +71,18 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
     - PMV Mag58 x3 *2
     - PMV RWS M2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -100,18 +103,18 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 800  -  200
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
     - PMV Mag58 x3 *2
     - PMV RWS M2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Ural-375D Logistics *1
@@ -133,11 +136,11 @@
 
 旗点数量： 4
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -146,7 +149,7 @@
     - T-72B3 *1
     - Mi-8 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -167,11 +170,11 @@
 
 旗点数量： 9
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 C6 *1
@@ -181,7 +184,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -202,11 +205,11 @@
 
 旗点数量： 4
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
@@ -216,7 +219,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -225,38 +228,6 @@
     - BMP-2 *1
     - T-72S *1
     - Mi-17 *1
-
-
-### Anvil RAAS v4
-
-切换代码： `AdminChangeLayer Anvil_RAAS_v4`
-
-预设代码： `AdminSetNextLayer Anvil_RAAS_v4`
-
-光照情况： 正午
-
-旗点数量： 9
-
-双方阵营： ADF VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "ADF 载具"
-    - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 *1
-    - PMV Mag58 x3 *1
-    - ASLAV *2
-    - M1A1 *2
-    - MRH-90 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - T-72B3 *2
-    - Mi-8 *1
 
 
 ### Anvil Skirmish v1
@@ -269,16 +240,16 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  200
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -294,11 +265,11 @@
 
 旗点数量： 56
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *1
@@ -306,49 +277,12 @@
     - PMV RWS M2 *2
     - ASLAV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
     - Tigr-M RWS Kord *2
     - BTR-82A *1
-
-
-### Al Basrah AAS v1
-
-切换代码： `AdminChangeLayer AlBasrah_AAS_v1`
-
-预设代码： `AdminSetNextLayer AlBasrah_AAS_v1`
-
-光照情况： 正午
-
-旗点数量： 7
-
-双方阵营： USA VS MEA
-
-初始票数： 250  -  250
-
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M-ATV M240 *1
-    - M-ATV M2 *2
-    - M1126 CROWS M2 *2
-    - M-ATV TOW *1
-    - M2A3 *1
-    - UH-60M *1
-
-??? abstract "MEA载具"
-    - Ural-4320 Transport *1
-    - Simir Logi *1
-    - Ural-4320 Logistics *3
-    - Simir MG3 *2
-    - Simir Kord *1
-    - Simir Kornet *1
-    - BRDM-2 S8 *1
-    - BMP-1 *1
-    - T-62 *1
-    - Mi-17 *1
 
 
 ### Al Basrah AAS v2
@@ -361,26 +295,26 @@
 
 旗点数量： 7
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
-    - M939 Logistics *1
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
+    - M939 Logistics *1
     - M-ATV M2 *4
     - UH-60M *3
 
-??? abstract "INS载具"
-    - Minsk 400 *4
-    - Logistics Pickup Truck *4
-    - Technical Mortar *1
-    - Technical DShK Shielded *1
-    - Technical UB-32 *1
-    - Technical SPG-9 *1
-    - Technical ZU-23-2 *1
+??? abstract "[INS](/faction/ins)载具"
+    - Minsk 400 *1
     - Transport Pickup Truck *1
+    - Logistics Pickup Truck *4
+    - Technical DShK Shielded *1
+    - Technical Mortar *1
+    - Technical UB-32 *1
+    - Technical ZU-23-2 *1
     - Ural-375D ZU-23-2 *1
+    - Technical SPG-9 *1
 
 
 ### Al Basrah AAS v3
@@ -393,11 +327,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *1
     - PMV Mag58 *2
@@ -405,7 +339,7 @@
     - UH-60M *1
     - MRH-90 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -427,30 +361,30 @@
 
 旗点数量： 2
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
     - FV432 *2
     - FV107 *1
-    - FV520 CTAS40 *1
+    - FV510 UA *1
     - FV4034 *2
     - SA330 *2
 
-??? abstract "INS载具"
-    - Technical SPG-9 *1
+??? abstract "[INS](/faction/ins)载具"
+    - Minsk 400 *2
     - Logistics Pickup Truck *5
-    - Minsk 400 *10
     - Armored Technical DShK *1
-    - Ural-375D ZU-23-2 *1
     - Technical M2 HB *1
     - Technical DShK Shielded *1
-    - Technical BMP-1 *1
+    - Ural-375D ZU-23-2 *1
     - Technical Mortar *1
+    - Technical BMP-1 *1
+    - Technical SPG-9 *1
 
 
 ### Al Basrah Invasion v1
@@ -463,13 +397,13 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "BAF 载具"
-    - HX60 Transport *1
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *4
+    - HX60 Transport *1
     - LPPV RWS *1
     - FV432 *1
     - FV432 RWS *1
@@ -477,7 +411,7 @@
     - FV520 CTAS40 *1
     - SA330 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *5
     - Technical M2 HB *1
@@ -499,11 +433,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *2
@@ -514,7 +448,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *3
@@ -540,11 +474,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
@@ -554,7 +488,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *1
     - Technical M2 HB *1
@@ -578,11 +512,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LAV 6 *3
@@ -592,7 +526,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Transport Pickup Truck *2
     - Minsk 400 *2
     - Logistics Pickup Truck *1
@@ -615,11 +549,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - M113A3 M2 *2
     - MSVS Logistics *3
     - M113A3 TLAV *2
@@ -627,7 +561,7 @@
     - Leopard 2A6M CAN *2
     - CH-146 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *1
     - Simir Logi *3
@@ -649,11 +583,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 900  -  250
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *3
     - LUV-A1 Logistics *1
     - LUVW Logistics *3
@@ -663,7 +597,7 @@
     - Coyote *1
     - Leopard 2A6M CAN *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Ural-375D Transport *1
     - Ural-375D Logistics *3
     - Technical UB-32 *1
@@ -684,11 +618,11 @@
 
 旗点数量： 6
 
-双方阵营： MEA VS INS
+双方阵营： [MEA](/faction/mea) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea) 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *2
     - Simir Logi *1
@@ -699,7 +633,7 @@
     - T-72S *1
     - Mi-17 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *3
@@ -724,11 +658,11 @@
 
 旗点数量： 5
 
-双方阵营： PLA VS INS
+双方阵营： [PLA](/faction/pla) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla) 载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -742,7 +676,7 @@
     - RHIB QJZ89 *2
     - RHIB Logistics *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *3
@@ -768,23 +702,23 @@
 
 旗点数量： 5
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 300  -  300
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Minsk 400 *1
     - Transport Modern Pickup *1
     - Logistics Modern Pickup *3
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical DShK *1
     - Armored Modern Technical M2 HB *1
     - Ural-375D ZU-23-2 *1
     - Armored Modern Technical SPG-9 *1
     - T-62 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -807,15 +741,15 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *3
     - Ural-4320 Logistics *3
 
@@ -830,16 +764,16 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 150  -  150
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -856,20 +790,20 @@
 
 旗点数量： 4
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 150  -  150
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Armored Transport Modern Pickup *1
     - Transport Modern Pickup *1
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
@@ -887,14 +821,14 @@
 
 旗点数量： 2
 
-双方阵营： USA VS USA
+双方阵营： [USA](/faction/usa) VS [USA](/faction/usa)
 
 初始票数： 24  -  24
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M2A3 *2
 
-??? abstract "USA载具"
+??? abstract "[USA](/faction/usa)载具"
     - M2A3 *2
 
 
@@ -908,11 +842,11 @@
 
 旗点数量： 20
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV RWS *1
@@ -920,7 +854,7 @@
     - FV510 UA *2
     - SA330 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Logi *1
@@ -942,21 +876,21 @@
 
 旗点数量： 42
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M1126 CROWS M2 *2
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
-    - M2A3 *1
+    - M939 Logistics *3
     - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
     - UH-60M *1
 
-??? abstract "MEA载具"
-    - Ural-4320 Logistics *3
+??? abstract "[MEA](/faction/mea)载具"
     - Simir Logi *1
+    - Ural-4320 Logistics *3
     - Simir MG3 *1
     - Simir Kord *1
     - MT-LBM 6MA S8 *1
@@ -976,11 +910,11 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -988,7 +922,7 @@
     - BTR-82A *1
     - BMP-2 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Transport Modern Pickup *1
     - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *2
@@ -1012,18 +946,18 @@
 
 旗点数量： 7
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - LPPV RWS *1
     - FV432 *2
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - MT-LBM 6MA *1
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
@@ -1042,11 +976,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *2
@@ -1055,7 +989,7 @@
     - LAV 6 *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -1074,11 +1008,11 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  800
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1087,13 +1021,13 @@
     - BMP-2 *1
     - Mi-8 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Transport Modern Pickup *1
     - Logistics Modern Pickup *1
     - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *2
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical M2 HB *1
     - MT-LB ZU-23-2 *1
     - Modern Technical UB-32 *1
@@ -1113,11 +1047,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M2A3 *2
@@ -1126,80 +1060,12 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BMP-2 *1
     - KamAZ 5350 Logistics *4
     - T-72B3 *1
     - Tigr-M RWS Kord *1
-    - KamAZ 5350 Transport *1
-    - Mi-8 *1
-
-
-### Belaya Invasion v3
-
-切换代码： `AdminChangeLayer Belaya_Invasion_v3`
-
-预设代码： `AdminSetNextLayer Belaya_Invasion_v3`
-
-光照情况： 阴天
-
-旗点数量： 4
-
-双方阵营： BAF VS RGF
-
-初始票数： 200  -  700
-
-??? abstract "BAF 载具"
-    - HX60 Logistics *3
-    - FV510 UA *1
-    - FV520 CTAS40 *1
-    - FV432 *1
-    - FV432 RWS *1
-    - HX60 Transport *1
-    - FV4034 *1
-    - SA330 *1
-
-??? abstract "RGF载具"
-    - BTR-80 *1
-    - KamAZ 5350 Logistics *4
-    - BMP-2 *1
-    - BTR-82A *2
-    - BRDM-2 *1
-    - KamAZ 5350 Transport *1
-    - T-72B3 *1
-    - Mi-8 *1
-
-
-### Belaya RAAS v1
-
-切换代码： `AdminChangeLayer Belaya_RAAS_v1`
-
-预设代码： `AdminSetNextLayer Belaya_RAAS_v1`
-
-光照情况： 阴天
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USA 载具"
-    - M1A2 *1
-    - M939 Logistics *3
-    - M2A3 *1
-    - M1126 CROWS M2 *2
-    - M-ATV M2 *1
-    - M939 Transport *1
-    - UH-60M *1
-
-??? abstract "RGF载具"
-    - BMP-2 *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
-    - T-72B3 *1
-    - Tigr-M Kord *1
     - KamAZ 5350 Transport *1
     - Mi-8 *1
 
@@ -1214,11 +1080,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS IMF
+双方阵营： [USMC](/faction/usmc) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *2
@@ -1226,14 +1092,14 @@
     - LAV-25 *1
     - UH-1Y *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Armored Ural-375D Logistics *1
     - Logistics Modern Pickup *1
     - Armored Logistics Modern Pickup *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical M2 HB *1
     - Modern Technical ZU-23-2 *1
     - Modern Technical UB-32 *1
@@ -1253,11 +1119,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -1267,7 +1133,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Transport Modern Pickup *1
     - Logistics Modern Pickup *1
@@ -1275,7 +1141,7 @@
     - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical SPG-9 *2
     - BMP-1 *1
     - BM-21 Grad *1
@@ -1292,11 +1158,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -1307,7 +1173,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1328,11 +1194,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 M2 *4
@@ -1340,20 +1206,21 @@
     - Coyote *2
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Logistics Modern Pickup *2
     - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *1
     - Armored Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical SPG-9 *1
     - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - MT-LB ZU-23-2 *1
     - BM-21 Grad *1
-    - MT-LBM 6MB *2
+    - MT-LBM 6MB *1
+    - BMP-2 *1
     - BMP-1 *1
 
 
@@ -1367,23 +1234,23 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *1
     - LUVW Logistics *1
     - LUVW C6 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Transport Modern Pickup *1
     - Transport Modern Pickup *1
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
 
 
@@ -1397,11 +1264,11 @@
 
 旗点数量： 65
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1A2 *1
     - M939 Logistics *3
     - M2A3 *1
@@ -1410,7 +1277,7 @@
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BMP-2 *1
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
@@ -1430,18 +1297,18 @@
 
 旗点数量： 6
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M-ATV M240 *1
     - M939 Logistics *3
     - M1126 CROWS M2 *1
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - MT-LBM 6MA S8 *1
     - Simir Kord *1
     - Ural-4320 Logistics *3
@@ -1460,18 +1327,18 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *1
     - M1151 CROWS M2 *1
     - LAV-25 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1489,18 +1356,18 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *1
     - M-ATV M2 *2
     - M1126 CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1518,18 +1385,18 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - ASLAV *1
     - PMV RWS M2 *1
     - PMV Mag58 x3 *1
     - HX60 Logistics *3
     - HX60 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *1
     - BTR-80 *1
     - Tigr-M Kord *1
@@ -1547,17 +1414,17 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV M2 *2
     - LAV 6 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -1574,17 +1441,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
     - M-ATV M2 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *3
@@ -1601,18 +1468,18 @@
 
 旗点数量： 3
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M240 *1
     - M939 Logistics *3
     - M939 Transport *1
     - M1126 CROWS M2 *1
     - M-ATV M2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Armored Technical DShK *2
     - Technical DShK Shielded *2
     - Technical DShK *1
@@ -1632,17 +1499,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M1126 CROWS M2 *2
     - M-ATV M2 *2
     - M939 Transport *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -1664,17 +1531,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M1126 CROWS M2 *2
     - M-ATV M2 *2
     - M939 Transport *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - MT-LB PKT *1
     - Armored Technical DShK *3
     - Technical DShK Shielded *1
@@ -1696,17 +1563,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M-ATV CROWS M2 *1
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - Tigr-M Kord *2
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *2
@@ -1723,17 +1590,17 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - FV107 *1
     - HX60 Transport *1
     - FV432 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - BRDM-2 S8 *1
     - MT-LBM 6MA S8 *1
     - Ural-4320 Logistics *3
@@ -1751,17 +1618,17 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 300  -  340
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
     - PMV Mag58 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Ural-375D Logistics *1
@@ -1781,11 +1648,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW C6 *1
@@ -1793,7 +1660,7 @@
     - TAPV M2 *1
     - M113A3 TLAV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -1812,17 +1679,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
     - M-ATV CROWS M2 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *1
@@ -1840,16 +1707,16 @@
 
 旗点数量： 4
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1865,18 +1732,18 @@
 
 旗点数量： 51
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M-ATV M240 *1
     - M939 Logistics *3
     - M1126 CROWS M2 *1
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -1894,11 +1761,11 @@
 
 旗点数量： 7
 
-双方阵营： MEA VS INS
+双方阵营： [MEA](/faction/mea) VS [INS](/faction/ins)
 
 初始票数： 250  -  250
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea) 载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -1908,7 +1775,7 @@
     - MT-LBM 6MA S8 *1
     - T-72S *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *3
     - Ural-375D Logistics *1
@@ -1930,11 +1797,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - MATV M2 *1
@@ -1942,7 +1809,7 @@
     - LAV-25 *1
     - M1A1 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - T-72S *1
     - MT-LB VMK *1
     - Ural-4320 Logistics *3
@@ -1964,18 +1831,18 @@
 
 旗点数量： 2
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *4
     - M-ATV M2 *2
     - M2A3 *2
     - M1A2 *1
     - M1126 CROWS M2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
@@ -1998,11 +1865,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
@@ -2012,7 +1879,7 @@
     - LAV-25 *2
     - M1A1 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *3
     - Technical M2 HB *1
@@ -2035,11 +1902,11 @@
 
 旗点数量： 4
 
-双方阵营： MEA VS INS
+双方阵营： [MEA](/faction/mea) VS [INS](/faction/ins)
 
 初始票数： 800  -  250
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea) 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -2051,7 +1918,7 @@
     - Simir Logi *1
     - T-62 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *1
     - Technical DShK Shielded *1
@@ -2075,11 +1942,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *3
     - M1151 M2 *3
@@ -2088,7 +1955,7 @@
     - LAV-25 *2
     - M1A1 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
@@ -2111,18 +1978,18 @@
 
 旗点数量： 4
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
     - ASLAV *2
     - M1A1 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *4
     - Technical DShK Shielded *1
@@ -2145,19 +2012,18 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV M2 *2
     - LAV III C6 RWS *1
-    - LAV 6 *3
-    - Leopard 2A6M CAN *2
+    - LAV 6 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Logistics Pickup Truck *4
@@ -2181,11 +2047,11 @@
 
 旗点数量： 4
 
-双方阵营： MEA VS PLA
+双方阵营： [MEA](/faction/mea) VS [PLA](/faction/pla)
 
 初始票数： 250  -  800
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea) 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *3
@@ -2193,7 +2059,7 @@
     - MT-LBM 6MA S8 *2
     - BMP-2 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *4
@@ -2211,11 +2077,11 @@
 
 旗点数量： 9
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
@@ -2224,7 +2090,7 @@
     - AAVP-7A1 *1
     - LAV-25 *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -2244,11 +2110,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - LPPV *1
     - FV432 *1
@@ -2257,7 +2123,7 @@
     - FV520 CTAS40 *1
     - HX60 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Simir Kord *2
     - Simir Logi *1
@@ -2278,11 +2144,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
@@ -2291,9 +2157,8 @@
     - M1151 CROWS M2 *1
     - AAVP-7A1 *1
     - LAV-25 *2
-    - M1A1 *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -2314,18 +2179,16 @@
 
 旗点数量： 9
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
-    - HX60 Logistics *3
-    - PMV Mag58 *1
-    - PMV Mag58 x3 *1
-    - ASLAV *2
+    - HX60 Logistics *2
+    - ASLAV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Logi *1
@@ -2346,11 +2209,11 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW C6 *1
@@ -2361,7 +2224,7 @@
     - LAV 6 *1
     - Leopard 2A6M CAN *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *1
     - Ural-4320 Logistics *3
@@ -2384,11 +2247,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
 初始票数： 300  -  340
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
@@ -2398,7 +2261,7 @@
     - LAV-25 *2
     - M1A1 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
@@ -2421,17 +2284,17 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS PLA
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *3
     - MATV M2 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *5
@@ -2447,13 +2310,13 @@
 
 旗点数量： 3
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
 
 
 ### Fallujah Skirmish v1
@@ -2466,16 +2329,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -2492,16 +2355,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
@@ -2519,11 +2382,11 @@
 
 旗点数量： 40
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
     - M-ATV M240 *1
@@ -2531,7 +2394,7 @@
     - M2A3 *1
     - M1126 CROWS M2 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - BMP-2 *1
     - BRDM-2 S8 *1
@@ -2552,11 +2415,11 @@
 
 旗点数量： 91
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
     - M-ATV M240 *1
@@ -2564,7 +2427,7 @@
     - M2A3 *1
     - M1126 CROWS M2 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - BMP-2 *1
     - BRDM-2 S8 *1
@@ -2585,50 +2448,22 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *3
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - BRDM-2 *1
-
-
-### Fool's Road AAS v2
-
-切换代码： `AdminChangeLayer FoolsRoad_AAS_v2`
-
-预设代码： `AdminSetNextLayer FoolsRoad_AAS_v2`
-
-光照情况： 下午&晴天
-
-旗点数量： 7
-
-双方阵营： USA VS RGF
-
-初始票数： 250  -  250
-
-??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M-ATV M2 *1
-    - M1126 CROWS M2 *3
-    - M939 Transport *1
-
-??? abstract "RGF载具"
-    - BTR-80 *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
-    - KamAZ 5350 Transport *1
-    - Tigr-M RWS Kord *1
 
 
 ### Fool's Road Destruction v1
@@ -2641,23 +2476,23 @@
 
 旗点数量： 2
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  1000
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - BTR-80 *1
     - BTR-82A *2
     - T-72B3 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Transport Modern Pickup *1
     - Logistics Modern Pickup *2
     - Armored Logistics Modern Pickup *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical UB-32 *1
     - Modern Technical SPG-9 *2
     - BRDM-2 *1
@@ -2675,11 +2510,11 @@
 
 旗点数量： 4
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  700
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -2687,7 +2522,7 @@
     - FV107 *1
     - FV510 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Transport Modern Pickup *1
     - Minsk 400 *1
     - Armored Logistics Modern Pickup *2
@@ -2710,18 +2545,18 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - FV432 RWS *1
     - FV432 *2
     - HX60 Transport *1
     - FV107 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BRDM-2 *1
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
@@ -2740,18 +2575,18 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - FV432 *2
     - LPPV RWS *1
     - HX60 Transport *1
     - FV432 RWS *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - Tigr-M Kord *1
     - BRDM-2 *1
     - KamAZ 5350 Logistics *3
@@ -2769,24 +2604,24 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *1
     - FV432 *1
     - FV432 RWS *1
     - FV510 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Armored Logistics Modern Pickup *1
     - Logistics Modern Pickup *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - MT-LBM 6MB *1
 
@@ -2801,16 +2636,16 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *4
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *4
@@ -2826,17 +2661,17 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 M2 *1
     - M113A3 TLAV *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -2853,16 +2688,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -2878,15 +2713,15 @@
 
 旗点数量： 3
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
 
@@ -2901,19 +2736,19 @@
 
 旗点数量： 30
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 400  -  400
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - BTR-80 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - MT-LB VMK *1
     - BMP-1 *1
 
@@ -2928,11 +2763,11 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV M2 *2
@@ -2941,42 +2776,11 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *2
     - BTR-82A *3
-    - T-72B3 *1
-    - Mi-8 *1
-
-
-### Goose Bay AAS v2
-
-切换代码： `AdminChangeLayer GooseBay_AAS_v2`
-
-预设代码： `AdminSetNextLayer GooseBay_AAS_v2`
-
-光照情况： 正午
-
-旗点数量： 7
-
-双方阵营： CAF VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW C6 *6
-    - Coyote *1
-    - Leopard 2A6M CAN *1
-    - CH-146 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - BTR-82A *1
     - T-72B3 *1
     - Mi-8 *1
 
@@ -2991,11 +2795,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 900  -  200
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *2
     - MSVS Logistics *2
@@ -3005,7 +2809,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - BTR-82A *3
@@ -3024,11 +2828,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV C6 *1
@@ -3038,81 +2842,17 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *1
     - Armored Ural-375D Logistics *1
     - Armored Modern Technical SPG-9 *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - T-62 *1
     - BM-21 Grad *1
     - Armored Logistics Modern Pickup *1
     - Armored Modern Technical M2 HB *1
-
-
-### Goose Bay Invasion v3
-
-切换代码： `AdminChangeLayer GooseBay_Invasion_v3`
-
-预设代码： `AdminSetNextLayer GooseBay_Invasion_v3`
-
-光照情况： 黄昏
-
-旗点数量： 3
-
-双方阵营： USA VS RGF
-
-初始票数： 800  -  200
-
-??? abstract "USA 载具"
-    - M939 Transport *2
-    - M939 Logistics *3
-    - M-ATV M240 *1
-    - M-ATV M2 *1
-    - M1126 CROWS M2 *2
-    - UH-60M *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *2
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-80 *2
-    - MT-LBM 6MA *1
-    - Mi-8 *1
-
-
-### Goose Bay Invasion v4
-
-切换代码： `AdminChangeLayer GooseBay_Invasion_v4`
-
-预设代码： `AdminSetNextLayer GooseBay_Invasion_v4`
-
-光照情况： 阴天
-
-旗点数量： 5
-
-双方阵营： USMC VS RGF
-
-初始票数： 200  -  900
-
-??? abstract "USMC 载具"
-    - RHIB Transport *1
-    - RHIB M240 *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
-    - M1151 M2 *3
-    - M1151 M2 Open Doors *1
-    - AAVP-7A1 *3
-    - LAV-25 *2
-    - UH-1Y *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - Mi-8 *1
 
 
 ### Goose Bay Invasion v5
@@ -3125,11 +2865,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 900  -  200
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -3140,7 +2880,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *1
@@ -3150,40 +2890,6 @@
     - ZBD04A *1
     - ZTZ99A *1
     - Z-8G *1
-
-
-### Goose Bay RAAS v1
-
-切换代码： `AdminChangeLayer GooseBay_RAAS_v1`
-
-预设代码： `AdminSetNextLayer GooseBay_RAAS_v1`
-
-光照情况： 阴天
-
-旗点数量： 6
-
-双方阵营： CAF VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *2
-    - LUVW M2 *2
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *2
-    - CH-146 *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *2
-    - MT-LBM 6MA *1
-    - BTR-82A *3
-    - T-72B3 *2
-    - Mi-8 *2
 
 
 ### Goose Bay RAAS v2
@@ -3196,25 +2902,27 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
-    - M-ATV M2 *2
-    - M2A3 *2
-    - M1A2 *4
+    - M-ATV M2 *1
+    - M2A3 *1
+    - M1A2 *3
     - UH-60M *1
 
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BMP-2 *2
-    - T-72B3 *4
-    - Mi-8 *1
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *2
+    - CSK131 QJZ89 *1
+    - ZBD05 *1
+    - ZTD05 *2
+    - ZTZ99A *2
+    - Z-8J *1
 
 
 ### Goose Bay RAAS v3
@@ -3227,11 +2935,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M1151 M2 *2
@@ -3242,7 +2950,7 @@
     - M1A1 *2
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - Tigr-M Kord *3
@@ -3263,11 +2971,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW C6 *2
@@ -3279,7 +2987,7 @@
     - Leopard 2A6M CAN *2
     - CH-146 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *2
     - CSK131 QJY88 *2
@@ -3288,6 +2996,29 @@
     - ZBL08 *3
     - ZTZ99A *2
     - Z-8G *2
+
+
+### Goose Bay Seed v1
+
+切换代码： `AdminChangeLayer GooseBay_Seed_v1`
+
+预设代码： `AdminSetNextLayer GooseBay_Seed_v1`
+
+光照情况： 正午
+
+旗点数量： 3
+
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
+
+初始票数： 100  -  100
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Logistics *5
+    - M1151 M2 Open Doors *1
+
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Logistics *5
+    - CTM131 Transport QJZ89 *1
 
 
 ### Goose Bay Skirmish v1
@@ -3300,16 +3031,16 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *3
     - MSVS Logistics *3
     - LUVW M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -3325,11 +3056,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *2
     - M1126 CROWS M2 *2
@@ -3337,12 +3068,12 @@
     - M2A3 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *2
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
-    - BMP-2 *1
+    - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
+    - BTR-82A *2
+    - BMP-2 *1
     - Mi-8 *2
 
 
@@ -3356,11 +3087,11 @@
 
 旗点数量： 9
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV432 RWS *1
@@ -3369,7 +3100,7 @@
     - FV4034 *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - MT-LBM 6MA *1
     - KamAZ 5350 Transport *1
@@ -3377,71 +3108,6 @@
     - Mi-8 *2
     - T-72B3 *1
     - Tigr-M RWS Kord *1
-
-
-### Gorodok AAS v3
-
-切换代码： `AdminChangeLayer Gorodok_AAS_v3`
-
-预设代码： `AdminSetNextLayer Gorodok_AAS_v3`
-
-光照情况： 阴天
-
-旗点数量： 6
-
-双方阵营： CAF VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *1
-    - TAPV M2 *1
-    - M113A3 TLAV *1
-    - Coyote *2
-    - CH-146 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MA *1
-    - BTR-82A *2
-    - Mi-8 *1
-
-
-### Gorodok AAS v4
-
-切换代码： `AdminChangeLayer Gorodok_AAS_v4`
-
-预设代码： `AdminSetNextLayer Gorodok_AAS_v4`
-
-光照情况： 正午
-
-旗点数量： 6
-
-双方阵营： USMC VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 Open Doors *1
-    - M1151 M2 *1
-    - AAVP-7A1 *1
-    - LAV-25 *2
-    - UH-1Y *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - MT-LBM 6MB *1
-    - BTR-82A *2
-    - Mi-8 *2
 
 
 ### Gorodok Destruction v1
@@ -3454,11 +3120,11 @@
 
 旗点数量： 2
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M2A3 *2
     - M-ATV CROWS M240 *1
     - M-ATV M2 *1
@@ -3466,7 +3132,7 @@
     - M1126 CROWS M2 *2
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - BMP-2 *1
@@ -3485,23 +3151,23 @@
 
 旗点数量： 2
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  1000
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-80 *1
     - BMP-2 *1
     - Mi-8 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *2
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
     - Tigr-M Kord *1
     - BMP-1 *2
@@ -3518,11 +3184,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M939 Transport *1
     - M939 Logistics *3
@@ -3531,7 +3197,7 @@
     - M-ATV TOW *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BMP-2 *1
     - Tigr-M RWS Kord *1
@@ -3539,44 +3205,6 @@
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *4
     - Mi-8 *2
-
-
-### Gorodok Invasion v2
-
-切换代码： `AdminChangeLayer Gorodok_Invasion_v2`
-
-预设代码： `AdminSetNextLayer Gorodok_Invasion_v2`
-
-光照情况： 阴天
-
-旗点数量： 6
-
-双方阵营： RGF VS IMF
-
-初始票数： 200  -  900
-
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - BMP-2 *2
-    - T-72B3 *1
-    - Mi-8 *1
-
-??? abstract "IMF载具"
-    - Armored Ural-375D Transport *1
-    - Armored Ural-375D Logistics *1
-    - Ural-375D Logistics *1
-    - Logistics Modern Pickup *1
-    - Armored Logistics Modern Pickup *1
-    - Modern Technical DShK Shielded *1
-    - Armored Modern Technical M2 HB *1
-    - Armored Modern Technical SPG-9 *1
-    - MT-LBM 6MB *1
-    - MT-LB ZU-23-2 *1
-    - T-62 *1
-    - BM-21 Grad *1
 
 
 ### Gorodok Invasion v3
@@ -3589,11 +3217,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV C6 *2
@@ -3602,13 +3230,13 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *1
     - Logistics Modern Pickup *1
     - Armored Logistics Modern Pickup *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical SPG-9 *1
     - MT-LB ZU-23-2 *1
     - Ural-375D ZU-23-2 *1
@@ -3627,11 +3255,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M2A3 *1
@@ -3640,7 +3268,7 @@
     - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BMP-2 *1
     - KamAZ 5350 Transport *1
@@ -3660,11 +3288,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *2
     - FV432 *2
@@ -3674,7 +3302,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -3691,39 +3319,6 @@
     - T-62 *1
 
 
-### Gorodok RAAS v3
-
-切换代码： `AdminChangeLayer Gorodok_RAAS_v03`
-
-预设代码： `AdminSetNextLayer Gorodok_RAAS_v03`
-
-光照情况： 阴天
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M939 Transport *1
-    - M2A3 *1
-    - M1126 CROWS M2 *1
-    - M-ATV M2 *1
-    - M1A2 *1
-    - UH-60M *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Logistics *3
-    - BMP-2 *1
-    - KamAZ 5350 Transport *1
-    - BTR-82A *1
-    - Tigr-M Kord *1
-    - T-72B3 *1
-    - Mi-8 *1
-
-
 ### Gorodok RAAS v4
 
 切换代码： `AdminChangeLayer Gorodok_RAAS_v04`
@@ -3734,11 +3329,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M2A3 *1
@@ -3746,7 +3341,7 @@
     - M1A2 *1
     - M-ATV M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - KamAZ 5350 Transport *1
@@ -3765,11 +3360,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M2A3 *1
@@ -3778,45 +3373,12 @@
     - M-ATV M2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BTR-82A *2
     - BMP-2 *1
     - BRDM-2 *1
-    - T-72B3 *1
-    - Mi-8 *2
-
-
-### Gorodok RAAS v6
-
-切换代码： `AdminChangeLayer Gorodok_RAAS_v06`
-
-预设代码： `AdminSetNextLayer Gorodok_RAAS_v06`
-
-光照情况： 正午
-
-旗点数量： 26
-
-双方阵营： USMC VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 *2
-    - AAVP-7A1 *2
-    - LAV-25 *2
-    - M1A1 *1
-    - UH-1Y *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - BMP-2 *1
     - T-72B3 *1
     - Mi-8 *2
 
@@ -3831,11 +3393,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -3846,7 +3408,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -3866,11 +3428,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS IMF
+双方阵营： [USMC](/faction/usmc) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *2
@@ -3881,7 +3443,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Transport Modern Pickup *2
     - Logistics Modern Pickup *1
     - Armored Logistics Modern Pickup *1
@@ -3906,11 +3468,11 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -3921,7 +3483,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -3942,11 +3504,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUVW Logistics *2
     - MSVS Logistics *1
@@ -3955,7 +3517,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *2
@@ -3968,7 +3530,8 @@
     - Armored Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - T-62 *1
     - BM-21 Grad *1
 
@@ -3983,11 +3546,11 @@
 
 旗点数量： 30
 
-双方阵营： CAF VS USA
+双方阵营： [CAF](/faction/caf) VS [USA](/faction/usa)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -3998,7 +3561,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "USA载具"
+??? abstract "[USA](/faction/usa)载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *1
@@ -4019,11 +3582,11 @@
 
 旗点数量： 8
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *3
@@ -4032,7 +3595,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -4053,16 +3616,16 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -4078,11 +3641,11 @@
 
 旗点数量： 64
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
@@ -4090,7 +3653,7 @@
     - M2A3 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -4110,11 +3673,11 @@
 
 旗点数量： 64
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 450  -  450
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -4123,261 +3686,13 @@
     - Coyote *2
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - MT-LB VMK *2
     - MT-LBM 6MA *1
     - BTR-82A *2
     - Mi-8 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_AUS-PLA`
-
-预设代码： `AdminSetNextLayer JensensRange_AUS-PLA`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： ADF VS PLA
-
-初始票数： 99999  -  99999
-
-??? abstract "ADF 载具"
-    - HX60 Transport *1
-    - HX60 Logistics *1
-    - PMV Mag58 *1
-    - PMV Mag58 x3 *1
-    - PMV RWS M2 *1
-    - ASLAV *1
-    - M1A1 *1
-    - MRH-90 *1
-    - UH-60M *1
-
-??? abstract "PLA载具"
-    - CTM131 Logistics *1
-    - CTM131 Transport QJY88 *1
-    - CTM131 Transport QJZ89 *1
-    - CSK131 QJY88 *1
-    - CSK131 QJZ89 *1
-    - CSK131 QJC88 RWS *1
-    - ZSL10 *1
-    - CSK131 HJ8 *1
-    - ZBL08 *1
-    - ZBL08 HJ73C *1
-    - ZBD04A *1
-    - ZTZ99A *1
-    - RHIB QJY88 *1
-    - RHIB QJZ89 *1
-    - Z-8G *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_BAF-IMF`
-
-预设代码： `AdminSetNextLayer JensensRange_BAF-IMF`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： BAF VS IMF
-
-初始票数： 99999  -  99999
-
-??? abstract "BAF 载具"
-    - HX60 Transport *1
-    - HX60 Logistics *1
-    - LPPV *1
-    - LPPV RWS *1
-    - FV107 *1
-    - FV432 *1
-    - FV432 RWS *1
-    - FV510 *1
-    - FV510 UA *1
-    - FV520 CTAS40 *1
-    - FV4034 *1
-    - SA330 *1
-
-??? abstract "IMF载具"
-    - Minsk 400 *1
-    - Transport Modern Pickup *1
-    - Armored Transport Modern Pickup *1
-    - Ural-375D Transport *1
-    - Armored Ural-375D Transport *1
-    - Logistics Modern Pickup *1
-    - Armored Logistics Modern Pickup *1
-    - Ural-375D Logistics *1
-    - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
-    - Modern Technical M2 HB *1
-    - Ural-375D ZU-23-2 *1
-    - Modern Technical UB-32 *1
-    - Armored Modern Technical DShK *1
-    - Armored Modern Technical M2 HB *1
-    - Modern Technical SPG-9 *1
-    - Armored Modern Technical SPG-9 *1
-    - Tigr-M Kord *1
-    - BRDM-2 *1
-    - MT-LB VMK *1
-    - BTR-80 *1
-    - MT-LB ZU-23-2 *1
-    - BMP-1 ZU-23-2 *1
-    - BM-21 Grad *1
-    - MT-LBM 6MB *1
-    - BMP-1 *1
-    - T-62 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_CAF-INS`
-
-预设代码： `AdminSetNextLayer JensensRange_CAF-INS`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： CAF VS INS
-
-初始票数： 99999  -  99999
-
-??? abstract "CAF 载具"
-    - LUV-A1 Transport *1
-    - LUVW Transport *1
-    - MSVS Transport *1
-    - LUV-A1 Logistics *1
-    - LUVW Logistics *1
-    - MSVS Logistics *1
-    - LUVW C6 *1
-    - LUVW M2 *1
-    - TAPV M2 *1
-    - M113A3 C6 *1
-    - M113A3 M2 *1
-    - M113A3 TLAV *1
-    - LAV III C6 RWS *1
-    - LAV III M2 RWS *1
-    - Coyote *1
-    - LAV 6 *1
-    - Leopard 2A6M CAN *2
-    - CH-146 *1
-    - CH-178 *1
-
-??? abstract "INS载具"
-    - Minsk 400 *1
-    - Ural-375D Logistics *1
-    - Ural-375D Transport *1
-    - Transport Pickup Truck *2
-    - Logistics Pickup Truck *1
-    - Technical DShK *1
-    - Technical DShK Shielded *2
-    - Technical SPG-9 *2
-    - Technical UB-32 *2
-    - Armored Technical DShK *1
-    - Armored Technical SPG-9 *1
-    - Technical BMP-1 *1
-    - Technical M2 HB *1
-    - Technical ZU-23-2 *1
-    - Ural-375D ZU-23-2 *1
-    - MT-LB PKT *1
-    - MT-LB ZU-23-2 *1
-    - BRDM-2 *1
-    - BMP-1 ZU-23-2 *1
-    - BMP-1 *1
-    - T-62 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_USA-RUS`
-
-预设代码： `AdminSetNextLayer JensensRange_USA-RUS`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： USA VS RGF
-
-初始票数： 99999  -  99999
-
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *1
-    - M-ATV M2 *1
-    - M-ATV M240 *1
-    - M-ATV CROWS M240 *1
-    - M-ATV CROWS M2 *1
-    - M-ATV TOW *1
-    - M1126 CROWS M240 *1
-    - M1126 CROWS M2 *1
-    - M2A3 *1
-    - M1A2 *1
-    - UH-60M *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *1
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - BRDM-2 *1
-    - BTR-80 *1
-    - MT-LB VMK *1
-    - BTR-82A *1
-    - BRDM-2 Spandrel *1
-    - MT-LBM 6MA *1
-    - BMP-2 *1
-    - T-72B3 *1
-    - Mi-8 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_USMC-MEA`
-
-预设代码： `AdminSetNextLayer JensensRange_USMC-MEA`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： USMC VS MEA
-
-初始票数： 99999  -  99999
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *1
-    - AAVC-7A1 Logistics *1
-    - MATV M2 *1
-    - MATV CROWS M2 *1
-    - MATV TOW *1
-    - AAVP-7A1 *1
-    - LAV-25 *1
-    - M1A1 *1
-    - UH-1Y *1
-
-??? abstract "MEA载具"
-    - Ural-4320 Transport *1
-    - Ural-4320 Logistics *1
-    - Simir Logi *1
-    - Simir MG3 *1
-    - Simir Kord *1
-    - Simir Kornet *1
-    - BRDM-2 S8 *1
-    - BRDM-2 Spandrel *1
-    - MT-LB VMK *1
-    - MT-LBM 6MA S8 *1
-    - BMP-1 *1
-    - BMP-2 *1
-    - T-62 *1
-    - T-72S *1
-    - Mi-17 *1
 
 
 ### Kamdesh AAS v1
@@ -4390,18 +3705,18 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
     - ASLAV *2
     - M1A1 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -4420,18 +3735,18 @@
 
 旗点数量： 2
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *2
     - PMV Mag58 x3 *2
     - ASLAV *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
     - Ural-375D Logistics *1
@@ -4455,18 +3770,18 @@
 
 旗点数量： 2
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *4
     - FV510 UA *2
     - FV510 *1
     - FV432 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *4
     - Ural-375D Logistics *1
@@ -4489,18 +3804,18 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M1126 CROWS M2 *2
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -4523,11 +3838,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - FV432 *1
     - HX60 Logistics *3
@@ -4535,7 +3850,7 @@
     - FV432 RWS *1
     - SA330 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *4
     - Logistics Pickup Truck *6
@@ -4557,11 +3872,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M939 Transport *1
@@ -4569,7 +3884,7 @@
     - M1126 CROWS M2 *1
     - UH-60M *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *5
@@ -4591,11 +3906,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -4604,7 +3919,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *5
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -4627,11 +3942,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -4640,7 +3955,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *5
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -4663,11 +3978,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -4677,7 +3992,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir MG3 *2
@@ -4698,11 +4013,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV M2 *2
@@ -4712,7 +4027,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - MT-LB PKT *1
     - Ural-375D Logistics *3
@@ -4735,11 +4050,11 @@
 
 旗点数量： 6
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 300  -  300
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Armored Logistics Modern Pickup *1
@@ -4750,7 +4065,7 @@
     - MT-LBM 6MB *1
     - T-62 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Logistics Pickup Truck *2
@@ -4771,11 +4086,11 @@
 
 旗点数量： 7
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV432 *2
@@ -4783,7 +4098,7 @@
     - FV4034 *1
     - FV432 RWS *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BMP-2 *1
@@ -4803,11 +4118,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *1
@@ -4816,7 +4131,7 @@
     - M1A2 *1
     - M-ATV TOW *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
     - BMP-2 *1
@@ -4836,18 +4151,18 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - FV432 *2
     - FV432 RWS *1
     - FV510 UA *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *3
@@ -4866,11 +4181,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -4878,7 +4193,7 @@
     - ASLAV *2
     - M1A1 *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *2
@@ -4899,11 +4214,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -4912,7 +4227,7 @@
     - ASLAV *2
     - M1A1 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -4931,11 +4246,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUVW Logistics *3
     - LUV-A1 Logistics *1
@@ -4943,7 +4258,7 @@
     - LUVW M2 *3
     - M113A3 TLAV *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
@@ -4965,16 +4280,16 @@
 
 旗点数量： 3
 
-双方阵营： ADF VS BAF
+双方阵营： [ADF](/faction/adf) VS [BAF](/faction/baf)
 
 初始票数： 150  -  150
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *1
 
-??? abstract "BAF载具"
+??? abstract "[BAF](/faction/baf)载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
@@ -4990,11 +4305,11 @@
 
 旗点数量： 43
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV107 *1
@@ -5002,7 +4317,7 @@
     - LPPV *2
     - SA330 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BMP-2 *1
@@ -5021,11 +4336,11 @@
 
 旗点数量： 43
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 400  -  400
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Logistics Modern Pickup *1
@@ -5034,7 +4349,7 @@
     - Armored Modern Technical M2 HB *1
     - MT-LB VMK *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Logistics Pickup Truck *1
@@ -5053,11 +4368,11 @@
 
 旗点数量： 43
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -5067,7 +4382,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -5087,18 +4402,18 @@
 
 旗点数量： 33
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 450  -  450
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - TAPV C6 *1
     - LUVW C6 *2
     - M113A3 TLAV *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Ural-375D Logistics *2
@@ -5118,11 +4433,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
@@ -5131,7 +4446,7 @@
     - M1126 CROWS M2 *1
     - UH-60M *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
@@ -5151,18 +4466,18 @@
 
 旗点数量： 8
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M939 Transport *1
     - UH-60M *2
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BRDM-2 *1
     - KamAZ 5350 Transport *1
@@ -5181,11 +4496,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *1
@@ -5195,7 +4510,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -5215,11 +4530,11 @@
 
 旗点数量： 3
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *3
@@ -5228,7 +4543,7 @@
     - M2A3 *2
     - UH-60M *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *2
     - Technical DShK *1
@@ -5252,11 +4567,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M2A3 *2
@@ -5264,7 +4579,7 @@
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *2
     - Ural-375D Logistics *1
@@ -5287,18 +4602,18 @@
 
 旗点数量： 4
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  700
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *3
     - M2A3 *2
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *1
     - Technical DShK *1
@@ -5320,11 +4635,11 @@
 
 旗点数量： 4
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *3
@@ -5333,7 +4648,7 @@
     - LAV 6 *3
     - CH-146 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *1
@@ -5357,11 +4672,11 @@
 
 旗点数量： 4
 
-双方阵营： USMC VS PLA
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 800  -  200
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *4
     - M1151 M2 Open Doors *1
@@ -5370,7 +4685,7 @@
     - MATV TOW *2
     - UH-1Y *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *2
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -5390,11 +4705,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M939 Logistics *3
     - M2A3 *1
@@ -5402,7 +4717,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - BMP-2 *1
@@ -5421,11 +4736,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *2
@@ -5434,7 +4749,7 @@
     - LAV-25 *2
     - UH-1Y *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -5454,11 +4769,11 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -5468,7 +4783,7 @@
     - KamAZ 5350 Transport *1
     - Mi-8 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - MT-LBM 6MA S8 *1
     - BMP-2 *1
@@ -5490,11 +4805,11 @@
 
 旗点数量： 8
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - FV107 *1
     - HX60 Logistics *3
     - FV432 RWS *1
@@ -5504,7 +4819,7 @@
     - HX60 Transport *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *3
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -5523,11 +4838,11 @@
 
 旗点数量： 26
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *1
@@ -5535,7 +4850,7 @@
     - M2A3 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - BMP-2 *1
@@ -5554,11 +4869,11 @@
 
 旗点数量： 13
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - LPPV RWS *1
     - FV432 RWS *1
     - HX60 Logistics *3
@@ -5567,7 +4882,7 @@
     - HX60 Transport *1
     - SA330 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *1
     - KamAZ 5350 Logistics *3
     - BRDM-2 *2
@@ -5586,11 +4901,11 @@
 
 旗点数量： 22
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -5600,7 +4915,7 @@
     - KamAZ 5350 Transport *1
     - Mi-8 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - MT-LBM 6MA S8 *1
     - BMP-2 *1
@@ -5622,11 +4937,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
@@ -5634,7 +4949,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -5653,11 +4968,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 300  -  340
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW C6 *2
@@ -5666,7 +4981,7 @@
     - LAV III C6 RWS *1
     - CH-178 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Ural-375D Logistics *2
@@ -5689,11 +5004,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS PLA
+双方阵营： [ADF](/faction/adf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 *2
@@ -5701,7 +5016,7 @@
     - ASLAV *2
     - MRH-90 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -5720,16 +5035,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS BAF
+双方阵营： [USA](/faction/usa) VS [BAF](/faction/baf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "BAF载具"
+??? abstract "[BAF](/faction/baf)载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
@@ -5745,11 +5060,11 @@
 
 旗点数量： 36
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -5758,7 +5073,7 @@
     - BMP-2 *1
     - Mi-8 *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *3
@@ -5778,18 +5093,18 @@
 
 旗点数量： 7
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
     - M-ATV CROWS M2 *1
     - RHIB M240 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *1
@@ -5808,18 +5123,18 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
     - LPPV RWS *2
     - FV432 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -5838,11 +5153,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -5850,7 +5165,7 @@
     - PMV Mag58 *1
     - ASLAV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -5868,17 +5183,17 @@
 
 旗点数量： 2
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M-ATV CROWS M240 *1
     - M939 Transport *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Logistics Pickup Truck *3
     - Technical DShK *2
@@ -5896,18 +5211,18 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS INS
+双方阵营： [RGF](/faction/rgf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Logistics *3
     - BTR-80 *1
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - Tigr-M Kord *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -5926,16 +5241,16 @@
 
 旗点数量： 6
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *4
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Simir Logi *1
     - Simir Kord *3
@@ -5953,17 +5268,17 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
     - KamAZ 5350 Transport *1
     - Tigr-M RWS Kord *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Simir Logi *1
     - Simir Kord *3
@@ -5982,11 +5297,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -5994,7 +5309,7 @@
     - PMV Mag58 *1
     - ASLAV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -6012,18 +5327,18 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW C6 *2
     - LUVW M2 *2
     - M113A3 TLAV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *3
     - Simir MG3 *2
@@ -6041,20 +5356,20 @@
 
 旗点数量： 5
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 150  -  150
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Armored Transport Modern Pickup *1
     - Transport Modern Pickup *1
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
@@ -6072,16 +5387,16 @@
 
 旗点数量： 37
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *3
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir Kord *3
     - Ural-4320 Logistics *3
     - Simir Logi *2
@@ -6095,15 +5410,15 @@
 
 预设代码： `AdminSetNextLayer Lashkar_AAS_v1`
 
-光照情况： 正午
+光照情况： None
 
 旗点数量： 7
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV520 CTAS40 *1
@@ -6111,7 +5426,7 @@
     - FV107 *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - Mi-8 *2
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
@@ -6130,11 +5445,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *2
@@ -6142,7 +5457,7 @@
     - M2A3 *1
     - UH-60M *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Mi-17 *2
     - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
@@ -6162,11 +5477,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6175,7 +5490,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -6194,11 +5509,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6207,7 +5522,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - BRDM-2 S8 *1
@@ -6228,17 +5543,17 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *4
     - UH-60M *2
     - M939 Transport *1
     - M-ATV M2 *3
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *1
     - Technical DShK Shielded *2
@@ -6261,11 +5576,11 @@
 
 旗点数量： 8
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *2
@@ -6273,7 +5588,7 @@
     - M2A3 *1
     - UH-60M *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *2
     - Ural-375D Logistics *1
@@ -6296,11 +5611,11 @@
 
 旗点数量： 8
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6309,7 +5624,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *2
     - Ural-375D Logistics *1
@@ -6332,11 +5647,11 @@
 
 旗点数量： 8
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW C6 *2
@@ -6346,7 +5661,7 @@
     - LAV 6 *2
     - CH-146 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *2
     - Technical DShK Shielded *1
@@ -6369,11 +5684,11 @@
 
 旗点数量： 8
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
@@ -6382,7 +5697,7 @@
     - M1126 CROWS M240 *1
     - UH-60M *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *2
     - CTM131 Logistics *4
     - CSK131 QJY88 *1
@@ -6401,11 +5716,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - UH-60M *2
     - M939 Transport *1
@@ -6414,7 +5729,7 @@
     - M-ATV M240 *1
     - M-ATV CROWS M2 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Mi-17 *2
     - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
@@ -6434,11 +5749,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6447,7 +5762,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -6466,11 +5781,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS MEA
+双方阵营： [ADF](/faction/adf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6479,7 +5794,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - BRDM-2 S8 *1
@@ -6500,11 +5815,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 300  -  340
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW C6 *2
@@ -6514,7 +5829,7 @@
     - Coyote *2
     - CH-146 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Logistics Pickup Truck *6
@@ -6538,11 +5853,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
 初始票数： 300  -  340
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *3
@@ -6551,7 +5866,7 @@
     - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
     - Logistics Pickup Truck *6
@@ -6575,21 +5890,19 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  200
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - PMV Mag58 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
-    - Ural-375D Logistics *1
-    - Technical DShK *2
 
 
 ### Lashkar TC v1
@@ -6602,11 +5915,11 @@
 
 旗点数量： 98
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV432 *1
@@ -6615,7 +5928,7 @@
     - SA330 *2
     - FV4034 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Mi-17 *2
     - Ural-4320 Logistics *3
     - Ural-4320 Transport *1
@@ -6635,17 +5948,17 @@
 
 旗点数量： 65
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 450  -  450
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M2A3 *1
     - M1A2 *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *3
@@ -6665,11 +5978,11 @@
 
 旗点数量： 132
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - FV432 *1
@@ -6678,7 +5991,7 @@
     - SA330 *2
     - FV4034 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - Mi-8 *2
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
@@ -6698,11 +6011,11 @@
 
 旗点数量： 98
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -6711,7 +6024,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -6730,11 +6043,11 @@
 
 旗点数量： 62
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 450  -  450
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LAV III C6 RWS *1
@@ -6743,7 +6056,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *1
@@ -6765,17 +6078,17 @@
 
 旗点数量： 8
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 200  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *3
     - M-ATV CROWS M2 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *1
@@ -6793,16 +6106,16 @@
 
 旗点数量： 6
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 200  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M939 Logistics *3
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *1
     - Ural-4320 Logistics *3
@@ -6819,18 +6132,18 @@
 
 旗点数量： 8
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  200
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *2
     - PMV RWS M2 *1
     - PMV Mag58 x3 *2
     - PMV Mag58 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - Tigr-M Kord *2
@@ -6847,17 +6160,17 @@
 
 旗点数量： 2
 
-双方阵营： RGF VS INS
+双方阵营： [RGF](/faction/rgf) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - Tigr-M Kord *2
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -6876,16 +6189,16 @@
 
 旗点数量： 7
 
-双方阵营： RGF VS MEA
+双方阵营： [RGF](/faction/rgf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
     - KamAZ 5350 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -6902,43 +6215,20 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW C6 *5
     - LUVW Logistics *2
     - M113A3 TLAV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir MG3 *5
     - Simir Kord *1
     - Simir Logi *2
     - MT-LBM 6MA S8 *1
-
-
-### Logar Seed v1
-
-切换代码： `AdminChangeLayer Logar_Seed_v1`
-
-预设代码： `AdminSetNextLayer Logar_Seed_v1`
-
-光照情况： 傍晚
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USA 载具"
-    - M939 Transport *3
-    - M939 Logistics *3
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *3
-    - KamAZ 5350 Logistics *3
 
 
 ### Logar Skirmish v1
@@ -6951,16 +6241,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -6977,17 +6267,17 @@
 
 旗点数量： 40
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M-ATV M240 *1
     - M939 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir Kord *2
     - Simir MG3 *1
     - Ural-4320 Logistics *3
@@ -7005,11 +6295,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -7018,7 +6308,7 @@
     - M113A3 TLAV *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -7037,11 +6327,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *2
     - M939 Logistics *2
     - M1151 M2 *2
@@ -7051,7 +6341,7 @@
     - LAV-25 *1
     - UH-1Y *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *2
     - Tigr-M Kord *3
@@ -7070,11 +6360,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *3
@@ -7083,7 +6373,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -7104,11 +6394,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 800  -  200
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW M2 *3
@@ -7121,7 +6411,7 @@
     - RHIB Logistics *1
     - RHIB Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *2
     - KamAZ 5350 Logistics *1
@@ -7142,11 +6432,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -7156,7 +6446,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -7177,11 +6467,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
@@ -7190,7 +6480,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -7212,11 +6502,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *2
@@ -7227,7 +6517,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -7249,11 +6539,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - AAVC-7A1 Logistics *3
     - AAVP-7A1 *3
     - LAV-25 *4
@@ -7262,7 +6552,7 @@
     - RHIB M2 *2
     - RHIB Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - MT-LB Logistics *4
     - BRDM-2 *2
     - BTR-82A *2
@@ -7283,11 +6573,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 200  -  800
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -7297,7 +6587,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *1
@@ -7318,11 +6608,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -7332,7 +6622,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
@@ -7356,11 +6646,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW M2 *2
@@ -7371,7 +6661,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -7381,6 +6671,45 @@
     - BTR-82A *3
     - T-72B3 *1
     - Mi-8 *2
+
+
+### Manicouagan RAAS v14
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v14`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v14`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *2
+    - UH-60M *1
+
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *2
+    - ZSD05 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *1
+    - ZBD05 *1
+    - ZTD05 *1
+    - ZTZ99A *2
+    - Z-8J *1
 
 
 ### Manicouagan RAAS v2
@@ -7393,11 +6722,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *1
@@ -7409,7 +6738,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *1
@@ -7431,11 +6760,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *2
@@ -7444,7 +6773,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *1
@@ -7465,11 +6794,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *2
@@ -7479,7 +6808,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -7500,11 +6829,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS PLA
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *1
@@ -7515,7 +6844,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - CSK131 QJZ89 *1
@@ -7536,11 +6865,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *1
@@ -7549,7 +6878,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - CSK131 QJZ89 *1
@@ -7569,11 +6898,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW C6 *2
@@ -7583,7 +6912,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -7596,7 +6925,96 @@
     - Armored Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - BMP-2 *1
+    - BMP-1 *1
+    - BM-21 Grad *1
+    - T-62 *1
+
+
+### Manicouagan RAAS v8
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v8`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v8`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *2
+    - UH-60M *1
+
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Tigr-M Kord *1
+    - BRDM-2 *1
+    - Armored Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BTR-80 *1
+    - BMP-1 *1
+    - BMP-2 *1
+    - BM-21 Grad *1
+    - T-62 *2
+
+
+### Manicouagan RAAS v9
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v9`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v9`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
+
+初始票数： 300  -  300
+
+??? abstract "[RGF](/faction/rgf) 载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - MT-LB Logistics *2
+    - Tigr-M Kord *2
+    - Tigr-M RWS Kord *1
+    - MT-LB VMK *2
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - BRDM-2 *1
+    - BTR-80 *2
+    - Ural-375D ZU-23-2 *1
+    - MT-LB ZU-23-2 *1
+    - BMP-1 *1
+    - BMP-2 *1
     - BM-21 Grad *1
     - T-62 *1
 
@@ -7611,17 +7029,17 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 100  -  100
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Transport *3
     - LUVW Logistics *3
     - MSVS Logistics *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Transport Modern Pickup *1
     - Armored Transport Modern Pickup *1
@@ -7643,11 +7061,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUV-A1 Transport *2
     - MSVS Transport *1
@@ -7655,7 +7073,7 @@
     - MSVS Logistics *2
     - LUVW C6 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -7671,15 +7089,15 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *3
     - M1151 M2 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
 
@@ -7694,16 +7112,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -7719,22 +7137,22 @@
 
 旗点数量： 7
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 250  -  250
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - Tigr-M Kord *1
     - BTR-80 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - BRDM-2 *1
 
 
@@ -7748,17 +7166,17 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -7775,21 +7193,21 @@
 
 旗点数量： 4
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-80 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Logistics Modern Pickup *1
     - Armored Ural-375D Logistics *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - Modern Technical UB-32 *1
 
@@ -7804,22 +7222,22 @@
 
 旗点数量： 5
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - M-ATV M2 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Armored Logistics Modern Pickup *1
     - Logistics Modern Pickup *1
     - Modern Technical M2 HB *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical DShK *1
     - Armored Modern Technical M2 HB *1
     - Armored Modern Technical SPG-9 *1
@@ -7836,17 +7254,17 @@
 
 旗点数量： 5
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - M-ATV M240 *1
     - M-ATV M2 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
@@ -7855,7 +7273,7 @@
     - Logistics Modern Pickup *1
     - Armored Modern Technical DShK *1
     - Armored Modern Technical M2 HB *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
 
 
@@ -7869,16 +7287,16 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *4
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *4
@@ -7894,16 +7312,16 @@
 
 旗点数量： 4
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 150  -  150
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -7920,21 +7338,21 @@
 
 旗点数量： 23
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
-    - M-ATV M2 *1
-    - M939 Logistics *3
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *1
     - M1126 CROWS M2 *1
 
-??? abstract "RGF载具"
-    - Tigr-M Kord *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *1
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+    - BTR-82A *1
 
 
 ### Mutaha AAS v1
@@ -7947,11 +7365,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M1126 CROWS M2 *1
     - M-ATV M2 *1
@@ -7960,7 +7378,7 @@
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - Tigr-M RWS Kord *1
@@ -7980,11 +7398,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
@@ -7992,7 +7410,7 @@
     - FV432 *1
     - FV107 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -8010,11 +7428,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -8022,7 +7440,7 @@
     - PMV RWS M2 *1
     - ASLAV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -8040,11 +7458,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -8053,7 +7471,7 @@
     - Coyote *2
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -8073,11 +7491,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - LPPV RWS *1
     - FV107 *1
@@ -8088,7 +7506,7 @@
     - FV520 CTAS40 *1
     - SA330 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *3
@@ -8112,11 +7530,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS INS
+双方阵营： [BAF](/faction/baf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV RWS *1
@@ -8127,7 +7545,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -8151,11 +7569,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -8164,7 +7582,7 @@
     - M1A1 *2
     - MRH-90 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
@@ -8188,11 +7606,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUV-A1 Logistics *1
@@ -8203,7 +7621,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *2
     - Ural-375D Transport *1
     - Logistics Pickup Truck *1
@@ -8228,11 +7646,11 @@
 
 旗点数量： 13
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M1126 CROWS M2 *1
     - M-ATV M2 *1
@@ -8242,7 +7660,7 @@
     - UH-60M *1
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir MG3 *1
@@ -8263,11 +7681,11 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *2
@@ -8277,7 +7695,7 @@
     - M1A1 *1
     - MRH-90 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -8298,11 +7716,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *3
@@ -8312,7 +7730,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -8325,38 +7743,6 @@
     - Mi-17 *1
 
 
-### Mutaha RAAS v4
-
-切换代码： `AdminChangeLayer Mutaha_RAAS_v4`
-
-预设代码： `AdminSetNextLayer Mutaha_RAAS_v4`
-
-光照情况： 正午
-
-旗点数量： 5
-
-双方阵营： CAF VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - M113A3 TLAV *2
-    - Coyote *1
-    - Leopard 2A6M CAN *3
-    - CH-146 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - MT-LBM 6MA *1
-    - MT-LB VMK *1
-    - MT-LBM 6MB *1
-    - T-72B3 *3
-    - Mi-8 *1
-
-
 ### Mutaha RAAS v5
 
 切换代码： `AdminChangeLayer Mutaha_RAAS_v5`
@@ -8367,11 +7753,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *2
@@ -8380,7 +7766,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *2
@@ -8402,11 +7788,11 @@
 
 旗点数量： 13
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *1
@@ -8416,7 +7802,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -8438,11 +7824,11 @@
 
 旗点数量： 13
 
-双方阵营： PLA VS RGF
+双方阵营： [PLA](/faction/pla) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla) 载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -8451,7 +7837,7 @@
     - ZTZ99A *1
     - Z-8G *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -8471,20 +7857,17 @@
 
 旗点数量： 3
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 100  -  100
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *3
-    - M939 Logistics *3
-    - M1151 M2 *1
-    - M1151 M2 Open Doors *1
+    - M939 Logistics *4
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
+    - KamAZ 5350 Logistics *4
 
 
 ### Mutaha Skirmish v1
@@ -8497,20 +7880,53 @@
 
 旗点数量： 5
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
     - Simir MG3 *1
+
+
+### Mutaha Tanks v1
+
+切换代码： `AdminChangeLayer Mutaha_Tanks_v1`
+
+预设代码： `AdminSetNextLayer Mutaha_Tanks_v1`
+
+光照情况： 黎明
+
+旗点数量： 5
+
+双方阵营： [MEA](/faction/mea) VS [PLA](/faction/pla)
+
+初始票数： 300  -  300
+
+??? abstract "[MEA](/faction/mea) 载具"
+    - Ural-4320 Transport *1
+    - Simir Logi *1
+    - Ural-4320 Logistics *3
+    - Simir Kornet *1
+    - BMP-1 *1
+    - BMP-2 *2
+    - T-62 *1
+    - T-72S *1
+
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - CSK131 HJ8 *1
+    - ZBL08 HJ73C *2
+    - ZBD04A *1
+    - ZTZ99A *1
 
 
 ### Mutaha TC v1
@@ -8523,17 +7939,17 @@
 
 旗点数量： 17
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M2 *1
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
     - KamAZ 5350 Transport *1
@@ -8550,11 +7966,11 @@
 
 旗点数量： 35
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *1
@@ -8563,7 +7979,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *1
@@ -8585,17 +8001,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *3
     - M939 Logistics *3
     - M-ATV M2 *2
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BTR-80 *1
     - Tigr-M Kord *1
@@ -8614,18 +8030,18 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
     - LPPV *2
     - FV107 *1
     - FV520 CTAS40 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BMP-2 *1
     - BTR-82A *2
     - BRDM-2 *1
@@ -8643,18 +8059,18 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *3
     - M939 Logistics *3
     - M-ATV CROWS M2 *1
     - M-ATV M2 *1
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *3
     - MT-LBM 6MA *1
     - BRDM-2 *1
@@ -8673,11 +8089,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *1
@@ -8685,7 +8101,7 @@
     - LAV-25 *2
     - AAVP-7A1 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -8703,11 +8119,11 @@
 
 旗点数量： 2
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M939 Logistics *3
     - M-ATV M2 *1
@@ -8715,44 +8131,13 @@
     - M2A3 *2
     - M-ATV CROWS M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - T-72B3 *1
     - KamAZ 5350 Transport *1
     - Tigr-M RWS Kord *1
     - BTR-80 *1
-
-
-### Narva Invasion v1
-
-切换代码： `AdminChangeLayer Narva_Invasion_v1`
-
-预设代码： `AdminSetNextLayer Narva_Invasion_v1`
-
-光照情况： 黎明
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 800  -  200
-
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M-ATV M2 *2
-    - M1126 CROWS M2 *2
-    - M2A3 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - BTR-80 *1
-    - BTR-82A *2
-    - BMP-2 *1
 
 
 ### Narva Invasion v2
@@ -8765,11 +8150,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -8779,7 +8164,7 @@
     - FV520 CTAS40 *1
     - FV4034 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -8798,17 +8183,17 @@
 
 旗点数量： 4
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 800  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *1
     - M1126 CROWS M240 *3
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -8825,11 +8210,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *1
     - LUVW Logistics *2
@@ -8837,7 +8222,7 @@
     - M113A3 TLAV *2
     - Leopard 2A6M CAN *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *1
@@ -8845,10 +8230,11 @@
     - Armored Logistics Modern Pickup *2
     - Armored Modern Technical M2 HB *1
     - Modern Technical M2 HB *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - MT-LB VMK *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - T-62 *2
 
 
@@ -8862,11 +8248,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 800  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - RHIB Transport *1
     - RHIB Logistics *1
     - RHIB M240 *2
@@ -8874,7 +8260,7 @@
     - AAVP-7A1 *2
     - LAV-25 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - RHIB Transport *1
     - RHIB Logistics *1
     - RHIB PKP *1
@@ -8896,11 +8282,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M2A3 *1
     - M939 Logistics *3
@@ -8908,7 +8294,7 @@
     - M1A2 *1
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BMP-2 *1
     - KamAZ 5350 Logistics *3
@@ -8916,38 +8302,6 @@
     - T-72B3 *1
     - KamAZ 5350 Transport *1
     - BTR-80 *1
-
-
-### Narva RAAS v2
-
-切换代码： `AdminChangeLayer Narva_RAAS_v2`
-
-预设代码： `AdminSetNextLayer Narva_RAAS_v2`
-
-光照情况： 正午&多云
-
-旗点数量： 27
-
-双方阵营： USMC VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 *2
-    - M1151 M2 Open Doors *1
-    - AAVP-7A1 *1
-    - LAV-25 *2
-    - M1A1 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-80 *1
-    - BTR-82A *3
-    - T-72B3 *1
 
 
 ### Narva RAAS v3
@@ -8960,11 +8314,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *2
     - MSVS Logistics *1
@@ -8974,7 +8328,7 @@
     - M113A3 TLAV *1
     - Leopard 2A6M CAN *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Ural-375D Logistics *1
@@ -8982,11 +8336,11 @@
     - Logistics Modern Pickup *1
     - Armored Modern Technical DShK *1
     - Modern Technical M2 HB *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - Tigr-M Kord *1
     - BTR-80 *1
-    - BMP-1 *1
+    - BMP-2 *1
     - T-62 *1
 
 
@@ -9000,11 +8354,11 @@
 
 旗点数量： 27
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -9014,7 +8368,7 @@
     - LAV 6 *2
     - Leopard 2A6M CAN *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -9034,18 +8388,18 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - RHIB Transport *1
     - RHIB Logistics *1
     - RHIB M240 *1
     - RHIB M2 *1
     - AAVC-7A1 Logistics *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - RHIB Transport *1
     - RHIB Logistics *1
     - RHIB PKP *1
@@ -9062,11 +8416,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS PLA
+双方阵营： [BAF](/faction/baf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -9075,7 +8429,7 @@
     - FV510 UA *2
     - FV4034 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *1
@@ -9083,6 +8437,36 @@
     - ZSL10 *1
     - ZBL08 *2
     - ZTZ99A *1
+
+
+### Narva RAAS v7
+
+切换代码： `AdminChangeLayer Narva_RAAS_v7`
+
+预设代码： `AdminSetNextLayer Narva_RAAS_v7`
+
+光照情况： 正午&多云
+
+旗点数量： 5
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - UH-60M *1
+
+??? abstract "[RGF](/faction/rgf)载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M RWS Kord *1
+    - BTR-80 *1
+    - BTR-82A *2
+    - Mi-8 *1
 
 
 ### Narva Skirmish v1
@@ -9095,16 +8479,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -9120,14 +8504,14 @@
 
 旗点数量： 1
 
-双方阵营： RGF VS RGF
+双方阵营： [RGF](/faction/rgf) VS [RGF](/faction/rgf)
 
 初始票数： 24  -  24
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - BTR-82A *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
 
 
@@ -9141,11 +8525,11 @@
 
 旗点数量： 29
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M2A3 *1
     - M939 Logistics *3
@@ -9153,7 +8537,7 @@
     - M-ATV M2 *1
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BTR-80 *1
     - Tigr-M RWS Kord *1
@@ -9172,11 +8556,11 @@
 
 旗点数量： 52
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M2A3 *1
     - M939 Logistics *3
@@ -9184,7 +8568,7 @@
     - M1A2 *1
     - M939 Transport *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BMP-2 *1
     - KamAZ 5350 Logistics *3
@@ -9204,11 +8588,11 @@
 
 旗点数量： 2
 
-双方阵营： USMC VS PLA
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 99999  -  99999
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - AAVC-7A1 Logistics *1
@@ -9227,7 +8611,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Logistics *1
     - CTM131 Transport QJY88 *1
     - CTM131 Transport QJZ89 *1
@@ -9257,11 +8641,11 @@
 
 旗点数量： 2
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 99999  -  99999
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - AAVC-7A1 Logistics *1
@@ -9280,7 +8664,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - Tigr-M Kord *1
@@ -9307,11 +8691,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *1
     - M2A3 *1
     - M-ATV M2 *1
@@ -9319,7 +8703,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *1
     - BMP-2 *1
     - Tigr-M Kord *1
@@ -9338,11 +8722,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - M-ATV M240 *1
@@ -9351,7 +8735,7 @@
     - M1A2 *2
     - UH-60M *3
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
@@ -9360,39 +8744,13 @@
     - Logistics Modern Pickup *1
     - BRDM-2 *1
     - Armored Modern Technical DShK *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
-    - Modern Technical UB-32 *1
+    - BMP-2 *1
+    - T-62 *1
     - BM-21 Grad *1
-
-
-### Skorpo Invasion v2
-
-切换代码： `AdminChangeLayer Skorpo_Invasion_v2`
-
-预设代码： `AdminSetNextLayer Skorpo_Invasion_v2`
-
-光照情况： 黄昏
-
-旗点数量： 5
-
-双方阵营： RGF VS IMF
-
-初始票数： 200  -  900
-
-??? abstract "RGF 载具"
-    - KamAZ 5350 Logistics *1
-    - KamAZ 5350 Transport *1
-    - BRDM-2 *1
-    - BTR-80 *1
-
-??? abstract "IMF载具"
-    - Logistics Modern Pickup *1
-    - Armored Logistics Modern Pickup *1
-    - Armored Transport Modern Pickup *1
-    - Armored Modern Technical DShK *1
 
 
 ### Skorpo Invasion v3
@@ -9405,11 +8763,11 @@
 
 旗点数量： 4
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  900
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - RHIB Logistics *2
     - RHIB M2 *1
     - RHIB M240 *1
@@ -9418,7 +8776,7 @@
     - LAV-25 *1
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *4
     - Tigr-M Kord *3
@@ -9438,18 +8796,18 @@
 
 旗点数量： 5
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - MT-LB Logistics *1
     - BRDM-2 *1
     - BTR-80 *1
     - BTR-82A *1
     - Mi-8 *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
@@ -9473,11 +8831,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M2A3 *1
     - M1126 CROWS M2 *1
@@ -9486,7 +8844,7 @@
     - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *1
     - BMP-2 *1
     - T-72B3 *1
@@ -9506,11 +8864,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M2A3 *1
     - M1126 CROWS M2 *1
@@ -9519,7 +8877,7 @@
     - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BMP-2 *1
     - T-72B3 *1
     - KamAZ 5350 Transport *1
@@ -9540,11 +8898,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - RHIB M240 *1
     - RHIB M2 *1
     - RHIB Logistics *1
@@ -9556,7 +8914,7 @@
     - M2A3 *1
     - M1A2 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - RHIB PKM *1
     - RHIB DShK *1
     - RHIB Logistics *1
@@ -9564,82 +8922,15 @@
     - Armored Ural-375D Logistics *2
     - Armored Logistics Modern Pickup *1
     - Logistics Modern Pickup *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
     - Armored Modern Technical M2 HB *1
     - Armored Modern Technical SPG-9 *1
     - Modern Technical UB-32 *1
     - BRDM-2 *1
-    - BMP-1 *2
-    - T-62 *1
-
-
-### Skorpo RAAS v4
-
-切换代码： `AdminChangeLayer Skorpo_RAAS_v4`
-
-预设代码： `AdminSetNextLayer Skorpo_RAAS_v4`
-
-光照情况： 暴雨
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M2A3 *1
-    - M1126 CROWS M2 *1
-    - M-ATV M2 *2
-    - M939 Transport *1
-    - M1126 CROWS M240 *1
-    - M1A2 *1
-    - UH-60M *2
-
-??? abstract "RGF载具"
-    - BTR-82A *1
-    - T-72B3 *1
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - BTR-80 *1
-    - Tigr-M RWS Kord *1
-    - Tigr-M Kord *1
     - BMP-2 *1
-    - Mi-8 *2
-
-
-### Skorpo RAAS v5
-
-切换代码： `AdminChangeLayer Skorpo_RAAS_v5`
-
-预设代码： `AdminSetNextLayer Skorpo_RAAS_v5`
-
-光照情况： 正午
-
-旗点数量： 8
-
-双方阵营： CAF VS RGF
-
-初始票数： 300  -  320
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - LUVW Logistics *2
-    - LUVW M2 *3
-    - Coyote *2
-    - Leopard 2A6M CAN *1
-    - CH-146 *3
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - MT-LB Logistics *3
-    - MT-LB VMK *1
-    - MT-LBM 6MA *1
-    - BMP-2 *3
-    - T-72B3 *1
-    - Mi-8 *1
+    - BMP-1 *1
+    - T-62 *1
 
 
 ### Skorpo Skirmish v1
@@ -9652,16 +8943,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -9677,18 +8968,18 @@
 
 旗点数量： 33
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *1
     - M-ATV M2 *2
     - M939 Logistics *3
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *1
     - Tigr-M Kord *2
     - KamAZ 5350 Logistics *3
@@ -9706,18 +8997,18 @@
 
 旗点数量： 40
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M-ATV M2 *2
     - M939 Logistics *3
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - Mi-8 *2
     - BTR-82A *2
     - BRDM-2 *1
@@ -9736,11 +9027,11 @@
 
 旗点数量： 109
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 500  -  500
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *2
     - M-ATV M2 *2
     - M939 Logistics *3
@@ -9749,7 +9040,7 @@
     - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - BMP-2 *1
     - Tigr-M RWS Kord *1
@@ -9770,16 +9061,16 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir Logi *2
     - Ural-4320 Logistics *3
     - Simir Kord *2
@@ -9796,18 +9087,18 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M240 *1
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -9824,17 +9115,17 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *3
     - PMV RWS M2 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -9851,17 +9142,17 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *1
     - LUVW Logistics *2
     - LUVW M2 *3
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
@@ -9877,16 +9168,16 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M1151 M2 Open Doors *3
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
@@ -9902,16 +9193,16 @@
 
 旗点数量： 2
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M-ATV CROWS M240 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
@@ -9930,17 +9221,17 @@
 
 旗点数量： 6
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M240 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -9958,16 +9249,16 @@
 
 旗点数量： 6
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir MG3 *1
     - Simir Kord *1
     - Ural-4320 Logistics *3
@@ -9984,15 +9275,15 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Simir Logi *2
 
@@ -10007,15 +9298,15 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *4
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *4
 
@@ -10030,15 +9321,15 @@
 
 旗点数量： 5
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *4
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *3
     - Logistics Pickup Truck *4
@@ -10054,15 +9345,15 @@
 
 旗点数量： 5
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *4
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *6
 
@@ -10077,15 +9368,15 @@
 
 旗点数量： 5
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Logistics *4
 
 
@@ -10099,23 +9390,23 @@
 
 旗点数量： 23
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M240 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir MG3 *1
     - Simir Kord *1
     - Ural-4320 Logistics *3
     - Simir Logi *2
 
 
-### Tallil Outskirts AAS_v1
+### Tallil Outskirts AAS v1
 
 切换代码： `AdminChangeLayer Tallil_AAS_v1`
 
@@ -10125,11 +9416,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M2A3 *1
     - M1126 CROWS M2 *2
@@ -10138,7 +9429,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - T-72B3 *2
@@ -10158,11 +9449,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M2A3 *1
     - M1126 CROWS M2 *2
@@ -10172,7 +9463,7 @@
     - M-ATV TOW *1
     - UH-60M *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -10195,11 +9486,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M2A3 *2
     - M1126 CROWS M2 *1
     - M1A2 *2
@@ -10208,7 +9499,7 @@
     - M-ATV M2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -10229,11 +9520,11 @@
 
 旗点数量： 4
 
-双方阵营： RGF VS INS
+双方阵营： [RGF](/faction/rgf) VS [INS](/faction/ins)
 
 初始票数： 200  -  700
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Logistics *3
     - KamAZ 5350 Transport *1
     - BTR-82A *2
@@ -10242,7 +9533,7 @@
     - BRDM-2 Spandrel *1
     - BMP-2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *3
     - Technical ZU-23-2 *1
@@ -10264,11 +9555,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *2
@@ -10276,7 +9567,7 @@
     - M2A3 *1
     - UH-60M *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *1
     - Ural-375D Logistics *1
@@ -10301,18 +9592,18 @@
 
 旗点数量： 4
 
-双方阵营： ADF VS INS
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
 初始票数： 200  -  800
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
     - ASLAV *2
     - M1A1 *2
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Logistics Pickup Truck *3
     - Transport Pickup Truck *1
     - Technical ZU-23-2 *1
@@ -10334,11 +9625,11 @@
 
 旗点数量： 5
 
-双方阵营： MEA VS PLA
+双方阵营： [MEA](/faction/mea) VS [PLA](/faction/pla)
 
 初始票数： 200  -  800
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea) 载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *3
     - Simir Kord *3
@@ -10347,7 +9638,7 @@
     - BMP-2 *1
     - Mi-17 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *3
     - CSK131 QJY88 *4
@@ -10365,17 +9656,17 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 350  -  350
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *2
     - M1151 M2 Open Doors *3
     - UH-1Y *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *2
     - Simir Logi *2
@@ -10394,11 +9685,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M1126 CROWS M2 *2
@@ -10407,7 +9698,7 @@
     - M-ATV CROWS M2 *1
     - UH-60M *2
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *2
     - Ural-4320 Transport *1
     - BRDM-2 S8 *1
@@ -10431,11 +9722,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
     - M1126 CROWS M2 *2
@@ -10445,7 +9736,7 @@
     - M-ATV CROWS M240 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - T-72B3 *1
@@ -10466,11 +9757,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV RWS *1
@@ -10480,7 +9771,7 @@
     - FV4034 *2
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -10501,11 +9792,11 @@
 
 旗点数量： 6
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *2
@@ -10514,7 +9805,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -10534,11 +9825,11 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *2
@@ -10549,7 +9840,7 @@
     - Leopard 2A6M CAN *2
     - CH-146 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -10570,11 +9861,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS MEA
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *2
@@ -10583,7 +9874,7 @@
     - Leopard 2A6M CAN *3
     - CH-146 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *2
     - Simir Logi *2
@@ -10603,11 +9894,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS PLA
+双方阵营： [BAF](/faction/baf) VS [PLA](/faction/pla)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV RWS *1
@@ -10617,7 +9908,7 @@
     - FV4034 *2
     - SA330 *1
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJC88 RWS *1
@@ -10639,16 +9930,16 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS INS
+双方阵营： [USMC](/faction/usmc) VS [INS](/faction/ins)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
     - M1151 M2 Open Doors *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Logistics Pickup Truck *3
     - Shitty Technical DShK *1
@@ -10664,15 +9955,15 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
-初始票数： 300  -  300
+初始票数： 100  -  100
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Logistics *3
     - LUVW Transport *3
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *3
     - Logistics Pickup Truck *3
@@ -10688,16 +9979,16 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -10713,16 +10004,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -10738,11 +10029,11 @@
 
 旗点数量： 5
 
-双方阵营： IMF VS INS
+双方阵营： [IMF](/faction/imf) VS [INS](/faction/ins)
 
 初始票数： 200  -  200
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf) 载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
@@ -10756,7 +10047,7 @@
     - Modern Technical UB-32 *1
     - Ural-375D ZU-23-2 *1
 
-??? abstract "INS载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *2
@@ -10780,17 +10071,17 @@
 
 旗点数量： 5
 
-双方阵营： USA VS MEA
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - M2A3 *1
     - M1A2 *1
 
-??? abstract "MEA载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *1
     - Ural-4320 Logistics *1
@@ -10809,17 +10100,13 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *1
-    - M-ATV TOW *1
-    - M1A2 *1
+??? abstract "[USA](/faction/usa) 载具"
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BRDM-2 Spandrel *1
@@ -10836,14 +10123,14 @@
 
 旗点数量： 2
 
-双方阵营： USA VS USA
+双方阵营： [USA](/faction/usa) VS [USA](/faction/usa)
 
 初始票数： 34  -  34
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1A2 *2
 
-??? abstract "USA载具"
+??? abstract "[USA](/faction/usa)载具"
     - M1A2 *2
 
 
@@ -10857,11 +10144,11 @@
 
 旗点数量： 61
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 500  -  500
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M-ATV M2 *1
     - M1126 CROWS M2 *2
@@ -10870,7 +10157,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - T-72B3 *2
@@ -10878,62 +10165,6 @@
     - KamAZ 5350 Transport *1
     - Tigr-M Kord *1
     - Mi-8 *2
-
-
-### Helicopter Tutorial
-
-切换代码： `AdminChangeLayer Tutorial_Helicopter`
-
-预设代码： `AdminSetNextLayer Tutorial_Helicopter`
-
-光照情况： 正午
-
-旗点数量： 1
-
-双方阵营： USA VS USA
-
-初始票数： 99999  -  99999
-
-??? abstract "USA 载具"
-    - UH-60M *1
-    - Mi-8 *1
-
-??? abstract "USA载具"
-    - UH-60M *1
-    - Mi-8 *1
-
-
-### Infantry Tutorial
-
-切换代码： `AdminChangeLayer Tutorial_Infantry`
-
-预设代码： `AdminSetNextLayer Tutorial_Infantry`
-
-光照情况： 正午
-
-旗点数量： 2
-
-双方阵营： USA VS USA
-
-初始票数： 99999  -  99999
-
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *1
-    - M-ATV M2 *1
-    - M1126 CROWS M2 *1
-    - M2A3 *1
-    - M1A2 *1
-    - UH-60M *1
-
-??? abstract "USA载具"
-    - M939 Transport *1
-    - M939 Logistics *1
-    - M-ATV M2 *1
-    - M1126 CROWS M2 *1
-    - M2A3 *1
-    - M1A2 *1
-    - UH-60M *1
 
 
 ### Yehorivka AAS v1
@@ -10946,11 +10177,11 @@
 
 旗点数量： 7
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -10960,7 +10191,7 @@
     - FV4034 *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -10981,11 +10212,11 @@
 
 旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
@@ -10994,7 +10225,7 @@
     - M1A2 *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -11015,11 +10246,11 @@
 
 旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -11029,7 +10260,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -11049,11 +10280,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *2
@@ -11062,7 +10293,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -11082,11 +10313,11 @@
 
 旗点数量： 2
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M1126 CROWS M2 *1
     - M2A3 *1
     - M939 Logistics *3
@@ -11095,7 +10326,7 @@
     - M-ATV CROWS M2 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - BTR-82A *2
     - T-72B3 *1
@@ -11114,11 +10345,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - FV432 *2
@@ -11129,7 +10360,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Logistics Modern Pickup *2
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *3
@@ -11140,7 +10371,8 @@
     - Armored Modern Technical SPG-9 *1
     - MT-LB VMK *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - BM-21 Grad *1
     - T-62 *1
 
@@ -11155,11 +10387,11 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 800  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M-ATV CROWS M2 *1
     - M2A3 *2
@@ -11168,7 +10400,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - BRDM-2 *1
@@ -11190,11 +10422,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -11206,7 +10438,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *3
     - Armored Logistics Modern Pickup *1
@@ -11218,7 +10450,7 @@
     - BM-21 Grad *1
     - MT-LB ZU-23-2 *2
     - BRDM-2 *1
-    - MT-LBM 6MB *1
+    - BMP-2 *1
     - BMP-1 *1
     - T-62 *1
 
@@ -11233,11 +10465,11 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 350  -  350
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M1151 M2 *2
@@ -11247,44 +10479,15 @@
     - M1A1 *2
     - UH-1Y *2
 
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MB *2
-    - BTR-82A *2
-    - T-72B3 *2
-    - Mi-8 *2
-
-
-### Yehorivka RAAS v2
-
-切换代码： `AdminChangeLayer Yehorivka_RAAS_v02`
-
-预设代码： `AdminSetNextLayer Yehorivka_RAAS_v02`
-
-光照情况： 正午&多云
-
-旗点数量： 5
-
-双方阵营： USA VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USA 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M-ATV M2 *1
-    - M-ATV CROWS M2 *1
-    - UH-60M *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M RWS Kord *1
-    - BRDM-2 *1
-    - Mi-8 *2
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *2
+    - ZSD05 *1
+    - ZBD05 *2
+    - ZTZ99A *2
+    - Z-8G *2
 
 
 ### Yehorivka RAAS v3
@@ -11297,11 +10500,11 @@
 
 旗点数量： 7
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - FV432 *2
     - HX60 Logistics *3
     - FV510 UA *1
@@ -11311,7 +10514,7 @@
     - LPPV RWS *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - BRDM-2 *1
@@ -11332,18 +10535,18 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M1126 CROWS M2 *2
     - M-ATV M2 *2
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-80 *2
     - KamAZ 5350 Logistics *3
     - BRDM-2 *1
@@ -11362,25 +10565,24 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
-初始票数： 350  -  350
+初始票数： 300  -  300
 
-??? abstract "USA 载具"
-    - M-ATV M2 *2
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
     - M939 Logistics *3
     - M1126 CROWS M2 *3
-    - M939 Transport *1
+    - M-ATV M2 *3
     - UH-60M *2
 
-??? abstract "RGF载具"
-    - BTR-82A *2
-    - KamAZ 5350 Logistics *3
-    - BTR-80 *2
-    - BRDM-2 *1
-    - Tigr-M RWS Kord *1
-    - KamAZ 5350 Transport *1
-    - Mi-8 *2
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *2
+    - ZSD05 Logistics *1
+    - ZSD05 *4
+    - ZBL08 *2
+    - Z-8G *2
 
 
 ### Yehorivka RAAS v6
@@ -11393,11 +10595,11 @@
 
 旗点数量： 27
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M939 Logistics *3
     - M1126 CROWS M2 *2
@@ -11406,7 +10608,7 @@
     - M939 Transport *1
     - UH-60M *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -11426,11 +10628,11 @@
 
 旗点数量： 27
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - FV432 *2
     - HX60 Logistics *3
     - FV510 UA *1
@@ -11440,7 +10642,7 @@
     - LPPV RWS *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - BRDM-2 *1
@@ -11461,11 +10663,11 @@
 
 旗点数量： 27
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV RWS M2 *1
@@ -11476,7 +10678,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -11496,11 +10698,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *1
     - LUVW Logistics *2
@@ -11510,7 +10712,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -11522,82 +10724,11 @@
     - Tigr-M Kord *1
     - BRDM-2 *1
     - BTR-80 *1
-    - MT-LBM 6MB *1
+    - BMP-2 *1
     - BMP-1 *1
     - MT-LB ZU-23-2 *2
     - BM-21 Grad *1
     - T-62 *1
-
-
-### Yehorivka RAAS v10
-
-切换代码： `AdminChangeLayer Yehorivka_RAAS_v10`
-
-预设代码： `AdminSetNextLayer Yehorivka_RAAS_v10`
-
-光照情况： 阴天
-
-旗点数量： 7
-
-双方阵营： CAF VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - TAPV C6 *1
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *1
-    - CH-146 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - BTR-80 *1
-    - BTR-82A *1
-    - T-72B3 *1
-    - Mi-8 *3
-
-
-### Yehorivka RAAS v11
-
-切换代码： `AdminChangeLayer Yehorivka_RAAS_v11`
-
-预设代码： `AdminSetNextLayer Yehorivka_RAAS_v11`
-
-光照情况： 正午&多云
-
-旗点数量： 27
-
-双方阵营： CAF VS RGF
-
-初始票数： 350  -  350
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *3
-    - LUVW M2 *2
-    - TAPV M2 *1
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *2
-    - CH-146 *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - Tigr-M RWS Kord *1
-    - MT-LBM 6MA *1
-    - BTR-82A *3
-    - T-72B3 *2
-    - Mi-8 *2
 
 
 ### Yehorivka RAAS v12
@@ -11610,11 +10741,11 @@
 
 旗点数量： 16
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 TLAV *2
@@ -11622,7 +10753,7 @@
     - Leopard 2A6M CAN *4
     - CH-146 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - MT-LBM 6MA *2
@@ -11641,11 +10772,11 @@
 
 旗点数量： 27
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
@@ -11655,7 +10786,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -11676,11 +10807,11 @@
 
 旗点数量： 7
 
-双方阵营： PLA VS IMF
+双方阵营： [PLA](/faction/pla) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla) 载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -11690,7 +10821,7 @@
     - ZTZ99A *2
     - Z-8G *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Ural-375D Logistics *1
     - Armored Ural-375D Logistics *1
@@ -11702,7 +10833,7 @@
     - Armored Modern Technical DShK *1
     - Armored Modern Technical SPG-9 *1
     - MT-LB ZU-23-2 *1
-    - MT-LBM 6MB *1
+    - BMP-2 *1
     - BMP-1 *1
     - BM-21 Grad *1
     - T-62 *2
@@ -11718,16 +10849,16 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -11743,16 +10874,16 @@
 
 旗点数量： 3
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -11768,16 +10899,16 @@
 
 旗点数量： 4
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -11793,14 +10924,14 @@
 
 旗点数量： 2
 
-双方阵营： RGF VS RGF
+双方阵营： [RGF](/faction/rgf) VS [RGF](/faction/rgf)
 
 初始票数： 34  -  34
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - T-72B3 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - T-72B3 *2
 
 
@@ -11814,11 +10945,11 @@
 
 旗点数量： 56
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 450  -  450
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M1126 CROWS M2 *1
@@ -11827,7 +10958,7 @@
     - M939 Transport *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BMP-2 *1
     - BTR-82A *1
     - KamAZ 5350 Logistics *3
@@ -11848,11 +10979,11 @@
 
 旗点数量： 70
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *1
     - M939 Logistics *3
     - M1126 CROWS M2 *2
@@ -11861,7 +10992,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - BTR-82A *2
     - KamAZ 5350 Logistics *3
     - Tigr-M RWS Kord *1
@@ -11881,11 +11012,11 @@
 
 旗点数量： 67
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 450  -  450
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -11894,44 +11025,13 @@
     - Coyote *1
     - CH-146 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
     - Tigr-M RWS Kord *1
     - MT-LBM 6MA *1
     - BTR-82A *1
-    - Mi-8 *1
-
-
-### Black Coast AAS v1
-
-切换代码： `AdminChangeLayer BlackCoast_AAS_v1`
-
-预设代码： `AdminSetNextLayer BlackCoast_AAS_v1`
-
-光照情况： 阴天
-
-旗点数量： 5
-
-双方阵营： USMC VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 *2
-    - AAVP-7A1 *2
-    - LAV-25 *2
-    - UH-1Y *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-    - BTR-82A *2
-    - BMP-2 *1
     - Mi-8 *1
 
 
@@ -11945,11 +11045,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
@@ -11958,7 +11058,7 @@
     - FV510 UA *1
     - SA330 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Logistics Modern Pickup *2
@@ -11984,11 +11084,11 @@
 
 旗点数量： 4
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - RHIB Logistics *2
     - RHIB M2 *1
     - RHIB Transport *1
@@ -12000,7 +11100,7 @@
     - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - Tigr-M Kord *3
     - KamAZ 5350 Logistics *3
@@ -12020,11 +11120,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS IMF
+双方阵营： [USMC](/faction/usmc) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - RHIB Transport *1
     - RHIB Logistics *2
     - RHIB M2 *1
@@ -12036,7 +11136,7 @@
     - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Logistics Modern Pickup *1
@@ -12063,11 +11163,11 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - RHIB M2 *2
     - RHIB Transport *2
     - RHIB Logistics *2
@@ -12076,7 +11176,7 @@
     - TAPV M2 *1
     - CH-146 *4
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Logistics Modern Pickup *1
     - Ural-375D Logistics *1
@@ -12101,11 +11201,11 @@
 
 旗点数量： 6
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -12116,7 +11216,7 @@
     - T-72B3 *1
     - Mi-8 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Ural-375D Transport *1
     - Ural-375D Logistics *1
@@ -12128,46 +11228,11 @@
     - Modern Technical ZU-23-2 *1
     - BRDM-2 *1
     - Armored Modern Technical SPG-9 *1
-    - BMP-1 *1
+    - BMP-2 *1
     - BM-21 Grad *1
     - T-62 *1
     - RHIB DShK *1
     - RHIB Logistics *1
-
-
-### Black Coast RAAS v1
-
-切换代码： `AdminChangeLayer BlackCoast_RAAS_v1`
-
-预设代码： `AdminSetNextLayer BlackCoast_RAAS_v1`
-
-光照情况： 正午
-
-旗点数量： 7
-
-双方阵营： USMC VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
-    - AAVP-7A1 *2
-    - LAV-25 *2
-    - M1A1 *2
-    - UH-1Y *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - BMP-2 *1
-    - T-72B3 *2
-    - Mi-8 *2
 
 
 ### Black Coast RAAS v2
@@ -12180,11 +11245,11 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS IMF
+双方阵营： [USMC](/faction/usmc) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *2
     - M939 Logistics *1
@@ -12194,7 +11259,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
     - Armored Logistics Modern Pickup *1
@@ -12203,6 +11268,7 @@
     - Modern Technical SPG-9 *1
     - BRDM-2 *1
     - MT-LBM 6MB *1
+    - BMP-2 *1
     - MT-LB ZU-23-2 *1
     - Ural-375D ZU-23-2 *1
     - BMP-1 *1
@@ -12220,11 +11286,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
@@ -12234,7 +11300,7 @@
     - FV4034 *1
     - SA330 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -12255,11 +11321,11 @@
 
 旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUVW Logistics *1
     - MSVS Logistics *2
@@ -12271,7 +11337,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -12292,15 +11358,15 @@
 
 旗点数量： 4
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 100  -  100
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *3
     - M1151 M2 *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
 
@@ -12315,50 +11381,17 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
-
-
-### Harju AAS v1
-
-切换代码： `AdminChangeLayer Harju_AAS_v1`
-
-预设代码： `AdminSetNextLayer Harju_AAS_v1`
-
-光照情况： 正午
-
-旗点数量： 7
-
-双方阵营： USMC VS RGF
-
-初始票数： 250  -  250
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
-    - LAV-25 *2
-    - UH-1Y *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - Mi-8 *1
 
 
 ### Harju AAS v2
@@ -12371,18 +11404,18 @@
 
 旗点数量： 5
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M2 *2
     - M2A3 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -12400,11 +11433,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *3
@@ -12412,7 +11445,7 @@
     - FV107 *1
     - FV510 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Logistics Modern Pickup *2
@@ -12436,11 +11469,11 @@
 
 旗点数量： 8
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *1
     - AAVC-7A1 Logistics *2
     - M1151 M2 *1
@@ -12451,7 +11484,7 @@
     - RHIB M2 *1
     - RHIB Logistics *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *4
     - Tigr-M Kord *1
@@ -12472,11 +11505,11 @@
 
 旗点数量： 6
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *3
     - KamAZ 5350 Logistics *2
@@ -12487,7 +11520,7 @@
     - T-72B3 *2
     - Mi-8 *2
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Logistics Modern Pickup *1
@@ -12515,11 +11548,11 @@
 
 旗点数量： 5
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - FV107 *2
@@ -12531,7 +11564,7 @@
     - RHIB Transport *1
     - RHIB M2 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Logistics Modern Pickup *1
@@ -12548,44 +11581,6 @@
     - T-62 *1
 
 
-### Harju Invasion v4
-
-切换代码： `AdminChangeLayer Harju_Invasion_v4`
-
-预设代码： `AdminSetNextLayer Harju_Invasion_v4`
-
-光照情况： 正午
-
-旗点数量： 5
-
-双方阵营： CAF VS RGF
-
-初始票数： 200  -  900
-
-??? abstract "CAF 载具"
-    - MSVS Transport *1
-    - MSVS Logistics *1
-    - LUVW Logistics *2
-    - LUVW M2 *2
-    - TAPV M2 *1
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *1
-    - CH-146 *1
-    - RHIB Logistics *1
-    - RHIB Transport *1
-    - RHIB M2 *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - MT-LB Logistics *1
-    - KamAZ 5350 Logistics *2
-    - Tigr-M Kord *3
-    - BTR-82A *3
-    - T-72B3 *1
-
-
 ### Harju Invasion v5
 
 切换代码： `AdminChangeLayer Harju_Invasion_v5`
@@ -12596,11 +11591,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS PLA
+双方阵营： [BAF](/faction/baf) VS [PLA](/faction/pla)
 
 初始票数： 800  -  200
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *4
     - LPPV *3
@@ -12608,7 +11603,7 @@
     - FV107 *2
     - FV510 *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - CSK131 QJC88 RWS *1
@@ -12633,11 +11628,11 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - AAVC-7A1 Logistics *1
@@ -12647,7 +11642,7 @@
     - LAV-25 *1
     - UH-1Y *2
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - MT-LB Logistics *1
@@ -12668,11 +11663,11 @@
 
 旗点数量： 6
 
-双方阵营： BAF VS RGF
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -12682,7 +11677,7 @@
     - FV107 *3
     - SA330 *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -12705,11 +11700,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV CROWS M240 *1
@@ -12724,51 +11719,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *1
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - BRDM-2 *1
-    - BTR-82A *2
-    - BMP-2 *1
-    - T-72B3 *1
-    - Mi-8 *2
-    - RHIB Logistics *1
-    - RHIB PKP *1
-    - RHIB NSV *1
-
-
-### Harju RAAS v4
-
-切换代码： `AdminChangeLayer Harju_RAAS_v4`
-
-预设代码： `AdminSetNextLayer Harju_RAAS_v4`
-
-光照情况： 正午
-
-旗点数量： 6
-
-双方阵营： CAF VS RGF
-
-初始票数： 300  -  300
-
-??? abstract "CAF 载具"
-    - RHIB Logistics *1
-    - RHIB Transport *1
-    - RHIB M2 *1
-    - MSVS Transport *1
-    - MSVS Logistics *1
-    - LUVW Logistics *1
-    - LUVW M2 *2
-    - TAPV M2 *1
-    - M113A3 TLAV *1
-    - Coyote *1
-    - LAV 6 *2
-    - Leopard 2A6M CAN *1
-    - CH-146 *2
-
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -12793,11 +11744,11 @@
 
 旗点数量： 6
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *2
@@ -12805,7 +11756,7 @@
     - MT-LB VMK *1
     - Mi-8 *1
 
-??? abstract "IMF载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *1
@@ -12830,11 +11781,11 @@
 
 旗点数量： 6
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - RHIB Logistics *1
@@ -12846,7 +11797,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "PLA载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJY88 *1
     - CTM131 Logistics *2
     - RHIB Logistics *1
@@ -12859,29 +11810,6 @@
     - RHIB QJZ89 *1
 
 
-### Harju Seed v1
-
-切换代码： `AdminChangeLayer Harju_Seed_v1`
-
-预设代码： `AdminSetNextLayer Harju_Seed_v1`
-
-光照情况： 黎明
-
-旗点数量： 5
-
-双方阵营： USMC VS RGF
-
-初始票数： 100  -  100
-
-??? abstract "USMC 载具"
-    - M939 Logistics *3
-    - M1151 M2 *2
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
-
-
 ### Harju Skirmish v1
 
 切换代码： `AdminChangeLayer Harju_Skirmish_v1`
@@ -12892,16 +11820,16 @@
 
 旗点数量： 5
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *2
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -12917,53 +11845,20 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 TLAV *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
     - MT-LBM 6MA *1
-
-
-### Harju TC v1
-
-切换代码： `AdminChangeLayer Harju_TC_v1`
-
-预设代码： `AdminSetNextLayer Harju_TC_v1`
-
-光照情况： 正午
-
-旗点数量： 21
-
-双方阵营： USMC VS RGF
-
-初始票数： 400  -  400
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
-    - LAV-25 *2
-    - UH-1Y *1
-
-??? abstract "RGF载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - Mi-8 *1
 
 
 ### Harju TC v2
@@ -12976,20 +11871,20 @@
 
 旗点数量： 37
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
     - M1151 M2 *3
-    - M1151 CROWS M2 *1
+    - AAVP-7A1 *1
     - LAV-25 *2
     - UH-1Y *1
 
-??? abstract "RGF载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
