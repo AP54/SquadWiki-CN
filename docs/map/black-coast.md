@@ -226,6 +226,40 @@
     - RHIB Logistics *1
 
 
+### Black Coast Invasion v5
+
+切换代码： `AdminChangeLayer BlackCoast_Invasion_v5`
+
+预设代码： `AdminSetNextLayer BlackCoast_Invasion_v5`
+
+光照情况： 大雾
+
+旗点数量： 5
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "USMC 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 Open Doors *1
+    - M1151 M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "PLANMC载具"
+    - ZSD05 APC *3
+    - ZSD05 Logistics *3
+    - ZBD05 HJ73C IFV *3
+    - ZTD05 MGS *2
+    - Z-8J *1
+    - RHIB QJZ89 *1
+    - RHIB Logistics *1
+
+
 ### Black Coast RAAS v1
 
 切换代码： `AdminChangeLayer BlackCoast_RAAS_v1`
@@ -236,28 +270,31 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "USMC 载具"
     - M939 Transport *1
-    - M939 Logistics *3
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 M2 *2
     - AAVP-7A1 *2
     - LAV-25 *2
-    - M1A1 *2
+    - M1A1 *1
     - UH-1Y *2
 
-??? abstract "RGF 载具"
+??? abstract "VDV载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - BMP-2 *1
-    - T-72B3 *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
     - Mi-8 *2
 
 
@@ -371,6 +408,47 @@
     - T-72B3 *1
     - Mi-8 *2
 
+
+### Black Coast RAAS v5
+
+切换代码： `AdminChangeLayer BlackCoast_RAAS_v5`
+
+预设代码： `AdminSetNextLayer BlackCoast_RAAS_v5`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： VDV VS IMF
+
+初始票数： 300  -  300
+
+??? abstract "VDV 载具"
+    - BTR-D Kord APC *1
+    - BTR-DG Logistics *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *2
+    - Mi-8 *1
+
+??? abstract "IMF载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical SPG-9 *1
+    - BRDM-2 *1
+    - MT-LBM 6MB *1
+    - BMP-2 *1
+    - MT-LB ZU-23-2 *1
+    - Ural-375D ZU-23-2 *1
+    - BMP-1 *1
+    - T-62 *1
+    - BM-21 Grad *1
+  
 
 ### Black Coast Seed v1
 
