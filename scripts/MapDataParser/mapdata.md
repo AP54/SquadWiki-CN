@@ -230,6 +230,41 @@
     - Mi-17 *1
 
 
+### Anvil RAAS v4
+
+切换代码： `AdminChangeLayer Anvil_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Anvil_RAAS_v4`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： [ADF](/faction/adf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[ADF](/faction/adf) 载具"
+    - HX60 Transport *3
+    - HX60 Logistics *2
+    - PMV Mag58 x3 *2
+    - ASLAV *2
+    - M1A1 *1
+    - MRH-90 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *2
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
 ### Anvil Skirmish v1
 
 切换代码： `AdminChangeLayer Anvil_Skirmish_v1`
@@ -1068,6 +1103,77 @@
     - Tigr-M RWS Kord *1
     - KamAZ 5350 Transport *1
     - Mi-8 *1
+
+
+### Belaya Invasion v3
+
+切换代码： `AdminChangeLayer Belaya_Invasion_v3`
+
+预设代码： `AdminSetNextLayer Belaya_Invasion_v3`
+
+光照情况： 阴天
+
+旗点数量： 4
+
+双方阵营： [BAF](/faction/baf) VS VDV
+
+初始票数： 200  -  800
+
+??? abstract "[BAF](/faction/baf) 载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - FV432 *1
+    - FV432 RWS *1
+    - FV510 *1
+    - FV510 UA *2
+    - FV4034 *1
+    - SA330 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BRDM-2 *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-D Kord APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - Mi-8 *1
+
+
+### Belaya RAAS v1
+
+切换代码： `AdminChangeLayer Belaya_RAAS_v1`
+
+预设代码： `AdminSetNextLayer Belaya_RAAS_v1`
+
+光照情况： 阴天
+
+旗点数量： 5
+
+双方阵营： [USA](/faction/usa) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 IFV *1
+    - ZBD05 HJ73C IFV *1
+    - ZTD05 MGS *1
+    - Z-8J *1
 
 
 ### Belaya RAAS v2
@@ -2466,6 +2572,33 @@
     - BRDM-2 *1
 
 
+### Fool's Road AAS v2
+
+切换代码： `AdminChangeLayer FoolsRoad_AAS_v2`
+
+预设代码： `AdminSetNextLayer FoolsRoad_AAS_v2`
+
+光照情况： 下午&晴天
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 250  -  250
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
+
+??? abstract "VDV载具"
+    - BTR-D Kord APC *3
+    - BTR-DG Logistics *3
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+
+
 ### Fool's Road Destruction v1
 
 切换代码： `AdminChangeLayer FoolsRoad_Destruction_v1`
@@ -2785,6 +2918,41 @@
     - Mi-8 *1
 
 
+### Goose Bay AAS v2
+
+切换代码： `AdminChangeLayer GooseBay_AAS_v2`
+
+预设代码： `AdminSetNextLayer GooseBay_AAS_v2`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW C6 *4
+    - LAV 6 *1
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *1
+    - KamAZ 5350 Logistics *2
+    - BTR-D Kord APC *2
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
 ### Goose Bay Invasion v1
 
 切换代码： `AdminChangeLayer GooseBay_Invasion_v1`
@@ -2855,6 +3023,77 @@
     - Armored Modern Technical M2 HB *1
 
 
+### Goose Bay Invasion v3
+
+切换代码： `AdminChangeLayer GooseBay_Invasion_v3`
+
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v3`
+
+光照情况： 黄昏
+
+旗点数量： 5
+
+双方阵营： [USA](/faction/usa) VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *3
+    - ZSD05 Logistics *1
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *3
+    - Z-8J *1
+
+
+### Goose Bay Invasion v4
+
+切换代码： `AdminChangeLayer GooseBay_Invasion_v4`
+
+预设代码： `AdminSetNextLayer GooseBay_Invasion_v4`
+
+光照情况： 阴天
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 200  -  800
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - RHIB Transport *1
+    - RHIB M240 *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 *3
+    - M1151 M2 Open Doors *1
+    - AAVP-7A1 *3
+    - LAV-25 *2
+    - UH-1Y *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *1
+    - KamAZ 5350 Logistics *2
+    - BTR-D Kord APC *2
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *2
+    - Mi-8 *1
+
+
 ### Goose Bay Invasion v5
 
 切换代码： `AdminChangeLayer GooseBay_Invasion_v5`
@@ -2890,6 +3129,42 @@
     - ZBD04A *1
     - ZTZ99A *1
     - Z-8G *1
+
+
+### Goose Bay RAAS v1
+
+切换代码： `AdminChangeLayer GooseBay_RAAS_v1`
+
+预设代码： `AdminSetNextLayer GooseBay_RAAS_v1`
+
+光照情况： 阴天
+
+旗点数量： 6
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW C6 *2
+    - TAPV M2 *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
 
 
 ### Goose Bay RAAS v2
@@ -3110,6 +3385,71 @@
     - Tigr-M RWS Kord *1
 
 
+### Gorodok AAS v3
+
+切换代码： `AdminChangeLayer Gorodok_AAS_v3`
+
+预设代码： `AdminSetNextLayer Gorodok_AAS_v3`
+
+光照情况： 阴天
+
+旗点数量： 6
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *3
+    - LUVW M2 *1
+    - TAPV M2 *1
+    - M113A3 TLAV *1
+    - LAV 6 *1
+    - CH-146 *1
+
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *1
+    - Mi-8 *1
+
+
+### Gorodok AAS v4
+
+切换代码： `AdminChangeLayer Gorodok_AAS_v4`
+
+预设代码： `AdminSetNextLayer Gorodok_AAS_v4`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
+    - M1151 M2 *2
+    - AAVP-7A1 *1
+    - LAV-25 *2
+    - UH-1Y *2
+
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - BTR-DG Logistics *3
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
+    - Mi-8 *2
+
+
 ### Gorodok Destruction v1
 
 切换代码： `AdminChangeLayer Gorodok_Destruction_v1`
@@ -3205,6 +3545,47 @@
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *4
     - Mi-8 *2
+
+
+### Gorodok Invasion v2
+
+切换代码： `AdminChangeLayer Gorodok_Invasion_v2`
+
+预设代码： `AdminSetNextLayer Gorodok_Invasion_v2`
+
+光照情况： 阴天
+
+旗点数量： 6
+
+双方阵营： VDV VS [IMF](/faction/imf)
+
+初始票数： 200  -  900
+
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-D Kord APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Logistics Modern Pickup *1
+    - Armored Logistics Modern Pickup *1
+    - Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - MT-LBM 6MB *1
+    - MT-LB ZU-23-2 *1
+    - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Gorodok Invasion v3
@@ -3319,6 +3700,39 @@
     - T-62 *1
 
 
+### Gorodok RAAS v3
+
+切换代码： `AdminChangeLayer Gorodok_RAAS_v03`
+
+预设代码： `AdminSetNextLayer Gorodok_RAAS_v03`
+
+光照情况： 正午
+
+旗点数量： 30
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
 ### Gorodok RAAS v4
 
 切换代码： `AdminChangeLayer Gorodok_RAAS_v04`
@@ -3381,6 +3795,40 @@
     - BRDM-2 *1
     - T-72B3 *1
     - Mi-8 *2
+
+
+### Gorodok RAAS v6
+
+切换代码： `AdminChangeLayer Gorodok_RAAS_v06`
+
+预设代码： `AdminSetNextLayer Gorodok_RAAS_v06`
+
+光照情况： 正午
+
+旗点数量： 26
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 350  -  350
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *1
+    - ZSD05 Logistics *2
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *2
 
 
 ### Gorodok RAAS v7
@@ -6231,6 +6679,29 @@
     - MT-LBM 6MA S8 *1
 
 
+### Logar Seed v1
+
+切换代码： `AdminChangeLayer Logar_Seed_v1`
+
+预设代码： `AdminSetNextLayer Logar_Seed_v1`
+
+光照情况： 傍晚
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 100  -  100
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *3
+
+
 ### Logar Skirmish v1
 
 切换代码： `AdminChangeLayer Logar_Skirmish_v1`
@@ -6380,6 +6851,72 @@
     - Tigr-M Kord *3
     - BRDM-2 *1
     - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan AAS v4
+
+切换代码： `AdminChangeLayer Manicouagan_AAS_v4`
+
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v4`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *3
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *3
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *1
+
+
+### Manicouagan AAS v5
+
+切换代码： `AdminChangeLayer Manicouagan_AAS_v5`
+
+预设代码： `AdminSetNextLayer Manicouagan_AAS_v5`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *2
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
     - T-72B3 *1
     - Mi-8 *1
 
@@ -6636,6 +7173,87 @@
     - T-62 *1
 
 
+### Manicouagan Invasion v8
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v8`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v8`
+
+光照情况： 暴雨
+
+旗点数量： 5
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 800  -  200
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *4
+    - M-ATV M2 *3
+    - M-ATV CROWS M2 *1
+    - M-ATV TOW *1
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+    - RHIB M2 *1
+    - RHIB Logistics *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - Tigr-M Kord *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan Invasion v9
+
+切换代码： `AdminChangeLayer Manicouagan_Invasion_v9`
+
+预设代码： `AdminSetNextLayer Manicouagan_Invasion_v9`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *3
+    - M1151 CROWS M2 *1
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+    - RHIB Logistics *1
+    - RHIB M2 *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *3
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 APC *1
+    - ZBL08 HJ73C IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *1
+
+
 ### Manicouagan RAAS v1
 
 切换代码： `AdminChangeLayer Manicouagan_RAAS_v1`
@@ -6671,6 +7289,154 @@
     - BTR-82A *3
     - T-72B3 *1
     - Mi-8 *2
+
+
+### Manicouagan RAAS v10
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v10`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - LUVW Transport *2
+    - LUVW Logistics *2
+    - MSVS Logistics *1
+    - LUVW C6 *2
+    - LAV 6 *3
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *2
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
+### Manicouagan RAAS v11
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v11`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v11`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Manicouagan RAAS v12
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v12`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v12`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 M2 *2
+    - M1151 M2 Open Doors *1
+    - M1151 CROWS M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *2
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
+### Manicouagan RAAS v13
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v13`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v13`
+
+光照情况： 暴雨
+
+旗点数量： 7
+
+双方阵营： [CAF](/faction/caf) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - LUVW Transport *2
+    - LUVW Logistics *1
+    - MSVS Logistics *1
+    - LUVW M2 *2
+    - TAPV M2 *1
+    - LAV 6 *3
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 APC *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *1
 
 
 ### Manicouagan RAAS v14
@@ -6710,6 +7476,44 @@
     - ZTD05 *1
     - ZTZ99A *2
     - Z-8J *1
+
+
+### Manicouagan RAAS v15
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v15`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v15`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 CROWS M2 *1
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 APC *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *2
 
 
 ### Manicouagan RAAS v2
@@ -7743,6 +8547,40 @@
     - Mi-17 *1
 
 
+### Mutaha RAAS v4
+
+切换代码： `AdminChangeLayer Mutaha_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Mutaha_RAAS_v4`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *2
+    - LUVW C6 *2
+    - M113A3 TLAV *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - Mi-8 *1
+
+
 ### Mutaha RAAS v5
 
 切换代码： `AdminChangeLayer Mutaha_RAAS_v5`
@@ -8140,6 +8978,38 @@
     - BTR-80 *1
 
 
+### Narva Invasion v1
+
+切换代码： `AdminChangeLayer Narva_Invasion_v1`
+
+预设代码： `AdminSetNextLayer Narva_Invasion_v1`
+
+光照情况： 黎明
+
+旗点数量： 5
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 800  -  200
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+
+
 ### Narva Invasion v2
 
 切换代码： `AdminChangeLayer Narva_Invasion_v2`
@@ -8302,6 +9172,41 @@
     - T-72B3 *1
     - KamAZ 5350 Transport *1
     - BTR-80 *1
+
+
+### Narva RAAS v2
+
+切换代码： `AdminChangeLayer Narva_RAAS_v2`
+
+预设代码： `AdminSetNextLayer Narva_RAAS_v2`
+
+光照情况： 正午&多云
+
+旗点数量： 27
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 *2
+    - AAVP-7A1 *1
+    - LAV-25 *2
+    - M1A1 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *2
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-ZD Anti-Air *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - T-72B3 *1
 
 
 ### Narva RAAS v3
@@ -8578,6 +9483,54 @@
     - BTR-80 *1
 
 
+### Pacific Proving Grounds v3
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_PLANMC-VDV`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_PLANMC-VDV`
+
+光照情况： 黎明
+
+旗点数量： 2
+
+双方阵营： PLANMC VS VDV
+
+初始票数： 99999  -  99999
+
+??? abstract "PLANMC 载具"
+    - CTM131 Logistics *1
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Transport QJY88 *1
+    - CSK131 QJC88 RWS *1
+    - CSK131 QJY88 *2
+    - ZSD05 Logistics *1
+    - ZSD05 APC *1
+    - ZSL10 APC *1
+    - ZBL08 IFV *1
+    - ZBL08 HJ73C IFV *1
+    - ZBD05 IFV *1
+    - ZBD05 HJ73C IFV *1
+    - ZTD05 MGS *1
+    - Z-8J *1
+    - RHIB QJZ89 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-D Transport *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+    - BRDM-2 *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *1
+    - RHIB NSV *1
+
+
 ### Pacific Proving Grounds v2
 
 切换代码： `AdminChangeLayer PacificProvingGrounds_USMC-PLA`
@@ -8734,6 +9687,48 @@
     - M-ATV CROWS M2 *1
     - M1A2 *2
     - UH-60M *3
+
+??? abstract "[IMF](/faction/imf)载具"
+    - Minsk 400 *1
+    - Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - BRDM-2 *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical SPG-9 *1
+    - Ural-375D ZU-23-2 *1
+    - BMP-2 *1
+    - T-62 *1
+    - BM-21 Grad *1
+
+
+### Skorpo Invasion v2
+
+切换代码： `AdminChangeLayer Skorpo_Invasion_v2`
+
+预设代码： `AdminSetNextLayer Skorpo_Invasion_v2`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： VDV VS [IMF](/faction/imf)
+
+初始票数： 200  -  900
+
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *3
+    - BTR-MDM PKT RWS APC *1
+    - BTR-D Kord APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - Mi-8 *3
 
 ??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
@@ -8931,6 +9926,75 @@
     - BMP-2 *1
     - BMP-1 *1
     - T-62 *1
+
+
+### Skorpo RAAS v4
+
+切换代码： `AdminChangeLayer Skorpo_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Skorpo_RAAS_v4`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *3
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *1
+    - RHIB M2 *1
+    - RHIB Logistics *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *3
+    - ZSD05 APC *2
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *1
+    - RHIB QJZ89 *1
+    - RHIB Logistics *1
+
+
+### Skorpo RAAS v5
+
+切换代码： `AdminChangeLayer Skorpo_RAAS_v5`
+
+预设代码： `AdminSetNextLayer Skorpo_RAAS_v5`
+
+光照情况： 正午
+
+旗点数量： 8
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *1
+    - LUVW Logistics *2
+    - M113A3 TLAV *1
+    - Coyote *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *2
+    - Mi-8 *3
 
 
 ### Skorpo Skirmish v1
@@ -10490,6 +11554,41 @@
     - Z-8G *2
 
 
+### Yehorivka RAAS v2
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v02`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v02`
+
+光照情况： 正午&多云
+
+旗点数量： 27
+
+双方阵营： [USA](/faction/usa) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - M-ATV M2 *2
+    - M1126 CROWS M240 *1
+    - M1126 CROWS M2 *3
+    - M1A2 *1
+    - UH-60M *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
 ### Yehorivka RAAS v3
 
 切换代码： `AdminChangeLayer Yehorivka_RAAS_v03`
@@ -10729,6 +11828,79 @@
     - MT-LB ZU-23-2 *2
     - BM-21 Grad *1
     - T-62 *1
+
+
+### Yehorivka RAAS v10
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v10`
+
+光照情况： 阴天
+
+旗点数量： 7
+
+双方阵营： [BAF](/faction/baf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[BAF](/faction/baf) 载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - FV432 *1
+    - FV432 RWS *1
+    - FV510 *2
+    - FV510 UA *1
+    - FV4034 *1
+    - SA330 *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - BTR-DG Logistics *2
+    - BTR-D Transport *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - Mi-8 *3
+
+
+### Yehorivka RAAS v11
+
+切换代码： `AdminChangeLayer Yehorivka_RAAS_v11`
+
+预设代码： `AdminSetNextLayer Yehorivka_RAAS_v11`
+
+光照情况： 正午&多云
+
+旗点数量： 27
+
+双方阵营： [CAF](/faction/caf) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - LUVW Transport *2
+    - MSVS Logistics *1
+    - LUVW Logistics *1
+    - LUVW C6 *2
+    - TAPV M2 *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
 
 
 ### Yehorivka RAAS v12
@@ -11035,6 +12207,40 @@
     - Mi-8 *1
 
 
+### Black Coast AAS v1
+
+切换代码： `AdminChangeLayer BlackCoast_AAS_v1`
+
+预设代码： `AdminSetNextLayer BlackCoast_AAS_v1`
+
+光照情况： 阴天
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *1
+    - AAVC-7A1 Logistics *2
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *1
+    - UH-1Y *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Mi-8 *1
+
+
 ### Black Coast AAS v2
 
 切换代码： `AdminChangeLayer BlackCoast_AAS_v2`
@@ -11235,6 +12441,78 @@
     - RHIB Logistics *1
 
 
+### Black Coast Invasion v5
+
+切换代码： `AdminChangeLayer BlackCoast_Invasion_v5`
+
+预设代码： `AdminSetNextLayer BlackCoast_Invasion_v5`
+
+光照情况： 大雾
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 Open Doors *1
+    - M1151 M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "PLANMC载具"
+    - ZSD05 APC *3
+    - ZSD05 Logistics *3
+    - ZBD05 HJ73C IFV *3
+    - ZTD05 MGS *2
+    - Z-8J *1
+    - RHIB QJZ89 *1
+    - RHIB Logistics *1
+
+
+### Black Coast RAAS v1
+
+切换代码： `AdminChangeLayer BlackCoast_RAAS_v1`
+
+预设代码： `AdminSetNextLayer BlackCoast_RAAS_v1`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 300  -  300
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+    - BTR-ZD Anti-Air *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *1
+    - Sprut-SDM1 MGS *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
 ### Black Coast RAAS v2
 
 切换代码： `AdminChangeLayer BlackCoast_RAAS_v2`
@@ -11348,6 +12626,47 @@
     - Mi-8 *2
 
 
+### Black Coast RAAS v5
+
+切换代码： `AdminChangeLayer BlackCoast_RAAS_v5`
+
+预设代码： `AdminSetNextLayer BlackCoast_RAAS_v5`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： VDV VS [IMF](/faction/imf)
+
+初始票数： 300  -  300
+
+??? abstract "VDV 载具"
+    - BTR-D Kord APC *1
+    - BTR-DG Logistics *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-1M IFV *1
+    - BMD-4M IFV *2
+    - Sprut-SDM1 MGS *2
+    - Mi-8 *1
+
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical SPG-9 *1
+    - BRDM-2 *1
+    - MT-LBM 6MB *1
+    - BMP-2 *1
+    - MT-LB ZU-23-2 *1
+    - Ural-375D ZU-23-2 *1
+    - BMP-1 *1
+    - T-62 *1
+    - BM-21 Grad *1
+
+
 ### Black Coast Seed v1
 
 切换代码： `AdminChangeLayer BlackCoast_Seed_v1`
@@ -11392,6 +12711,39 @@
 ??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
+
+
+### Harju AAS v1
+
+切换代码： `AdminChangeLayer Harju_AAS_v1`
+
+预设代码： `AdminSetNextLayer Harju_AAS_v1`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 250  -  250
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *2
+    - M939 Logistics *1
+    - M1151 M2 *3
+    - AAVP-7A1 *1
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "VDV载具"
+    - BTR-D Transport *1
+    - BTR-DG Logistics *2
+    - KamAZ 5350 Logistics *1
+    - BTR-D Kord APC *3
+    - BTR-MDM PKT RWS APC *1
+    - BMD-4M IFV *2
+    - Mi-8 *1
 
 
 ### Harju AAS v2
@@ -11581,6 +12933,47 @@
     - T-62 *1
 
 
+### Harju Invasion v4
+
+切换代码： `AdminChangeLayer Harju_Invasion_v4`
+
+预设代码： `AdminSetNextLayer Harju_Invasion_v4`
+
+光照情况： 正午
+
+旗点数量： 5
+
+双方阵营： [CAF](/faction/caf) VS PLANMC
+
+初始票数： 800  -  200
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - MSVS Transport *1
+    - MSVS Logistics *3
+    - LUVW M2 *1
+    - TAPV M2 *2
+    - LAV III M2 RWS *1
+    - M113A3 TLAV *1
+    - Coyote *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+    - RHIB Logistics *1
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *1
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *2
+    - Z-8J *2
+    - RHIB Logistics *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
+
+
 ### Harju Invasion v5
 
 切换代码： `AdminChangeLayer Harju_Invasion_v5`
@@ -11734,6 +13127,50 @@
     - RHIB NSV *1
 
 
+### Harju RAAS v4
+
+切换代码： `AdminChangeLayer Harju_RAAS_v4`
+
+预设代码： `AdminSetNextLayer Harju_RAAS_v4`
+
+光照情况： 正午
+
+旗点数量： 6
+
+双方阵营： [CAF](/faction/caf) VS PLANMC
+
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
+    - RHIB Logistics *1
+    - RHIB Transport *1
+    - RHIB M2 *1
+    - MSVS Transport *1
+    - MSVS Logistics *1
+    - LUVW Logistics *2
+    - LUVW M2 *2
+    - TAPV M2 *1
+    - M113A3 TLAV *1
+    - Coyote *1
+    - LAV 6 *2
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+
+??? abstract "PLANMC载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *1
+    - ZSD05 Logistics *2
+    - CSK131 QJZ89 *2
+    - ZSD05 APC *2
+    - ZBL08 IFV *1
+    - ZBD05 HJ73C IFV *2
+    - ZTD05 MGS *1
+    - Z-8J *2
+    - RHIB Logistics *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
+
+
 ### Harju RAAS v5
 
 切换代码： `AdminChangeLayer Harju_RAAS_v5`
@@ -11810,6 +13247,30 @@
     - RHIB QJZ89 *1
 
 
+### Harju Seed v1
+
+切换代码： `AdminChangeLayer Harju_Seed_v1`
+
+预设代码： `AdminSetNextLayer Harju_Seed_v1`
+
+光照情况： 黎明
+
+旗点数量： 5
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 100  -  100
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Logistics *3
+    - M1151 M2 *2
+
+??? abstract "VDV载具"
+    - BTR-DG Logistics *3
+    - BTR-D Kord APC *1
+    - BTR-MDM PKT RWS APC *1
+
+
 ### Harju Skirmish v1
 
 切换代码： `AdminChangeLayer Harju_Skirmish_v1`
@@ -11859,6 +13320,40 @@
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
     - MT-LBM 6MA *1
+
+
+### Harju TC v1
+
+切换代码： `AdminChangeLayer Harju_TC_v1`
+
+预设代码： `AdminSetNextLayer Harju_TC_v1`
+
+光照情况： 正午
+
+旗点数量： 21
+
+双方阵营： [USMC](/faction/usmc) VS VDV
+
+初始票数： 400  -  400
+
+??? abstract "[USMC](/faction/usmc) 载具"
+    - M939 Transport *1
+    - M939 Logistics *2
+    - AAVC-7A1 Logistics *1
+    - M1151 M2 *3
+    - M1151 CROWS M2 *1
+    - LAV-25 *2
+    - UH-1Y *1
+
+??? abstract "VDV载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *1
+    - Tigr-M RWS Kord *1
+    - BTR-82A *1
+    - BMP-2 *1
+    - T-72B3 *1
+    - Mi-8 *1
 
 
 ### Harju TC v2
