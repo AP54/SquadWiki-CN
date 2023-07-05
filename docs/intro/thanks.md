@@ -33,7 +33,7 @@
 
 - [桀氓AlbertWensley](https://steamcommunity.com/profiles/76561198868697161)
 
-- [Crystal](https://steamcommunity.com/profiles/76561198324014856/)
+- [Crystal 小邹](https://steamcommunity.com/profiles/76561198324014856/)
 
 
 ??? info "中文维基早期项目“Thetis”志愿成员名单"
