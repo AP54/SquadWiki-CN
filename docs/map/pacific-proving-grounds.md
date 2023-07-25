@@ -154,3 +154,73 @@
     - T-72B3 *1
     - Mi-8 *1
     - RHIB NSV *1
+
+### Pacific Proving Grounds AAS V1
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_AAS-V1`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_AAS-V1`
+
+光照情况： 阳光明媚的
+
+旗点数量： 2
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 250  -  250
+
+??? abstract "USMC 载具"
+    - AAVC-7A1 Logistics *1
+    - AAVP-7A1 *1
+    - M939 Transport *1
+
+??? abstract "PLANMC载具"
+    - ZSD05 Logistics *1
+    - ZSD05 *2
+    - CTM131 QJZ89 *1
+
+### Pacific Proving Grounds AAS V2
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_AAS-V2`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_AAS-V2`
+
+光照情况： 阳光明媚的
+
+旗点数量： 2
+
+双方阵营： ADF VS PLA
+
+初始票数： 250  -  250
+
+??? abstract "ADF 载具"
+    - HX60 Transport *1
+    - HX60 Logistics *1
+    - PMV Mag58 x3 *1
+  
+??? abstract "PLA 载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - ZSD05 *1
+
+### PacificProvingGrounds Seed v1
+
+切换代码： `AdminChangeLayer PacificProvingGrounds_seed-V1`
+
+预设代码： `AdminSetNextLayer PacificProvingGrounds_seed-V1`
+
+光照情况： 阳光明媚的
+
+旗点数量： 2
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 100  -  100
+
+??? abstract "USMC 载具"
+    - AAVC-7A1 Logistics *1
+    - AAVP-7A1 *1
+  
+??? abstract "PLANMC 载具"
+    - ZSD05 Logistics *1
+    - ZSD05 *2

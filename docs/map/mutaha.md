@@ -679,3 +679,25 @@
     - ZBL08 HJ73C *2
     - ZBD04A *1
     - ZTZ99A *1
+
+### Mutaha Seed v1
+
+切换代码： `AdminChangeLayer Mutaha_Seed_v1`
+
+预设代码： `AdminSetNextLayer Mutaha_Seed_v1`
+
+光照情况： 中午
+
+旗点数量： 
+
+双方阵营： USMC VS RAF
+
+初始票数： 100 - 100
+
+??? abstract "USMC 载具"
+    - M939 Transport *3
+    - M939 Logistics *4
+  
+??? abstract "RAF 载具"
+    - KamAZ 5350 Transport *3
+    - KamAZ 5350 Logistics *4

@@ -460,7 +460,7 @@
 
 旗点数量： 4
 
-双方阵营： USMC VS RGF
+双方阵营： USMC VS VDV
 
 初始票数： 100  -  100
 
@@ -470,7 +470,8 @@
 
 ??? abstract "RGF 载具"
     - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
+    - BTR-D PKM *1
+    - BTR-D Kord *1
 
 
 ### Black Coast Skirmish v1

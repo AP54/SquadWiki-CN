@@ -286,6 +286,49 @@
     - T-62 *1
 
 
+### Yehorivka Invasion v4
+
+切换代码： `AdminChangeLayer Yehorivka_Invasion_v44`
+
+预设代码： `AdminSetNextLayer Yehorivka_Invasion_v4`
+
+光照情况： 阴
+
+旗点数量： 7
+
+双方阵营： RAF VS IMF
+
+初始票数： 200  -  900
+
+??? abstract "RAF 载具"
+    - BTR-DG Logistics *2
+    - BTR-D PKM *1
+    - BTR-D Kord *2
+    - BTR-MDM *1
+    - BTR-ZD *1
+    - BMD-4M *1
+    - Mi-8 *1
+    - BTR-D *1
+    - BTR-DG Logistics *2
+    - BTR-D PKM *1
+    - BTR-D Kord *1
+
+??? abstract "IMF 载具"
+    - Transport Modern Pickup *3
+    - Ural-375D Logistics *5
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical UB-32 *1
+    - MT-LB VMK *2
+    - MT-LB ZU-23-2 *2
+    - BMP-1 ZU-23-2 *1
+    - BMP-1 *1
+    - BMP-2 *1
+    - BM-21 Grad *1
+    - Armored Ural-375D Transport *2
+    - Ural-375D Logistics *2
+
 ### Yehorivka RAAS v1
 
 切换代码： `AdminChangeLayer Yehorivka_RAAS_v01`
