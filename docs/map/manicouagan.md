@@ -116,7 +116,7 @@
 
 旗点数量： 7
 
-双方阵营： USMC VS PLANMC
+双方阵营： USMC VS PLAAGF
 
 初始票数： 300  -  300
 
@@ -132,10 +132,10 @@
 ??? abstract "PLANMC载具"
     - CTM131 Transport QJZ89 *1
     - ZSD05 Logistics *3
-    - ZSD05 APC *2
-    - ZBD05 HJ73C IFV *2
+    - ZSD05 *2
+    - ZBD05 *2
     - ZTD05 MGS *1
-    - Z-8J *1
+    - Z-8G *1
 
 
 ### Manicouagan AAS v5
@@ -845,6 +845,231 @@
     - BM-21 Grad *1
     - T-62 *1
 
+
+### Manicouagan RAAS v10
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v10`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v10`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： CAF VS VDV
+
+初始票数： 300 - 300
+
+??? abstract "CAF 载具"
+    - LUVW Transport *2
+    - LUVW Logistics *2
+    - MSVS Logistics *1
+    - LUVW C6 *2
+    - LAV 6 *3
+    - Leopard 2A6M CAN *1
+    - CH-146 *2
+
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-MDM *2
+    - BTR-ZD *1
+    - BMD-1M *1
+    - BMD-4M *2
+    - Sprut-SDM1 *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
+### Manicouagan RAAS v11
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v11`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v11`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USA VS VDV
+
+初始票数： 300 - 300
+
+??? abstract "USA 载具"
+    - M939 Transport *2
+    - M939 Logistics *3
+    - M-ATV M2 *2
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *2
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *2
+    - BTR-D Kord *1
+    - BTR-ZD *1
+    - BTR-MDM *2
+    - BMD-4M *2
+    - Sprut-SDM1 *1
+    - T-72B3 *1
+    - Mi-8 *1 
+
+
+### Manicouagan RAAS v12
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v12`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v12`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USMC VS VDV
+
+初始票数： 300 - 300
+
+??? abstract "USMC 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *1
+    - M1151 M2 *2 *1
+    - M1151 M2 Open Doors *1
+    - M1151 CROWS M2 *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord *1
+    - BTR-ZD *1
+    - BTR-MDM *2
+    - BMD-4M *2
+    - Sprut-SDM1 *1
+    - T-72B3 *1
+    - Mi-8 *2
+
+
+### Manicouagan RAAS v13
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v13`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v13`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： CAF VS PLANMC
+
+初始票数： 300 - 300
+
+??? abstract "CAF 载具"
+    - LUVW Transport *2
+    - LUVW Logistics *1
+    - MSVS Logistics *2
+    - LUVW M2 *2
+    - TAPV M2 *1
+    - LAV 6 *3
+    - Leopard 2A6M CAN
+    - CH-146 *1
+
+??? abstract "PLANMC 载具"
+    - CSK131 QJZ89 *1
+    - CTM131 Logistics *2
+    - ZSD05 Logistics *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 *1
+    - ZBD05 *2
+    - ZTD05 *2
+    - Z-8G *1
+
+
+### Manicouagan RAAS v14
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v14`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v14`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USA VS PLANMC
+
+初始票数： 300 - 300
+
+??? abstract "USA 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *1
+    - M-ATV M2 *1
+    - M-ATV CROWS M2 *1
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - M1A2 *2
+    - UH-60M *1
+
+??? abstract "PLANMC 载具"
+    - CTM131 Transport QJZ89 *1
+    - ZSD05 Logistics *1
+    - CTM131 Logistics *2
+    - ZSD05 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZBL08 *1
+    - ZBD05 *1
+    - ZTD05 *1
+    - ZTZ99A *2
+    - Z-8G *1
+
+
+### Manicouagan RAAS v15
+
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v15`
+
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v15`
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： USMC VS PLANMC
+
+初始票数： 300 - 300
+
+??? abstract "USMC 载具"
+    - M939 Transport *1
+    - AAVC-7A1 Logistics *1
+    - M939 Logistics *2
+    - M1151 CROWS M2 *1
+    - M1151 M2 *1
+    - M1151 M2 Open Doors *1
+    - AAVP-7A1 *2
+    - LAV-25 *2
+    - M1A1 *1
+    - UH-1Y *2
+
+??? abstract "PLANMC 载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *2
+    - ZSD05 Logistics *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 *1
+    - ZBD05 *2
+    - ZTD05 *2
+    - Z-8G *2
+  
 
 ### Manicouagan Seed v1
 

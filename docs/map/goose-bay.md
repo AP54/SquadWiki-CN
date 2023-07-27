@@ -424,7 +424,7 @@
 
 旗点数量： 5
 
-双方阵营： CAF VS RGF
+双方阵营： CAF VS PLANMC
 
 初始票数： 150  -  150
 
@@ -433,7 +433,7 @@
     - MSVS Logistics *3
     - LUVW M2 *1
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *3
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
+??? abstract "PLANMC 载具"
+    - CTM131 QJY88 *3
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *1

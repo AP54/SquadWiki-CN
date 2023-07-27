@@ -556,18 +556,23 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS INS
+双方阵营： CAF VS VDV
 
 初始票数： 300  -  300
 
 ??? abstract "CAF 载具"
-    - LUVW Logistics *3
-    - LUVW Transport *3
+    - MSVS Transport *2
+    - LUVW Transport *1
+    - MSVS Logistics *2
+    - LUVW Logistics *1
+    - LUVW M2 *1
 
-??? abstract "INS 载具"
-    - Minsk 400 *1
-    - Transport Pickup Truck *3
-    - Logistics Pickup Truck *3
+??? abstract "VDV 载具"
+    - KamAZ 5350 Transport *2
+    - BTR-D *1
+    - KamAZ 5350 Logistics *2
+    - BTR-DG Logistics *1
+    - BTR-D Kord *1
 
 
 ### Tallil Outskirts Skirmish v1

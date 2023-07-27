@@ -297,7 +297,7 @@
 
 旗点数量： 6
 
-双方阵营： USMC VS PLANMC
+双方阵营： USMC VS PLAAGF
 
 初始票数： 300  -  300
 
@@ -314,8 +314,8 @@
 ??? abstract "PLANMC载具"
     - CTM131 Transport QJZ89 *1
     - ZSD05 Logistics *3
-    - ZSD05 APC *2
-    - ZBD05 HJ73C IFV *2
+    - ZSD05 *2
+    - ZBD05 *2
     - ZTD05 MGS *2
     - Z-8J *1
     - RHIB QJZ89 *1

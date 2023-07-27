@@ -427,7 +427,7 @@
 
 旗点数量： 6
 
-双方阵营： CAF VS PLANMC
+双方阵营： CAF VS PLAAGF
 
 初始票数： 300  -  300
 
@@ -446,14 +446,14 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "PLANMC载具"
+??? abstract "PLAAGF载具"
     - CTM131 Transport QJZ89 *1
-    - CTM131 Logistics *1
-    - ZSD05 Logistics *2
+    - CTM131 Logistics *2
+    - ZSD05 Logistics *1
     - CSK131 QJZ89 *2
-    - ZSD05 APC *2
-    - ZBL08 IFV *1
-    - ZBD05 HJ73C IFV *2
+    - ZSD05 *2
+    - ZBL08 *1
+    - ZBD05 *2
     - ZTD05 MGS *1
     - Z-8J *2
     - RHIB Logistics *1
