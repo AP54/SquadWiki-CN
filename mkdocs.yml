@@ -62,7 +62,7 @@ nav:
     - "[PLA]中国人民解放军":
       - "派系概览": "./faction/pla/index.md"
       - "兵种配置": "./faction/pla/kit/index.md"
-      "[PLANMC]中国人民解放军海军陆战队":
+    - "[PLANMC]中国人民解放军海军陆战队":
       - "派系概览": "./faction/planmc/index.md"
       - "兵种配置": "./faction/planmc/kit/index.md"
     - "[RGF]俄罗斯陆军":
