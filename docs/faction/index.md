@@ -49,6 +49,11 @@
 </figure>
 
 <figure markdown>
+  [![PLANMC](/img/faction/planmc.webp){loading=lazy}](./planmc/)
+  <figcaption>PLANMC | 中国人民解放军海军陆战队</figcaption>
+</figure>
+
+<figure markdown>
   [![RGF](/img/faction/rgf.webp){loading=lazy}](./rgf/)
   <figcaption>RGF | 俄罗斯陆军</figcaption>
 </figure>
@@ -69,3 +74,4 @@
   [![IMF](/img/faction/imf.webp){loading=lazy}](./imf/)
   <figcaption>IMF | 非正规民兵部队</figcaption>
 </figure>
+
