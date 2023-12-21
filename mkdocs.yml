@@ -107,6 +107,8 @@ nav:
     - "Tallil Outskirts | 塔利尔郊区": "./map/tallil-outskirts.md"
     - "Yehorivka | 叶霍里夫卡": "./map/yehorivka.md"
   - "更新信息":
+    - "战术小队 v5.1.1 更新日志": "./update/v5.1.1/release-notes/index.md"
+    - "Squad Hotfix v5.1.1 Release Notes": "./update/v5.1.1/release-notes/en.md"
     - "战术小队 v5.1 更新日志": "./update/v5.1/release-notes/index.md"
     - "Squad Hotfix v5.1 Release Notes": "./update/v5.1/release-notes/en.md"
     - "战术小队 v5.0.1 更新日志": "./update/v5.0.1/release-notes/index.md"
