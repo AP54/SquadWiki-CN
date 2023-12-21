@@ -18,7 +18,7 @@ The infantry combat overhaul intends to create the most fun, immersive, authenti
 
 - Mitigate the amount of punishment newer players experience in combat while learning the game.
 
-![6.0更新公告图片](docs\update\v6.0\release-notes\6.0更新公告图片1.png)
+![6.0更新公告图片1](https://picst.sunbangyan.cn/2023/12/21/441d27fe4fe4c999424c904261152ef6.jpeg)
 
 ## FEATURES
 
