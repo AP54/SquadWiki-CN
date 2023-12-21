@@ -129,4 +129,71 @@ Invasion v5 – PLANMC RHIBs can no longer have their engines started before the
 
 ### Harju
 
-RAAS v1 – Updated the vehicle layout for both teams:
+*RAAS v1 – Updated the vehicle layout for both teams:*
+
+
+USMC:
+    
+    1x Transport (6min initial delay)
+    
+    1x M939 Logi
+    
+    1x AAVC Logi
+    
+    2x M1151 M2
+    
+    2x AAVP
+    
+    2x LAV25
+    
+    2x UH1Y (10min initial delay)
+
+RGF:
+
+    1x Transport (6min initial delay)
+
+    1x Kamaz Logi
+
+    1x MTLB Logi
+
+    2x Tigr KORD
+
+    2x BTR82A
+
+    1x BMP2
+
+    2x Mi8 (10min initial delay)
+
+- Players can no longer see and shoot through a rock near the Wheat Farm
+
+### Manicouagan
+
+- Updated layer names for RAAS v01 to v09 with a zero to better support alphabetical name sorting
+
+- Invasion v9 – USMC boats now spawn correctly
+
+- RAAS v14 – Fixed the PLA ZTD05 MGS appearing with blue camo while all other vehicles are woodland
+
+### Narva
+
+- Destruction v1 – Fixed a bug that caused various objective caches at the Quarry to spawn in the air
+
+- Invasion v3 – The Shopping Center is no longer mislabeled as the Old Hospital
+
+- RAAS v2 – Fixed an issue where one of the buildings in the Dog Park Apartments area had no lighting
+
+- RAAS v7 – Updated the RGF vehicle layout to include two Tigr KORDs instead of a Tigr RWS and a BTR80
+
+### Skorpo
+
+- RAAS v2 – Replaced USA with BAF
+
+## SDK UPDATES & BUG FIXES
+
+- Updated mod SDK to v5.1
+
+- File names for Pacific Proving Grounds USMC vs RGF now use RGF instead of RUS
+
+- Tallil Outskirts TC v1’s asset name has been updated to Tallil_TC_v1 to meet the standard of the rest of the Tallil layers
+
+OFFWORLD OUT.
