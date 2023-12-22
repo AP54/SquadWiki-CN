@@ -209,6 +209,16 @@
 
     `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic.BP_CTM131_Logistic_C`
 
+## BMC-185 
+
+- BMC-185 Transport 
+
+    `AdminCreateVehicle /Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck.BP_TLF_Util_Truck_C`
+
+- BMC-185 Logistics 
+
+    `AdminCreateVehicle /Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck_Logi.BP_TLF_Util_Truck_Logi_C`
+
 ## Light Vehicles | 轻型载具
 
 ### Technical Pickup Truck 
@@ -939,6 +949,48 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
 
+## FV520 "CTAS" 
+
+- FV520 WCSP (40 mm) Desert 
+
+    `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40.BP_FV510UA_CTAS40_C`
+
+- FV520 WCSP (40 mm) Woodland 
+
+    `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
+
+## ACV-15" 
+
+- ACV-15 25mm IFV
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15.BP_ACV-15_C`
+
+- ACV-15 M2 APC
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15_M2.BP_ACV-15_M2_C`
+
+- ACV-15 MG3 APC
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15_MG3.BP_ACV-15_MG3_C`
+
+## PARS III " 
+
+- PARS III 25mm IFV
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3.BP_PARS3_C`
+
+- PARS III M2 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_M2.BP_PARS3_M2_C`
+
+- PARS III MG3 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MG3.BP_PARS3_MG3_C`
+
+- PARS III Mk19 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MK19.BP_PARS3_MK19_C`
+
 ### ZBD-04A 
 
 - ZBD-04A 林地涂装
@@ -1030,6 +1082,12 @@
 - Leopard 2A6M 林地涂装 格栅装甲 
 
     `AdminCreateVehicle /Game/Vehicles/Leopard2/BP_2A6_Woodland_Cage.BP_2A6_Woodland_Cage_C`
+
+## M60T 
+
+- M60T
+
+    `AdminCreateVehicle /Game/Vehicles/M60T/BP_M60T.BP_M60T_C`
 
 ### M1A2 
 
@@ -1184,6 +1242,12 @@
 - Z-8J
 
     `AdminCreateVehicle /Game/Vehicles/Z8J/BP_Z8J.BP_Z8J_C`
+
+## UH-1H
+
+- UH-1H
+
+    `AdminCreateVehicle /Game/Vehicles/UH1H/BP_UH1H.BP_UH1H_C`
 
 ## Boat | 船
 
