@@ -191,13 +191,15 @@
 
     `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_QJZ89.BP_CTM131_QJZ89_C`
 
-- CTM-131 Logistic Desert 
+## BMC-185 
 
-    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic_Desert.BP_CTM131_Logistic_Desert_C`
+- BMC-185 Transport 
 
-- CTM-131 Logistic Woodland 
+    `AdminCreateVehicle /Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck.BP_TLF_Util_Truck_C`
 
-    `AdminCreateVehicle /Game/Vehicles/CTM131_Truck/BP_CTM131_Logistic.BP_CTM131_Logistic_C`
+- BMC-185 Logistics 
+
+    `AdminCreateVehicle /Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck_Logi.BP_TLF_Util_Truck_Logi_C`
 
 ## Technical Pickup Truck variants 
 
@@ -927,6 +929,38 @@
 
     `AdminCreateVehicle /Game/Vehicles/FV510_40mm/BP_FV510UA_CTAS40_Woodland.BP_FV510UA_CTAS40_Woodland_C`
 
+## ACV-15" 
+
+- ACV-15 25mm IFV
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15.BP_ACV-15_C`
+
+- ACV-15 M2 APC
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15_M2.BP_ACV-15_M2_C`
+
+- ACV-15 MG3 APC
+
+    `AdminCreateVehicle /Game/Vehicles/ACV-15/BP_ACV-15_MG3.BP_ACV-15_MG3_C`
+
+## PARS III " 
+
+- PARS III 25mm IFV
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3.BP_PARS3_C`
+
+- PARS III M2 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_M2.BP_PARS3_M2_C`
+
+- PARS III MG3 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MG3.BP_PARS3_MG3_C`
+
+- PARS III Mk19 RWS APC
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MK19.BP_PARS3_MK19_C`
+
 ## ZBD-04A 
 
 - ZBD-04A Woodland 
@@ -968,6 +1002,12 @@
 - Leopard 2A6M Woodland (Cage) 
 
     `AdminCreateVehicle /Game/Vehicles/Leopard2/BP_2A6_Woodland_Cage.BP_2A6_Woodland_Cage_C`
+
+## M60T 
+
+- M60T
+
+    `AdminCreateVehicle /Game/Vehicles/M60T/BP_M60T.BP_M60T_C`
 
 ## M1A2 "Abrams" 
 
@@ -1096,6 +1136,12 @@
 - Z-8G 
 
     `AdminCreateVehicle /Game/Vehicles/Z8G/BP_Z8G.BP_Z8G_C`
+
+## UH-1H
+
+- UH-1H
+
+    `AdminCreateVehicle /Game/Vehicles/UH1H/BP_UH1H.BP_UH1H_C`
 
 ## BM21-GRAD MLRS 
 
