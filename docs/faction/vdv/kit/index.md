@@ -114,8 +114,174 @@
 ???+ quote "步枪兵"
     === "步枪兵 01"
         
+        - AK-12 + Foregrip, 7 mags
+        - AK74 Bayonet
+        - RGD5 Fragmentation, 2 grenades
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Ammo Bag Russian Field Binoculars
 
+    === "步枪兵 02"
+        
+        - AK-12 + 1P87 + Foregrip, 7 mags
+        - AK74 Bayonet
+        - RGD5 Fragmentation, 2 grenades
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Ammo Bag Russian Field Binoculars
 
+    === "步枪兵 03"
+        
+        - AK-12 + 1P78 + Foregrip, 6 mags
+        - AK74 Bayonet
+        - RGD5 Fragmentation, 1 grenade
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Ammo Bag
+
+### Automatic Rifleman | 自动步枪兵
+
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
+
+        - RPK-74M, 8 mags
+        - MP443 Grach, 2 mags AK74 Bayonet
+        - RGD5 Fragmentation, 1 grenade
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Russian Field Binoculars
+        
+## Fire Support | 火力支援
+
+### Automatic Rifleman | 自动步枪兵
+
+???+ quote "自动步枪兵"
+    === "自动步枪兵 01"
+
+        - RPK-74M + 1P78, 8 mags
+        - MP443 Grach, 2 mags AK74 Bayonet
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade
+
+### Grenadier | 榴弹兵
+
+???+ quote "榴弹兵"
+    === "榴弹兵 01"
+        
+        - AK-12 GP-25 + 1P87, 7 mags
+        - AK74 Bayonet
+        - GP-25 Fragmentation, 10 rounds
+        - GP-25 Smoke Marker White, 6 rounds
+        - Field Dressing, 2 packages
+        - MPL50 Spade
+
+### Light Anti-Tank | 轻型反坦克手
+
+???+ quote "轻型反坦克手"
+    === "轻型反坦克手 01"
+
+        - AK-12 + 1P87, 7 mags
+        - AK74 Bayonet
+        - RPG-7V2 High Explosive Anti-Tank, 2 rockets RPG-7V2 Fragmentation, 2 rockets
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Russian Field Binoculars
+
+    === "轻型反坦克手 02"
+
+         - AK-12 + 1P78, 6 mags
+         - AK74 Bayonet
+         - RPG-7 High Explosive Anti-Tank, 1 rocket RPG-7 Fragmentation, 2 rockets
+         - RDG2 White Smoke, 2 grenades 
+         - Field Dressing, 2 packages
+         - MPL50 Spade
+
+### Sniper | 狙击手
+
+???+ quote "狙击手"
+    === "狙击手 01"
+        
+        -         - SV-98M, 8 mags
+        - MP443 Grach, 2 mags AK74 Bayonet
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Russian Field Binoculars
+
+### Scout | 侦察兵
+
+???+ quote "侦察兵"
+    === "侦察兵 01"
+        
+        - AS-VAL + OKP-7, 7 mags
+        - MP443 Grach, 2 mags AK74 Bayonet
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Russian Field Binoculars
+
+## Specialist | 设备专家
+
+### Machine Gunner | 机枪手
+
+???+ quote "机枪手"
+    === "机枪手 01"
+        
+        - PKP Pecheneg, 6 ammo boxes
+        - MP443 Grach, 2 mags AK74 Bayonet
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade
+
+### Heavy Anti-Tank | 重型反坦克手
+
+???+ quote "重型反坦克手"
+    === "重型反坦克手 01"
+        
+        - AK-12 + 1P87, 7 mags
+        - AK74 Bayonet
+        - RPG-7V2 Tandem Heavy Anti-Tank, 2 rockets RPG-7V2 Fragmentation, 2 rockets
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Russian Field Binoculars
+
+    === "重型反坦克手 02"
+        
+        - AK-12 + 1P78, 6 mags
+        - AK74 Bayonet
+        - RPG-7 Tandem Heavy Anti-Tank, 1 rocket RPG-7 High Explosive Anti-Tank, 1 rocket
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade
+
+### Combat Engineer | 战斗工兵
+
+???+ quote "战斗工兵"
+    === "战斗工兵 01"
+        
+        - AK-12 + 1P87, 4 mags
+        - AK74 Bayonet
+        - SZ-1 Explosive (30s Fuze), 1 block TM62 Anti-Tank Mine, 3 mines
+        - RDG2 White Smoke, 2 grenades
+        - Field Dressing, 2 packages
+        - MPL50 Spade Vehicle Repair Tools Sandbags Razor Wire Russian Field Binoculars
+ 
+## Miscellaneous | 其它
+
+### Recruit | 征召兵
+
+???+ quote "征召兵"
+    === "征召兵 01"
+ 
+        - AK-12, 1 mag
+        - Field Dressing, 1 package
+        - MPL50 Spade
+
+### Unarmed | 无武装
+
+???+ quote "无武装"
+    === "无武装 01"
+
+        - N/A
 
 
 
