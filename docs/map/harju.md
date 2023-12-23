@@ -13,15 +13,17 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v1`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 7
+光照情况： None
 
-双方阵营： USMC VS VDV
+旗点数量： 9
+
+双方阵营： [USMC](/faction/usmc) VS [VDV](/faction/vdv)
 
 初始票数： 250  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *2
     - M939 Logistics *1
@@ -30,13 +32,13 @@
     - LAV-25 *2
     - UH-1Y *1
 
-??? abstract "VDV载具"
-    - BTR-D Transport *1
+??? abstract "[VDV](/faction/vdv)载具"
+    - BTR-D *1
     - BTR-DG Logistics *2
     - KamAZ 5350 Logistics *1
-    - BTR-D Kord APC *3
-    - BTR-MDM PKT RWS APC *1
-    - BMD-4M IFV *2
+    - BTR-D Kord *3
+    - BTR-MDM *1
+    - BMD-4M *2
     - Mi-8 *1
 
 
@@ -46,22 +48,24 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v2`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： USA VS RGF
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 350  -  350
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M2 *2
     - M2A3 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -75,15 +79,17 @@
 
 预设代码： `AdminSetNextLayer Harju_AAS_v3`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： BAF VS IMF
+旗点数量： 7
+
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 350  -  350
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *3
@@ -91,16 +97,17 @@
     - FV107 *1
     - FV510 *1
 
-??? abstract "IMF 载具"
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *2
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *2
+    - Logistics Modern Pickup *2
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
     - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *1
     - BRDM-2 *1
-    - MT-LBM 6MB *1
     - MT-LB ZU-23-2 *1
+    - MT-LBM 6MB *1
     - BMP-1 *1
 
 
@@ -110,15 +117,17 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v1`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 8
+光照情况： None
 
-双方阵营： USMC VS RGF
+旗点数量： None
+
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *1
     - AAVC-7A1 Logistics *2
     - M1151 M2 *1
@@ -129,7 +138,7 @@
     - RHIB M2 *1
     - RHIB Logistics *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *4
     - Tigr-M Kord *1
@@ -146,15 +155,17 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v2`
 
-光照情况： 阴天
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： RGF VS IMF
+旗点数量： None
+
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *3
     - KamAZ 5350 Logistics *2
@@ -165,21 +176,22 @@
     - T-72B3 *2
     - Mi-8 *2
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Logistics Modern Pickup Truck *1
+    - Armored Ural-375D Transport *1
+    - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Technical DShK *1
-    - Ural-375D ZU-23-2 *2
-    - MT-LB ZU-23-2 *1
+    - Armored Modern Technical DShK *1
+    - Ural-375D ZU-23-2 *1
     - Modern Technical UB-32 *1
-    - Modern Technical SPG-9 *2
+    - Modern Technical SPG-9 *1
+    - Armored Modern Technical SPG-9 *1
     - BRDM-2 *1
     - BTR-80 *1
     - BMP-1 *1
     - T-62 *1
+    - BM-21 Grad *1
 
 
 ### Harju Invasion v3
@@ -188,15 +200,17 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v3`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： BAF VS IMF
+旗点数量： None
+
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - FV107 *2
@@ -208,18 +222,19 @@
     - RHIB Transport *1
     - RHIB M2 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Logistics Modern Pickup Truck *1
-    - Ural-375D Logistics *1
+    - Armored Ural-375D Transport *1
+    - Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
     - Modern Technical M2 HB *1
-    - Technical DShK *1
+    - Armored Modern Technical DShK *1
     - Ural-375D ZU-23-2 *2
     - MT-LB ZU-23-2 *1
-    - Modern Technical UB-32 *1
-    - Modern Technical SPG-9 *2
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical SPG-9 *1
     - BRDM-2 *1
+    - BM-21 Grad *1
     - BMP-1 *1
     - T-62 *1
 
@@ -230,15 +245,17 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v4`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： CAF VS PLANMC
+旗点数量： None
 
-初始票数： 200  -  900
+双方阵营： [CAF](/faction/caf) VS [PLANMC](/faction/planmc)
 
-??? abstract "CAF 载具"
+初始票数： 800  -  200
+
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *1
@@ -251,14 +268,14 @@
     - CH-146 *2
     - RHIB Logistics *1
 
-??? abstract "PLANMC载具"
-    - CTM131 Transport QJZ89 *1
+??? abstract "[PLANMC](/faction/planmc)载具"
+    - CTM131 QJZ89 *1
     - ZSD05 Logistics *1
     - CTM131 Logistics *1
-    - ZSD05 APC *2
-    - ZBL08 IFV *1
-    - ZBD05 HJ73C IFV *2
-    - ZTD05 MGS *2
+    - ZSD05 *2
+    - ZBL08 *1
+    - ZBD05 HJ73C *2
+    - ZTD05 *2
     - Z-8J *2
     - RHIB Logistics *1
     - RHIB QJY88 *1
@@ -271,15 +288,17 @@
 
 预设代码： `AdminSetNextLayer Harju_Invasion_v5`
 
-光照情况： 阴天
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： BAF VS PLA
+旗点数量： None
+
+双方阵营： [BAF](/faction/baf) VS [PLA](/faction/pla)
 
 初始票数： 800  -  200
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *4
     - LPPV *3
@@ -287,18 +306,18 @@
     - FV107 *2
     - FV510 *2
 
-??? abstract "PLA 载具"
-    - CTM-131 Transport QJZ-89 *1
-    - CTM-131 Logistics *2
-    - CSK-131 QJZ-89 RWS *1
-    - CSK-131 QJZ-89 *1
-    - ZSL-10 *2
-    - ZBL-08 HJ-73C *2
-    - ZBD-04A *1
-    - ZTZ-99A *1
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJZ89 *1
+    - CTM131 Logistics *2
+    - CSK131 QJC88 RWS *1
+    - CSK131 QJZ89 *1
+    - ZSL10 *2
+    - ZBL08 HJ73C *2
+    - ZBD04A *1
+    - ZTZ99A *1
     - Z-8G *1
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
     - RHIB Logistics *1
 
 
@@ -308,33 +327,34 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v1`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： USMC VS RGF
+旗点数量： None
+
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
-    - M939 Logistics *3
+    - M939 Logistics *1
     - AAVC-7A1 Logistics *1
-    - M1151 M2 *1
-    - MATV M2 *1
-    - AAVP-7A1 *1
-    - LAV-25 *1
+    - M1151 M2 *2
+    - AAVP-7A1 *2
+    - LAV-25 *2
     - UH-1Y *2
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
     - MT-LB Logistics *1
-    - Tigr-M Kord *1
-    - Tigr-M RWS Kord *1
-    - BTR-80 *1
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *2
     - BTR-82A *2
+    - BMP-2 *1
     - Mi-8 *2
+
 
 ### Harju RAAS v2
 
@@ -342,15 +362,17 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v2`
 
-光照情况： 阴天
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： BAF VS RGF
+旗点数量： None
 
-初始票数： 350  -  350
+双方阵营： [BAF](/faction/baf) VS [RGF](/faction/rgf)
 
-??? abstract "BAF 载具"
+初始票数： 300  -  300
+
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *1
@@ -360,7 +382,7 @@
     - FV107 *3
     - SA330 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -379,15 +401,17 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v3`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： USA VS RGF
+旗点数量： None
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV CROWS M240 *1
@@ -402,7 +426,7 @@
     - RHIB M240 *1
     - RHIB M2 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -423,15 +447,17 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v4`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： CAF VS PLAAGF
+旗点数量： None
+
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - RHIB Logistics *1
     - RHIB Transport *1
     - RHIB M2 *1
@@ -446,7 +472,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "PLAAGF载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - ZSD05 Logistics *1
@@ -454,8 +480,8 @@
     - ZSD05 *2
     - ZBL08 *1
     - ZBD05 *2
-    - ZTD05 MGS *1
-    - Z-8J *2
+    - ZTD05 *1
+    - Z-8G *2
     - RHIB Logistics *1
     - RHIB QJY88 *1
     - RHIB QJZ89 *1
@@ -467,15 +493,17 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v5`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： RGF VS IMF
+旗点数量： None
 
-初始票数： 300  -  320
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
-??? abstract "RGF 载具"
+初始票数： 300  -  300
+
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *2
@@ -483,14 +511,16 @@
     - MT-LB VMK *1
     - Mi-8 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
-    - Ural-375D Transport *1
-    - Ural-375D Logistics *1
-    - Logistics Modern Pickup Truck *4
-    - Modern Technical M2 HB *2
-    - Modern Technical SPG-9 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *2
+    - Modern Technical M2 HB *1
+    - Armored Modern Technical DShK *1
     - Modern Technical UB-32 *1
+    - Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
     - BTR-80 *2
@@ -502,15 +532,17 @@
 
 预设代码： `AdminSetNextLayer Harju_RAAS_v6`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 6
+光照情况： None
 
-双方阵营： USA VS PLA
+旗点数量： None
+
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - RHIB Logistics *1
@@ -522,17 +554,17 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "PLA 载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *2
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *2
     - RHIB Logistics *1
-    - CSK-131 QJZ-89 *3
-    - CSK-131 QJZ-89 RWS *1
-    - ZBD-04A *2
-    - ZTZ-99A *2
+    - CSK131 QJZ89 *3
+    - CSK131 QJC88 RWS *1
+    - ZBD04A *2
+    - ZTZ99A *2
     - Z-8G *2
-    - RHIB QJY-88 *1
-    - RHIB QJZ-89 *1
+    - RHIB QJY88 *1
+    - RHIB QJZ89 *1
 
 
 ### Harju Seed v1
@@ -541,21 +573,24 @@
 
 预设代码： `AdminSetNextLayer Harju_Seed_v1`
 
-光照情况： 黎明
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： USMC VS RGF
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS [VDV](/faction/vdv)
 
 初始票数： 100  -  100
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *3
     - M1151 M2 *2
 
-??? abstract "RGF 载具"
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *2
+??? abstract "[VDV](/faction/vdv)载具"
+    - BTR-DG Logistics *3
+    - BTR-D Kord *1
+    - BTR-MDM *1
 
 
 ### Harju Skirmish v1
@@ -564,20 +599,22 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v1`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： USMC VS RGF
+旗点数量： 7
+
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *2
     - M939 Logistics *2
     - AAVC-7A1 Logistics *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -589,89 +626,25 @@
 
 预设代码： `AdminSetNextLayer Harju_Skirmish_v2`
 
-光照情况： 正午
+图层大小： 4.0x3.9 km
 
-旗点数量： 5
+光照情况： None
 
-双方阵营： CAF VS RGF
+旗点数量： 7
+
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - M113A3 TLAV *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
     - MT-LBM 6MA *1
-
-
-### Harju TC v1
-
-切换代码： `AdminChangeLayer Harju_TC_v1`
-
-预设代码： `AdminSetNextLayer Harju_TC_v1`
-
-光照情况： 正午
-
-旗点数量： 21
-
-双方阵营： USMC VS RGF
-
-初始票数： 400  -  400
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
-    - LAV-25 *2
-    - UH-1Y *1
-
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - Mi-8 *1
-
-
-### Harju TC v2
-
-切换代码： `AdminChangeLayer Harju_TC_v2`
-
-预设代码： `AdminSetNextLayer Harju_TC_v2`
-
-光照情况： None
-
-旗点数量： 37
-
-双方阵营： USMC VS RGF
-
-初始票数： 400  -  400
-
-??? abstract "USMC 载具"
-    - M939 Transport *1
-    - M939 Logistics *2
-    - AAVC-7A1 Logistics *1
-    - M1151 M2 *3
-    - M1151 CROWS M2 *1
-    - LAV-25 *2
-    - UH-1Y *1
-
-??? abstract "RGF 载具"
-    - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *2
-    - MT-LB Logistics *1
-    - Tigr-M Kord *3
-    - Tigr-M RWS Kord *1
-    - BTR-82A *2
-    - Mi-8 *1
 
 

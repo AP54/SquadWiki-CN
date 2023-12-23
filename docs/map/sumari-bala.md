@@ -13,20 +13,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_AAS_v1`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - LPPV *2
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir Logi *2
     - Ural-4320 Logistics *3
     - Simir Kord *2
@@ -39,22 +41,24 @@
 
 预设代码： `AdminSetNextLayer Sumari_AAS_v2`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M240 *1
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -67,21 +71,23 @@
 
 预设代码： `AdminSetNextLayer Sumari_AAS_v3`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： ADF VS RGF
+双方阵营： [ADF](/faction/adf) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *3
     - PMV Mag58 x3 *3
     - PMV RWS M2 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *3
@@ -94,21 +100,23 @@
 
 预设代码： `AdminSetNextLayer Sumari_AAS_v4`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 7
+光照情况： 正午
 
-双方阵营： CAF VS MEA
+旗点数量： 9
+
+双方阵营： [CAF](/faction/caf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *1
     - LUVW Logistics *2
     - LUVW M2 *3
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
@@ -120,20 +128,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_AAS_v5`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M1151 M2 Open Doors *3
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Simir Logi *4
     - Simir Kord *3
@@ -145,20 +155,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_Insurgency_v1`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 2
+旗点数量： 102
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  1000
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M-ATV M2 *2
     - M939 Logistics *3
     - M-ATV CROWS M240 *1
 
-??? abstract "INS 载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *2
     - Logistics Pickup Truck *3
@@ -173,21 +185,23 @@
 
 预设代码： `AdminSetNextLayer Sumari_Invasion_v1`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 黎明
 
-旗点数量： 6
+旗点数量： None
 
-双方阵营： USA VS INS
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
 
 初始票数： 200  -  900
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M240 *1
 
-??? abstract "INS 载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *1
     - Logistics Pickup Truck *4
@@ -201,20 +215,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_RAAS_v1`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 6
+光照情况： 正午
 
-双方阵营： USA VS MEA
+旗点数量： None
+
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M240 *1
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir MG3 *1
     - Simir Kord *1
     - Ural-4320 Logistics *3
@@ -227,21 +243,55 @@
 
 预设代码： `AdminSetNextLayer Sumari_RAAS_v2`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 6
+光照情况： 正午
 
-双方阵营： BAF VS MEA
+旗点数量： None
+
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 250  -  250
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Logistics *3
     - HX60 Transport *1
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Logistics *3
     - Simir Logi *2
+
+
+### Sumari Bala RAAS v3
+
+切换代码： `AdminChangeLayer Sumari_RAAS_v3`
+
+预设代码： `AdminSetNextLayer Sumari_RAAS_v3`
+
+图层大小： 1.3x1.3 km
+
+光照情况： 正午
+
+旗点数量： None
+
+双方阵营： [TLF](/faction/tlf) VS [INS](/faction/ins)
+
+初始票数： 200  -  200
+
+??? abstract "[TLF](/faction/tlf) 载具"
+    - BMC-185 Transport *1
+    - BMC-185 Logsitics *3
+    - Cobra II MG3 *2
+    - ACV-15 MG3 *1
+
+??? abstract "[INS](/faction/ins)载具"
+    - Minsk 400 *1
+    - Transport Pickup Truck *2
+    - Logistics Pickup Truck *3
+    - Technical DShK Shielded *1
+    - Armored Technical DShK *1
+    - Technical M2 HB *1
+    - Armored Technical SPG-9 *1
 
 
 ### Sumari Bala Seed v1
@@ -250,19 +300,21 @@
 
 预设代码： `AdminSetNextLayer Sumari_Seed_v1`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 5
+光照情况： 正午
 
-双方阵营： USA VS RGF
+旗点数量： 7
 
-初始票数： 300  -  300
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
-??? abstract "USA 载具"
+初始票数： 100  -  100
+
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *4
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *4
 
@@ -273,19 +325,21 @@
 
 预设代码： `AdminSetNextLayer Sumari_Seed_v2`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 5
+光照情况： 正午
 
-双方阵营： ADF VS INS
+旗点数量： 7
 
-初始票数： 300  -  300
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
 
-??? abstract "ADF 载具"
+初始票数： 100  -  100
+
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *4
 
-??? abstract "INS 载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Transport Pickup Truck *3
     - Logistics Pickup Truck *4
@@ -297,21 +351,48 @@
 
 预设代码： `AdminSetNextLayer Sumari_Seed_v3`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 5
+光照情况： 正午
 
-双方阵营： USA VS PLA
+旗点数量： 7
 
-初始票数： 300  -  300
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
-??? abstract "USA 载具"
+初始票数： 100  -  100
+
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *4
 
-??? abstract "PLA 载具"
-    - CTM-131 Transport QJY-88 *1
-    - CTM-131 Logistics *6
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *6
+
+
+### Sumari Bala Seed v4
+
+切换代码： `AdminChangeLayer Sumari_Seed_v4`
+
+预设代码： `AdminSetNextLayer Sumari_Seed_v4`
+
+图层大小： 1.3x1.3 km
+
+光照情况： 正午
+
+旗点数量： 7
+
+双方阵营： [USA](/faction/usa) VS [TLF](/faction/tlf)
+
+初始票数： 100  -  100
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *3
+    - M939 Logistics *3
+
+??? abstract "[TLF](/faction/tlf)载具"
+    - BMC-185 Transport *3
+    - BMC-185 Logsitics *3
 
 
 ### Sumari Bala Skirmish v1
@@ -320,20 +401,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_Skirmish_v1`
 
+图层大小： 1.3x1.3 km
+
 光照情况： 阴天
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
 
-??? abstract "PLA 载具"
-    - CTM-131 Logistics *4
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Logistics *4
 
 
 ### Sumari Bala TC v1
@@ -342,20 +425,22 @@
 
 预设代码： `AdminSetNextLayer Sumari_TC_v1`
 
-光照情况： 正午&多云
+图层大小： 1.3x1.3 km
 
-旗点数量： 23
+光照情况： 正午
 
-双方阵营： USA VS MEA
+旗点数量： 2
+
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Logistics *3
     - M939 Transport *1
     - M-ATV M240 *1
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Simir MG3 *1
     - Simir Kord *1
     - Ural-4320 Logistics *3

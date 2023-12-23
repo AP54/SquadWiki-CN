@@ -13,15 +13,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_AAS_v1`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -30,7 +32,7 @@
     - M113A3 TLAV *1
     - CH-146 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *2
     - MT-LB Logistics *1
@@ -45,15 +47,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_AAS_v2`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *2
     - M939 Logistics *2
     - M1151 M2 *2
@@ -63,7 +67,7 @@
     - LAV-25 *1
     - UH-1Y *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *2
     - KamAZ 5350 Logistics *2
     - Tigr-M Kord *3
@@ -78,15 +82,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_AAS_v3`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *3
@@ -95,7 +101,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -112,15 +118,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_AAS_v4`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： USMC VS PLAAGF
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *3
     - M1151 M2 *2
@@ -129,12 +137,12 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "PLANMC载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - ZSD05 Logistics *3
     - ZSD05 *2
     - ZBD05 *2
-    - ZTD05 MGS *1
+    - ZTD05 *1
     - Z-8G *1
 
 
@@ -144,15 +152,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_AAS_v5`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： 9
 
-双方阵营： USA] VS VDV
+双方阵营： [USA](/faction/usa) VS [VDV](/faction/vdv)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *2
@@ -161,13 +171,13 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "VDV载具"
+??? abstract "[VDV](/faction/vdv)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-DG Logistics *2
-    - BTR-MDM PKT RWS APC *2
-    - BMD-1M IFV *1
-    - BMD-4M IFV *2
+    - BTR-MDM *2
+    - BMD-1M *1
+    - BMD-4M *2
     - T-72B3 *1
     - Mi-8 *1
 
@@ -178,15 +188,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v1`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 800  -  200
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Logistics *3
     - LUVW M2 *3
@@ -199,7 +211,7 @@
     - RHIB Logistics *1
     - RHIB Transport *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *2
     - KamAZ 5350 Logistics *1
@@ -216,15 +228,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v2`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -234,7 +248,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -251,15 +265,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v3`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 暴雨
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
@@ -268,7 +284,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -286,15 +302,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v4`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *2
@@ -305,7 +323,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *2
@@ -323,15 +341,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v5`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 暴雨
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 200  -  800
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - AAVC-7A1 Logistics *3
     - AAVP-7A1 *3
     - LAV-25 *4
@@ -340,7 +360,7 @@
     - RHIB M2 *2
     - RHIB Transport *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - MT-LB Logistics *4
     - BRDM-2 *2
     - BTR-82A *2
@@ -357,15 +377,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v6`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 200  -  800
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -375,7 +397,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *1
@@ -392,15 +414,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v7`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 暴雨
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 200  -  900
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW Logistics *1
@@ -410,7 +434,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
@@ -430,15 +454,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v8`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 暴雨
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USA VS VDV
+双方阵营： [USA](/faction/usa) VS [VDV](/faction/vdv)
 
 初始票数： 800  -  200
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *4
     - M-ATV M2 *3
@@ -450,17 +476,17 @@
     - RHIB M2 *1
     - RHIB Logistics *1
 
-??? abstract "VDV载具"
+??? abstract "[VDV](/faction/vdv)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-DG Logistics *2
     - Tigr-M Kord *1
-    - BTR-D Kord APC *1
-    - BTR-ZD Anti-Air *1
-    - BTR-MDM PKT RWS APC *1
-    - BMD-1M IFV *1
-    - BMD-4M IFV *2
-    - Sprut-SDM1 MGS *1
+    - BTR-D Kord *1
+    - BTR-ZD *1
+    - BTR-MDM *1
+    - BMD-1M *1
+    - BMD-4M *2
+    - Sprut-SDM1 *1
     - T-72B3 *1
     - Mi-8 *1
 
@@ -471,15 +497,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Invasion_v9`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USMC VS PLANMC
+双方阵营： [USMC](/faction/usmc) VS [PLANMC](/faction/planmc)
 
 初始票数： 800  -  200
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *3
@@ -493,33 +521,35 @@
     - RHIB Logistics *1
     - RHIB M2 *1
 
-??? abstract "PLANMC载具"
-    - CTM131 Transport QJZ89 *1
+??? abstract "[PLANMC](/faction/planmc)载具"
+    - CTM131 QJZ89 *1
     - ZSD05 Logistics *3
     - CSK131 QJZ89 *1
     - CSK131 QJC88 RWS *1
-    - ZSD05 APC *1
-    - ZBL08 HJ73C IFV *1
-    - ZBD05 HJ73C IFV *2
-    - ZTD05 MGS *2
+    - ZSD05 *1
+    - ZBL08 HJ73C *1
+    - ZBD05 HJ73C *2
+    - ZTD05 *2
     - Z-8J *1
 
 
-### Manicouagan RAAS v1
+### Manicouagan RAAS v01
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v1`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v01`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v1`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v01`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW M2 *2
@@ -530,7 +560,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *1
@@ -542,21 +572,23 @@
     - Mi-8 *2
 
 
-### Manicouagan RAAS v2
+### Manicouagan RAAS v02
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v2`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v02`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v2`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v02`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *1
@@ -568,7 +600,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *1
@@ -580,21 +612,23 @@
     - Mi-8 *2
 
 
-### Manicouagan RAAS v3
+### Manicouagan RAAS v03
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v3`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v03`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v3`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v03`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 暴雨
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *2
@@ -603,7 +637,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - MT-LB Logistics *1
     - KamAZ 5350 Logistics *1
@@ -614,21 +648,23 @@
     - Mi-8 *2
 
 
-### Manicouagan RAAS v4
+### Manicouagan RAAS v04
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v4`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v04`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v4`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v04`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： CAF VS PLA
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *2
@@ -638,7 +674,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *3
     - CSK131 QJZ89 *2
@@ -649,21 +685,23 @@
     - Z-8G *1
 
 
-### Manicouagan RAAS v5
+### Manicouagan RAAS v05
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v5`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v05`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v5`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v05`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 暴雨
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USMC VS PLA
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *1
@@ -674,7 +712,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - CSK131 QJZ89 *1
@@ -685,21 +723,23 @@
     - Z-8G *2
 
 
-### Manicouagan RAAS v6
+### Manicouagan RAAS v06
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v6`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v06`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v6`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v06`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USA VS PLA
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
 初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *2
     - M-ATV M2 *1
@@ -708,7 +748,7 @@
     - M1A2 *2
     - UH-60M *2
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - CSK131 QJZ89 *1
@@ -718,21 +758,23 @@
     - Z-8G *2
 
 
-### Manicouagan RAAS v7
+### Manicouagan RAAS v07
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v7`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v07`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v7`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v07`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *2
     - LUVW C6 *2
@@ -742,7 +784,7 @@
     - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -755,27 +797,30 @@
     - Armored Modern Technical SPG-9 *1
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - BMP-2 *1
+    - BMP-1 *1
     - BM-21 Grad *1
     - T-62 *1
 
 
-### Manicouagan RAAS v8
+### Manicouagan RAAS v08
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v8`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v08`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v8`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v08`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 
+旗点数量： None
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "USA 载具"
-    - ??? M939 Transport *1
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *1
     - M-ATV M2 *1
@@ -785,7 +830,7 @@
     - M1A2 *2
     - UH-60M *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -799,26 +844,29 @@
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
     - BTR-80 *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - BM-21 Grad *1
     - T-62 *2
 
 
-### Manicouagan RAAS v9
+### Manicouagan RAAS v09
 
-切换代码： `AdminChangeLayer Manicouagan_RAAS_v9`
+切换代码： `AdminChangeLayer Manicouagan_RAAS_v09`
 
-预设代码： `AdminSetNextLayer Manicouagan_RAAS_v9`
+预设代码： `AdminSetNextLayer Manicouagan_RAAS_v09`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 
+旗点数量： None
 
-双方阵营： RGF VS IMF
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - MT-LB Logistics *2
@@ -829,7 +877,7 @@
     - T-72B3 *1
     - Mi-8 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Armored Ural-375D Transport *1
     - Armored Ural-375D Logistics *2
     - Ural-375D Logistics *1
@@ -841,7 +889,8 @@
     - BTR-80 *2
     - Ural-375D ZU-23-2 *1
     - MT-LB ZU-23-2 *1
-    - BMP-1 *2
+    - BMP-1 *1
+    - BMP-2 *1
     - BM-21 Grad *1
     - T-62 *1
 
@@ -852,15 +901,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v10`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： CAF VS VDV
+双方阵营： [CAF](/faction/caf) VS [VDV](/faction/vdv)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUVW Logistics *2
     - MSVS Logistics *1
@@ -869,13 +920,12 @@
     - Leopard 2A6M CAN *1
     - CH-146 *2
 
-??? abstract "VDV 载具"
+??? abstract "[VDV](/faction/vdv)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-DG Logistics *2
-    - BTR-MDM *2
+    - BTR-MDM *1
     - BTR-ZD *1
-    - BMD-1M *1
     - BMD-4M *2
     - Sprut-SDM1 *1
     - T-72B3 *1
@@ -888,35 +938,37 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v11`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USA VS VDV
+双方阵营： [USA](/faction/usa) VS [VDV](/faction/vdv)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "USA 载具"
-    - M939 Transport *2
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
     - M939 Logistics *3
-    - M-ATV M2 *2
+    - M-ATV M2 *1
     - M-ATV CROWS M2 *1
     - M1126 CROWS M2 *2
     - M2A3 *2
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "VDV 载具"
+??? abstract "[VDV](/faction/vdv)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-DG Logistics *2
     - BTR-D Kord *1
     - BTR-ZD *1
-    - BTR-MDM *2
+    - BTR-MDM *1
     - BMD-4M *2
     - Sprut-SDM1 *1
     - T-72B3 *1
-    - Mi-8 *1 
+    - Mi-8 *1
 
 
 ### Manicouagan RAAS v12
@@ -925,33 +977,34 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v12`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USMC VS VDV
+双方阵营： [USMC](/faction/usmc) VS [VDV](/faction/vdv)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *1
-    - M1151 M2 *2 *1
-    - M1151 M2 Open Doors *1
+    - M1151 M2 *2
     - M1151 CROWS M2 *1
     - AAVP-7A1 *2
     - LAV-25 *2
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "VDV 载具"
+??? abstract "[VDV](/faction/vdv)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - BTR-DG Logistics *1
     - BTR-D Kord *1
     - BTR-ZD *1
-    - BTR-MDM *2
+    - BTR-MDM *1
     - BMD-4M *2
     - Sprut-SDM1 *1
     - T-72B3 *1
@@ -964,29 +1017,30 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v13`
 
-光照情况： 正午
+图层大小： 4.0x4.0 km
 
-旗点数量： 7
+光照情况： 暴雨
 
-双方阵营： CAF VS PLANMC
+旗点数量： None
 
-初始票数： 300 - 300
+双方阵营： [CAF](/faction/caf) VS [PLA](/faction/pla)
 
-??? abstract "CAF 载具"
+初始票数： 300  -  300
+
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUVW Logistics *1
     - MSVS Logistics *2
     - LUVW M2 *2
     - TAPV M2 *1
     - LAV 6 *3
-    - Leopard 2A6M CAN
+    - Leopard 2A6M CAN *1
     - CH-146 *1
 
-??? abstract "PLANMC 载具"
-    - CSK131 QJZ89 *1
+??? abstract "[PLA](/faction/pla)载具"
+    - CSK131 QJZ89 *2
     - CTM131 Logistics *2
     - ZSD05 Logistics *1
-    - CSK131 QJZ89 *1
     - CSK131 QJC88 RWS *1
     - ZSD05 *1
     - ZBD05 *2
@@ -1000,15 +1054,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v14`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USA VS PLANMC
+双方阵营： [USA](/faction/usa) VS [PLA](/faction/pla)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M240 *1
@@ -1019,7 +1075,7 @@
     - M1A2 *2
     - UH-60M *1
 
-??? abstract "PLANMC 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - ZSD05 Logistics *1
     - CTM131 Logistics *2
@@ -1039,15 +1095,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_RAAS_v15`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 7
+旗点数量： None
 
-双方阵营： USMC VS PLANMC
+双方阵营： [USMC](/faction/usmc) VS [PLA](/faction/pla)
 
-初始票数： 300 - 300
+初始票数： 300  -  300
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - AAVC-7A1 Logistics *1
     - M939 Logistics *2
@@ -1059,7 +1117,7 @@
     - M1A1 *1
     - UH-1Y *2
 
-??? abstract "PLANMC 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Transport QJZ89 *1
     - CTM131 Logistics *2
     - ZSD05 Logistics *1
@@ -1069,7 +1127,7 @@
     - ZBD05 *2
     - ZTD05 *2
     - Z-8G *2
-  
+
 
 ### Manicouagan Seed v1
 
@@ -1077,21 +1135,23 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Seed_v1`
 
+图层大小： 1.4x1.4 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： CAF VS IMF
+双方阵营： [CAF](/faction/caf) VS [IMF](/faction/imf)
 
 初始票数： 100  -  100
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - LUVW Transport *3
     - LUVW Logistics *3
     - MSVS Logistics *2
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Transport Modern Pickup *1
     - Armored Transport Modern Pickup *1
@@ -1109,15 +1169,17 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v1`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 暴雨
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： CAF VS RGF
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUVW Transport *2
     - LUV-A1 Transport *2
     - MSVS Transport *1
@@ -1125,7 +1187,7 @@
     - MSVS Logistics *2
     - LUVW C6 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1
@@ -1137,19 +1199,21 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v2`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： USMC VS RGF
+双方阵营： [USMC](/faction/usmc) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Logistics *3
-    - M1151 M2 *2
+    - M1151 M2 Open Doors *2
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
 
@@ -1160,20 +1224,22 @@
 
 预设代码： `AdminSetNextLayer Manicouagan_Skirmish_v3`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 150  -  150
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *3
     - M939 Logistics *3
     - M-ATV M240 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *3
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *1

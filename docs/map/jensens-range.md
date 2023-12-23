@@ -10,19 +10,21 @@
 
 ### Jensen's Training Range
 
-切换代码： `AdminChangeLayer JensensRange_AUS-PLA`
+切换代码： `AdminChangeLayer JensensRange_ADF-PLA`
 
-预设代码： `AdminSetNextLayer JensensRange_AUS-PLA`
+预设代码： `AdminSetNextLayer JensensRange_ADF-PLA`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 3
+旗点数量： 103
 
-双方阵营： ADF VS PLA
+双方阵营： [ADF](/faction/adf) VS [PLA](/faction/pla)
 
 初始票数： 99999  -  99999
 
-??? abstract "ADF 载具"
+??? abstract "[ADF](/faction/adf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *1
     - PMV Mag58 *1
@@ -33,7 +35,7 @@
     - MRH-90 *1
     - UH-60M *1
 
-??? abstract "PLA 载具"
+??? abstract "[PLA](/faction/pla)载具"
     - CTM131 Logistics *1
     - CTM131 Transport QJY88 *1
     - CTM131 Transport QJZ89 *1
@@ -57,15 +59,17 @@
 
 预设代码： `AdminSetNextLayer JensensRange_BAF-IMF`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 3
+旗点数量： 103
 
-双方阵营： BAF VS IMF
+双方阵营： [BAF](/faction/baf) VS [IMF](/faction/imf)
 
 初始票数： 99999  -  99999
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *1
     - HX60 Logistics *1
     - LPPV *1
@@ -79,7 +83,7 @@
     - FV4034 *1
     - SA330 *1
 
-??? abstract "IMF 载具"
+??? abstract "[IMF](/faction/imf)载具"
     - Minsk 400 *1
     - Transport Modern Pickup *1
     - Armored Transport Modern Pickup *1
@@ -89,7 +93,7 @@
     - Armored Logistics Modern Pickup *1
     - Ural-375D Logistics *1
     - Armored Ural-375D Logistics *1
-    - Modern Technical DShK Shielded *1
+    - Modern Technical DShK *1
     - Modern Technical M2 HB *1
     - Ural-375D ZU-23-2 *1
     - Modern Technical UB-32 *1
@@ -115,15 +119,17 @@
 
 预设代码： `AdminSetNextLayer JensensRange_CAF-INS`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 3
+旗点数量： 103
 
-双方阵营： CAF VS INS
+双方阵营： [CAF](/faction/caf) VS [INS](/faction/ins)
 
 初始票数： 99999  -  99999
 
-??? abstract "CAF 载具"
+??? abstract "[CAF](/faction/caf) 载具"
     - LUV-A1 Transport *1
     - LUVW Transport *1
     - MSVS Transport *1
@@ -144,7 +150,7 @@
     - CH-146 *1
     - CH-178 *1
 
-??? abstract "INS 载具"
+??? abstract "[INS](/faction/ins)载具"
     - Minsk 400 *1
     - Ural-375D Logistics *1
     - Ural-375D Transport *1
@@ -170,19 +176,70 @@
 
 ### Jensen's Training Range
 
-切换代码： `AdminChangeLayer JensensRange_USA-RUS`
+切换代码： `AdminChangeLayer JensensRange_PLANMC-VDV`
 
-预设代码： `AdminSetNextLayer JensensRange_USA-RUS`
+预设代码： `AdminSetNextLayer JensensRange_PLANMC-VDV`
+
+图层大小： 4.0x4.0 km
 
 光照情况： 正午
 
-旗点数量： 3
+旗点数量： 103
 
-双方阵营： USA VS RGF
+双方阵营： [PLANMC](/faction/planmc) VS [VDV](/faction/vdv)
 
 初始票数： 99999  -  99999
 
-??? abstract "USA 载具"
+??? abstract "[PLANMC](/faction/planmc) 载具"
+    - CTM131 Logistics *1
+    - CTM131 QJY88 *1
+    - CTM131 QJZ89 *1
+    - CSK131 QJY88 *1
+    - CSK131 QJZ89 *1
+    - CSK131 QJC88 RWS *1
+    - ZSD05 Logistics *1
+    - ZSD05 *1
+    - ZSL10 *1
+    - ZBL08 *1
+    - ZBL08 HJ73C *1
+    - ZBD05 *1
+    - ZBD05 HJ73C *1
+    - ZTD05 *1
+    - Z-8J *1
+
+??? abstract "[VDV](/faction/vdv)载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-D *1
+    - BTR-DG Logistics *1
+    - BTR-D Kord *1
+    - BTR-ZD *1
+    - BRDM-2 *1
+    - BTR-MDM *2
+    - BMD-1M *1
+    - BMD-4M *1
+    - Sprut-SDM1 *1
+    - T-72B3 *1
+    - Mi-8 *1
+
+
+### Jensen's Training Range
+
+切换代码： `AdminChangeLayer JensensRange_USA-RGF`
+
+预设代码： `AdminSetNextLayer JensensRange_USA-RGF`
+
+图层大小： 4.0x4.0 km
+
+光照情况： 正午
+
+旗点数量： 103
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
+
+初始票数： 99999  -  99999
+
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - M-ATV M2 *1
@@ -196,7 +253,7 @@
     - M1A2 *1
     - UH-60M *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *1
     - Tigr-M Kord *1
@@ -214,19 +271,69 @@
 
 ### Jensen's Training Range
 
+切换代码： `AdminChangeLayer JensensRange_USA-TLF`
+
+预设代码： `AdminSetNextLayer JensensRange_USA-TLF`
+
+图层大小： 4.0x4.0 km
+
+光照情况： 正午
+
+旗点数量： 103
+
+双方阵营： [USA](/faction/usa) VS [TLF](/faction/tlf)
+
+初始票数： 99999  -  99999
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *1
+    - M-ATV M2 *1
+    - M-ATV M240 *1
+    - M-ATV CROWS M240 *1
+    - M-ATV CROWS M2 *1
+    - M-ATV TOW *1
+    - M1126 CROWS M240 *1
+    - M1126 CROWS M2 *1
+    - M2A3 *1
+    - M1A2 *1
+    - UH-60M *1
+
+??? abstract "[TLF](/faction/tlf)载具"
+    - BMC-185 Transport *1
+    - BMC-185 Logsitics *1
+    - Cobra II MG3 *1
+    - Cobra II MG3 RWS *1
+    - Cobra II M2 *1
+    - Cobra II M2 RWS *1
+    - ACV-15 MG3 *1
+    - ACV-15 M2 *1
+    - PARS III MG3 RWS *1
+    - PARS III Mk19 RWS *1
+    - PARS III M2 RWS *1
+    - PARS III 25mm *1
+    - ACV-15 25mm *1
+    - M60T *1
+    - UH-1H *1
+
+
+### Jensen's Training Range
+
 切换代码： `AdminChangeLayer JensensRange_USMC-MEA`
 
 预设代码： `AdminSetNextLayer JensensRange_USMC-MEA`
 
+图层大小： 4.0x4.0 km
+
 光照情况： 正午
 
-旗点数量： 3
+旗点数量： 103
 
-双方阵营： USMC VS MEA
+双方阵营： [USMC](/faction/usmc) VS [MEA](/faction/mea)
 
 初始票数： 99999  -  99999
 
-??? abstract "USMC 载具"
+??? abstract "[USMC](/faction/usmc) 载具"
     - M939 Transport *1
     - M939 Logistics *1
     - AAVC-7A1 Logistics *1
@@ -238,7 +345,7 @@
     - M1A1 *1
     - UH-1Y *1
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *1
     - Ural-4320 Logistics *1
     - Simir Logi *1
@@ -254,52 +361,4 @@
     - T-62 *1
     - T-72S *1
     - Mi-17 *1
-
-
-### Jensen's Training Range
-
-切换代码： `AdminChangeLayer JensensRange_PLANMC-VDV`
-
-预设代码： `AdminSetNextLayer JensensRange_PLANMC-VDV`
-
-光照情况： 正午
-
-旗点数量： 3
-
-双方阵营： PLANMC VS VDV
-
-初始票数： 99999  -  99999
-
-??? abstract "PLANMC载具"
-    - CTM131 Logistics
-    - CTM131 Transport QJY88
-    - CTM131 Transport QJZ89
-    - CSK131 QJY88
-    - CSK131 QJZ89
-    - CSK131 QJC88 RWS
-    - ZSD05 Logistics
-    - ZSD05 APC
-    - ZSL10 APC
-    - ZBL08
-    - ZBL08 HJ73C
-    - ZBD05 IFV
-    - ZBD05 HJ73C IFV
-    - ZTD05 MGS
-    - Z-8J
-  
-??? abstract "VDV载具"
-    - KamAZ 5350 Transport
-    - KamAZ 5350 Logistics
-    - BTR-D Transport
-    - BTR-DG Logistics
-    - BTR-D Kord APC
-    - BTR-ZD Anti-Air
-    - BRDM-2
-    - BTR-MDM PKT RWS APC
-    - BTR-MDM PKT RWS APC
-    - BMD-1M IFV
-    - BMD-4M IFV
-    - Sprut-SDM1 MGS
-    - T-72B3
-    - Mi-8
 

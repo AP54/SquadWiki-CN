@@ -10,11 +10,11 @@
 
 - [Al Basrah AAS v3](/Map/al-basrah/#al-basrah-aas-v3)
 
-- [Belaya AAS v1](/Map/belaya/#belaya-aas-v1)
+- [Belaya AAS v1](/Map/belaya-pass/#belaya-aas-v1)
 
-- [Belaya AAS v2](/Map/belaya/#belaya-aas-v2)
+- [Belaya AAS v2](/Map/belaya-pass/#belaya-aas-v2)
 
-- [Belaya AAS v3](/Map/belaya/#belaya-aas-v3)
+- [Belaya AAS v3](/Map/belaya-pass/#belaya-aas-v3)
 
 - [Chora AAS v1](/Map/chora/#chora-aas-v1)
 
@@ -27,6 +27,8 @@
 - [Chora AAS v5](/Map/chora/#chora-aas-v5)
 
 - [Chora AAS v6](/Map/chora/#chora-aas-v6)
+
+- [Chora AAS v7](/Map/chora/#chora-aas-v7)
 
 - [Fallujah AAS v1](/Map/fallujah/#fallujah-aas-v1)
 
@@ -48,7 +50,7 @@
 
 - [Gorodok AAS v4](/Map/gorodok/#gorodok-aas-v4)
 
-- [Kamdesh AAS v1](/Map/kamdesh/#kamdesh-aas-v1)
+- [Kamdesh AAS v1](/Map/kamdesh-highlands/#kamdesh-aas-v1)
 
 - [Kohat Toi AAS v1](/Map/kohat-toi/#kohat-toi-aas-v1)
 
@@ -62,19 +64,21 @@
 
 - [Kokan AAS v3](/Map/kokan/#kokan-aas-v3)
 
-- [Lashkar AAS v1](/Map/lashkar/#lashkar-aas-v1)
+- [Lashkar AAS v1](/Map/lashkar-valley/#lashkar-aas-v1)
 
-- [Lashkar AAS v2](/Map/lashkar/#lashkar-aas-v2)
+- [Lashkar AAS v2](/Map/lashkar-valley/#lashkar-aas-v2)
 
-- [Lashkar AAS v3](/Map/lashkar/#lashkar-aas-v3)
+- [Lashkar AAS v3](/Map/lashkar-valley/#lashkar-aas-v3)
 
-- [Lashkar AAS v4](/Map/lashkar/#lashkar-aas-v4)
+- [Lashkar AAS v4](/Map/lashkar-valley/#lashkar-aas-v4)
 
-- [Logar AAS v1](/Map/logar/#logar-aas-v1)
+- [Logar AAS v1](/Map/logar-valley/#logar-aas-v1)
 
-- [Logar AAS v2](/Map/logar/#logar-aas-v2)
+- [Logar AAS v2](/Map/logar-valley/#logar-aas-v2)
 
-- [Logar AAS v3](/Map/logar/#logar-aas-v3)
+- [Logar AAS v3](/Map/logar-valley/#logar-aas-v3)
+
+- [Logar AAS v4](/Map/logar-valley/#logar-aas-v4)
 
 - [Manicouagan AAS v1](/Map/manicouagan/#manicouagan-aas-v1)
 
@@ -105,6 +109,10 @@
 - [Narva AAS v3](/Map/narva/#narva-aas-v3)
 
 - [Narva AAS v4](/Map/narva/#narva-aas-v4)
+
+- [PacificProvingGrounds AAS v1](/Map/pacific-proving-grounds/#pacificprovinggrounds-aas-v1)
+
+- [PacificProvingGrounds AAS v2](/Map/pacific-proving-grounds/#pacificprovinggrounds-aas-v2)
 
 - [Skorpo AAS v1](/Map/skorpo/#skorpo-aas-v1)
 
@@ -140,7 +148,7 @@
 
 - [Harju AAS v3](/Map/harju/#harju-aas-v3)
 
-AAS:70
+AAS:74
 
 ## Destruction
 
@@ -164,17 +172,17 @@ Destruction:4
 
 - [Gorodok Insurgency v1](/Map/gorodok/#gorodok-insurgency-v1)
 
-- [Kamdesh Insurgency v1](/Map/kamdesh/#kamdesh-insurgency-v1)
+- [Kamdesh Insurgency v1](/Map/kamdesh-highlands/#kamdesh-insurgency-v1)
 
-- [Kamdesh Insurgency v2](/Map/kamdesh/#kamdesh-insurgency-v2)
+- [Kamdesh Insurgency v2](/Map/kamdesh-highlands/#kamdesh-insurgency-v2)
 
 - [Kohat Toi Insurgency v1](/Map/kohat-toi/#kohat-toi-insurgency-v1)
 
 - [Kokan Insurgency v1](/Map/kokan/#kokan-insurgency-v1)
 
-- [Lashkar Insurgency v1](/Map/lashkar/#lashkar-insurgency-v1)
+- [Lashkar Insurgency v1](/Map/lashkar-valley/#lashkar-insurgency-v1)
 
-- [Logar Insurgency v1](/Map/logar/#logar-insurgency-v1)
+- [Logar Insurgency v1](/Map/logar-valley/#logar-insurgency-v1)
 
 - [Sumari Bala Insurgency v1](/Map/sumari-bala/#sumari-bala-insurgency-v1)
 
@@ -202,11 +210,13 @@ Insurgency:11
 
 - [Al Basrah Invasion v8](/Map/al-basrah/#al-basrah-invasion-v8)
 
-- [Belaya Invasion v1](/Map/belaya/#belaya-invasion-v1)
+- [Al Basrah Invasion v9](/Map/al-basrah/#al-basrah-invasion-v9)
 
-- [Belaya Invasion v2](/Map/belaya/#belaya-invasion-v2)
+- [Belaya Invasion v1](/Map/belaya-pass/#belaya-invasion-v1)
 
-- [Belaya Invasion v3](/Map/belaya/#belaya-invasion-v3)
+- [Belaya Invasion v2](/Map/belaya-pass/#belaya-invasion-v2)
+
+- [Belaya Invasion v3](/Map/belaya-pass/#belaya-invasion-v3)
 
 - [Chora Invasion v1](/Map/chora/#chora-invasion-v1)
 
@@ -223,6 +233,8 @@ Insurgency:11
 - [Fallujah Invasion v5](/Map/fallujah/#fallujah-invasion-v5)
 
 - [Fallujah Invasion v6](/Map/fallujah/#fallujah-invasion-v6)
+
+- [Fallujah Invasion v7](/Map/fallujah/#fallujah-invasion-v7)
 
 - [Fool's Road Invasion v1](/Map/fools-road/#fools-road-invasion-v1)
 
@@ -242,19 +254,21 @@ Insurgency:11
 
 - [Gorodok Invasion v3](/Map/gorodok/#gorodok-invasion-v3)
 
-- [Kamdesh Invasion v1](/Map/kamdesh/#kamdesh-invasion-v1)
+- [Gorodok Invasion v4](/Map/gorodok/#gorodok-invasion-v4)
 
-- [Kamdesh Invasion v2](/Map/kamdesh/#kamdesh-invasion-v2)
+- [Kamdesh Invasion v1](/Map/kamdesh-highlands/#kamdesh-invasion-v1)
 
-- [Kamdesh Invasion v3](/Map/kamdesh/#kamdesh-invasion-v3)
+- [Kamdesh Invasion v2](/Map/kamdesh-highlands/#kamdesh-invasion-v2)
 
-- [Kamdesh Invasion v4](/Map/kamdesh/#kamdesh-invasion-v4)
+- [Kamdesh Invasion v3](/Map/kamdesh-highlands/#kamdesh-invasion-v3)
 
-- [Kamdesh Invasion v5](/Map/kamdesh/#kamdesh-invasion-v5)
+- [Kamdesh Invasion v4](/Map/kamdesh-highlands/#kamdesh-invasion-v4)
 
-- [Kamdesh Invasion v6](/Map/kamdesh/#kamdesh-invasion-v6)
+- [Kamdesh Invasion v5](/Map/kamdesh-highlands/#kamdesh-invasion-v5)
 
-- [Kamdesh Invasion v7](/Map/kamdesh/#kamdesh-invasion-v7)
+- [Kamdesh Invasion v6](/Map/kamdesh-highlands/#kamdesh-invasion-v6)
+
+- [Kamdesh Invasion v7](/Map/kamdesh-highlands/#kamdesh-invasion-v7)
 
 - [Kohat Toi Invasion v1](/Map/kohat-toi/#kohat-toi-invasion-v1)
 
@@ -264,15 +278,19 @@ Insurgency:11
 
 - [Kohat Toi Invasion v4](/Map/kohat-toi/#kohat-toi-invasion-v4)
 
+- [Kohat Toi Invasion v5](/Map/kohat-toi/#kohat-toi-invasion-v5)
+
 - [Kokan Invasion v1](/Map/kokan/#kokan-invasion-v1)
 
-- [Lashkar Invasion v1](/Map/lashkar/#lashkar-invasion-v1)
+- [Lashkar Invasion v1](/Map/lashkar-valley/#lashkar-invasion-v1)
 
-- [Lashkar Invasion v2](/Map/lashkar/#lashkar-invasion-v2)
+- [Lashkar Invasion v2](/Map/lashkar-valley/#lashkar-invasion-v2)
 
-- [Lashkar Invasion v3](/Map/lashkar/#lashkar-invasion-v3)
+- [Lashkar Invasion v3](/Map/lashkar-valley/#lashkar-invasion-v3)
 
-- [Lashkar Invasion v4](/Map/lashkar/#lashkar-invasion-v4)
+- [Lashkar Invasion v4](/Map/lashkar-valley/#lashkar-invasion-v4)
+
+- [Lashkar Invasion v5](/Map/lashkar-valley/#lashkar-invasion-v5)
 
 - [Manicouagan Invasion v1](/Map/manicouagan/#manicouagan-invasion-v1)
 
@@ -304,6 +322,8 @@ Insurgency:11
 
 - [Mutaha Invasion v4](/Map/mutaha/#mutaha-invasion-v4)
 
+- [Mutaha Invasion v5](/Map/mutaha/#mutaha-invasion-v5)
+
 - [Narva Invasion v1](/Map/narva/#narva-invasion-v1)
 
 - [Narva Invasion v2](/Map/narva/#narva-invasion-v2)
@@ -334,11 +354,17 @@ Insurgency:11
 
 - [Tallil Outskirts Invasion v5](/Map/tallil-outskirts/#tallil-outskirts-invasion-v5)
 
+- [Tallil Outskirts Invasion v6](/Map/tallil-outskirts/#tallil-outskirts-invasion-v6)
+
 - [Yehorivka Invasion v1](/Map/yehorivka/#yehorivka-invasion-v1)
 
 - [Yehorivka Invasion v2](/Map/yehorivka/#yehorivka-invasion-v2)
 
 - [Yehorivka Invasion v3](/Map/yehorivka/#yehorivka-invasion-v3)
+
+- [Yehorivka Invasion v4](/Map/yehorivka/#yehorivka-invasion-v4)
+
+- [Yehorivka Invasion v5](/Map/yehorivka/#yehorivka-invasion-v5)
 
 - [Black Coast Invasion v1](/Map/black-coast/#black-coast-invasion-v1)
 
@@ -350,6 +376,8 @@ Insurgency:11
 
 - [Black Coast Invasion v5](/Map/black-coast/#black-coast-invasion-v5)
 
+- [Black Coast Invasion v6](/Map/black-coast/#black-coast-invasion-v6)
+
 - [Harju Invasion v1](/Map/harju/#harju-invasion-v1)
 
 - [Harju Invasion v2](/Map/harju/#harju-invasion-v2)
@@ -360,7 +388,7 @@ Insurgency:11
 
 - [Harju Invasion v5](/Map/harju/#harju-invasion-v5)
 
-Invasion:89
+Invasion:99
 
 ## RAAS
 
@@ -372,17 +400,19 @@ Invasion:89
 
 - [Anvil RAAS v4](/Map/anvil/#anvil-raas-v4)
 
+- [Anvil RAAS v5](/Map/anvil/#anvil-raas-v5)
+
 - [Al Basrah RAAS v1](/Map/al-basrah/#al-basrah-raas-v1)
 
-- [Belaya RAAS v1](/Map/belaya/#belaya-raas-v1)
+- [Belaya RAAS v1](/Map/belaya-pass/#belaya-raas-v1)
 
-- [Belaya RAAS v2](/Map/belaya/#belaya-raas-v2)
+- [Belaya RAAS v2](/Map/belaya-pass/#belaya-raas-v2)
 
-- [Belaya RAAS v3](/Map/belaya/#belaya-raas-v3)
+- [Belaya RAAS v3](/Map/belaya-pass/#belaya-raas-v3)
 
-- [Belaya RAAS v4](/Map/belaya/#belaya-raas-v4)
+- [Belaya RAAS v4](/Map/belaya-pass/#belaya-raas-v4)
 
-- [Belaya RAAS v5](/Map/belaya/#belaya-raas-v5)
+- [Belaya RAAS v5](/Map/belaya-pass/#belaya-raas-v5)
 
 - [Chora RAAS v1](/Map/chora/#chora-raas-v1)
 
@@ -408,15 +438,17 @@ Invasion:89
 
 - [Fallujah RAAS v7](/Map/fallujah/#fallujah-raas-v7)
 
-- [Fool's Road RAAS v1](/Map/fools-road/#fools-road-raas-v1)
+- [Fallujah RAAS v8](/Map/fallujah/#fallujah-raas-v8)
 
 - [Fool's Road RAAS v2](/Map/fools-road/#fools-road-raas-v2)
 
 - [Fool's Road RAAS v3](/Map/fools-road/#fools-road-raas-v3)
 
-- [Fool's Road RAAS v4](/Map/fools-road/#fools-road-raas-v4)
-
 - [Fool's Road RAAS v5](/Map/fools-road/#fools-road-raas-v5)
+
+- [Fool's Road RAAS v1](/Map/fools-road/#fools-road-raas-v1)
+
+- [Fool's Road RAAS v4](/Map/fools-road/#fools-road-raas-v4)
 
 - [Goose Bay RAAS v1](/Map/goose-bay/#goose-bay-raas-v1)
 
@@ -450,19 +482,21 @@ Invasion:89
 
 - [Gorodok RAAS v12](/Map/gorodok/#gorodok-raas-v12)
 
-- [Kamdesh RAAS v1](/Map/kamdesh/#kamdesh-raas-v1)
+- [Gorodok RAAS v13](/Map/gorodok/#gorodok-raas-v13)
 
-- [Kamdesh RAAS v2](/Map/kamdesh/#kamdesh-raas-v2)
+- [Kamdesh RAAS v1](/Map/kamdesh-highlands/#kamdesh-raas-v1)
 
-- [Kamdesh RAAS v3](/Map/kamdesh/#kamdesh-raas-v3)
+- [Kamdesh RAAS v2](/Map/kamdesh-highlands/#kamdesh-raas-v2)
 
-- [Kamdesh RAAS v4](/Map/kamdesh/#kamdesh-raas-v4)
+- [Kamdesh RAAS v3](/Map/kamdesh-highlands/#kamdesh-raas-v3)
 
-- [Kamdesh RAAS v5](/Map/kamdesh/#kamdesh-raas-v5)
+- [Kamdesh RAAS v4](/Map/kamdesh-highlands/#kamdesh-raas-v4)
 
-- [Kamdesh RAAS v6](/Map/kamdesh/#kamdesh-raas-v6)
+- [Kamdesh RAAS v5](/Map/kamdesh-highlands/#kamdesh-raas-v5)
 
-- [Kamdesh RAAS v7](/Map/kamdesh/#kamdesh-raas-v7)
+- [Kamdesh RAAS v6](/Map/kamdesh-highlands/#kamdesh-raas-v6)
+
+- [Kamdesh RAAS v7](/Map/kamdesh-highlands/#kamdesh-raas-v7)
 
 - [Kohat Toi RAAS v1](/Map/kohat-toi/#kohat-toi-raas-v1)
 
@@ -484,6 +518,8 @@ Invasion:89
 
 - [Kohat Toi RAAS v10](/Map/kohat-toi/#kohat-toi-raas-v10)
 
+- [Kohat Toi RAAS v11](/Map/kohat-toi/#kohat-toi-raas-v11)
+
 - [Kokan RAAS v1](/Map/kokan/#kokan-raas-v1)
 
 - [Kokan RAAS v2](/Map/kokan/#kokan-raas-v2)
@@ -492,21 +528,39 @@ Invasion:89
 
 - [Kokan RAAS v4](/Map/kokan/#kokan-raas-v4)
 
-- [Lashkar RAAS v1](/Map/lashkar/#lashkar-raas-v1)
+- [Kokan RAAS v5](/Map/kokan/#kokan-raas-v5)
 
-- [Lashkar RAAS v2](/Map/lashkar/#lashkar-raas-v2)
+- [Lashkar RAAS v1](/Map/lashkar-valley/#lashkar-raas-v1)
 
-- [Lashkar RAAS v3](/Map/lashkar/#lashkar-raas-v3)
+- [Lashkar RAAS v2](/Map/lashkar-valley/#lashkar-raas-v2)
 
-- [Lashkar RAAS v4](/Map/lashkar/#lashkar-raas-v4)
+- [Lashkar RAAS v3](/Map/lashkar-valley/#lashkar-raas-v3)
 
-- [Lashkar RAAS v5](/Map/lashkar/#lashkar-raas-v5)
+- [Lashkar RAAS v4](/Map/lashkar-valley/#lashkar-raas-v4)
 
-- [Logar RAAS v1](/Map/logar/#logar-raas-v1)
+- [Lashkar RAAS v5](/Map/lashkar-valley/#lashkar-raas-v5)
 
-- [Logar RAAS v2](/Map/logar/#logar-raas-v2)
+- [Logar RAAS v1](/Map/logar-valley/#logar-raas-v1)
 
-- [Manicouagan RAAS v1](/Map/manicouagan/#manicouagan-raas-v1)
+- [Logar RAAS v2](/Map/logar-valley/#logar-raas-v2)
+
+- [Manicouagan RAAS v01](/Map/manicouagan/#manicouagan-raas-v01)
+
+- [Manicouagan RAAS v02](/Map/manicouagan/#manicouagan-raas-v02)
+
+- [Manicouagan RAAS v03](/Map/manicouagan/#manicouagan-raas-v03)
+
+- [Manicouagan RAAS v04](/Map/manicouagan/#manicouagan-raas-v04)
+
+- [Manicouagan RAAS v05](/Map/manicouagan/#manicouagan-raas-v05)
+
+- [Manicouagan RAAS v06](/Map/manicouagan/#manicouagan-raas-v06)
+
+- [Manicouagan RAAS v07](/Map/manicouagan/#manicouagan-raas-v07)
+
+- [Manicouagan RAAS v08](/Map/manicouagan/#manicouagan-raas-v08)
+
+- [Manicouagan RAAS v09](/Map/manicouagan/#manicouagan-raas-v09)
 
 - [Manicouagan RAAS v10](/Map/manicouagan/#manicouagan-raas-v10)
 
@@ -519,22 +573,6 @@ Invasion:89
 - [Manicouagan RAAS v14](/Map/manicouagan/#manicouagan-raas-v14)
 
 - [Manicouagan RAAS v15](/Map/manicouagan/#manicouagan-raas-v15)
-
-- [Manicouagan RAAS v2](/Map/manicouagan/#manicouagan-raas-v2)
-
-- [Manicouagan RAAS v3](/Map/manicouagan/#manicouagan-raas-v3)
-
-- [Manicouagan RAAS v4](/Map/manicouagan/#manicouagan-raas-v4)
-
-- [Manicouagan RAAS v5](/Map/manicouagan/#manicouagan-raas-v5)
-
-- [Manicouagan RAAS v6](/Map/manicouagan/#manicouagan-raas-v6)
-
-- [Manicouagan RAAS v7](/Map/manicouagan/#manicouagan-raas-v7)
-
-- [Manicouagan RAAS v8](/Map/manicouagan/#manicouagan-raas-v8)
-
-- [Manicouagan RAAS v9](/Map/manicouagan/#manicouagan-raas-v9)
 
 - [Mestia RAAS v1](/Map/mestia/#mestia-raas-v1)
 
@@ -553,6 +591,8 @@ Invasion:89
 - [Mutaha RAAS v6](/Map/mutaha/#mutaha-raas-v6)
 
 - [Mutaha RAAS v7](/Map/mutaha/#mutaha-raas-v7)
+
+- [Mutaha RAAS v8](/Map/mutaha/#mutaha-raas-v8)
 
 - [Narva RAAS v1](/Map/narva/#narva-raas-v1)
 
@@ -582,6 +622,8 @@ Invasion:89
 
 - [Sumari Bala RAAS v2](/Map/sumari-bala/#sumari-bala-raas-v2)
 
+- [Sumari Bala RAAS v3](/Map/sumari-bala/#sumari-bala-raas-v3)
+
 - [Tallil Outskirts RAAS v1](/Map/tallil-outskirts/#tallil-outskirts-raas-v1)
 
 - [Tallil Outskirts RAAS v2](/Map/tallil-outskirts/#tallil-outskirts-raas-v2)
@@ -597,6 +639,8 @@ Invasion:89
 - [Tallil Outskirts RAAS v7](/Map/tallil-outskirts/#tallil-outskirts-raas-v7)
 
 - [Tallil Outskirts RAAS v8](/Map/tallil-outskirts/#tallil-outskirts-raas-v8)
+
+- [Tallil Outskirts RAAS v9](/Map/tallil-outskirts/#tallil-outskirts-raas-v9)
 
 - [Yehorivka RAAS v1](/Map/yehorivka/#yehorivka-raas-v1)
 
@@ -626,6 +670,8 @@ Invasion:89
 
 - [Yehorivka RAAS v14](/Map/yehorivka/#yehorivka-raas-v14)
 
+- [Yehorivka RAAS v15](/Map/yehorivka/#yehorivka-raas-v15)
+
 - [Black Coast RAAS v1](/Map/black-coast/#black-coast-raas-v1)
 
 - [Black Coast RAAS v2](/Map/black-coast/#black-coast-raas-v2)
@@ -635,6 +681,8 @@ Invasion:89
 - [Black Coast RAAS v4](/Map/black-coast/#black-coast-raas-v4)
 
 - [Black Coast RAAS v5](/Map/black-coast/#black-coast-raas-v5)
+
+- [Black Coast RAAS v6](/Map/black-coast/#black-coast-raas-v6)
 
 - [Harju RAAS v1](/Map/harju/#harju-raas-v1)
 
@@ -648,7 +696,7 @@ Invasion:89
 
 - [Harju RAAS v6](/Map/harju/#harju-raas-v6)
 
-RAAS:142
+RAAS:152
 
 ## Seed
 
@@ -656,13 +704,17 @@ RAAS:142
 
 - [Fallujah Seed v1](/Map/fallujah/#fallujah-seed-v1)
 
+- [Fallujah Seed v2](/Map/fallujah/#fallujah-seed-v2)
+
 - [Goose Bay Seed v1](/Map/goose-bay/#goose-bay-seed-v1)
 
-- [Logar Seed v1](/Map/logar/#logar-seed-v1)
+- [Logar Seed v1](/Map/logar-valley/#logar-seed-v1)
 
 - [Manicouagan Seed v1](/Map/manicouagan/#manicouagan-seed-v1)
 
 - [Mutaha Seed v1](/Map/mutaha/#mutaha-seed-v1)
+
+- [PacificProvingGrounds Seed v1](/Map/pacific-proving-grounds/#pacificprovinggrounds-seed-v1)
 
 - [Sumari Bala Seed v1](/Map/sumari-bala/#sumari-bala-seed-v1)
 
@@ -670,15 +722,19 @@ RAAS:142
 
 - [Sumari Bala Seed v3](/Map/sumari-bala/#sumari-bala-seed-v3)
 
+- [Sumari Bala Seed v4](/Map/sumari-bala/#sumari-bala-seed-v4)
+
 - [Tallil Outskirts Seed v1](/Map/tallil-outskirts/#tallil-outskirts-seed-v1)
 
 - [Tallil Outskirts Seed v2](/Map/tallil-outskirts/#tallil-outskirts-seed-v2)
 
 - [Black Coast Seed v1](/Map/black-coast/#black-coast-seed-v1)
 
+- [Black Coast Seed v2](/Map/black-coast/#black-coast-seed-v2)
+
 - [Harju Seed v1](/Map/harju/#harju-seed-v1)
 
-Seed:13
+Seed:17
 
 ## Skirmish
 
@@ -688,7 +744,7 @@ Seed:13
 
 - [Al Basrah Skirmish v2](/Map/al-basrah/#al-basrah-skirmish-v2)
 
-- [Belaya Skirmish v1](/Map/belaya/#belaya-skirmish-v1)
+- [Belaya Skirmish v1](/Map/belaya-pass/#belaya-skirmish-v1)
 
 - [Chora Skirmish v1](/Map/chora/#chora-skirmish-v1)
 
@@ -704,15 +760,15 @@ Seed:13
 
 - [Gorodok Skirmish v1](/Map/gorodok/#gorodok-skirmish-v1)
 
-- [Kamdesh Skirmish v1](/Map/kamdesh/#kamdesh-skirmish-v1)
+- [Kamdesh Skirmish v1](/Map/kamdesh-highlands/#kamdesh-skirmish-v1)
 
 - [Kohat Toi Skirmish v1](/Map/kohat-toi/#kohat-toi-skirmish-v1)
 
 - [Kokan Skirmish v1](/Map/kokan/#kokan-skirmish-v1)
 
-- [Lashkar Skirmish v1](/Map/lashkar/#lashkar-skirmish-v1)
+- [Lashkar Skirmish v1](/Map/lashkar-valley/#lashkar-skirmish-v1)
 
-- [Logar Skirmish v1](/Map/logar/#logar-skirmish-v1)
+- [Logar Skirmish v1](/Map/logar-valley/#logar-skirmish-v1)
 
 - [Manicouagan Skirmish v1](/Map/manicouagan/#manicouagan-skirmish-v1)
 
@@ -752,15 +808,7 @@ Skirmish:33
 
 ## TA
 
-- [Al Basrah TA v1](/Map/al-basrah/#al-basrah-ta-v1)
-
-- [Narva TA v1](/Map/narva/#narva-ta-v1)
-
-- [Tallil Outskirts TA v1](/Map/tallil-outskirts/#tallil-outskirts-ta-v1)
-
-- [Yehorivka TA v1](/Map/yehorivka/#yehorivka-ta-v1)
-
-TA:4
+TA:0
 
 ## Tanks
 
@@ -774,83 +822,29 @@ Tanks:3
 
 ## TC
 
-- [Anvil TC v1](/Map/anvil/#anvil-tc-v1)
-
-- [Al Basrah TC v1](/Map/al-basrah/#al-basrah-tc-v1)
-
-- [Al Basrah TC v2](/Map/al-basrah/#al-basrah-tc-v2)
-
-- [Belaya TC v1](/Map/belaya/#belaya-tc-v1)
-
-- [Chora TC v1](/Map/chora/#chora-tc-v1)
-
-- [Fallujah TC v1](/Map/fallujah/#fallujah-tc-v1)
-
-- [Fallujah TC v2](/Map/fallujah/#fallujah-tc-v2)
-
-- [Fool's Road TC v1](/Map/fools-road/#fools-road-tc-v1)
-
-- [Gorodok TC v1](/Map/gorodok/#gorodok-tc-v1)
-
-- [Gorodok TC v2](/Map/gorodok/#gorodok-tc-v2)
-
-- [Kamdesh TC v1](/Map/kamdesh/#kamdesh-tc-v1)
-
-- [Kamdesh TC v2](/Map/kamdesh/#kamdesh-tc-v2)
-
-- [Kamdesh TC v3](/Map/kamdesh/#kamdesh-tc-v3)
-
-- [Kamdesh TC v4](/Map/kamdesh/#kamdesh-tc-v4)
-
-- [Kohat Toi TC v1](/Map/kohat-toi/#kohat-toi-tc-v1)
-
-- [Kokan TC v1](/Map/kokan/#kokan-tc-v1)
-
-- [Lashkar TC v1](/Map/lashkar/#lashkar-tc-v1)
-
-- [Lashkar TC v2](/Map/lashkar/#lashkar-tc-v2)
-
-- [Lashkar TC v3](/Map/lashkar/#lashkar-tc-v3)
-
-- [Lashkar TC v4](/Map/lashkar/#lashkar-tc-v4)
-
-- [Lashkar TC v5](/Map/lashkar/#lashkar-tc-v5)
-
-- [Logar TC v1](/Map/logar/#logar-tc-v1)
-
-- [Mestia TC v1](/Map/mestia/#mestia-tc-v1)
-
-- [Mutaha TC v1](/Map/mutaha/#mutaha-tc-v1)
-
-- [Mutaha TC v2](/Map/mutaha/#mutaha-tc-v2)
-
-- [Narva TC v1](/Map/narva/#narva-tc-v1)
-
-- [Narva TC v2](/Map/narva/#narva-tc-v2)
-
-- [Skorpo TC v1](/Map/skorpo/#skorpo-tc-v1)
-
-- [Skorpo TC v2](/Map/skorpo/#skorpo-tc-v2)
-
-- [Skorpo TC v3](/Map/skorpo/#skorpo-tc-v3)
-
-- [Sumari Bala TC v1](/Map/sumari-bala/#sumari-bala-tc-v1)
-
-- [Tallil Outskirts TC v1](/Map/tallil-outskirts/#tallil-outskirts-tc-v1)
-
-- [Yehorivka TC v1](/Map/yehorivka/#yehorivka-tc-v1)
-
-- [Yehorivka TC v2](/Map/yehorivka/#yehorivka-tc-v2)
-
-- [Yehorivka TC v3](/Map/yehorivka/#yehorivka-tc-v3)
-
-- [Harju TC v1](/Map/harju/#harju-tc-v1)
-
-- [Harju TC v2](/Map/harju/#harju-tc-v2)
-
-TC:37
+TC:0
 
 ## Training
 
-Training:0
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Jensen's Training Range](/Map/jensens-range/#jensens-training-range)
+
+- [Pacific Proving Grounds Training](/Map/pacific-proving-grounds/#pacific-proving-grounds-training)
+
+- [Pacific Proving Grounds Training](/Map/pacific-proving-grounds/#pacific-proving-grounds-training)
+
+- [Pacific Proving Grounds Training](/Map/pacific-proving-grounds/#pacific-proving-grounds-training)
+
+Training:10
 

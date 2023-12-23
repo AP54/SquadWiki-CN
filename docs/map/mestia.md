@@ -13,29 +13,29 @@
 
 预设代码： `AdminSetNextLayer Mestia_AAS_v1`
 
-光照情况： 正午
+图层大小： 2.4x2.4 km
 
-旗点数量： 7
+光照情况： 早晨
 
-双方阵营： RGF VS IMF
+旗点数量： 9
+
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
 初始票数： 250  -  250
 
-??? abstract "RGF 载具"
-    - Tigr-M Kord *1
-    - BTR-80 *2
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
-    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Logistics *1
+    - Tigr-M Kord *1
+    - BTR-80 *1
 
-??? abstract "IMF 载具"
-    - Logistics Modern Pickup Truck *3
-    - Transport Pickup Truck *1
-    - Ural-375D Transport *1
-    - Minsk 400 *3
-    - Technical DShK *1
-    - BMP-1 ZU-23-2 *1
+??? abstract "[IMF](/faction/imf)载具"
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK *1
     - BRDM-2 *1
-    - Ural-375D ZU-23-2 *1
 
 
 ### Mestia AAS v2
@@ -44,21 +44,23 @@
 
 预设代码： `AdminSetNextLayer Mestia_AAS_v2`
 
+图层大小： 2.4x2.4 km
+
 光照情况： 黄昏
 
-旗点数量： 5
+旗点数量： 7
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
     - M939 Logistics *3
     - M-ATV M2 *2
     - M-ATV CROWS M2 *1
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *2
@@ -71,30 +73,29 @@
 
 预设代码： `AdminSetNextLayer Mestia_Invasion_v1`
 
-光照情况： 正午
+图层大小： 2.4x2.4 km
 
-旗点数量： 4
+光照情况： 早晨
 
-双方阵营： RGF VS IMF
+旗点数量： None
 
-初始票数： 200  -  800
+双方阵营： [RGF](/faction/rgf) VS [IMF](/faction/imf)
 
-??? abstract "RGF 载具"
-    - BTR-82A *1
-    - BTR-80 *2
-    - KamAZ 5350 Logistics *3
-    - Tigr-M Kord *1
+初始票数： 200  -  900
+
+??? abstract "[RGF](/faction/rgf) 载具"
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *1
+    - BTR-80 *1
 
-??? abstract "IMF 载具"
-    - Technical SPG-9 *1
-    - Ural-375D Logistics *2
-    - Logistics Modern Pickup Truck *2
-    - Transport Pickup Truck *1
-    - Technical DShK *1
-    - BRDM-2 *1
-    - Technical UB-32 *2
-    - MT-LB ZU-23-2 *1
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Logistics Modern Pickup *1
+    - Armored Ural-375D Logistics *1
+    - Armored Modern Technical DShK *1
+    - Modern Technical DShK *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
 
 
 ### Mestia Invasion v2
@@ -103,27 +104,32 @@
 
 预设代码： `AdminSetNextLayer Mestia_Invasion_v2`
 
-光照情况： 正午
+图层大小： 2.4x2.4 km
 
-旗点数量： 5
+光照情况： 早晨
 
-双方阵营： USA VS IMF
+旗点数量： None
 
-初始票数： 200  -  800
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
-??? abstract "USA 载具"
-    - M939 Logistics *3
-    - M-ATV M2 *3
+初始票数： 200  -  900
+
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
+    - M939 Logistics *1
+    - M-ATV M2 *1
 
-??? abstract "IMF 载具"
-    - Transport Pickup Truck *2
-    - Logistics Modern Pickup Truck *3
-    - Ural-375D Logistics *1
-    - Technical DShK *1
-    - Technical DShK Shielded *1
-    - Technical UB-32 *2
-    - BRDM-2 *1
+??? abstract "[IMF](/faction/imf)载具"
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Modern Technical M2 HB *1
+    - Modern Technical DShK *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Armored Modern Technical SPG-9 *1
+    - Modern Technical UB-32 *1
 
 
 ### Mestia RAAS v1
@@ -132,28 +138,33 @@
 
 预设代码： `AdminSetNextLayer Mestia_RAAS_v1`
 
+图层大小： 2.4x2.4 km
+
 光照情况： 阴天
 
-旗点数量： 5
+旗点数量： None
 
-双方阵营： USA VS IMF
+双方阵营： [USA](/faction/usa) VS [IMF](/faction/imf)
 
 初始票数： 250  -  250
 
-??? abstract "USA 载具"
-    - M-ATV M2 *3
-    - M1126 CROWS M2 *1
-    - M939 Logistics *3
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
+    - M939 Logistics *1
+    - M-ATV M240 *1
+    - M-ATV M2 *1
 
-??? abstract "IMF 载具"
-    - BRDM-2 *1
-    - BMP-1 ZU-23-2 *1
-    - Logistics Modern Pickup Truck *2
-    - Technical DShK *2
-    - Ural-375D Logistics *2
-    - Transport Pickup Truck *1
-    - Minsk 400 *2
+??? abstract "[IMF](/faction/imf)载具"
+    - Minsk 400 *1
+    - Armored Ural-375D Transport *1
+    - Armored Ural-375D Logistics *1
+    - Ural-375D Logistics *1
+    - Armored Logistics Modern Pickup *1
+    - Logistics Modern Pickup *1
+    - Armored Modern Technical DShK *1
+    - Armored Modern Technical M2 HB *1
+    - Modern Technical DShK *1
+    - Modern Technical M2 HB *1
 
 
 ### Mestia RAAS v2
@@ -162,20 +173,22 @@
 
 预设代码： `AdminSetNextLayer Mestia_RAAS_v2`
 
-光照情况： 下午&晴天
+图层大小： 2.4x2.4 km
 
-旗点数量： 5
+光照情况： 正午
 
-双方阵营： CAF VS RGF
+旗点数量： None
 
-初始票数： 300  -  300
+双方阵营： [CAF](/faction/caf) VS [RGF](/faction/rgf)
 
-??? abstract "CAF 载具"
+初始票数： 250  -  250
+
+??? abstract "[CAF](/faction/caf) 载具"
     - MSVS Transport *1
     - MSVS Logistics *3
     - LUVW M2 *4
 
-??? abstract "RGF 载具"
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
     - KamAZ 5350 Logistics *3
     - Tigr-M Kord *4
@@ -187,20 +200,22 @@
 
 预设代码： `AdminSetNextLayer Mestia_Skirmish_v1`
 
+图层大小： 2.4x2.4 km
+
 光照情况： 阴天
 
-旗点数量： 4
+旗点数量： 6
 
-双方阵营： BAF VS MEA
+双方阵营： [BAF](/faction/baf) VS [MEA](/faction/mea)
 
 初始票数： 150  -  150
 
-??? abstract "BAF 载具"
+??? abstract "[BAF](/faction/baf) 载具"
     - HX60 Transport *3
     - HX60 Logistics *3
     - LPPV *1
 
-??? abstract "MEA 载具"
+??? abstract "[MEA](/faction/mea)载具"
     - Ural-4320 Transport *2
     - Simir Logi *2
     - Ural-4320 Logistics *2
@@ -213,23 +228,25 @@
 
 预设代码： `AdminSetNextLayer Mestia_TC_v1`
 
+图层大小： 2.4x2.4 km
+
 光照情况： 阴天
 
-旗点数量： 23
+旗点数量： 2
 
-双方阵营： USA VS RGF
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
 
 初始票数： 400  -  400
 
-??? abstract "USA 载具"
-    - M-ATV M2 *1
-    - M939 Logistics *3
+??? abstract "[USA](/faction/usa) 载具"
     - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M2 *1
     - M1126 CROWS M2 *1
 
-??? abstract "RGF 载具"
-    - Tigr-M Kord *1
-    - KamAZ 5350 Logistics *3
-    - BTR-82A *1
+??? abstract "[RGF](/faction/rgf)载具"
     - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+    - BTR-82A *1
 
