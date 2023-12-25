@@ -77,6 +77,9 @@ nav:
     - "[TLF]土耳其陆军": 
       - "派系概览": "./faction/tlf/index.md"
       - "兵种配置": "./faction/tlf/kit/index.md"
+    - "[VDV]俄罗斯空降部队": 
+      - "派系概览": "./faction/vdv/index.md"
+      - "兵种配置": "./faction/vdv/kit/index.md"
   - "地图手册":
     - "地图手册": "./map/index.md"
     - "地图手册模式索引": "./map/mode.md"
