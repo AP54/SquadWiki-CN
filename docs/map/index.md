@@ -49,6 +49,7 @@
     - [Mutaha | 穆塔哈](./mutaha)
     - [Narva | 纳尔瓦](./narva)
     - [Pacific Proving Grounds | 太平洋训练场](./pacific-proving-grounds)
+    - [Sanxian | 三贤岛](./sanxian)
     - [Skorpo | 斯科珀](./skorpo)
     - [Sumari Bala | 索马里](./sumari_bala)
     - [Tallil Outskirts | 塔利尔郊区](./tallil-outskirts)
