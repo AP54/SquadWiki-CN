@@ -7,6 +7,300 @@
   <figcaption>前塔利尔空军基地曾被伊拉克空军使用，拥有大型混凝土机库和防御阵地。大部分地形都是开阔的沙漠，虽然有一些村庄散布在该地区，但装甲部队与机械化步兵的协同作战将决定哪一方获胜。</figcaption>
 </figure>
 
+### Tallil Outskirts AAS v1
+
+切换代码： `AdminChangeLayer Tallil_AAS_v1`
+
+预设代码： `AdminSetNextLayer Tallil_AAS_v1`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 正午
+
+旗点数量： 9
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
+
+初始票数： 350  -  350
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Logistics *3
+    - M2A3 *1
+    - M1126 CROWS M2 *2
+    - M-ATV M2 *2
+    - M1A2 *2
+    - M939 Transport *1
+    - UH-60M *2
+
+??? abstract "[RGF](/faction/rgf)载具"
+    - KamAZ 5350 Logistics *3
+    - BTR-82A *2
+    - T-72B3 *2
+    - BMP-2 *1
+    - KamAZ 5350 Transport *1
+    - Tigr-M Kord *2
+    - Mi-8 *2
+
+
+### Tallil Outskirts AAS v2
+
+切换代码： `AdminChangeLayer Tallil_AAS_v2`
+
+预设代码： `AdminSetNextLayer Tallil_AAS_v2`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 正午
+
+旗点数量： 9
+
+双方阵营： [USA](/faction/usa) VS [MEA](/faction/mea)
+
+初始票数： 350  -  350
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Logistics *3
+    - M2A3 *1
+    - M1126 CROWS M2 *2
+    - M-ATV M2 *2
+    - M1A2 *2
+    - M939 Transport *1
+    - M-ATV TOW *1
+    - UH-60M *2
+
+??? abstract "[MEA](/faction/mea)载具"
+    - Ural-4320 Transport *1
+    - Simir Logi *2
+    - Ural-4320 Logistics *2
+    - Simir Kord *2
+    - MT-LBM 6MA S8 *1
+    - Simir Kornet *1
+    - BMP-1 *1
+    - BMP-2 *1
+    - T-72S *2
+    - Mi-17 *2
+
+
+### Tallil Outskirts Invasion v1
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v1`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v1`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [USA](/faction/usa) VS [RGF](/faction/rgf)
+
+初始票数： 200  -  800
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M2A3 *2
+    - M1126 CROWS M2 *1
+    - M1A2 *2
+    - M939 Logistics *3
+    - M939 Transport *1
+    - M-ATV M2 *1
+    - UH-60M *2
+
+??? abstract "[RGF](/faction/rgf)载具"
+    - KamAZ 5350 Transport *1
+    - KamAZ 5350 Logistics *3
+    - Tigr-M Kord *1
+    - BRDM-2 Spandrel *1
+    - BMP-2 *1
+    - BTR-82A *2
+    - T-72B3 *2
+    - Mi-8 *2
+
+
+### Tallil Outskirts Invasion v2
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v2`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v2`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [RGF](/faction/rgf) VS [INS](/faction/ins)
+
+初始票数： 200  -  700
+
+??? abstract "[RGF](/faction/rgf) 载具"
+    - KamAZ 5350 Logistics *3
+    - KamAZ 5350 Transport *1
+    - BTR-82A *2
+    - BRDM-2 *1
+    - Tigr-M RWS Kord *1
+    - BRDM-2 Spandrel *1
+    - BMP-2 *1
+
+??? abstract "[INS](/faction/ins)载具"
+    - Transport Pickup Truck *1
+    - Logistics Pickup Truck *3
+    - Technical ZU-23-2 *1
+    - Armored Technical DShK *1
+    - Technical SPG-9 *1
+    - Technical Mortar *1
+    - T-62 *1
+    - BMP-1 *1
+    - Minsk 400 *1
+
+
+### Tallil Outskirts Invasion v3
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v3`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v3`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [USA](/faction/usa) VS [INS](/faction/ins)
+
+初始票数： 200  -  800
+
+??? abstract "[USA](/faction/usa) 载具"
+    - M939 Transport *1
+    - M939 Logistics *3
+    - M-ATV M240 *2
+    - M1126 CROWS M2 *2
+    - M2A3 *1
+    - UH-60M *1
+
+??? abstract "[INS](/faction/ins)载具"
+    - Transport Pickup Truck *1
+    - Logistics Pickup Truck *1
+    - Ural-375D Logistics *1
+    - Technical DShK Shielded *1
+    - Armored Technical DShK *1
+    - Ural-375D ZU-23-2 *1
+    - Technical Mortar *1
+    - Technical UB-32 *2
+    - Armored Technical SPG-9 *1
+    - Technical BMP-1 *1
+    - BMP-1 *1
+    - Minsk 400 *1
+
+
+### Tallil Outskirts Invasion v4
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v4`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v4`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [ADF](/faction/adf) VS [INS](/faction/ins)
+
+初始票数： 200  -  800
+
+??? abstract "[ADF](/faction/adf) 载具"
+    - HX60 Transport *1
+    - HX60 Logistics *3
+    - PMV RWS M2 *2
+    - ASLAV *2
+    - M1A1 *2
+
+??? abstract "[INS](/faction/ins)载具"
+    - Logistics Pickup Truck *3
+    - Transport Pickup Truck *1
+    - Technical ZU-23-2 *1
+    - Armored Technical DShK *1
+    - Technical SPG-9 *1
+    - Technical Mortar *1
+    - T-62 *2
+    - Minsk 400 *1
+    - BMP-1 *1
+
+
+### Tallil Outskirts Invasion v5
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v5`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v5`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [MEA](/faction/mea) VS [PLA](/faction/pla)
+
+初始票数： 200  -  800
+
+??? abstract "[MEA](/faction/mea) 载具"
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
+    - Simir Kord *3
+    - MT-LB VMK *1
+    - MT-LBM 6MA S8 *2
+    - BMP-2 *1
+    - Mi-17 *2
+
+??? abstract "[PLA](/faction/pla)载具"
+    - CTM131 Transport QJY88 *1
+    - CTM131 Logistics *3
+    - CSK131 QJY88 *4
+    - CSK131 QJZ89 *2
+    - CSK131 HJ8 *2
+
+
+### Tallil Outskirts Invasion v6
+
+切换代码： `AdminChangeLayer Tallil_Invasion_v6`
+
+预设代码： `AdminSetNextLayer Tallil_Invasion_v6`
+
+图层大小： 4.1x4.2 km
+
+光照情况： 黎明
+
+旗点数量： None
+
+双方阵营： [TLF](/faction/tlf) VS [MEA](/faction/mea)
+
+初始票数： 200  -  900
+
+??? abstract "[TLF](/faction/tlf) 载具"
+    - BMC-185 Transport *1
+    - BMC-185 Logsitics *3
+    - Cobra II MG3 RWS *1
+    - Cobra II M2 RWS *1
+    - ACV-15 M2 *1
+    - PARS III Mk19 RWS *1
+    - PARS III M2 RWS *1
+    - PARS III 25mm *1
+    - ACV-15 25mm *1
+    - M60T *1
+    - UH-1H *2
+
+??? abstract "[MEA](/faction/mea)载具"
+    - Ural-4320 Transport *1
+    - Ural-4320 Logistics *3
+    - Simir Kord *2
+    - MT-LB VMK *1
+    - Simir Kornet *1
+    - MT-LBM 6MA S8 *2
+    - BMP-2 *1
+    - Mi-17 *2
+
+
 ### Tallil Outskirts RAAS v1
 
 切换代码： `AdminChangeLayer Tallil_RAAS_v1`
