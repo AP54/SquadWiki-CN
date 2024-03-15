@@ -1,5 +1,9 @@
 # 欢迎来到战术小队中文维基
 
+## 本站已归档 | 不再活跃更新
+
+战术小队中文维基自 2024-03-15 起，不在活跃更新，感谢各位一直以来的支持。
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0731eb51-4daf-4794-86f1-f10af6cda9db/deploy-status){width=30%}](https://app.netlify.com/sites/polite-stroopwafel-e18e0d/deploys)
 
 <iframe src="https://kookapp.cn/widget?id=4939320590138488&theme=dark" width="100%" height="80" allowtransparency="true" frameborder="0"></iframe>
