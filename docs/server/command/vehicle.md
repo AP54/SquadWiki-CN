@@ -623,6 +623,72 @@
 
     `AdminCreateVehicle /Game/Vehicles/CSK131/BP_CSK131_HJ-8ATGM.BP_CSK131_HJ-8ATGM_C`
 
+### M1117 
+
+- M1117
+
+    `AdminCreateVehicle /Game/Vehicles/M1117/BP_M1117.BP_M1117_C`
+
+### CPV 
+
+- CPV 运输
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_Transport.BP_CPV_Transport_C`
+
+- CPV 运输 红色
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_Transport_Red.BP_CPV_Transport_Red_C`
+
+- CPV 运输 蓝色
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_Transport_Blue.BP_CPV_Transport_Blue_C`
+
+- CPV M134 迷你炮
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_M134.BP_CPV_M134_C`
+
+- CPV M134 迷你炮 红色
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_M134_Red.BP_CPV_M134_Red_C`
+
+- CPV M134 迷你炮 蓝色
+
+    `AdminCreateVehicle /Game/Vehicles/CPV/BP_CPV_M134_Blue.BP_CPV_M134_Blue_C`
+
+### Cobra-II 
+
+- Cobra-II M2 沙漠
+
+    `AdminCreateVehicle Game/Vehicles/Cobra_II/BP_Cobra2_M2_Desert.BP_Cobra2_M2_Desert_C`
+
+- Cobra-II M2 林地
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_M2.BP_Cobra2_M2_C`
+
+- Cobra-II M2 RWS 沙漠
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_RWS_M2_Desert.BP_Cobra2_RWS_M2_Desert_C`
+
+- Cobra-II M2 RWS 林地
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_RWS_M2.BP_Cobra2_RWS_M2_C`
+
+- Cobra-II MG3 沙漠
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_MG3_Desert.BP_Cobra2_MG3_Desert_C`
+
+- Cobra-II MG3 林地
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_MG3.BP_Cobra2_MG3_C`
+
+- Cobra-II MG3 RWS 沙漠
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_RWS_MG3_Desert.BP_Cobra2_RWS_MG3_Desert_C`
+
+- Cobra-II MG3 RWS 林地
+
+    `AdminCreateVehicle /Game/Vehicles/Cobra_II/BP_Cobra2_RWS_MG3.BP_Cobra2_RWS_MG3_C`
+  
 ## Armored Vehicle | 装甲载具
 
 ### BTR-80 
