@@ -1128,19 +1128,35 @@
 
 ### PARS III " 
 
-- PARS III 25mm IFV
+- PARS III 25mm IFV 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_Desert.BP_PARS3_Desert_C`
+
+- PARS III 25mm IFV 林地涂装
 
     `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3.BP_PARS3_C`
 
-- PARS III M2 RWS APC
+- PARS III M2 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_M2_Desert.BP_PARS3_M2_Desert_C`
+
+- PARS III M2 林地涂装
 
     `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_M2.BP_PARS3_M2_C`
 
-- PARS III MG3 RWS APC
+- PARS III MG3 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MG3_Desert.BP_PARS3_MG3_Desert_C`
+
+- PARS III MG3 林地涂装
 
     `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MG3.BP_PARS3_MG3_C`
 
-- PARS III Mk19 RWS APC
+- PARS III MK19 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MK19_Desert.BP_PARS3_MK19_Desert_C`
+
+- PARS III MK19 林地涂装
 
     `AdminCreateVehicle /Game/Vehicles/PARS_III/BP_PARS3_MK19.BP_PARS3_MK19_C`
 
@@ -1154,57 +1170,111 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C`
 
-### ZBD05
+### ZBD05/ZSD05/ZTD05
 
-- ZBD05 IFV 海洋涂装
+- ZSD05 QJZ-89
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89.BP_ZSD05_QJZ-89_C`
+
+- ZSD05 运输型
+
+    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_Logi.BP_ZSD05_Logi_C`
+
+- ZBD05（步兵战车 30 毫米）
 
     `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZBD05.BP_ZBD05_C`
 
-- ZBD05 HJ73C IFV 海洋涂装
+- ZBD05 HJ73C（带反坦克导弹）
 
     `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZBD05_HJ73C.BP_ZBD05_HJ73C_C`
 
-### ZSD05 
+- ZTD05（轻型坦克）
 
-- ZSD05 APC 海洋涂装
+    `AdminCreateVehicle /Game/Vehicles/ZTD05/BP_ZTD05.BP_ZTD05_C`
 
-   `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89.BP_ZSD05_QJZ-89_C`
+### BMD-4 IFV 
 
-- ZSD-05 补给型 海洋涂装
+- BMD-4M
   
-    `AdminCreateVehicle /Game/Vehicles/ZBD05/BP_ZSD05_Logi.BP_ZSD05_Logi_C`
+    `AdminCreateVehicle /Game/Vehicles/BMD-4M/BP_BMD4M.BP_BMD4M_C`
 
-### BTR-D 
-
-- BTR-D 林地涂装 运输型
+- BMD-4M 沙漠涂装
   
-    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Transport.BP_BTR-D_Transport_C`
+    `AdminCreateVehicle /Game/Vehicles/BMD-4M/BP_BMD4M_Desert.BP_BMD4M_Desert_C`
 
-- BTR-D Kord APC 林地涂装
-  
-    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Kord.BP_BTR-D_Kord_C`
+### BMD-1M 
 
-### BTR-DG
-
-- BTR-DG 林地涂装 补给型
-  
-    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-DG_Logistics.BP_BTR-DG_Logistics_C`
-
-### BTR-MDM
-
-- BTR-MDM PKT RWS APC 林地涂装 
-
-   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS.BP_BTRMDM_PKT_RWS_C`
-
-### BMD
-
-- BMD-1M 林地涂装
+- BMD-1M
   
     `AdminCreateVehicle /Game/Vehicles/BMD-1M/BP_BMD1M.BP_BMD1M_C`
 
-- BMD-4M 林地涂装
+- BMD-1M 沙漠涂装
   
-    `AdminCreateVehicle /Game/Vehicles/BMD-4M/BP_BMD4M.BP_BMD4M_C`
+    `AdminCreateVehicle /Game/Vehicles/BMD-1M/BP_BMD1M_Desert.BP_BMD1M_Desert_C`
+
+### BTR-D 
+
+- BTR-D Kord
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Kord.BP_BTR-D_Kord_C`
+
+- BTR-D Kord （沙漠）
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Kord_Desert.BP_BTR-D_Kord_Desert_C`
+
+- BTR-D 运输车
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Transport.BP_BTR-D_Transport_C`
+
+- BTR-D 运输车 （沙漠）
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-D_Transport_Desert.BP_BTR-D_Transport_Desert_C`
+
+- BTR-DG 物流
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-DG_Logistics.BP_BTR-DG_Logistics_C`
+
+- BTR-DG 后勤保障车 （沙漠）
+  
+    `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-DG_Logistics_Desert.BP_BTR-DG_Logistics_Desert_C`
+
+### BTR-ZD
+
+- BTR-ZD
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-ZD.BP_BTR-ZD_C`
+
+- BTR-ZD （沙漠） 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-D/BP_BTR-ZD_Desert.BP_BTR-ZD_Desert_C`
+
+### BTR-MDM
+
+- BTR-MDM PKT RWS 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS.BP_BTRMDM_PKT_RWS_C`
+
+- BTR-MDM PKT RWS （沙漠） 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS_Desert.BP_BTRMDM_PKT_RWS_Desert_C`
+
+- BTR-MDM 运输车 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_Transport.BP_BTRMDM_Transport_C`
+
+- BTR-MDM 运输车 （沙漠） 
+
+   `AdminCreateVehicle /Game/Vehicles/BTR-MDM/BP_BTRMDM_Transport_Desert.BP_BTRMDM_Transport_Desert_C`
+
+### Sprut-SDM1
+
+- Sprut-SDM1 
+
+   `AdminCreateVehicle /Game/Vehicles/Sprut-SDM1/BP_Sprut.BP_Sprut_C`
+
+- Sprut-SDM1 （沙漠） 
+
+   `AdminCreateVehicle /Game/Vehicles/Sprut-SDM1/BP_Sprut_Desert.BP_Sprut_Desert_C`
 
 ## MBT | 主战坦克
 
@@ -1241,6 +1311,14 @@
 - M60T
 
     `AdminCreateVehicle /Game/Vehicles/M60T/BP_M60T.BP_M60T_C`
+
+- M60T 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/M60T/BP_M60T_Desert.BP_M60T_Desert_C`
+
+- M60T WPMC
+
+    `AdminCreateVehicle /Game/Vehicles/M60T_WPMC/BP_M60T_WPMC.BP_M60T_WPMC_C`
 
 ### M1A2 
 
@@ -1280,7 +1358,7 @@
 
     `AdminCreateVehicle /Game/vehicles/T62/BP_T62_MEA.BP_T62_MEA_C`
 
-### T-72B3 / T-72S 
+### T-72B3 / T-72S / T-72A
 
 - T-72B3 沙漠涂装
 
@@ -1293,6 +1371,20 @@
 - T-72S MEA 
 
     `AdminCreateVehicle /Game/vehicles/T72AV/BP_T72AV_MEA.BP_T72AV_MEA_C`
+
+- T-72A IMF 
+
+    `AdminCreateVehicle /Game/Vehicles/T72A/BP_T72A_IMF.BP_T72A_IMF_C`
+
+### T-90A
+
+- T-90A 沙漠涂装
+
+    `ADMINCREATEVEHICLE /Game/Vehicles/T90A/BP_T90A_Desert.BP_T90A_Desert_C`
+
+- T-90A 林地涂装
+
+    `AdminCreateVehicle /Game/Vehicles/T90A/BP_T90A.BP_T90A_C`
 
 ### ZTZ-99A 
 
@@ -1312,20 +1404,6 @@
 
     `AdminCreateVehicle /Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C`
 
-## 突击炮
-
-### ZTD05 MGS
-
-- ZTD05 MGS 海洋涂装
-  
-    `AdminCreateVehicle /Game/Vehicles/ZTD05/BP_ZTD05.BP_ZTD05_C`
-
-### Sprut-SDM1 MGS
-
-- Sprut-SDM1 MGS 林地涂装
-  
-   `AdminCreateVehicle /Game/Vehicles/Sprut-SDM1/BP_Sprut.BP_Sprut_C`
-   
 ## MLRS | 多管火箭发射系统
 
 ### MLRS BM21-GRAD 
@@ -1350,6 +1428,14 @@
 
     `AdminCreateVehicle /Game/Vehicles/MI17/BP_MI17_MEA.BP_MI17_MEA_C`
 
+- MI-17 CAF 
+
+    `AdminCreateVehicle /Game/Vehicles/MI17_MEA/BP_CH178.BP_CH178_C`
+
+- MI-8 VDV 
+
+    `AdminCreateVehicle /Game/Vehicles/MI8/BP_MI8_VDV.BP_MI8_VDV_C`
+
 ### UH-60M 
 
 - UH-60M 
@@ -1359,6 +1445,10 @@
 - UH-60M ADF
 
     `AdminCreateVehicle /Game/Vehicles/AUS_UH60M/BP_UH60_AUS.BP_UH60_AUS_C`
+
+- UH-60 PKM TLF
+
+    `AdminCreateVehicle /Game/Vehicles/UH60M/BP_UH60_TLF_PKM.BP_UH60_TLF_PKM_C`
 
 ### SA330 
 
@@ -1378,11 +1468,29 @@
 
     `AdminCreateVehicle /Game/Vehicles/CH146/BP_CH146.BP_CH146_C`
 
+- CH-146 CAS
+
+    `AdminCreateVehicle /Game/Vehicles/CH146/BP_CH146_CAS.BP_CH146_CAS_C`
+
+- CH-146 WPMC
+
+    `AdminCreateVehicle /Game/Vehicles/CH146_Raven_WPMC/BP_CH146_Raven.BP_CH146_Raven_C`
+
 ### UH-1Y 
 
 - UH-1Y 
 
     `AdminCreateVehicle /Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C `
+
+### UH-1H
+
+- UH-1H 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/UH1H/BP_UH1H_Desert.BP_UH1H_Desert_C`
+
+- UH-1H 林地涂装
+
+    `AdminCreateVehicle /Game/Vehicles/UH1H/BP_UH1H.BP_UH1H_C`
 
 ### Z-8G 
 
@@ -1396,11 +1504,41 @@
 
     `AdminCreateVehicle /Game/Vehicles/Z8J/BP_Z8J.BP_Z8J_C`
 
-### UH-1H
+### Z-9A
 
-- UH-1H
+- Z-9A
 
-    `AdminCreateVehicle /Game/Vehicles/UH1H/BP_UH1H.BP_UH1H_C`
+    `AdminCreateVehicle /Game/Vehicles/Z9A/BP_Z9A.BP_Z9A_C`
+
+### 泥鳅侦察兵/泥鳅CAS小鸟
+
+- 泥鳅侦察兵
+
+    `AdminCreateVehicle /Game/Vehicles/Loach_WPMC/BP_Loach.BP_Loach_C`
+
+- 泥鳅 CAS 小鸟
+
+    `AdminCreateVehicle /Game/Vehicles/Loach_CAS_WPMC/BP_Loach_CAS_Small.BP_Loach_CAS_Small_C`
+
+## SPA | 自行火炮
+
+### M1064 
+
+- M1064A2 林地涂装 SPA TLF 
+
+    `AdminCreateVehicle /Game/Vehicles/M1064A2_TLF/BP_M1064_M121_TLF.BP_M1064_M121_TLF_C`
+
+- M1064A2 沙漠涂装 SPA TLF 
+
+    `AdminCreateVehicle /Game/Vehicles/M1064A2_TLF/BP_M1064_M121_TLF_Desert.BP_M1064_M121_TLF_Desert_C`
+
+- M1064A3 林地迷彩 SPA USA 
+
+    `AdminCreateVehicle /Game/Vehicles/M1064A3/BP_M1064A3_M121.BP_M1064A3_M121_C`
+
+- M1064A3 沙漠涂装 SPA USA 
+
+    `AdminCreateVehicle /Game/Vehicles/M1064A3/BP_M1064A3_M121_Desert.BP_M1064A3_M121_Desert_C`
 
 ## Boat | 船
 
@@ -1457,3 +1595,16 @@
 - 明斯克摩托车 绿色
 
     `AdminCreateVehicle /Game/Vehicles/Minsk_motorbike/BP_Minsk_green.BP_Minsk_green_C`
+
+## 四轮摩托车
+
+### 四轮摩托车
+
+- 四轮摩托车 沙漠涂装
+
+    `AdminCreateVehicle /Game/Vehicles/QuadBike/BP_Quadbike_Desert.BP_Quadbike_Desert_C`
+
+- 四轮摩托车 林地涂装
+
+    `AdminCreateVehicle /Game/Vehicles/QuadBike/BP_Quadbike_Woodland.BP_Quadbike_Woodland_C`
+
